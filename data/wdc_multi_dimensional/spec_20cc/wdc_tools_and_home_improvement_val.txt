@@ -1,0 +1,19 @@
+COL title VAL  "Osram CFL Square 28W 835 4P GR10Q | Zimna Biel - 4-Piny"@ca	COL title VAL  "GR10Q CFL SQUARE 28w 3500K /835 4 pins OSRAM"@en	1
+COL title VAL  "BBT-32C Compact Bottom Bracket Bike Tool"@en	COL title VAL  "Park Tool BOTTOM BRKT CUP TOOL SHIM & ISIS CARTRIDGE (BBT2C)"@en	0
+COL title VAL  "Park Tool Compact Bottom Bracket Tool"@en	COL title VAL  "Victron MultiPlus Compact 12/2000/80-30 230V VE.Bus"@en	0
+COL title VAL  "Park Tool Compact Bottom Bracket Tool"@en	COL title VAL  "Park Tool CT-5 Compact Chain Tool"@en	0
+COL title VAL  "BBT-22 Bottom Bracket Bike Tool"@sv	COL title VAL  "Park Tool Compact Bottom Bracket Tool"@en	0
+COL title VAL  "BBT-32C Compact Bottom Bracket Bike Tool"@en	COL title VAL  "Park Tool CT-5 Compact Chain Tool"@en	0
+COL title VAL  "Park Tool CT-5 Compact Chain Tool"@en	COL title VAL  "Park Tool CT-5 Mini Bicycle Chain Tool"@en	1
+COL title VAL  "Park Tool CT-5 Compact Chain Tool"@en	COL title VAL  "Park Tool BOTTOM BRKT CUP TOOL SHIM & ISIS CARTRIDGE (BBT2C)"@en	0
+COL title VAL  "BBT-32C Compact Bottom Bracket Bike Tool"@en	COL title VAL  "BBT-22 Bottom Bracket Bike Tool"@sv	0
+COL title VAL  "Park Tool Compact Bottom Bracket Tool"@en	COL title VAL  "Park Tool BOTTOM BRKT CUP TOOL SHIM & ISIS CARTRIDGE (BBT2C)"@en	0
+COL title VAL  "Park Tool BOTTOM BRKT CUP TOOL SHIM & ISIS CARTRIDGE (BBT2C)"@en	COL title VAL  "BBT-22 Bottom Bracket Bike Tool"@sv	1
+COL title VAL  "PH-1.2 P-handle hex wrench set 2-10mm"@en	COL title VAL  "P-Handle Hex Wrench Set"@de	1
+COL title VAL  "MultiPlus C 12/2000/80-30"@et	COL title VAL  "Victron MultiPlus Compact 12/2000/80-30 230V VE.Bus"@en	1
+COL title VAL  "Osram CFL Square 16W 835 4P GR10Q | Kaltweiß - 4-Stift"@de	COL title VAL  "Osram CFL Square 28W 835 4P GR10Q | Zimna Biel - 4-Piny"@ca	0
+COL title VAL  "Park Tool CT-5 Mini Bicycle Chain Tool"@en	COL title VAL  "Park Tool Compact Bottom Bracket Tool"@en	0
+COL title VAL  "Park Tool Compact Bottom Bracket Tool"@en	COL title VAL  "BBT-32C Compact Bottom Bracket Bike Tool"@en	1
+COL title VAL  "Osram CFL Square 28W 835 4P GR10Q | Zimna Biel - 4-Piny"@ca	COL title VAL  "Osram CFL Square 16W 835 4P GR10Q | 4-Pin"@pt	0
+COL title VAL  "Osram CFL Square 16W 835 4P GR10Q | 4-Pin"@pt	COL title VAL  "Osram CFL Square 16W 835 4P GR10Q | Kaltweiß - 4-Stift"@de	1
+COL title VAL  "GR10Q CFL SQUARE 28w 3500K /835 4 pins OSRAM"@en	COL title VAL  "Osram CFL Square 16W 835 4P GR10Q | 4-Pin"@pt	0

@@ -1,0 +1,660 @@
+COL title VAL  "Mens Daniel Wellington St Mawes 40mm Watch DW00100006"@de	COL title VAL  "Daniel Wellington Classic St Mawes 40mm"@de	1
+COL title VAL  "Seiko Prospex Diver Sumo Green Mens Stainless Steel SPB103J1"@de	COL title VAL  "Seiko Prospex SBDC081 SPB103 Diver 200m SUMO JAPAN MADE ( NEW )"@de	1
+COL title VAL  "TAG HEUER MONACO AUTOMATIC CHRONOGRAPH"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CBL2111.FC6453"@en	0
+COL title VAL  "TISSOT HERITAGE VISODATE QUARTZ T118.410.11.057.00 (T118.410.11.057.00)"@vi	COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.17.041.00 (T120.417.17.041.00)"@en	0
+COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470ST.OO.A099CR.01"@en	COL title VAL  "Audemars Piguet Royal Oak Chronograph Watch 26331ST.OO.1220ST.03"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Two-Tone Rubber Watch 215.32.46.51.01.001"@en	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.03.001"@en	0
+COL title VAL  "Tissot T120.407.17.041.00 Seastar 1000 Powermatic 80 Blue Dial Rubber 43mm"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic Mens Watch"@en	1
+COL title VAL  "Seamaster Planet Ocean 600M Omega Co-axial Master Chronometer GMT 45.5mm"@en	COL title VAL  "Omega Horloge Seamaster 46mm Planet Ocean 600M Co-Axial Master ChronometerChronograph 215.32.46.51.01.001"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 QUARTZ T120.417.11.051.00"@vi	COL title VAL  "Tissot T120.417.11.051.00 Watch SEASTAR 1000 CHRONOGRAPH"@en	1
+COL title VAL  "Seiko Prospex Diver Sumo Green Mens Stainless Steel SPB103J1"@de	COL title VAL  "SEIKO Prospex Automatic Men's 45mm Diver Watch - SPB103J1 – Green Dial"@en	1
+COL title VAL  "Tag Heuer Carrera Quartz Chronograph Stainless Steel Watch CBK2112.BA0715"@en	COL title VAL  "TAG Heuer Carrera Automatic Blue Dial Men's CBK2112.BA0715"@ca	1
+COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.11.051.00 (T120.417.11.051.00)"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Swiss Quartz Sapphire Crystal Men's Watch"@en	1
+COL title VAL  "Tag Heuer Monaco watch on leather strap"@en	COL title VAL  "TAG Heuer Monaco Calibre 11 CAW211P.FC6356"@es	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071704100"@en	COL title VAL  "Tissot Tissot T1204071704100 Seastar 660/1000 horloge"@en	1
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.03.001"@en	COL title VAL  "AAA Replica Omega Seamaster Planet Ocean 600M Chronograph Stainless Steel Blue Watch 215.30.46.51.03.001"@en	1
+COL title VAL  "Daniel WellingtonDW00100150 Classic Cornwall watch"@en	COL title VAL  "Daniel Wellington Classic Cornwall Black Dial Watch"@en	1
+COL title VAL  "AAA Replica TAG Heuer Carrera Heuer 02 Chronograph GMT Watch CBG2A1Z.BA0658"@en	COL title VAL  "Tag Heuer Carrera Quartz Chronograph Stainless Steel Watch CBG2A1Z.BA0658"@en	1
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic Mens Watch"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 Sub Professional men's watch"@en	1
+COL title VAL  "Daniel Wellington Mens Classic Sheffield 40mm Rose Gold Black DW00100007"@en	COL title VAL  "DANIEL WELLINGTON Classic Sheffield 40mm DW00100007"@en	1
+COL title VAL  "Daniel Wellington Classic Collection Sheffield DW00100036"@en	COL title VAL  "DANIEL WELLINGTON Classic Sheffield 40mm DW00100007"@en	0
+COL title VAL  "Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch - 26470OR.OO.A125CR.01"@en	COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	0
+COL title VAL  "Buy Quality Replica Omega Seamaster Planet Ocean 600M Steel Chronometer Chronograph Watch 215.30.46.51.01.001"@en	COL title VAL  "215.30.46.51.01.001 Omega Seamaster Planet Ocean Chronograph 45.5mm"@en	1
+COL title VAL  "TAG Heuer Carrera Automatic Blue Dial Men's CBK2112.BA0715"@ca	COL title VAL  "TAG Heuer Automatic Chronograph Watch CBG2A1Z.BA0658"@en	0
+COL title VAL  "Tissot Seastar Watch 1000 Automatic Black Rubber Blue Dial T120.407.17.041.00"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 Sub Professional men's watch"@en	1
+COL title VAL  "Seastar 1000 Powermatic 80 Silicium Men's Watch"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 T120.407.11.041.01"@en	1
+COL title VAL  "Tag Heuer Formula 1 WAZ2011.BA0842"@de	COL title VAL  "TAG Heuer Monaco Calibre 11 CAW211P.FC6356"@es	0
+COL title VAL  "Seiko Presage SRPD41J1 Presage watch"@de	COL title VAL  "Seiko Mens Presage Automatic Blue Date Dial Stainless Steel Bracelet Watch SRPD41J1"@en	1
+COL title VAL  "Tissot Seastar Watch 1000 Automatic Black Rubber Blue Dial T120.407.17.041.00"@en	COL title VAL  "TISSOT SEASTAR 1000 AUTOMATIC T120.407.17.041.00"@en	1
+COL title VAL  "Tag Heuer Formula 1 WAZ2011.BA0842"@de	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Watch"@en	1
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Two-Tone Rubber Watch 215.32.46.51.01.001"@en	COL title VAL  "Omega Seamaster 215.92.46.22.01.004"@et	0
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Watch"@en	COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch WAZ2011.BA0842"@de	1
+COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.17.041.00"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic Mens Watch"@en	1
+COL title VAL  "Audemars Piguet Royal Oak Chronograph Stainless Steel Watch Replica"@en	COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 T120.407.11.041.01"@en	COL title VAL  "TISSOT -Seastar 1000 Chronograph- T120.417.11.051.00"@en	0
+COL title VAL  "Swiss Military Hanowa06-6278.04.001.07 Navalus montre"@en	COL title VAL  "Swiss Military Hanowa06-4226.30.003.03 Immersion Uhr"@en	0
+COL title VAL  "Seiko Presage SRPD41J1 Presage watch"@de	COL title VAL  "Seiko Presage Watch Zen Gardens Mens"@de	1
+COL title VAL  "Formula 1 Grey/Steel Ø43 mm ref. WAZ2011.BA0842"@en	COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch WAZ2011.BA0842"@de	1
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	COL title VAL  "AAA Replica Audemars Piguet Royal Oak Chronograph Black Dail Watch 26331ST.OO.1220ST.02"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071704100"@en	COL title VAL  "TISSOT SEASTAR 1000 AUTOMATIC T120.407.17.041.00"@en	1
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171704100"@en	COL title VAL  "TISSOT T-SPORT SEASTAR 1000 POWERMATIC"@en	0
+COL title VAL  "TISSOT -Seastar 1000 Chronograph- T120.417.11.051.00"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 T120.407.11.051.00 (T120.407.11.051.00)"@en	0
+COL title VAL  "T1204071105100 Tissot Seastar 1000 Powermatic 80"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Silicium"@en	0
+COL title VAL  "Daniel Wellington Classic Black Cornwall Rose Gold 36mm Watch"@en	COL title VAL  "Daniel Wellington Classic Black Cornwall"@en	1
+COL title VAL  "Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch - 26470OR.OO.A125CR.01"@en	COL title VAL  "Audemars Piguet-Audemars Piguet Royal Oak Offshore Chronograph 42mm Mens Watch-26470OR.OO.A125CR.01"@en	1
+COL title VAL  "Omega Seamaster Planet Ocean 600m Co-Axial Master Ceramic 215.92.46.22.01.004 Black Dial Replica"@en	COL title VAL  "Seamaster Planet Ocean 600M Omega Co-axial Master Chronometer GMT 45.5mm"@en	1
+COL title VAL  "AAA Replica Omega Seamaster Planet Ocean 600M Chronograph Stainless Steel Blue Watch 215.30.46.51.03.001"@en	COL title VAL  "Planet Ocean 600M Omega Co-Axial Master Chronometer Chronograph 45.5mm 215.30.46.51.03.001"@en	1
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CBL2111.FC6453"@en	COL title VAL  "AAA Replica TAG Heuer Carrera Heuer 02 Chronograph GMT Watch CBG2A1Z.BA0658"@en	0
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CBL2111.FC6453"@en	COL title VAL  "Tag Heuer Carrera Quartz Chronograph Stainless Steel Watch CBK2112.BA0715"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.11.051.00 (T120.417.11.051.00)"@en	1
+COL title VAL  "Planet Ocean 600M Omega Co-Axial Master Chronometer Chronograph 45.5mm 215.30.46.51.03.001"@en	COL title VAL  "Omega Seamaster Planet Ocean 600m Co-Axial Master Ceramic 215.92.46.22.01.004 Black Dial Replica"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	COL title VAL  "TISSOT T-SPORT SEASTAR 1000 POWERMATIC"@en	0
+COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.A125CR.01"@en	COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470ST.OO.A099CR.01"@en	0
+COL title VAL  "Tissot T120.407.11.051.00 Seastar 1000 Powermatic 80 Black Dial 43mm"@en	COL title VAL  "TISSOT -Seastar 1000 Chronograph- T120.417.11.051.00"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171704100"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Swiss Quartz Sapphire Crystal Men's Watch"@en	0
+COL title VAL  "Seiko Mens Prospex Automatic Divers Green Dial Bracelet Watch SPB103J1"@en	COL title VAL  "Seiko Prospex SBDC081 SPB103 Diver 200m SUMO JAPAN MADE ( NEW )"@de	1
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CBL2111.FC6453"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CBG2A1Z.BA0658"@en	0
+COL title VAL  "Tag Heuer Carrera Quartz Chronograph Stainless Steel Watch CBG2A1Z.BA0658"@en	COL title VAL  "Cheap Replica Tag Heuer Carrera Heuer 02 Chronograph GMT Watch CBG2A1Z.BA0658"@en	1
+COL title VAL  "Daniel Wellington Mens Classic Sheffield 40mm Rose Gold Black DW00100007"@en	COL title VAL  "Daniel Wellington Classic Sheffield Rose 40mm -rannekello DW00100007"@en	1
+COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial Master Chronometer Chronograph 215.30.46.51.03.001"@en	COL title VAL  "Omega Seamaster DIVER 300MOMEGA CO-AXIAL MASTER CHRONOMETER 42 MM"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 Sub Professional men's watch"@en	COL title VAL  "TISSOT SEASTAR 1000 AUTOMATIC T120.407.17.041.00"@en	1
+COL title VAL  "Daniel Wellington Classic Black Cornwall"@en	COL title VAL  "Daniel Wellington DW00100150 Classic Cornwall Rose 36mm Black"@en	1
+COL title VAL  "Daniel Wellington Sheffield Classic DW00100036"@en	COL title VAL  "DANIEL WELLINGTON Classic Sheffield 40mm DW00100007"@en	0
+COL title VAL  "OROLOGIO TISSOT SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.17.041.00"@en	1
+COL title VAL  "SEIKO Prospex Automatic Men's 45mm Diver Watch - SPB103J1 – Green Dial"@en	COL title VAL  "Seiko Mens Prospex Automatic Divers Green Dial Bracelet Watch SPB103J1"@en	1
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 Sub Professional men's watch"@en	COL title VAL  "Tissot T120.407.17.041.00 Seastar 1000 Powermatic 80 Blue Dial Rubber 43mm"@en	1
+COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.11.051.00"@en	COL title VAL  "TISSOT T1204071105100 Seastar Powermatic 80"@en	1
+COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.17.041.00"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80"@en	1
+COL title VAL  "Daniel Wellington Sheffield Classic DW00100036"@en	COL title VAL  "Daniel Wellington Classic Sheffield Rose 40mm -rannekello DW00100007"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071104101"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic Mens Watch"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.17.041.00 (T120.417.17.041.00)"@en	COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.11.051.00 (T120.417.11.051.00)"@en	0
+COL title VAL  "Audemars Piguet-Audemars Piguet Royal Oak Offshore Chronograph 42mm Mens Watch-26470OR.OO.A125CR.01"@en	COL title VAL  "Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch - 26470ST.OO.A099CR.01"@en	0
+COL title VAL  "TISSOT -Seastar 1000 Chronograph- T120.417.11.051.00"@en	COL title VAL  "Tissot T120.417.11.051.00 Watch SEASTAR 1000 CHRONOGRAPH"@en	1
+COL title VAL  "AAA Replica TAG Heuer Carrera Heuer 02 Chronograph GMT Watch CBG2A1Z.BA0658"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CBG2A1Z.BA0658"@en	1
+COL title VAL  "Seiko Presage Watch Zen Gardens Mens"@de	COL title VAL  "Seiko Mens Presage Automatic Blue Date Dial Stainless Steel Bracelet Watch SRPD41J1"@en	1
+COL title VAL  "DANIEL WELLINGTON Classic Sheffield 40mm DW00100007"@en	COL title VAL  "Daniel Wellington Classic Black Cornwall"@en	0
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CAW211P.FC6356"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CBL2111.FC6453"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071104101"@en	COL title VAL  "TISSOT T1204071105100 Seastar Powermatic 80"@en	0
+COL title VAL  "Cheap Replica Tag Heuer Formula 1 Automatic Mens Watch WAZ2011.BA0842"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CBG2A1Z.BA0658"@en	0
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Watch"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CAW211P.FC6356"@en	0
+COL title VAL  "Tissot T120.417.11.051.00 Watch SEASTAR 1000 CHRONOGRAPH"@en	COL title VAL  "TISSOT SEASTAR 1000 AUTOMATIC T120.407.17.041.00"@en	0
+COL title VAL  "Daniel Wellington Horloge Classic Sheffield Rose DW00100036"@en	COL title VAL  "Daniel Wellington Unisex Classic Sheffield 36mm Rose Gold Black DW00100036"@en	1
+COL title VAL  "Buy Quality Replica Omega Seamaster Planet Ocean 600M Steel Chronometer Chronograph Watch 215.30.46.51.01.001"@en	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.01.001"@en	1
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic Mens Watch"@en	COL title VAL  "Tissot Tissot T1204071704100 Seastar 660/1000 horloge"@en	1
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic Mens Watch"@en	COL title VAL  "Tissot T-Touch Expert Solar Men's Watch - T0914204605101"@en	0
+COL title VAL  "Relógio Swiss Military Hanowa06-4226.30.003.03 Immersion"@en	COL title VAL  "Swiss Military Hanowa06-4226.30.003.03 Immersion Uhr"@en	1
+COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.A125CR.01"@en	0
+COL title VAL  "Cheap Replica Tag Heuer Monaco Steve McQueen Chronograph Watch CAW211P.FC6356"@en	COL title VAL  "TAG HEUER MONACO AUTOMATIC CHRONOGRAPH"@en	1
+COL title VAL  "Seastar 1000 Powermatic 80 Silicium Men's Watch"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Silicium"@en	1
+COL title VAL  "Seiko Mens Presage Automatic Blue Date Dial Stainless Steel Bracelet Watch SRPD41J1"@en	COL title VAL  "Seiko Prospex Diver Sumo Green Mens Stainless Steel SPB103J1"@de	0
+COL title VAL  "Relógio Daniel Wellington Classic Sheffield DW00100020"@en	COL title VAL  "Daniel Wellington Horloge Classic Sheffield Rose DW00100036"@en	0
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Chronograph Black Dail Watch 26331ST.OO.1220ST.02"@en	COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470ST.OO.A099CR.01"@en	0
+COL title VAL  "Omega Seamaster DIVER 300MOMEGA CO-AXIAL MASTER CHRONOMETER 42 MM"@en	COL title VAL  "OMEGA SEAMASTER DIVER 300 210.20.42.20.03.002"@de	1
+COL title VAL  "Daniel Wellington - Classic St Mawes Rose Gold - 40mm"@en	COL title VAL  "Daniel Wellington Classic Black Cornwall Rose Gold 36mm Watch"@en	0
+COL title VAL  "Tissot T120.417.11.051.00 Watch SEASTAR 1000 CHRONOGRAPH"@en	COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.17.041.00 (T120.417.17.041.00)"@en	0
+COL title VAL  "Relógio Swiss Military Hanowa06-6278.04.001.07 Navalus"@en	COL title VAL  "Swiss Military Hanowa Navalus Day-Date 06-6278.04.001.07"@en	1
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CBL2111.FC6453"@en	COL title VAL  "Buy Quality Replica Tag Heuer Monaco Steve McQueen Chronograph Watch CAW211P.FC6356"@en	0
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Grey Dial Men's Watch - WAZ2011.BA0842"@en	COL title VAL  "TAG Heuer Carrera Automatic Blue Dial Men's CBK2112.BA0715"@ca	0
+COL title VAL  "Omega Seamaster Planet Ocean 600m Co-Axial Master Chronometer GMT 45.5mm (215.92.46.22.01.004) ETNZ Deep Black"@en	COL title VAL  "Omega Seamaster Planet Ocean 600m Co-Axial Master Ceramic 215.92.46.22.01.004 Black Dial Replica"@en	1
+COL title VAL  "Omega Seamaster Planet Ocean 600m Co-Axial Master Chronometer GMT 45.5mm (215.92.46.22.01.004) ETNZ Deep Black"@en	COL title VAL  "Omega Horloge Seamaster 46mm Planet Ocean 600M Co-Axial Master ChronometerChronograph 215.32.46.51.01.001"@en	0
+COL title VAL  "Cheap Replica Tag Heuer Monaco Steve McQueen Chronograph Watch CAW211P.FC6356"@en	COL title VAL  "TAG Heuer Monaco Calibre 11 CAW211P.FC6356"@es	1
+COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.17.041.00 (T120.417.17.041.00)"@en	COL title VAL  "Tissot T120.407.17.041.00 Seastar 1000 Powermatic 80 Blue Dial Rubber 43mm"@en	0
+COL title VAL  "Tissot Tissot T1204071704100 Seastar 660/1000 horloge"@en	COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.17.041.00"@en	1
+COL title VAL  "Tag Heuer Formula 1 WAZ2011.BA0842"@de	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Men's Watch"@en	1
+COL title VAL  "DANIEL WELLINGTON Classic Sheffield 40mm DW00100007"@en	COL title VAL  "Daniel Wellington - Classic Sheffield Silver - 40mm"@de	0
+COL title VAL  "Daniel Wellington Classic Sheffield Men 40mm Quartz Watch 0206DW"@de	COL title VAL  "Daniel Wellington Classic Cornwall Black Dial Watch"@en	0
+COL title VAL  "Omega Stainless Steel Seamaster Planet Ocean Watch"@en	COL title VAL  "Omega Seamaster 300 Master Co-Axial Stainless Steel & 18K Sedna Gold"@en	0
+COL title VAL  "Tissot T120.407.11.051.00 Seastar 1000 Powermatic 80 Black Dial 43mm"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071105100"@en	1
+COL title VAL  "Tissot T120.407.11.051.00 Watch SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071104101"@en	0
+COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.17.041.00"@en	COL title VAL  "TISSOT SEASTAR 1000 AUTOMATIC T120.407.17.041.00"@en	1
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 T120.407.11.041.01"@en	COL title VAL  "TISSOT T-SPORT SEASTAR 1000 POWERMATIC"@en	1
+COL title VAL  "Daniel Wellington Mens Classic Sheffield 40mm Rose Gold Black DW00100007"@en	COL title VAL  "Daniel Wellington Classic Black Cornwall Rose Gold 36mm Watch"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 T120.407.11.051.00 (T120.407.11.051.00)"@en	COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.11.051.00 (T120.417.11.051.00)"@en	0
+COL title VAL  "Daniel Wellington Sheffield Classic DW00100036"@en	COL title VAL  "Relógio Daniel Wellington Classic Sheffield DW00100020"@en	0
+COL title VAL  "Tissot Seastar 1000 Men's Black Rubber Strap Watch"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 Sub Professional men's watch"@en	0
+COL title VAL  "Seiko Mens Presage Automatic Blue Date Dial Stainless Steel Bracelet Watch SRPD41J1"@en	COL title VAL  "Swiss Military Hanowa Navalus Day-Date 06-6278.04.001.07"@en	0
+COL title VAL  "TISSOT T1204071105100 Seastar Powermatic 80"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 T120.407.11.051.00 (T120.407.11.051.00)"@en	1
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.01.001"@en	COL title VAL  "Omega Seamaster Planet Ocean Chronograph Automatic 215.30.46.51.01.001"@en	1
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071104101"@en	COL title VAL  "Relógio Swiss Military Hanowa06-6278.04.001.07 Navalus"@en	0
+COL title VAL  "Relógio Swiss Military Hanowa06-4307.30.007 Undercover Multifunction"@en	COL title VAL  "Swiss Military Hanowa06-6278.04.001.07 Navalus montre"@en	0
+COL title VAL  "TISSOT -Seastar 1000 Chronograph- T120.417.11.051.00"@en	COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.11.051.00 (T120.417.11.051.00)"@en	1
+COL title VAL  "Tag Heuer Monaco watch on leather strap"@en	COL title VAL  "TAG Heuer Monaco Men's Blue Leather Strap Watch"@en	1
+COL title VAL  "Daniel Wellington Classic Sheffield Men 40mm Quartz Watch 0206DW"@de	COL title VAL  "Relógio Daniel Wellington Classic Sheffield DW00100020"@en	1
+COL title VAL  "Swiss Military Hanowa Flagship 06-5161.2.04.007"@en	COL title VAL  "Swiss Military Hanowa Swiss Military Hanowa Undercover Multifunction 06-4307.30.007"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 T120.407.11.041.01"@en	COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.11.051.00 (T120.417.11.051.00)"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "Tissot Seastar Watch 1000 Automatic Black Rubber Blue Dial T120.407.17.041.00"@en	1
+COL title VAL  "Tissot T120.407.11.051.00 Seastar 1000 Powermatic 80 Black Dial 43mm"@en	COL title VAL  "T1204071105100 Tissot Seastar 1000 Powermatic 80"@en	1
+COL title VAL  "Daniel Wellington Classic Cornwall Black Dial Watch"@en	COL title VAL  "Daniel Wellington Classic Black Cornwall Rose Gold 36mm Watch"@en	1
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071104101"@en	0
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Men's Watch"@en	COL title VAL  "Replica watch TAG Heuer Carrera Automatic Blue Dial Men's Watch CBK2112.BA0715"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.01.001"@en	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 232.30.46.51.01.002"@en	0
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Chronograph Black Dail Watch 26331ST.OO.1220ST.02"@en	COL title VAL  "Audemars Piguet Royal Oak Chronograph Watch 26331ST.OO.1220ST.03"@en	0
+COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.A125CR.01"@en	COL title VAL  "Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch - 26470ST.OO.A099CR.01"@en	0
+COL title VAL  "Relógio Daniel Wellington Classic Sheffield DW00100020"@en	COL title VAL  "Daniel Wellington - Classic Sheffield Silver - 40mm"@de	1
+COL title VAL  "Daniel Wellington Classic Black Cornwall Rose Gold 36mm Watch"@en	COL title VAL  "Daniel Wellington Horloge Classic Sheffield Rose DW00100036"@en	0
+COL title VAL  "Swiss Military Hanowa Flagship 06-5161.2.04.007"@en	COL title VAL  "Swiss Military Hanowa Navalus Day-Date 06-6278.04.001.07"@en	0
+COL title VAL  "Formula 1 Grey/Steel Ø43 mm ref. WAZ2011.BA0842"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Watch"@en	1
+COL title VAL  "Pre-Owned Audemars Piguet Royal Oak Chronograph 26331ST.OO.1220ST.03"@en	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Two-Tone Rubber Watch 215.32.46.51.01.001"@en	0
+COL title VAL  "Tissot Seastar Watch 1000 Automatic Black Rubber Blue Dial T120.407.17.041.00"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 T120.407.11.041.01"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 Sub Professional men's watch"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071105100"@en	0
+COL title VAL  "Daniel Wellington - Classic Sheffield Silver - 40mm"@de	COL title VAL  "Daniel Wellington Classic St Mawes Rose 40mm -rannekello DW00100006"@en	0
+COL title VAL  "Daniel Wellington Classic St Mawes 40mm"@de	COL title VAL  "Daniel Wellington - Classic Sheffield Silver - 40mm"@de	0
+COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Chronograph White Dail Watch 26331ST.OO.1220ST.03"@en	COL title VAL  "Pre-Owned Audemars Piguet Royal Oak Chronograph 26331ST.OO.1220ST.03"@en	1
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.03.001"@en	COL title VAL  "215.30.46.51.01.001 Omega Seamaster Planet Ocean Chronograph 45.5mm"@en	0
+COL title VAL  "Tissot Mens T-Sport Seastar 1000 Chronograph Black Dial Stainless Steel Bracelet Watch T120.417.11.051.00"@en	COL title VAL  "Tissot VisoDate Heritage Mesh Bracelet Watch"@en	0
+COL title VAL  "TISSOT T1204071105100 Seastar Powermatic 80"@en	COL title VAL  "TISSOT SEASTAR 1000 AUTOMATIC T120.407.17.041.00"@en	0
+COL title VAL  "Tissot Mens T-Sport Seastar 1000 Chronograph Black Dial Stainless Steel Bracelet Watch T120.417.11.051.00"@en	COL title VAL  "TISSOT T-SPORT SEASTAR 1000 POWERMATIC"@en	0
+COL title VAL  "Daniel Wellington Classic Cornwall Black Dial Watch"@en	COL title VAL  "Daniel Wellington Sheffield Classic DW00100036"@en	0
+COL title VAL  "Seastar 1000 Powermatic 80 Silicium Men's Watch"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071104101"@en	1
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071104101"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	0
+COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.11.051.00"@en	COL title VAL  "Tissot T120.407.11.051.00 Watch SEASTAR 1000 POWERMATIC 80"@en	1
+COL title VAL  "Daniel Wellington Classic Black Cornwall"@en	COL title VAL  "Daniel Wellington Classic Cornwall Black Dial Watch"@en	1
+COL title VAL  "Audemars Piguet Royal Oak Chronograph Watch 26331ST.OO.1220ST.03"@en	COL title VAL  "Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch - 26470OR.OO.A125CR.01"@en	0
+COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial Master Chronometer Chronograph 215.30.46.51.03.001"@en	COL title VAL  "Omega Horloge Seamaster 46mm Planet Ocean 600M Co-Axial Master ChronometerChronograph 215.32.46.51.01.001"@en	0
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CBG2A1Z.BA0658"@en	COL title VAL  "Tag Heuer Formula 1 WAZ2011.BA0842"@de	0
+COL title VAL  "Daniel Wellington Classic Black Cornwall Watch | Rose Gold 36mm"@en	COL title VAL  "Daniel Wellington Mens Classic Sheffield 40mm Rose Gold Black DW00100007"@en	0
+COL title VAL  "DANIEL WELLINGTON Classic Sheffield 40mm DW00100007"@en	COL title VAL  "Relógio Daniel Wellington Classic Sheffield DW00100020"@en	0
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Steel Watch"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Watch"@en	1
+COL title VAL  "Daniel Wellington Classic St Mawes Rose 40mm -rannekello DW00100006"@en	COL title VAL  "Daniel Wellington Classic St Mawes 40mm"@de	1
+COL title VAL  "Tissot VisoDate Heritage Mesh Bracelet Watch"@en	COL title VAL  "Seiko Presage Watch Zen Gardens Mens"@de	0
+COL title VAL  "Omega Seamaster 215.92.46.22.01.004"@et	COL title VAL  "Omega Seamaster Planet Ocean 600m Co-Axial Master Chronometer GMT 45.5mm (215.92.46.22.01.004) ETNZ Deep Black"@en	1
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CBG2A1Z.BA0658"@en	COL title VAL  "Tag Heuer Carrera Quartz Chronograph Stainless Steel Watch CBK2112.BA0715"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071104101"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071704100"@en	0
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CAW211P.FC6356"@en	COL title VAL  "Replica watch TAG Heuer Carrera Automatic Blue Dial Men's Watch CBK2112.BA0715"@en	0
+COL title VAL  "Buy Quality Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470ST.OO.A099CR.01"@en	COL title VAL  "Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch - 26470ST.OO.A099CR.01"@en	1
+COL title VAL  "Audemars Piguet-Audemars Piguet Royal Oak Chronograph 41mm Mens Watch-26331ST.OO.1220ST.02"@en	COL title VAL  "Pre-Owned Audemars Piguet Royal Oak Chronograph 26331ST.OO.1220ST.03"@en	0
+COL title VAL  "Swiss Military Hanowa Immersion 06-4226.30.003.03"@en	COL title VAL  "Swiss Military Hanowa06-4226.30.003.03 Immersion Uhr"@en	1
+COL title VAL  "Swiss Military Hanowa06-6278.04.001.07 Navalus montre"@en	COL title VAL  "Swiss Military Hanowa06-5161.2.04.003 Flagship montre"@en	0
+COL title VAL  "Mens Daniel Wellington St Mawes 40mm Watch DW00100006"@de	COL title VAL  "Daniel Wellington Classic St Mawes Rose 40mm -rannekello DW00100006"@en	1
+COL title VAL  "Tag Heuer Carrera Quartz Chronograph Stainless Steel Watch CBG2A1Z.BA0658"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CBG2A1Z.BA0658"@en	1
+COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	COL title VAL  "Buy Quality Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	1
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	COL title VAL  "Audemars Piguet-Audemars Piguet Royal Oak Offshore Chronograph 42mm Mens Watch-26470OR.OO.A125CR.01"@en	0
+COL title VAL  "Buy Quality Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	COL title VAL  "AAA Replica Audemars Piguet Royal Oak Chronograph Black Dail Watch 26331ST.OO.1220ST.02"@en	0
+COL title VAL  "Swiss Military Hanowa06-5161.2.04.007 Flagship Uhr"@en	COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.007 Herrenuhr"@en	1
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071104101"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 T120.407.11.041.01"@en	1
+COL title VAL  "Daniel Wellington Classic St Mawes 40mm"@de	COL title VAL  "Daniel Wellington - Classic St Mawes Rose Gold - 40mm"@en	1
+COL title VAL  "Tissot Seastar Watch 1000 Automatic Black Rubber Blue Dial T120.407.17.041.00"@en	COL title VAL  "Tissot Tissot T1204071704100 Seastar 660/1000 horloge"@en	1
+COL title VAL  "Tissot T120.407.11.051.00 Watch SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "TISSOT SEASTAR 1000 QUARTZ T120.417.11.051.00"@vi	0
+COL title VAL  "OROLOGIO TISSOT SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80"@en	1
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071104101"@en	COL title VAL  "Tissot T-Touch Expert Solar Men's Watch - T0914204605101"@en	0
+COL title VAL  "TAG Heuer Monaco Men's Blue Leather Strap Watch"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Men's Watch"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	COL title VAL  "T1204071105100 Tissot Seastar 1000 Powermatic 80"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171704100"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 T1204071704100"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Two-Tone Rubber Watch 215.32.46.51.01.001"@en	COL title VAL  "AAA Replica Omega Seamaster Planet Ocean 600M Chronometer Chronograph Orange Watch 215.32.46.51.01.001"@en	1
+COL title VAL  "DANIEL WELLINGTON Classic Sheffield 40mm DW00100007"@en	COL title VAL  "Daniel Wellington Classic Sheffield Rose 40mm -rannekello DW00100007"@en	1
+COL title VAL  "Daniel Wellington Classic Cornwall Black Dial Watch"@en	COL title VAL  "Daniel Wellington DW00100150 Classic Cornwall Rose 36mm Black"@en	1
+COL title VAL  "Mens Daniel Wellington St Mawes 40mm Watch DW00100006"@de	COL title VAL  "Daniel Wellington - Classic St Mawes Rose Gold - 40mm"@en	1
+COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.007 Herrenuhr"@en	COL title VAL  "Swiss Military Hanowa Swiss Military Hanowa Undercover Multifunction 06-4307.30.007"@en	0
+COL title VAL  "TAG HEUER MONACO AUTOMATIC CHRONOGRAPH"@en	COL title VAL  "Buy Quality Replica Tag Heuer Monaco Steve McQueen Chronograph Watch CAW211P.FC6356"@en	1
+COL title VAL  "Tissot Seastar Watch 1000 Automatic Black Rubber Blue Dial T120.407.17.041.00"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071704100"@en	1
+COL title VAL  "Swiss Military Hanowa Navalus Day-Date 06-6278.04.001.07"@en	COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.003 Herrenuhr"@en	0
+COL title VAL  "Daniel Wellington Classic Black Cornwall Rose Gold 36mm Watch"@en	COL title VAL  "Daniel WellingtonDW00100150 Classic Cornwall watch"@en	1
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Watch"@en	COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch WAZ2011.BA0842"@de	1
+COL title VAL  "TISSOT SEASTAR 1000 AUTOMATIC T120.407.17.041.00"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 T1204071704100"@en	1
+COL title VAL  "Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch - 26470ST.OO.A099CR.01"@en	COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470ST.OO.A099CR.01"@en	1
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Watch"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Men's Watch"@en	1
+COL title VAL  "TISSOT -Seastar 1000 Chronograph- T120.417.11.051.00"@en	COL title VAL  "TISSOT SEASTAR 1000 QUARTZ T120.417.11.051.00"@vi	1
+COL title VAL  "Daniel Wellington - Classic Sheffield Silver - 40mm"@de	COL title VAL  "Daniel Wellington Classic Sheffield Rose 40mm -rannekello DW00100007"@en	0
+COL title VAL  "Daniel Wellington DW00100150 Classic Cornwall Rose 36mm Black"@en	COL title VAL  "Daniel Wellington Sheffield Classic DW00100036"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 Silicium"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 T120.407.11.041.01"@en	1
+COL title VAL  "Daniel Wellington Mens Classic Sheffield 40mm Rose Gold Black DW00100007"@en	COL title VAL  "Daniel Wellington Unisex Classic Sheffield 36mm Rose Gold Black DW00100036"@en	0
+COL title VAL  "Tag Heuer Carrera Quartz Chronograph Stainless Steel Watch CBG2A1Z.BA0658"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CBL2111.FC6453"@en	0
+COL title VAL  "Cheap Replica Tag Heuer Formula 1 Automatic Mens Watch WAZ2011.BA0842"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Watch"@en	1
+COL title VAL  "Swiss Military Hanowa Immersion 06-4226.30.003.03"@en	COL title VAL  "Swiss Military Hanowa Swiss Military Hanowa Undercover Multifunction 06-4307.30.007"@en	0
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Men's Watch"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Grey Dial Men's Watch - WAZ2011.BA0842"@en	1
+COL title VAL  "Daniel Wellington - Classic St Mawes Rose Gold - 40mm"@en	COL title VAL  "Daniel Wellington Classic St Mawes Rose 40mm -rannekello DW00100006"@en	1
+COL title VAL  "Planet Ocean 600M Omega Co-Axial Master Chronometer Chronograph 45.5mm 215.30.46.51.03.001"@en	COL title VAL  "Seamaster Planet Ocean 600M Omega Co-axial Master Chronometer GMT 45.5mm"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "Tissot T120.407.17.041.00 Seastar 1000 Powermatic 80 Blue Dial Rubber 43mm"@en	1
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 Sub Professional men's watch"@en	COL title VAL  "Tissot Tissot T1204071704100 Seastar 660/1000 horloge"@en	1
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 T1204071704100"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 Sub Professional men's watch"@en	1
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CBL2111.FC6453"@en	COL title VAL  "Cheap Replica Tag Heuer Formula 1 Automatic Mens Watch WAZ2011.BA0842"@en	0
+COL title VAL  "Swiss Military Hanowa06-5161.2.04.007 Flagship Uhr"@en	COL title VAL  "Relógio Swiss Military Hanowa06-4307.30.007 Undercover Multifunction"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.11.051.00 (T120.417.11.051.00)"@en	COL title VAL  "TISSOT SEASTAR 1000 AUTOMATIC T120.407.17.041.00"@en	0
+COL title VAL  "Daniel Wellington Classic Sheffield Men 40mm Quartz Watch 0206DW"@de	COL title VAL  "Daniel Wellington - Classic Sheffield Silver - 40mm"@de	1
+COL title VAL  "Seiko Mens Prospex Automatic Divers Green Dial Bracelet Watch SPB103J1"@en	COL title VAL  "Cheap Replica Tag Heuer Formula 1 Automatic Mens Watch WAZ2011.BA0842"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 Silicium"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80"@en	0
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Grey Dial Men's Watch - WAZ2011.BA0842"@en	COL title VAL  "TAG Heuer Monaco Men's Blue Leather Strap Watch"@en	0
+COL title VAL  "Mens Daniel Wellington St Mawes 40mm Watch DW00100006"@de	COL title VAL  "Daniel Wellington Classic Sheffield Men 40mm Quartz Watch 0206DW"@de	0
+COL title VAL  "OMEGA Seamaster Planet Ocean Chronograph Steel"@en	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.01.001"@en	0
+COL title VAL  "Audemars Piguet Royal Oak Chronograph Watch 26331ST.OO.1220ST.03"@en	COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Chronograph White Dail Watch 26331ST.OO.1220ST.03"@en	1
+COL title VAL  "Tissot Mens T-Sport Seastar 1000 Chronograph Black Dial Stainless Steel Bracelet Watch T120.417.11.051.00"@en	COL title VAL  "Seiko Mens Prospex Automatic Divers Green Dial Bracelet Watch SPB103J1"@en	0
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Chronograph Black Dail Watch 26331ST.OO.1220ST.02"@en	COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	0
+COL title VAL  "Omega Stainless Steel Seamaster Planet Ocean Watch"@en	COL title VAL  "Seiko Prospex Diver Sumo Green Mens Stainless Steel SPB103J1"@de	0
+COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470ST.OO.A099CR.01"@en	COL title VAL  "Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch - 26470OR.OO.A125CR.01"@en	0
+COL title VAL  "Daniel Wellington Classic Collection Sheffield DW00100036"@en	COL title VAL  "Daniel Wellington Horloge Classic Sheffield Rose DW00100036"@en	1
+COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470ST.OO.A099CR.01"@en	COL title VAL  "Audemars Piguet Royal Oak Chronograph Stainless Steel Watch Replica"@en	0
+COL title VAL  "Tag Heuer Formula 1 WAZ2011.BA0842"@de	COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch WAZ2011.BA0842"@de	1
+COL title VAL  "Daniel Wellington Sheffield Classic DW00100036"@en	COL title VAL  "Daniel Wellington DW00100007 Classic Sheffield Rose 40mm White"@en	0
+COL title VAL  "Tissot T-Touch Expert Solar Men's Watch - T0914204605101"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Swiss Quartz Sapphire Crystal Men's Watch"@en	0
+COL title VAL  "Buy Quality Replica Tag Heuer Monaco Steve McQueen Chronograph Watch CAW211P.FC6356"@en	COL title VAL  "Tag Heuer Carrera Quartz Chronograph Stainless Steel Watch CBK2112.BA0715"@en	0
+COL title VAL  "Swiss Military Hanowa Navalus Day-Date 06-6278.04.001.07"@en	COL title VAL  "Swiss Military Hanowa06-6278.04.001.07 Navalus montre"@en	1
+COL title VAL  "Daniel Wellington Horloge Classic Sheffield Rose DW00100036"@en	COL title VAL  "Daniel Wellington Classic Sheffield Rose 40mm -rannekello DW00100007"@en	0
+COL title VAL  "Daniel Wellington - Classic St Mawes Rose Gold - 40mm"@en	COL title VAL  "Daniel Wellington Classic Sheffield Rose 40mm -rannekello DW00100007"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.01.001"@en	COL title VAL  "Omega Stainless Steel Seamaster Planet Ocean Watch"@en	0
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CBL2111.FC6453"@en	COL title VAL  "TAG Heuer Monaco Men's Blue Leather Strap Watch"@en	1
+COL title VAL  "Seiko Mens Presage Automatic Blue Date Dial Stainless Steel Bracelet Watch SRPD41J1"@en	COL title VAL  "Tissot Mens T-Sport Seastar 1000 Chronograph Black Dial Stainless Steel Bracelet Watch T120.417.11.051.00"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 QUARTZ T120.417.11.051.00"@vi	COL title VAL  "TISSOT HERITAGE VISODATE QUARTZ T118.410.11.057.00 (T118.410.11.057.00)"@vi	0
+COL title VAL  "T1204071105100 Tissot Seastar 1000 Powermatic 80"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071105100"@en	1
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171704100"@en	COL title VAL  "Tissot Seastar 1000 Men's Black Rubber Strap Watch"@en	1
+COL title VAL  "Cheap Replica Tag Heuer Carrera Heuer 02 Chronograph GMT Watch CBG2A1Z.BA0658"@en	COL title VAL  "Cheap Replica Tag Heuer Monaco Steve McQueen Chronograph Watch CAW211P.FC6356"@en	0
+COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.11.051.00"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 T120.407.11.041.01"@en	0
+COL title VAL  "Buy Quality Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470ST.OO.A099CR.01"@en	COL title VAL  "Audemars Piguet Royal Oak Chronograph Watch 26331ST.OO.1220ST.03"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.11.051.00 (T120.417.11.051.00)"@en	COL title VAL  "Tissot T120.417.11.051.00 Watch SEASTAR 1000 CHRONOGRAPH"@en	1
+COL title VAL  "Formula 1 Grey/Steel Ø43 mm ref. WAZ2011.BA0842"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Watch"@en	1
+COL title VAL  "Omega Seamaster Planet Ocean Chronograph Automatic 215.30.46.51.01.001"@en	COL title VAL  "Omega Seamaster 215.92.46.22.01.004"@et	0
+COL title VAL  "Omega Seamaster DIVER 300MOMEGA CO-AXIAL MASTER CHRONOMETER 42 MM"@en	COL title VAL  "Seamaster Planet Ocean 600M Omega Co-axial Master Chronometer GMT 45.5mm"@en	0
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Watch"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Grey Dial Men's Watch - WAZ2011.BA0842"@en	1
+COL title VAL  "Tissot T120.407.17.041.00 Seastar 1000 Powermatic 80 Blue Dial Rubber 43mm"@en	COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.17.041.00"@en	1
+COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial Master Chronometer Chronograph 215.30.46.51.03.001"@en	COL title VAL  "Seamaster Planet Ocean 600M Omega Co-axial Master Chronometer GMT 45.5mm"@en	0
+COL title VAL  "Tissot T120.407.11.051.00 Watch SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071105100"@en	1
+COL title VAL  "TAG Heuer Monaco Calibre 11 CAW211P.FC6356"@es	COL title VAL  "Buy Quality Replica Tag Heuer Monaco Steve McQueen Chronograph Watch CAW211P.FC6356"@en	1
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 Silicium"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071104101"@en	1
+COL title VAL  "Oakley Sunglasses Jawbreaker OO9290-20 Matt Black Prizm Road"@en	COL title VAL  "Oakley Jawbreaker MTB Solglsasögon Matte Black w/ Prizm Road"@en	1
+COL title VAL  "Tissot VisoDate Heritage Mesh Bracelet Watch"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071104101"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 T120.407.11.041.01"@en	COL title VAL  "TISSOT SEASTAR 1000 AUTOMATIC T120.407.17.041.00"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Swiss Quartz Sapphire Crystal Men's Watch"@en	COL title VAL  "Tissot Mens T-Sport Seastar 1000 Chronograph Black Dial Stainless Steel Bracelet Watch T120.417.11.051.00"@en	1
+COL title VAL  "SEIKO Prospex Automatic Men's 45mm Diver Watch - SPB103J1 – Green Dial"@en	COL title VAL  "Replica watch TAG Heuer Carrera Automatic Blue Dial Men's Watch CBK2112.BA0715"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 T1204071704100"@en	COL title VAL  "T1204071105100 Tissot Seastar 1000 Powermatic 80"@en	0
+COL title VAL  "Daniel Wellington Classic St Mawes 40mm"@de	COL title VAL  "DANIEL WELLINGTON Classic Sheffield 40mm DW00100007"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.17.041.00 (T120.417.17.041.00)"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 T120.407.11.041.01"@en	0
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Men's Watch"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Steel Watch"@en	1
+COL title VAL  "Tissot Visodate Men's Stainless Steel Mesh Bracelet Watch"@en	COL title VAL  "Seiko Mens Presage Automatic Blue Date Dial Stainless Steel Bracelet Watch SRPD41J1"@en	0
+COL title VAL  "Daniel Wellington Classic Black Cornwall Watch | Rose Gold 36mm"@en	COL title VAL  "Daniel Wellington Classic Cornwall Black Dial Watch"@en	1
+COL title VAL  "Daniel Wellington Classic Black Cornwall"@en	COL title VAL  "Daniel WellingtonDW00100150 Classic Cornwall watch"@en	1
+COL title VAL  "Swiss Military Hanowa06-4307.30.007 Undercover Multifunction montre"@en	COL title VAL  "Swiss Military Hanowa Immersion 06-4226.30.003.03"@en	0
+COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.17.041.00"@en	COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.11.051.00"@en	0
+COL title VAL  "Daniel Wellington DW00100007 Classic Sheffield Rose 40mm White"@en	COL title VAL  "Daniel Wellington - Classic St Mawes Rose Gold - 40mm"@en	0
+COL title VAL  "Buy Quality Replica Omega Seamaster Planet Ocean 600m Co-Axial Master Chronometer GMT ETNZ Deep Black Mens Watch 215.92.46.22.01.004"@en	COL title VAL  "Buy Quality Replica Omega Seamaster Planet Ocean 600M Steel Chronometer Chronograph Watch 215.30.46.51.01.001"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	COL title VAL  "TISSOT -Seastar 1000 Chronograph- T120.417.11.051.00"@en	1
+COL title VAL  "Tissot T120.407.17.041.00 Seastar 1000 Powermatic 80 Blue Dial Rubber 43mm"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071704100"@en	1
+COL title VAL  "Swiss Military Hanowa Immersion 06-4226.30.003.03"@en	COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.003 Herrenuhr"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071104101"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071105100"@en	0
+COL title VAL  "Buy Quality Replica Omega Seamaster Planet Ocean 600m Co-Axial Master Chronometer GMT ETNZ Deep Black Mens Watch 215.92.46.22.01.004"@en	COL title VAL  "Omega Horloge Seamaster 46mm Planet Ocean 600M Co-Axial Master ChronometerChronograph 215.32.46.51.01.001"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171704100"@en	0
+COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	1
+COL title VAL  "Oakley Jawbreaker 31 Mm Matte Black Sunglasses"@en	COL title VAL  "Oakley Sunglasses Jawbreaker OO9290-20 Matt Black Prizm Road"@en	1
+COL title VAL  "Tissot Seastar 1000 Men's Black Rubber Strap Watch"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071104101"@en	0
+COL title VAL  "Daniel Wellington Mens Classic Sheffield 40mm Rose Gold Black DW00100007"@en	COL title VAL  "Daniel Wellington - Classic St Mawes Rose Gold - 40mm"@en	0
+COL title VAL  "Cheap Replica Tag Heuer Carrera Heuer 02 Chronograph GMT Watch CBG2A1Z.BA0658"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CBL2111.FC6453"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 T120.407.11.051.00 (T120.407.11.051.00)"@en	COL title VAL  "TISSOT HERITAGE VISODATE QUARTZ T118.410.11.057.00 (T118.410.11.057.00)"@vi	0
+COL title VAL  "Audemars Piguet Royal Oak Chronograph Stainless Steel Watch Replica"@en	COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.A125CR.01"@en	0
+COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Chronograph White Dail Watch 26331ST.OO.1220ST.03"@en	COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470ST.OO.A099CR.01"@en	0
+COL title VAL  "Tissot T120.407.11.051.00 Watch SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "Tissot T120.407.11.051.00 Seastar 1000 Powermatic 80 Black Dial 43mm"@en	1
+COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial Master Chronometer Chronograph 215.30.46.51.03.001"@en	COL title VAL  "Omega Seamaster Planet Ocean Chronograph Automatic 215.30.46.51.01.001"@en	0
+COL title VAL  "Cheap Replica Tag Heuer Formula 1 Automatic Mens Watch WAZ2011.BA0842"@en	COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch WAZ2011.BA0842"@de	1
+COL title VAL  "Daniel Wellington Classic St Mawes 40mm"@de	COL title VAL  "Daniel Wellington Classic Collection Sheffield DW00100036"@en	0
+COL title VAL  "Swiss Military Hanowa06-5161.2.04.007 Flagship Uhr"@en	COL title VAL  "Swiss Military Hanowa06-4226.30.003.03 Immersion Uhr"@en	0
+COL title VAL  "Tissot VisoDate Heritage Mesh Bracelet Watch"@en	COL title VAL  "Tissot Visodate Men's Stainless Steel Mesh Bracelet Watch"@en	1
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Two-Tone Rubber Watch 215.32.46.51.01.001"@en	COL title VAL  "AAA Replica Omega Seamaster Planet Ocean 600M Chronograph Stainless Steel Blue Watch 215.30.46.51.03.001"@en	0
+COL title VAL  "Tag Heuer Formula 1 WAZ2011.BA0842"@de	COL title VAL  "TAG Heuer Automatic Chronograph Watch CBL2111.FC6453"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071104101"@en	COL title VAL  "TISSOT T-SPORT SEASTAR 1000 POWERMATIC"@en	1
+COL title VAL  "Swiss Military Hanowa Flagship 06-5161.2.04.003"@en	COL title VAL  "Swiss Military Hanowa06-5161.2.04.007 Flagship Uhr"@en	0
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Watch"@en	COL title VAL  "Cheap Replica Tag Heuer Formula 1 Automatic Mens Watch WAZ2011.BA0842"@en	1
+COL title VAL  "Daniel Wellington Horloge Classic Sheffield Rose DW00100036"@en	COL title VAL  "Daniel Wellington DW00100007 Classic Sheffield Rose 40mm White"@en	0
+COL title VAL  "OMEGA Seamaster Planet Ocean Chronograph Steel"@en	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 232.30.46.51.01.002"@en	1
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Grey Dial Men's Watch - WAZ2011.BA0842"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Watch"@en	1
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic Mens Watch"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 T1204071704100"@en	1
+COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch WAZ2011.BA0842"@de	COL title VAL  "Tag Heuer Monaco watch on leather strap"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 232.30.46.51.01.002"@en	COL title VAL  "Omega Stainless Steel Seamaster Planet Ocean Watch"@en	1
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 T120.407.11.041.01"@en	COL title VAL  "Tissot T120.407.17.041.00 Seastar 1000 Powermatic 80 Blue Dial Rubber 43mm"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.17.041.00 (T120.417.17.041.00)"@en	COL title VAL  "Tissot Seastar Watch 1000 Automatic Black Rubber Blue Dial T120.407.17.041.00"@en	0
+COL title VAL  "Tissot Mens T-Touch Expert Solar Black Leather Strap Watch T091.420.46.051.01"@en	COL title VAL  "TISSOT T091.420.46.051.01 T-TOUCH Expert Solar"@en	1
+COL title VAL  "SEIKO Prospex Automatic Men's 45mm Diver Watch - SPB103J1 – Green Dial"@en	COL title VAL  "Seiko Mens Presage Automatic Blue Date Dial Stainless Steel Bracelet Watch SRPD41J1"@en	0
+COL title VAL  "Daniel Wellington Classic St Mawes 40mm"@de	COL title VAL  "Daniel Wellington Classic Black Cornwall"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic Mens Watch"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	0
+COL title VAL  "Buy Quality Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470ST.OO.A099CR.01"@en	COL title VAL  "Buy Quality Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	0
+COL title VAL  "OROLOGIO TISSOT SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "Tissot Seastar Watch 1000 Automatic Black Rubber Blue Dial T120.407.17.041.00"@en	1
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171704100"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic Mens Watch"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 Sub Professional men's watch"@en	COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.17.041.00"@en	1
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	COL title VAL  "Audemars Piguet-Audemars Piguet Royal Oak Chronograph 41mm Mens Watch-26331ST.OO.1220ST.02"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Two-Tone Rubber Watch 215.32.46.51.01.001"@en	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.01.001"@en	0
+COL title VAL  "Tag Heuer Formula 1 WAZ2011.BA0842"@de	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Watch"@en	1
+COL title VAL  "TISSOT T1204071105100 Seastar Powermatic 80"@en	COL title VAL  "Tissot T120.407.11.051.00 Watch SEASTAR 1000 POWERMATIC 80"@en	1
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 T1204071704100"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Silicium"@en	0
+COL title VAL  "Seamaster Planet Ocean 600M Omega Co-axial Master Chronometer GMT 45.5mm"@en	COL title VAL  "Omega Seamaster 215.92.46.22.01.004"@et	1
+COL title VAL  "Replica watch TAG Heuer Carrera Automatic Blue Dial Men's Watch CBK2112.BA0715"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Grey Dial Men's Watch - WAZ2011.BA0842"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 Silicium"@en	COL title VAL  "TISSOT T1204071105100 Seastar Powermatic 80"@en	0
+COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.A125CR.01"@en	COL title VAL  "Audemars Piguet Royal Oak Chronograph Watch 26331ST.OO.1220ST.03"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean Chronograph Automatic 215.30.46.51.01.001"@en	COL title VAL  "215.30.46.51.01.001 Omega Seamaster Planet Ocean Chronograph 45.5mm"@en	1
+COL title VAL  "Tissot T120.407.17.041.00 Seastar 1000 Powermatic 80 Blue Dial Rubber 43mm"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 T120.407.11.051.00 (T120.407.11.051.00)"@en	0
+COL title VAL  "Daniel Wellington Sheffield Classic DW00100036"@en	COL title VAL  "Daniel Wellington Horloge Classic Sheffield Rose DW00100036"@en	1
+COL title VAL  "Buy Quality Replica Omega Seamaster Planet Ocean 600M Steel Chronometer Chronograph Watch 215.30.46.51.01.001"@en	COL title VAL  "Omega Seamaster Planet Ocean Chronograph Automatic 215.30.46.51.01.001"@en	1
+COL title VAL  "Daniel Wellington DW00100150 Classic Cornwall Rose 36mm Black"@en	COL title VAL  "Daniel Wellington Classic Sheffield Rose 40mm -rannekello DW00100007"@en	0
+COL title VAL  "TISSOT -Seastar 1000 Chronograph- T120.417.11.051.00"@en	COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.11.051.00"@en	0
+COL title VAL  "Omega Horloge Seamaster 46mm Planet Ocean 600M Co-Axial Master ChronometerChronograph 215.32.46.51.01.001"@en	COL title VAL  "Planet Ocean 600M Omega Co-Axial Master Chronometer Chronograph 45.5mm 215.30.46.51.03.001"@en	0
+COL title VAL  "Daniel Wellington Classic Black Cornwall"@en	COL title VAL  "Daniel Wellington Classic Black Cornwall Watch | Rose Gold 36mm"@en	1
+COL title VAL  "Seastar 1000 Powermatic 80 Silicium Men's Watch"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 T1204071704100"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071104101"@en	0
+COL title VAL  "Omega Stainless Steel Seamaster Planet Ocean Watch"@en	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.03.001"@en	0
+COL title VAL  "Tissot Mens T-Sport Seastar 1000 Chronograph Black Dial Stainless Steel Bracelet Watch T120.417.11.051.00"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic Mens Watch"@en	0
+COL title VAL  "Planet Ocean 600M Omega Co-Axial Master Chronometer Chronograph 45.5mm 215.30.46.51.03.001"@en	COL title VAL  "215.30.46.51.01.001 Omega Seamaster Planet Ocean Chronograph 45.5mm"@en	0
+COL title VAL  "TISSOT T091.420.46.051.01 T-TOUCH Expert Solar"@en	COL title VAL  "TISSOT T-SPORT SEASTAR 1000 POWERMATIC"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	COL title VAL  "Tissot Mens T-Sport Seastar 1000 Chronograph Black Dial Stainless Steel Bracelet Watch T120.417.11.051.00"@en	1
+COL title VAL  "Swiss Military Hanowa Flagship 06-5161.2.04.007"@en	COL title VAL  "Relógio Swiss Military Hanowa06-4307.30.007 Undercover Multifunction"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 T120.407.11.041.01"@en	COL title VAL  "Tissot T120.407.11.051.00 Seastar 1000 Powermatic 80 Black Dial 43mm"@en	0
+COL title VAL  "SEIKO Prospex Automatic Men's 45mm Diver Watch - SPB103J1 – Green Dial"@en	COL title VAL  "215.30.46.51.01.001 Omega Seamaster Planet Ocean Chronograph 45.5mm"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.17.041.00 (T120.417.17.041.00)"@en	COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.17.041.00"@en	0
+COL title VAL  "Audemars Piguet-Audemars Piguet Royal Oak Chronograph 41mm Mens Watch-26331ST.OO.1220ST.02"@en	COL title VAL  "Audemars Piguet-Audemars Piguet Royal Oak Offshore Chronograph 42mm Mens Watch-26470OR.OO.A125CR.01"@en	0
+COL title VAL  "Swiss Military Hanowa Flagship 06-5161.2.04.007"@en	COL title VAL  "Swiss Military Hanowa Flagship 06-5161.2.04.003"@en	0
+COL title VAL  "Daniel Wellington - Classic Sheffield Silver - 40mm"@de	COL title VAL  "Daniel Wellington Sheffield Classic DW00100036"@en	0
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Chronograph Black Dail Watch 26331ST.OO.1220ST.02"@en	COL title VAL  "Audemars Piguet-Audemars Piguet Royal Oak Chronograph 41mm Mens Watch-26331ST.OO.1220ST.02"@en	1
+COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.11.051.00"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071105100"@en	1
+COL title VAL  "Daniel Wellington DW00100150 Classic Cornwall Rose 36mm Black"@en	COL title VAL  "Daniel Wellington Classic St Mawes Rose 40mm -rannekello DW00100006"@en	0
+COL title VAL  "Tissot Mens T-Sport Seastar 1000 Chronograph Black Dial Stainless Steel Bracelet Watch T120.417.11.051.00"@en	COL title VAL  "Tissot Visodate Men's Stainless Steel Mesh Bracelet Watch"@en	0
+COL title VAL  "OROLOGIO TISSOT SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 T1204071704100"@en	1
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CBG2A1Z.BA0658"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CAW211P.FC6356"@en	0
+COL title VAL  "Omega Seamaster 215.92.46.22.01.004"@et	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.01.001"@en	0
+COL title VAL  "TAG HEUER MONACO AUTOMATIC CHRONOGRAPH"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Watch"@en	0
+COL title VAL  "TISSOT T-SPORT SEASTAR 1000 POWERMATIC"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071704100"@en	0
+COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.11.051.00"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 T120.407.11.051.00 (T120.407.11.051.00)"@en	1
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Steel Watch"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Watch"@en	1
+COL title VAL  "Relógio Swiss Military Hanowa06-4226.30.003.03 Immersion"@en	COL title VAL  "Swiss Military Hanowa06-4307.30.007 Undercover Multifunction montre"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 232.30.46.51.01.002"@en	COL title VAL  "Omega Seamaster Planet Ocean Chronograph Automatic 215.30.46.51.01.001"@en	0
+COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.17.041.00"@en	COL title VAL  "Tissot T120.407.11.051.00 Seastar 1000 Powermatic 80 Black Dial 43mm"@en	0
+COL title VAL  "TAG Heuer Carrera Automatic Blue Dial Men's CBK2112.BA0715"@ca	COL title VAL  "Replica watch TAG Heuer Carrera Automatic Blue Dial Men's Watch CBK2112.BA0715"@en	1
+COL title VAL  "Swiss Military Hanowa Flagship 06-5161.2.04.003"@en	COL title VAL  "Swiss Military Hanowa06-5161.2.04.003 Flagship montre"@en	1
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.03.001"@en	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.01.001"@en	0
+COL title VAL  "TISSOT -Seastar 1000 Chronograph- T120.417.11.051.00"@en	COL title VAL  "Tissot Mens T-Sport Seastar 1000 Chronograph Black Dial Stainless Steel Bracelet Watch T120.417.11.051.00"@en	1
+COL title VAL  "Daniel Wellington Classic Black Cornwall"@en	COL title VAL  "Daniel Wellington Sheffield Classic DW00100036"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 T120.407.11.051.00 (T120.407.11.051.00)"@en	COL title VAL  "TISSOT SEASTAR 1000 QUARTZ T120.417.11.051.00"@vi	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 T1204071704100"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071704100"@en	1
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071704100"@en	COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.17.041.00"@en	1
+COL title VAL  "Tissot Tissot T1204071704100 Seastar 660/1000 horloge"@en	COL title VAL  "Tissot T120.407.17.041.00 Seastar 1000 Powermatic 80 Blue Dial Rubber 43mm"@en	1
+COL title VAL  "OMEGA Seamaster Planet Ocean Chronograph Steel"@en	COL title VAL  "OMEGA SEAMASTER DIVER 300 210.20.42.20.03.002"@de	0
+COL title VAL  "Daniel Wellington Classic Collection Sheffield DW00100036"@en	COL title VAL  "Daniel Wellington Classic Black Cornwall"@en	0
+COL title VAL  "Formula 1 Grey/Steel Ø43 mm ref. WAZ2011.BA0842"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Grey Dial Men's Watch - WAZ2011.BA0842"@en	1
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071704100"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	0
+COL title VAL  "Swiss Military Hanowa06-5161.2.04.003 Flagship montre"@en	COL title VAL  "Swiss Military Hanowa06-5161.2.04.007 Flagship Uhr"@en	0
+COL title VAL  "Omega Seamaster 300 Master Co-Axial Stainless Steel & 18K Sedna Gold"@en	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.03.001"@en	0
+COL title VAL  "Audemars Piguet-Audemars Piguet Royal Oak Offshore Chronograph 42mm Mens Watch-26470OR.OO.A125CR.01"@en	COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	0
+COL title VAL  "AAA Replica Omega Seamaster Planet Ocean 600M Chronograph Stainless Steel Blue Watch 215.30.46.51.03.001"@en	COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial Master Chronometer Chronograph 215.30.46.51.03.001"@en	1
+COL title VAL  "Buy Quality Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.A125CR.01"@en	0
+COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470ST.OO.A099CR.01"@en	COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	0
+COL title VAL  "OROLOGIO TISSOT SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 Sub Professional men's watch"@en	1
+COL title VAL  "Swiss Military Hanowa Immersion 06-4226.30.003.03"@en	COL title VAL  "Relógio Swiss Military Hanowa06-4226.30.003.03 Immersion"@en	1
+COL title VAL  "Tissot Mens T-Sport Seastar 1000 Chronograph Black Dial Stainless Steel Bracelet Watch T120.417.11.051.00"@en	COL title VAL  "Tissot T120.407.11.051.00 Seastar 1000 Powermatic 80 Black Dial 43mm"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Two-Tone Rubber Watch 215.32.46.51.01.001"@en	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 232.30.46.51.01.002"@en	0
+COL title VAL  "Buy Quality Replica Omega Seamaster Planet Ocean 600m Co-Axial Master Chronometer GMT ETNZ Deep Black Mens Watch 215.92.46.22.01.004"@en	COL title VAL  "Omega Seamaster Planet Ocean 600m Co-Axial Master Ceramic 215.92.46.22.01.004 Black Dial Replica"@en	1
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CBL2111.FC6453"@en	COL title VAL  "215.30.46.51.01.001 Omega Seamaster Planet Ocean Chronograph 45.5mm"@en	0
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Steel Watch"@en	COL title VAL  "Tag Heuer Carrera Quartz Chronograph Stainless Steel Watch CBG2A1Z.BA0658"@en	0
+COL title VAL  "OMEGA SEAMASTER DIVER 300 210.20.42.20.03.002"@de	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.03.001"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.01.001"@en	COL title VAL  "AAA Replica Omega Seamaster Planet Ocean 600M Chronograph Stainless Steel Blue Watch 215.30.46.51.03.001"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean 600m Co-Axial Master Ceramic 215.92.46.22.01.004 Black Dial Replica"@en	COL title VAL  "Buy Quality Replica Omega Seamaster Planet Ocean 600M Steel Chronometer Chronograph Watch 215.30.46.51.01.001"@en	0
+COL title VAL  "Swiss Military Hanowa Navalus Day-Date 06-6278.04.001.07"@en	COL title VAL  "Swiss Military Hanowa Flagship 06-5161.2.04.003"@en	0
+COL title VAL  "Tissot Visodate Men's Stainless Steel Mesh Bracelet Watch"@en	COL title VAL  "TISSOT HERITAGE VISODATE QUARTZ T118.410.11.057.00 (T118.410.11.057.00)"@vi	1
+COL title VAL  "TISSOT T1204071105100 Seastar Powermatic 80"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 T1204071704100"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.17.041.00 (T120.417.17.041.00)"@en	0
+COL title VAL  "Omega Seamaster DIVER 300MOMEGA CO-AXIAL MASTER CHRONOMETER 42 MM"@en	COL title VAL  "Omega Seamaster 300 Master Co-Axial Stainless Steel & 18K Sedna Gold"@en	1
+COL title VAL  "Tissot Tissot T1204071704100 Seastar 660/1000 horloge"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Silicium"@en	0
+COL title VAL  "Replica watch TAG Heuer Carrera Automatic Blue Dial Men's Watch CBK2112.BA0715"@en	COL title VAL  "TAG Heuer Monaco Men's Blue Leather Strap Watch"@en	0
+COL title VAL  "Daniel Wellington Classic St Mawes Rose 40mm -rannekello DW00100006"@en	COL title VAL  "Daniel Wellington Horloge Classic Sheffield Rose DW00100036"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 T1204071704100"@en	COL title VAL  "Tissot T120.407.17.041.00 Seastar 1000 Powermatic 80 Blue Dial Rubber 43mm"@en	1
+COL title VAL  "Relógio Swiss Military Hanowa06-4226.30.003.03 Immersion"@en	COL title VAL  "Relógio Swiss Military Hanowa06-4307.30.007 Undercover Multifunction"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic Mens Watch"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80"@en	1
+COL title VAL  "Tissot Tissot T1204071704100 Seastar 660/1000 horloge"@en	COL title VAL  "T1204071105100 Tissot Seastar 1000 Powermatic 80"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 T120.407.11.051.00 (T120.407.11.051.00)"@en	COL title VAL  "Tissot T120.407.11.051.00 Watch SEASTAR 1000 POWERMATIC 80"@en	1
+COL title VAL  "Omega Seamaster Planet Ocean 600m Co-Axial Master Chronometer GMT 45.5mm (215.92.46.22.01.004) ETNZ Deep Black"@en	COL title VAL  "Buy Quality Replica Omega Seamaster Planet Ocean 600m Co-Axial Master Chronometer GMT ETNZ Deep Black Mens Watch 215.92.46.22.01.004"@en	1
+COL title VAL  "TISSOT HERITAGE VISODATE QUARTZ T118.410.11.057.00 (T118.410.11.057.00)"@vi	COL title VAL  "Formula 1 Grey/Steel Ø43 mm ref. WAZ2011.BA0842"@en	0
+COL title VAL  "Cheap Replica Tag Heuer Monaco Steve McQueen Chronograph Watch CAW211P.FC6356"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CAW211P.FC6356"@en	1
+COL title VAL  "Daniel Wellington Sheffield Classic DW00100036"@en	COL title VAL  "Daniel Wellington Classic St Mawes Rose 40mm -rannekello DW00100006"@en	0
+COL title VAL  "Tissot Mens T-Sport Seastar 1000 Chronograph Black Dial Stainless Steel Bracelet Watch T120.417.11.051.00"@en	COL title VAL  "TISSOT SEASTAR 1000 QUARTZ T120.417.11.051.00"@vi	1
+COL title VAL  "Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch - 26470ST.OO.A099CR.01"@en	COL title VAL  "Audemars Piguet-Audemars Piguet Royal Oak Chronograph 41mm Mens Watch-26331ST.OO.1220ST.02"@en	0
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Men's Watch"@en	COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch WAZ2011.BA0842"@de	1
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Steel Watch"@en	COL title VAL  "Tag Heuer Formula 1 WAZ2011.BA0842"@de	1
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Swiss Quartz Sapphire Crystal Men's Watch"@en	COL title VAL  "Tissot T120.417.11.051.00 Watch SEASTAR 1000 CHRONOGRAPH"@en	1
+COL title VAL  "TISSOT T091.420.46.051.01 T-TOUCH Expert Solar"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	0
+COL title VAL  "AAA Replica Omega Seamaster Planet Ocean 600M Chronograph Stainless Steel Blue Watch 215.30.46.51.03.001"@en	COL title VAL  "Buy Quality Replica Omega Seamaster Planet Ocean 600M Steel Chronometer Chronograph Watch 215.30.46.51.01.001"@en	0
+COL title VAL  "Cheap Replica Tag Heuer Monaco Steve McQueen Chronograph Watch CAW211P.FC6356"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CBL2111.FC6453"@en	0
+COL title VAL  "Tag Heuer Carrera Quartz Chronograph Stainless Steel Watch CBK2112.BA0715"@en	COL title VAL  "AAA Replica TAG Heuer Carrera Heuer 02 Chronograph GMT Watch CBG2A1Z.BA0658"@en	0
+COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.17.041.00"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 T120.407.11.051.00 (T120.407.11.051.00)"@en	0
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Steel Watch"@en	COL title VAL  "Cheap Replica Tag Heuer Formula 1 Automatic Mens Watch WAZ2011.BA0842"@en	1
+COL title VAL  "Omega Seamaster Planet Ocean 600m Co-Axial Master Ceramic 215.92.46.22.01.004 Black Dial Replica"@en	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Two-Tone Rubber Watch 215.32.46.51.01.001"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 Sub Professional men's watch"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071704100"@en	1
+COL title VAL  "Relógio Swiss Military Hanowa06-6278.04.001.07 Navalus"@en	COL title VAL  "Relógio Swiss Military Hanowa06-4307.30.007 Undercover Multifunction"@en	0
+COL title VAL  "Tissot T120.417.11.051.00 Watch SEASTAR 1000 CHRONOGRAPH"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	1
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071704100"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic Mens Watch"@en	1
+COL title VAL  "Replica watch TAG Heuer Carrera Automatic Blue Dial Men's Watch CBK2112.BA0715"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Steel Watch"@en	0
+COL title VAL  "AAA Replica Omega Seamaster Planet Ocean 600M Chronograph Stainless Steel Blue Watch 215.30.46.51.03.001"@en	COL title VAL  "AAA Replica Omega Seamaster Planet Ocean 600M Chronometer Chronograph Orange Watch 215.32.46.51.01.001"@en	0
+COL title VAL  "Formula 1 Grey/Steel Ø43 mm ref. WAZ2011.BA0842"@en	COL title VAL  "Cheap Replica Tag Heuer Formula 1 Automatic Mens Watch WAZ2011.BA0842"@en	1
+COL title VAL  "Tissot Heritage Visodate Analog Swiss Quartz Sapphire Crystal Men's Watch"@en	COL title VAL  "Tissot Seastar 1000 Men's Black Rubber Strap Watch"@en	0
+COL title VAL  "Seiko Mens Prospex Automatic Divers Green Dial Bracelet Watch SPB103J1"@en	COL title VAL  "Seiko Presage SRPD41J1 Presage watch"@de	0
+COL title VAL  "Relógio Swiss Military Hanowa06-4226.30.003.03 Immersion"@en	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 232.30.46.51.01.002"@en	0
+COL title VAL  "Seastar 1000 Powermatic 80 Silicium Men's Watch"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 Sub Professional men's watch"@en	0
+COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.007 Herrenuhr"@en	COL title VAL  "Swiss Military Hanowa Immersion 06-4226.30.003.03"@en	0
+COL title VAL  "Daniel Wellington Sheffield Classic DW00100036"@en	COL title VAL  "Daniel WellingtonDW00100150 Classic Cornwall watch"@en	0
+COL title VAL  "AAA Replica TAG Heuer Carrera Heuer 02 Chronograph GMT Watch CBG2A1Z.BA0658"@en	COL title VAL  "Cheap Replica Tag Heuer Carrera Heuer 02 Chronograph GMT Watch CBG2A1Z.BA0658"@en	1
+COL title VAL  "Seiko Presage Watch Zen Gardens Mens"@de	COL title VAL  "Tissot Heritage Visodate Analog Swiss Quartz Sapphire Crystal Men's Watch"@en	0
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Steel Watch"@en	COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch WAZ2011.BA0842"@de	1
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Two-Tone Rubber Watch 215.32.46.51.01.001"@en	COL title VAL  "Omega Horloge Seamaster 46mm Planet Ocean 600M Co-Axial Master ChronometerChronograph 215.32.46.51.01.001"@en	1
+COL title VAL  "Daniel Wellington Sheffield Classic DW00100036"@en	COL title VAL  "Daniel Wellington Unisex Classic Sheffield 36mm Rose Gold Black DW00100036"@en	1
+COL title VAL  "Replica watch TAG Heuer Carrera Automatic Blue Dial Men's Watch CBK2112.BA0715"@en	COL title VAL  "Cheap Replica Tag Heuer Formula 1 Automatic Mens Watch WAZ2011.BA0842"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Swiss Quartz Sapphire Crystal Men's Watch"@en	COL title VAL  "Tissot Heritage Visodate Analog Swiss Quartz Sapphire Crystal Men's Watch"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic Mens Watch"@en	COL title VAL  "Tissot Visodate Men's Stainless Steel Mesh Bracelet Watch"@en	0
+COL title VAL  "Buy Quality Replica Omega Seamaster Planet Ocean 600m Co-Axial Master Chronometer GMT ETNZ Deep Black Mens Watch 215.92.46.22.01.004"@en	COL title VAL  "Seamaster Planet Ocean 600M Omega Co-axial Master Chronometer GMT 45.5mm"@en	1
+COL title VAL  "TAG Heuer Monaco Men's Blue Leather Strap Watch"@en	COL title VAL  "Buy Quality Replica Tag Heuer Monaco Steve McQueen Chronograph Watch CAW211P.FC6356"@en	0
+COL title VAL  "Daniel Wellington Mens Classic Sheffield 40mm Rose Gold Black DW00100007"@en	COL title VAL  "Daniel Wellington DW00100150 Classic Cornwall Rose 36mm Black"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 T1204071704100"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80"@en	1
+COL title VAL  "OROLOGIO TISSOT SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	0
+COL title VAL  "Daniel Wellington DW00100150 Classic Cornwall Rose 36mm Black"@en	COL title VAL  "Daniel WellingtonDW00100150 Classic Cornwall watch"@en	1
+COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.007 Herrenuhr"@en	COL title VAL  "Swiss Military Hanowa Navalus Day-Date 06-6278.04.001.07"@en	0
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CAW211P.FC6356"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Steel Watch"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.17.041.00 (T120.417.17.041.00)"@en	COL title VAL  "TISSOT SEASTAR 1000 AUTOMATIC T120.407.17.041.00"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Two-Tone Rubber Watch 215.32.46.51.01.001"@en	COL title VAL  "215.30.46.51.01.001 Omega Seamaster Planet Ocean Chronograph 45.5mm"@en	0
+COL title VAL  "Cheap Replica Tag Heuer Formula 1 Automatic Mens Watch WAZ2011.BA0842"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Men's Watch"@en	1
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CBG2A1Z.BA0658"@en	COL title VAL  "Cheap Replica Tag Heuer Carrera Heuer 02 Chronograph GMT Watch CBG2A1Z.BA0658"@en	1
+COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.007 Herrenuhr"@en	COL title VAL  "Swiss Military Hanowa Flagship 06-5161.2.04.003"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071105100"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80"@en	0
+COL title VAL  "Tissot Seastar Watch 1000 Automatic Black Rubber Blue Dial T120.407.17.041.00"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic Mens Watch"@en	1
+COL title VAL  "Tag Heuer Monaco watch on leather strap"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CBG2A1Z.BA0658"@en	0
+COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch WAZ2011.BA0842"@de	COL title VAL  "TAG Heuer Automatic Chronograph Watch CBG2A1Z.BA0658"@en	0
+COL title VAL  "T1204071105100 Tissot Seastar 1000 Powermatic 80"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071105100"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 T120.407.11.051.00 (T120.407.11.051.00)"@en	1
+COL title VAL  "Daniel Wellington Classic Sheffield Men 40mm Quartz Watch 0206DW"@de	COL title VAL  "Daniel WellingtonDW00100150 Classic Cornwall watch"@en	0
+COL title VAL  "Seiko Mens Prospex Automatic Divers Green Dial Bracelet Watch SPB103J1"@en	COL title VAL  "Seiko Presage Watch Zen Gardens Mens"@de	0
+COL title VAL  "Tissot T120.407.17.041.00 Seastar 1000 Powermatic 80 Blue Dial Rubber 43mm"@en	COL title VAL  "TISSOT SEASTAR 1000 AUTOMATIC T120.407.17.041.00"@en	1
+COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.11.051.00"@en	COL title VAL  "Tissot T120.407.11.051.00 Seastar 1000 Powermatic 80 Black Dial 43mm"@en	1
+COL title VAL  "Replica watch TAG Heuer Carrera Automatic Blue Dial Men's Watch CBK2112.BA0715"@en	COL title VAL  "Tag Heuer Carrera Quartz Chronograph Stainless Steel Watch CBG2A1Z.BA0658"@en	0
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CBG2A1Z.BA0658"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Men's Watch"@en	0
+COL title VAL  "Zegarek Omega Seamaster Planet Ocean 600M Co-Axial Chronograph 45.5mm 215.30.46.51.03.001"@en	COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial Master Chronometer Chronograph 215.30.46.51.03.001"@en	1
+COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.003 Herrenuhr"@en	COL title VAL  "Swiss Military Hanowa06-5161.2.04.003 Flagship montre"@en	1
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 232.30.46.51.01.002"@en	COL title VAL  "Buy Quality Replica Omega Seamaster Planet Ocean 600M Steel Chronometer Chronograph Watch 215.30.46.51.01.001"@en	0
+COL title VAL  "Tissot Heritage Visodate Analog Swiss Quartz Sapphire Crystal Men's Watch"@en	COL title VAL  "TISSOT HERITAGE VISODATE QUARTZ T118.410.11.057.00 (T118.410.11.057.00)"@vi	1
+COL title VAL  "TISSOT T091.420.46.051.01 T-TOUCH Expert Solar"@en	COL title VAL  "Tissot T-Touch Expert Solar Men's Watch - T0914204605101"@en	1
+COL title VAL  "OMEGA Seamaster Planet Ocean Chronograph Steel"@en	COL title VAL  "Omega Stainless Steel Seamaster Planet Ocean Watch"@en	1
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071104101"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 T120.407.11.041.01"@en	1
+COL title VAL  "Tissot VisoDate Heritage Mesh Bracelet Watch"@en	COL title VAL  "TISSOT HERITAGE VISODATE QUARTZ T118.410.11.057.00 (T118.410.11.057.00)"@vi	1
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.03.001"@en	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 232.30.46.51.01.002"@en	0
+COL title VAL  "AAA Replica Omega Seamaster Planet Ocean 600M Chronometer Chronograph Orange Watch 215.32.46.51.01.001"@en	COL title VAL  "Omega Seamaster Planet Ocean Chronograph Automatic 215.30.46.51.01.001"@en	0
+COL title VAL  "Swiss Military Hanowa Immersion 06-4226.30.003.03"@en	COL title VAL  "Swiss Military Hanowa Flagship 06-5161.2.04.003"@en	0
+COL title VAL  "Seiko Presage SRPD41J1 Presage watch"@de	COL title VAL  "Seiko Prospex SBDC081 SPB103 Diver 200m SUMO JAPAN MADE ( NEW )"@de	0
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Grey Dial Men's Watch - WAZ2011.BA0842"@en	COL title VAL  "Cheap Replica Tag Heuer Formula 1 Automatic Mens Watch WAZ2011.BA0842"@en	1
+COL title VAL  "Omega Horloge Seamaster 46mm Planet Ocean 600M Co-Axial Master ChronometerChronograph 215.32.46.51.01.001"@en	COL title VAL  "AAA Replica Omega Seamaster Planet Ocean 600M Chronograph Stainless Steel Blue Watch 215.30.46.51.03.001"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "TISSOT T1204071105100 Seastar Powermatic 80"@en	0
+COL title VAL  "Planet Ocean 600M Omega Co-Axial Master Chronometer Chronograph 45.5mm 215.30.46.51.03.001"@en	COL title VAL  "Zegarek Omega Seamaster Planet Ocean 600M Co-Axial Chronograph 45.5mm 215.30.46.51.03.001"@en	1
+COL title VAL  "TISSOT T1204071105100 Seastar Powermatic 80"@en	COL title VAL  "Tissot T120.407.11.051.00 Seastar 1000 Powermatic 80 Black Dial 43mm"@en	1
+COL title VAL  "DANIEL WELLINGTON Classic Sheffield 40mm DW00100007"@en	COL title VAL  "Daniel Wellington Classic Sheffield Men 40mm Quartz Watch 0206DW"@de	0
+COL title VAL  "Tissot Tissot T1204071704100 Seastar 660/1000 horloge"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80"@en	1
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "TISSOT SEASTAR 1000 AUTOMATIC T120.407.17.041.00"@en	1
+COL title VAL  "Seastar 1000 Powermatic 80 Silicium Men's Watch"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071104101"@en	1
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Watch"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Watch"@en	1
+COL title VAL  "Tissot VisoDate Heritage Mesh Bracelet Watch"@en	COL title VAL  "Tissot Heritage Visodate Analog Swiss Quartz Sapphire Crystal Men's Watch"@en	1
+COL title VAL  "Daniel Wellington DW00100007 Classic Sheffield Rose 40mm White"@en	COL title VAL  "Daniel Wellington Classic St Mawes Rose 40mm -rannekello DW00100006"@en	0
+COL title VAL  "TAG HEUER MONACO AUTOMATIC CHRONOGRAPH"@en	COL title VAL  "TAG Heuer Monaco Calibre 11 CAW211P.FC6356"@es	1
+COL title VAL  "Formula 1 Grey/Steel Ø43 mm ref. WAZ2011.BA0842"@en	COL title VAL  "Tag Heuer Formula 1 WAZ2011.BA0842"@de	1
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic Mens Watch"@en	COL title VAL  "TISSOT SEASTAR 1000 AUTOMATIC T120.407.17.041.00"@en	1
+COL title VAL  "Daniel Wellington Classic Black Cornwall Watch | Rose Gold 36mm"@en	COL title VAL  "Daniel WellingtonDW00100150 Classic Cornwall watch"@en	1
+COL title VAL  "Swiss Military Hanowa06-4307.30.007 Undercover Multifunction montre"@en	COL title VAL  "Swiss Military Hanowa06-4226.30.003.03 Immersion Uhr"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071104101"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071104101"@en	1
+COL title VAL  "Swiss Military Hanowa Flagship 06-5161.2.04.003"@en	COL title VAL  "Swiss Military Hanowa Swiss Military Hanowa Undercover Multifunction 06-4307.30.007"@en	0
+COL title VAL  "Daniel Wellington DW00100007 Classic Sheffield Rose 40mm White"@en	COL title VAL  "Daniel Wellington Mens Classic Sheffield 40mm Rose Gold Black DW00100007"@en	1
+COL title VAL  "OROLOGIO TISSOT SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic Mens Watch"@en	1
+COL title VAL  "Tissot Mens T-Touch Expert Solar Black Leather Strap Watch T091.420.46.051.01"@en	COL title VAL  "Tissot Seastar 1000 Men's Black Rubber Strap Watch"@en	0
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Watch"@en	COL title VAL  "TAG Heuer Monaco Calibre 11 CAW211P.FC6356"@es	0
+COL title VAL  "AAA Replica Omega Seamaster Planet Ocean 600M Chronograph Stainless Steel Blue Watch 215.30.46.51.03.001"@en	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 232.30.46.51.01.002"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.17.041.00 (T120.417.17.041.00)"@en	COL title VAL  "TISSOT -Seastar 1000 Chronograph- T120.417.11.051.00"@en	0
+COL title VAL  "Relógio Swiss Military Hanowa06-4307.30.007 Undercover Multifunction"@en	COL title VAL  "Swiss Military Hanowa06-4226.30.003.03 Immersion Uhr"@en	0
+COL title VAL  "Daniel Wellington Classic Black Cornwall Rose Gold 36mm Watch"@en	COL title VAL  "Daniel Wellington DW00100150 Classic Cornwall Rose 36mm Black"@en	1
+COL title VAL  "Daniel Wellington Classic Black Cornwall Watch | Rose Gold 36mm"@en	COL title VAL  "Daniel Wellington Unisex Classic Sheffield 36mm Rose Gold Black DW00100036"@en	0
+COL title VAL  "DANIEL WELLINGTON Classic Sheffield 40mm DW00100007"@en	COL title VAL  "Daniel Wellington DW00100007 Classic Sheffield Rose 40mm White"@en	1
+COL title VAL  "Tissot Seastar Watch 1000 Automatic Black Rubber Blue Dial T120.407.17.041.00"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 T1204071704100"@en	1
+COL title VAL  "Mens Daniel Wellington St Mawes 40mm Watch DW00100006"@de	COL title VAL  "DANIEL WELLINGTON Classic Sheffield 40mm DW00100007"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean 600m Co-Axial Master Ceramic 215.92.46.22.01.004 Black Dial Replica"@en	COL title VAL  "Omega Horloge Seamaster 46mm Planet Ocean 600M Co-Axial Master ChronometerChronograph 215.32.46.51.01.001"@en	0
+COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.17.041.00"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 T1204071704100"@en	1
+COL title VAL  "Seiko Mens Prospex Automatic Divers Green Dial Bracelet Watch SPB103J1"@en	COL title VAL  "Seiko Prospex Diver Sumo Green Mens Stainless Steel SPB103J1"@de	1
+COL title VAL  "Swiss Military Hanowa06-5161.2.04.003 Flagship montre"@en	COL title VAL  "Swiss Military Hanowa Flagship 06-5161.2.04.007"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 T120.407.11.041.01"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 T120.407.11.051.00 (T120.407.11.051.00)"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 Sub Professional men's watch"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80"@en	1
+COL title VAL  "Tissot T120.407.17.041.00 Seastar 1000 Powermatic 80 Blue Dial Rubber 43mm"@en	COL title VAL  "OROLOGIO TISSOT SEASTAR 1000 POWERMATIC 80"@en	1
+COL title VAL  "TISSOT SEASTAR 1000 AUTOMATIC T120.407.17.041.00"@en	COL title VAL  "OROLOGIO TISSOT SEASTAR 1000 POWERMATIC 80"@en	1
+COL title VAL  "Swiss Military Hanowa06-4307.30.007 Undercover Multifunction montre"@en	COL title VAL  "Swiss Military Hanowa06-6278.04.001.07 Navalus montre"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	COL title VAL  "TISSOT T1204071105100 Seastar Powermatic 80"@en	0
+COL title VAL  "TAG Heuer Carrera Automatic Blue Dial Men's CBK2112.BA0715"@ca	COL title VAL  "Tissot Visodate Men's Stainless Steel Mesh Bracelet Watch"@en	0
+COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.17.041.00"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 T120.407.11.041.01"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.03.001"@en	COL title VAL  "AAA Replica Omega Seamaster Planet Ocean 600M Chronometer Chronograph Orange Watch 215.32.46.51.01.001"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.01.001"@en	COL title VAL  "215.30.46.51.01.001 Omega Seamaster Planet Ocean Chronograph 45.5mm"@en	1
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470ST.OO.A099CR.01"@en	0
+COL title VAL  "Buy Quality Replica Omega Seamaster Planet Ocean 600m Co-Axial Master Chronometer GMT ETNZ Deep Black Mens Watch 215.92.46.22.01.004"@en	COL title VAL  "Omega Seamaster 215.92.46.22.01.004"@et	1
+COL title VAL  "Omega Seamaster Planet Ocean Chronograph Automatic 215.30.46.51.01.001"@en	COL title VAL  "Omega Horloge Seamaster 46mm Planet Ocean 600M Co-Axial Master ChronometerChronograph 215.32.46.51.01.001"@en	0
+COL title VAL  "Daniel Wellington DW00100150 Classic Cornwall Rose 36mm Black"@en	COL title VAL  "Daniel Wellington Classic Black Cornwall Watch | Rose Gold 36mm"@en	1
+COL title VAL  "Daniel Wellington Sheffield Classic DW00100036"@en	COL title VAL  "Daniel Wellington Classic Sheffield Men 40mm Quartz Watch 0206DW"@de	0
+COL title VAL  "Planet Ocean 600M Omega Co-Axial Master Chronometer Chronograph 45.5mm 215.30.46.51.03.001"@en	COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial Master Chronometer Chronograph 215.30.46.51.03.001"@en	1
+COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.007 Herrenuhr"@en	COL title VAL  "Swiss Military Hanowa Flagship 06-5161.2.04.007"@en	1
+COL title VAL  "Swiss Military Hanowa06-4307.30.007 Undercover Multifunction montre"@en	COL title VAL  "Swiss Military Hanowa Swiss Military Hanowa Undercover Multifunction 06-4307.30.007"@en	1
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Steel Watch"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Grey Dial Men's Watch - WAZ2011.BA0842"@en	1
+COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.17.041.00 (T120.417.17.041.00)"@en	COL title VAL  "Tissot Seastar 1000 Men's Black Rubber Strap Watch"@en	1
+COL title VAL  "Relógio Daniel Wellington Classic Sheffield DW00100020"@en	COL title VAL  "Daniel Wellington Classic Black Cornwall"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.11.051.00 (T120.417.11.051.00)"@en	COL title VAL  "Tissot Mens T-Sport Seastar 1000 Chronograph Black Dial Stainless Steel Bracelet Watch T120.417.11.051.00"@en	1
+COL title VAL  "TISSOT SEASTAR 1000 QUARTZ T120.417.11.051.00"@vi	COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.17.041.00 (T120.417.17.041.00)"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 T1204071704100"@en	COL title VAL  "Tissot Tissot T1204071704100 Seastar 660/1000 horloge"@en	1
+COL title VAL  "Tissot Seastar 1000 Men's Black Rubber Strap Watch"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	0
+COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.003 Herrenuhr"@en	COL title VAL  "Swiss Military Hanowa Flagship 06-5161.2.04.003"@en	1
+COL title VAL  "Tissot T120.417.11.051.00 Watch SEASTAR 1000 CHRONOGRAPH"@en	COL title VAL  "Tissot T120.407.11.051.00 Watch SEASTAR 1000 POWERMATIC 80"@en	0
+COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Chronograph White Dail Watch 26331ST.OO.1220ST.03"@en	COL title VAL  "AAA Replica Audemars Piguet Royal Oak Chronograph Black Dail Watch 26331ST.OO.1220ST.02"@en	0
+COL title VAL  "Seastar 1000 Powermatic 80 Silicium Men's Watch"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	0
+COL title VAL  "Daniel Wellington Unisex Classic Sheffield 36mm Rose Gold Black DW00100036"@en	COL title VAL  "Daniel Wellington Classic Black Cornwall Rose Gold 36mm Watch"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Swiss Quartz Sapphire Crystal Men's Watch"@en	COL title VAL  "TISSOT SEASTAR 1000 QUARTZ T120.417.11.051.00"@vi	1
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 T120.407.11.051.00 (T120.407.11.051.00)"@en	COL title VAL  "T1204071105100 Tissot Seastar 1000 Powermatic 80"@en	1
+COL title VAL  "TISSOT T1204071105100 Seastar Powermatic 80"@en	COL title VAL  "T1204071105100 Tissot Seastar 1000 Powermatic 80"@en	1
+COL title VAL  "Audemars Piguet Royal Oak Chronograph Watch 26331ST.OO.1220ST.03"@en	COL title VAL  "Pre-Owned Audemars Piguet Royal Oak Chronograph 26331ST.OO.1220ST.03"@en	1
+COL title VAL  "Daniel Wellington Sheffield Classic DW00100036"@en	COL title VAL  "Daniel Wellington Classic Collection Sheffield DW00100036"@en	1
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Steel Watch"@en	COL title VAL  "Formula 1 Grey/Steel Ø43 mm ref. WAZ2011.BA0842"@en	1
+COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.A125CR.01"@en	COL title VAL  "Audemars Piguet-Audemars Piguet Royal Oak Offshore Chronograph 42mm Mens Watch-26470OR.OO.A125CR.01"@en	1
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 T120.407.11.041.01"@en	COL title VAL  "T1204071105100 Tissot Seastar 1000 Powermatic 80"@en	0
+COL title VAL  "Relógio Swiss Military Hanowa06-4307.30.007 Undercover Multifunction"@en	COL title VAL  "Swiss Military Hanowa06-4307.30.007 Undercover Multifunction montre"@en	1
+COL title VAL  "Oakley Jawbreaker 31 Mm Matte Black Sunglasses"@en	COL title VAL  "Oakley Jawbreaker MTB Solglsasögon Matte Black w/ Prizm Road"@en	1
+COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.17.041.00"@en	COL title VAL  "Tissot Seastar Watch 1000 Automatic Black Rubber Blue Dial T120.407.17.041.00"@en	1
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CBG2A1Z.BA0658"@en	COL title VAL  "TAG HEUER MONACO AUTOMATIC CHRONOGRAPH"@en	0
+COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial Master Chronometer Chronograph 215.30.46.51.03.001"@en	COL title VAL  "Buy Quality Replica Omega Seamaster Planet Ocean 600M Steel Chronometer Chronograph Watch 215.30.46.51.01.001"@en	0
+COL title VAL  "Omega Seamaster 215.92.46.22.01.004"@et	COL title VAL  "Omega Seamaster Planet Ocean 600m Co-Axial Master Ceramic 215.92.46.22.01.004 Black Dial Replica"@en	1
+COL title VAL  "Audemars Piguet Royal Oak Chronograph Stainless Steel Watch Replica"@en	COL title VAL  "AAA Replica Audemars Piguet Royal Oak Chronograph Black Dail Watch 26331ST.OO.1220ST.02"@en	1
+COL title VAL  "Tissot VisoDate Heritage Mesh Bracelet Watch"@en	COL title VAL  "Tissot T-Touch Expert Solar Men's Watch - T0914204605101"@en	0
+COL title VAL  "TAG HEUER MONACO AUTOMATIC CHRONOGRAPH"@en	COL title VAL  "Tag Heuer Monaco watch on leather strap"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 Silicium"@en	COL title VAL  "OROLOGIO TISSOT SEASTAR 1000 POWERMATIC 80"@en	0
+COL title VAL  "Buy Quality Replica Tag Heuer Monaco Steve McQueen Chronograph Watch CAW211P.FC6356"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CAW211P.FC6356"@en	1
+COL title VAL  "Relógio Swiss Military Hanowa06-6278.04.001.07 Navalus"@en	COL title VAL  "Swiss Military Hanowa06-5161.2.04.007 Flagship Uhr"@en	0
+COL title VAL  "Tissot Visodate Men's Stainless Steel Mesh Bracelet Watch"@en	COL title VAL  "Tissot Heritage Visodate Analog Swiss Quartz Sapphire Crystal Men's Watch"@en	1
+COL title VAL  "Omega Seamaster 300 Master Co-Axial Stainless Steel & 18K Sedna Gold"@en	COL title VAL  "OMEGA SEAMASTER DIVER 300 210.20.42.20.03.002"@de	1
+COL title VAL  "AAA Replica TAG Heuer Carrera Heuer 02 Chronograph GMT Watch CBG2A1Z.BA0658"@en	COL title VAL  "Cheap Replica Tag Heuer Monaco Steve McQueen Chronograph Watch CAW211P.FC6356"@en	0
+COL title VAL  "SEIKO Prospex Automatic Men's 45mm Diver Watch - SPB103J1 – Green Dial"@en	COL title VAL  "Seiko Prospex SBDC081 SPB103 Diver 200m SUMO JAPAN MADE ( NEW )"@de	1
+COL title VAL  "T1204071105100 Tissot Seastar 1000 Powermatic 80"@en	COL title VAL  "Tissot T120.407.11.051.00 Watch SEASTAR 1000 POWERMATIC 80"@en	1
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Watch"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CBL2111.FC6453"@en	0
+COL title VAL  "Tissot T120.407.11.051.00 Watch SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 T120.407.11.041.01"@en	0
+COL title VAL  "Swiss Military Hanowa06-6278.04.001.07 Navalus montre"@en	COL title VAL  "Relógio Swiss Military Hanowa06-6278.04.001.07 Navalus"@en	1
+COL title VAL  "Swiss Military Hanowa Flagship 06-5161.2.04.007"@en	COL title VAL  "Swiss Military Hanowa Immersion 06-4226.30.003.03"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071104101"@en	COL title VAL  "TISSOT T-SPORT SEASTAR 1000 POWERMATIC"@en	1
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 Sub Professional men's watch"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Swiss Quartz Sapphire Crystal Men's Watch"@en	0
+COL title VAL  "Daniel Wellington - Classic Sheffield Silver - 40mm"@de	COL title VAL  "Daniel Wellington Classic Black Cornwall"@en	0
+COL title VAL  "Tag Heuer Formula 1 WAZ2011.BA0842"@de	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Grey Dial Men's Watch - WAZ2011.BA0842"@en	1
+COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial Master Chronometer Chronograph 215.30.46.51.03.001"@en	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.03.001"@en	1
+COL title VAL  "Tag Heuer Carrera Quartz Chronograph Stainless Steel Watch CBK2112.BA0715"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CAW211P.FC6356"@en	0
+COL title VAL  "TISSOT T1204071105100 Seastar Powermatic 80"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071105100"@en	1
+COL title VAL  "Tissot VisoDate Heritage Mesh Bracelet Watch"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071105100"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 Silicium"@en	COL title VAL  "TISSOT T-SPORT SEASTAR 1000 POWERMATIC"@en	1
+COL title VAL  "Tissot T120.407.11.051.00 Seastar 1000 Powermatic 80 Black Dial 43mm"@en	COL title VAL  "Tissot T120.407.17.041.00 Seastar 1000 Powermatic 80 Blue Dial Rubber 43mm"@en	0
+COL title VAL  "Daniel Wellington Unisex Classic Sheffield 36mm Rose Gold Black DW00100036"@en	COL title VAL  "Daniel Wellington DW00100150 Classic Cornwall Rose 36mm Black"@en	0
+COL title VAL  "Swiss Military Hanowa06-4226.30.003.03 Immersion Uhr"@en	COL title VAL  "Swiss Military Hanowa06-5161.2.04.003 Flagship montre"@en	0
+COL title VAL  "Daniel Wellington Unisex Classic Sheffield 36mm Rose Gold Black DW00100036"@en	COL title VAL  "Daniel Wellington Classic Collection Sheffield DW00100036"@en	1
+COL title VAL  "AAA Replica Omega Seamaster Planet Ocean 600M Chronometer Chronograph Orange Watch 215.32.46.51.01.001"@en	COL title VAL  "Omega Horloge Seamaster 46mm Planet Ocean 600M Co-Axial Master ChronometerChronograph 215.32.46.51.01.001"@en	1
+COL title VAL  "Daniel Wellington Classic Black Cornwall Rose Gold 36mm Watch"@en	COL title VAL  "Daniel Wellington Classic Black Cornwall Watch | Rose Gold 36mm"@en	1
+COL title VAL  "Buy Quality Replica Tag Heuer Monaco Steve McQueen Chronograph Watch CAW211P.FC6356"@en	COL title VAL  "Cheap Replica Tag Heuer Monaco Steve McQueen Chronograph Watch CAW211P.FC6356"@en	1
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Two-Tone Rubber Watch 215.32.46.51.01.001"@en	COL title VAL  "Omega Seamaster Planet Ocean Chronograph Automatic 215.30.46.51.01.001"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 T1204071704100"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	0
+COL title VAL  "OROLOGIO TISSOT SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "Tissot Tissot T1204071704100 Seastar 660/1000 horloge"@en	1
+COL title VAL  "Tag Heuer Carrera Quartz Chronograph Stainless Steel Watch CBK2112.BA0715"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Watch"@en	0
+COL title VAL  "Daniel Wellington DW00100007 Classic Sheffield Rose 40mm White"@en	COL title VAL  "Relógio Daniel Wellington Classic Sheffield DW00100020"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Swiss Quartz Sapphire Crystal Men's Watch"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	1
+COL title VAL  "AAA Replica Omega Seamaster Planet Ocean 600M Chronometer Chronograph Orange Watch 215.32.46.51.01.001"@en	COL title VAL  "Buy Quality Replica Omega Seamaster Planet Ocean 600M Steel Chronometer Chronograph Watch 215.30.46.51.01.001"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 T120.407.11.051.00 (T120.407.11.051.00)"@en	COL title VAL  "Tissot T120.417.11.051.00 Watch SEASTAR 1000 CHRONOGRAPH"@en	0
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CAW211P.FC6356"@en	COL title VAL  "TAG Heuer Monaco Calibre 11 CAW211P.FC6356"@es	1
+COL title VAL  "Tag Heuer Carrera Quartz Chronograph Stainless Steel Watch CBK2112.BA0715"@en	COL title VAL  "Cheap Replica Tag Heuer Carrera Heuer 02 Chronograph GMT Watch CBG2A1Z.BA0658"@en	0
+COL title VAL  "T1204071105100 Tissot Seastar 1000 Powermatic 80"@en	COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.11.051.00"@en	1
+COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.11.051.00 (T120.417.11.051.00)"@en	COL title VAL  "TISSOT SEASTAR 1000 QUARTZ T120.417.11.051.00"@vi	1
+COL title VAL  "Swiss Military Hanowa06-5161.2.04.007 Flagship Uhr"@en	COL title VAL  "Swiss Military Hanowa06-6278.04.001.07 Navalus montre"@en	0
+COL title VAL  "Buy Quality Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470ST.OO.A099CR.01"@en	COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.A125CR.01"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 T120.407.11.041.01"@en	0
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CAW211P.FC6356"@en	COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch WAZ2011.BA0842"@de	0
+COL title VAL  "Relógio Daniel Wellington Classic Sheffield DW00100020"@en	COL title VAL  "Daniel Wellington Classic Collection Sheffield DW00100036"@en	0
+COL title VAL  "Zegarek Omega Seamaster Planet Ocean 600M Co-Axial Chronograph 45.5mm 215.30.46.51.03.001"@en	COL title VAL  "Omega Horloge Seamaster 46mm Planet Ocean 600M Co-Axial Master ChronometerChronograph 215.32.46.51.01.001"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071105100"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071704100"@en	0
+COL title VAL  "Seastar 1000 Powermatic 80 - T120.407.17.041.00"@en	COL title VAL  "Tissot T120.407.11.051.00 Watch SEASTAR 1000 POWERMATIC 80"@en	0
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071105100"@en	COL title VAL  "Seastar 1000 Powermatic 80 Silicium Men's Watch"@en	0
+COL title VAL  "Planet Ocean 600M Omega Co-Axial Master Chronometer Chronograph 45.5mm 215.30.46.51.03.001"@en	COL title VAL  "Buy Quality Replica Omega Seamaster Planet Ocean 600m Co-Axial Master Chronometer GMT ETNZ Deep Black Mens Watch 215.92.46.22.01.004"@en	0
+COL title VAL  "Planet Ocean 600M Omega Co-Axial Master Chronometer Chronograph 45.5mm 215.30.46.51.03.001"@en	COL title VAL  "Omega Seamaster Planet Ocean 600m Co-Axial Master Chronometer GMT 45.5mm (215.92.46.22.01.004) ETNZ Deep Black"@en	0
+COL title VAL  "Audemars Piguet-Audemars Piguet Royal Oak Chronograph 41mm Mens Watch-26331ST.OO.1220ST.02"@en	COL title VAL  "Audemars Piguet Royal Oak Chronograph Stainless Steel Watch Replica"@en	1
+COL title VAL  "Zegarek Omega Seamaster Planet Ocean 600M Co-Axial Chronograph 45.5mm 215.30.46.51.03.001"@en	COL title VAL  "AAA Replica Omega Seamaster Planet Ocean 600M Chronograph Stainless Steel Blue Watch 215.30.46.51.03.001"@en	1
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Watch"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CBG2A1Z.BA0658"@en	0
+COL title VAL  "Swiss Military Hanowa06-5161.2.04.007 Flagship Uhr"@en	COL title VAL  "Swiss Military Hanowa Flagship 06-5161.2.04.007"@en	1
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Watch"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CAW211P.FC6356"@en	0
+COL title VAL  "Tag Heuer Carrera Quartz Chronograph Stainless Steel Watch CBK2112.BA0715"@en	COL title VAL  "Tag Heuer Carrera Quartz Chronograph Stainless Steel Watch CBG2A1Z.BA0658"@en	0
+COL title VAL  "Tissot T120.407.11.051.00 Seastar 1000 Powermatic 80 Black Dial 43mm"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80 T120.407.11.051.00 (T120.407.11.051.00)"@en	1
+COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470ST.OO.A099CR.01"@en	COL title VAL  "Buy Quality Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470ST.OO.A099CR.01"@en	1
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Watch"@en	COL title VAL  "TAG Heuer Formula 1 Calibre 5 Men's Watch"@en	1
+COL title VAL  "Zegarek Omega Seamaster Planet Ocean 600M Co-Axial Chronograph 45.5mm 215.30.46.51.03.001"@en	COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.03.001"@en	1
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	COL title VAL  "Buy Quality Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	1
+COL title VAL  "Relógio Daniel Wellington Classic Sheffield DW00100020"@en	COL title VAL  "Seiko Mens Prospex Automatic Divers Green Dial Bracelet Watch SPB103J1"@en	0
+COL title VAL  "TAG Heuer Carrera Automatic Blue Dial Men's CBK2112.BA0715"@ca	COL title VAL  "Tag Heuer Carrera Quartz Chronograph Stainless Steel Watch CBG2A1Z.BA0658"@en	0
+COL title VAL  "Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch - 26470OR.OO.A125CR.01"@en	COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.A125CR.01"@en	1
+COL title VAL  "T1204071105100 Tissot Seastar 1000 Powermatic 80"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071104101"@en	0
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470OR.OO.1000OR.02"@en	COL title VAL  "Buy Quality Replica Audemars Piguet Royal Oak Offshore Chronograph Watch 26470ST.OO.A099CR.01"@en	0
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Men's Watch"@en	COL title VAL  "Formula 1 Grey/Steel Ø43 mm ref. WAZ2011.BA0842"@en	1
+COL title VAL  "215.30.46.51.01.001 Omega Seamaster Planet Ocean Chronograph 45.5mm"@en	COL title VAL  "Omega Seamaster Planet Ocean 600m Co-Axial Master Chronometer GMT 45.5mm (215.92.46.22.01.004) ETNZ Deep Black"@en	0
+COL title VAL  "TAG Heuer Formula 1 Calibre 5 Automatic Grey Dial Men's Watch - WAZ2011.BA0842"@en	COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch WAZ2011.BA0842"@de	1
+COL title VAL  "TAG HEUER MONACO AUTOMATIC CHRONOGRAPH"@en	COL title VAL  "TAG Heuer Automatic Chronograph Watch CAW211P.FC6356"@en	1
+COL title VAL  "Seastar 1000 Powermatic 80 Silicium Men's Watch"@en	COL title VAL  "TISSOT T-SPORT SEASTAR 1000 POWERMATIC"@en	1
+COL title VAL  "Omega Seamaster 300 Master Co-Axial Stainless Steel & 18K Sedna Gold"@en	COL title VAL  "Seamaster Planet Ocean 600M Omega Co-axial Master Chronometer GMT 45.5mm"@en	0
+COL title VAL  "Seiko Mens Presage Automatic Blue Date Dial Stainless Steel Bracelet Watch SRPD41J1"@en	COL title VAL  "Seiko Mens Prospex Automatic Divers Green Dial Bracelet Watch SPB103J1"@en	0
+COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Chronograph White Dail Watch 26331ST.OO.1220ST.03"@en	COL title VAL  "Audemars Piguet-Audemars Piguet Royal Oak Chronograph 41mm Mens Watch-26331ST.OO.1220ST.02"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.03.001"@en	COL title VAL  "Omega Seamaster Planet Ocean Chronograph Automatic 215.30.46.51.01.001"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 232.30.46.51.01.002"@en	COL title VAL  "AAA Replica Omega Seamaster Planet Ocean 600M Chronometer Chronograph Orange Watch 215.32.46.51.01.001"@en	0
+COL title VAL  "TISSOT SEASTAR 1000 QUARTZ T120.417.11.051.00"@vi	COL title VAL  "TISSOT SEASTAR 1000 AUTOMATIC T120.407.17.041.00"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	COL title VAL  "TISSOT SEASTAR 1000 QUARTZ T120.417.11.051.00"@vi	1
+COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.007 Herrenuhr"@en	COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.003 Herrenuhr"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean 600m Co-Axial Master Chronometer GMT 45.5mm (215.92.46.22.01.004) ETNZ Deep Black"@en	COL title VAL  "Seamaster Planet Ocean 600M Omega Co-axial Master Chronometer GMT 45.5mm"@en	1
+COL title VAL  "Tissot Seastar Watch 1000 Automatic Black Rubber Blue Dial T120.407.17.041.00"@en	COL title VAL  "Tissot T120.407.17.041.00 Seastar 1000 Powermatic 80 Blue Dial Rubber 43mm"@en	1
+COL title VAL  "Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch - 26470OR.OO.A125CR.01"@en	COL title VAL  "Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch - 26470ST.OO.A099CR.01"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071704100"@en	COL title VAL  "OROLOGIO TISSOT SEASTAR 1000 POWERMATIC 80"@en	1
+COL title VAL  "Tag Heuer Formula 1 WAZ2011.BA0842"@de	COL title VAL  "Cheap Replica Tag Heuer Formula 1 Automatic Mens Watch WAZ2011.BA0842"@en	1
+COL title VAL  "Tissot Mens T-Sport Seastar 1000 Chronograph Black Dial Stainless Steel Bracelet Watch T120.417.11.051.00"@en	COL title VAL  "Tissot T120.417.11.051.00 Watch SEASTAR 1000 CHRONOGRAPH"@en	1
+COL title VAL  "Daniel Wellington Classic Sheffield Rose 40mm -rannekello DW00100007"@en	COL title VAL  "Daniel Wellington Classic St Mawes Rose 40mm -rannekello DW00100006"@en	0
+COL title VAL  "TISSOT T1204071105100 Seastar Powermatic 80"@en	COL title VAL  "OROLOGIO TISSOT SEASTAR 1000 POWERMATIC 80"@en	0
+COL title VAL  "Daniel Wellington Classic Sheffield Rose 40mm -rannekello DW00100007"@en	COL title VAL  "Daniel Wellington DW00100007 Classic Sheffield Rose 40mm White"@en	1
+COL title VAL  "TISSOT SEASTAR 1000 CHRONOGRAPH T120.417.17.041.00 (T120.417.17.041.00)"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171704100"@en	1
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Watch T1204171105100"@en	COL title VAL  "Tissot Seastar 1000 Powermatic 80 Watch T1204071105100"@en	0
+COL title VAL  "Cheap Replica Tag Heuer Formula 1 Automatic Mens Watch WAZ2011.BA0842"@en	COL title VAL  "Cheap Replica Tag Heuer Monaco Steve McQueen Chronograph Watch CAW211P.FC6356"@en	0
+COL title VAL  "Tag Heuer Carrera Quartz Chronograph Stainless Steel Watch CBK2112.BA0715"@en	COL title VAL  "Replica watch TAG Heuer Carrera Automatic Blue Dial Men's Watch CBK2112.BA0715"@en	1
+COL title VAL  "Tissot Mens T-Touch Expert Solar Black Leather Strap Watch T091.420.46.051.01"@en	COL title VAL  "Tissot T-Touch Expert Solar Men's Watch - T0914204605101"@en	1
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Swiss Quartz Sapphire Crystal Men's Watch"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic Mens Watch"@en	0
+COL title VAL  "Audemars Piguet Royal Oak Chronograph Watch 26331ST.OO.1220ST.03"@en	COL title VAL  "Audemars Piguet-Audemars Piguet Royal Oak Chronograph 41mm Mens Watch-26331ST.OO.1220ST.02"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic Mens Watch"@en	COL title VAL  "TISSOT T-SPORT SEASTAR 1000 POWERMATIC"@en	0
+COL title VAL  "Zegarek Omega Seamaster Planet Ocean 600M Co-Axial Chronograph 45.5mm 215.30.46.51.03.001"@en	COL title VAL  "215.30.46.51.01.001 Omega Seamaster Planet Ocean Chronograph 45.5mm"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Swiss Quartz Sapphire Crystal Men's Watch"@en	COL title VAL  "TISSOT -Seastar 1000 Chronograph- T120.417.11.051.00"@en	1
+COL title VAL  "TAG Heuer Automatic Chronograph Watch CBL2111.FC6453"@en	COL title VAL  "Tag Heuer Monaco watch on leather strap"@en	1
+COL title VAL  "Omega Seamaster Planet Ocean Automatic Chronograph Stainless Steel Watch 215.30.46.51.03.001"@en	COL title VAL  "Planet Ocean 600M Omega Co-Axial Master Chronometer Chronograph 45.5mm 215.30.46.51.03.001"@en	1
+COL title VAL  "Relógio Swiss Military Hanowa06-6278.04.001.07 Navalus"@en	COL title VAL  "Relógio Swiss Military Hanowa06-4226.30.003.03 Immersion"@en	0
+COL title VAL  "Swiss Military Hanowa Swiss Military Hanowa Undercover Multifunction 06-4307.30.007"@en	COL title VAL  "Relógio Swiss Military Hanowa06-4307.30.007 Undercover Multifunction"@en	1
+COL title VAL  "TISSOT SEASTAR 1000 AUTOMATIC T120.407.17.041.00"@en	COL title VAL  "Tissot Tissot T1204071704100 Seastar 660/1000 horloge"@en	1
+COL title VAL  "Tissot Seastar 1000 Powermatic 80 Silicium"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071104101"@en	1
+COL title VAL  "Tissot T-Sport Seastar 1000 Powermatic 80 Watch T1204071704100"@en	COL title VAL  "TISSOT SEASTAR 1000 POWERMATIC 80"@en	1
+COL title VAL  "Tissot T120.407.11.051.00 Seastar 1000 Powermatic 80 Black Dial 43mm"@en	COL title VAL  "Tissot Seastar Watch 1000 Automatic Black Rubber Blue Dial T120.407.17.041.00"@en	0

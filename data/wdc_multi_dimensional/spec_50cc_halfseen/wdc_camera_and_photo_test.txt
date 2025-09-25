@@ -1,0 +1,129 @@
+COL title VAL  "DJI Inspire 2 | Matrice 200 | DJI Matrice 210 Charging Hub | Spare Part 8"@en	COL title VAL  "Fujifilm 8-16mm f2.8 XF R LM WR Lens"@de	0
+COL title VAL  "Full Frame E-Mount FE20mm F1.8 Wide Angle G Lens"@de	COL title VAL  "FUJIFILM XF 8-16mm f/2.8 R LM WR Lens"@de	0
+COL title VAL  "Canon RF24-105mm F4-7.1 IS STM"@en	COL title VAL  "Canon EF 24-105mm f4 L IS II USM"@en	0
+COL title VAL  "FE 85MM F/1.8 TELEPHOTO PRIME LENS FOR E-MOUNT CAMERAS"@en	COL title VAL  "RF 24-105MM F4-7.1 IS STM STANDARD ZOOM LENS FOR RF MOUNT CAMERAS - BLACK"@de	0
+COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	COL title VAL  "Manfrotto MK290LTA3 Video Tripod with Fluid Head"@en	0
+COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	COL title VAL  "Manfrotto MK290LTA3 Video Tripod with Fluid Head"@en	0
+COL title VAL  "AF-S FX 24-85MM F3.5-4.5G ED VR"@de	COL title VAL  "Nikon AF-S 24-85mm f3.5-4.5 G ED VR"@de	1
+COL title VAL  "Canon EF 24-105mm f4 L IS II USM"@en	COL title VAL  "EF 24-105mm f/4L IS II USM"@en	1
+COL title VAL  "Full Frame E-Mount FE20mm F1.8 Wide Angle G Lens"@de	COL title VAL  "Sony FE 20mm F1.8 G Lens"@en	1
+COL title VAL  "Manfrotto MK190X3+804MK2 3-way head tripod"@en	COL title VAL  "Manfrotto 055 XPRO Aluminium Stativ (3 Segmente) + XPRO Magnesium Kugelkopf 200PL - MK055XPRO3-BHQ2"@it	0
+COL title VAL  "Sony 10-18mm f/4.0 OSS SEL Lens"@en	COL title VAL  "Sony SEL 70-200mm f/4 FE OSS"@en	0
+COL title VAL  "Sony SEL-70200G F4 OSS"@pl	COL title VAL  "Sony 10-18mm f/4.0 OSS SEL Lens"@en	0
+COL title VAL  "Canon EF 100mm f/2.8 L Macro IS USM"@it	COL title VAL  "Canon EF 24-105mm f4 L IS II USM"@en	0
+COL title VAL  "Canon EF 100mm f/2.8 L Macro IS USM"@it	COL title VAL  "FE 85MM F/1.8 TELEPHOTO PRIME LENS FOR E-MOUNT CAMERAS"@en	0
+COL title VAL  "Hikvision ColorVu DS-2CD2347G1-LU 4MP Network IP CCTV Dome Camera 2.8mm Fixed Lens Visible Light"@en	COL title VAL  "2MP 25X Network IR PTZ Camera"@en	0
+COL title VAL  "Canon EF 400mm F2.8L IS III USM"@it	COL title VAL  "Canon EF100mm f/2.8L Macro IS USM"@it	0
+COL title VAL  "Sony E PZ 18-200mm f/3.5-6.3 OSS Lens"@en	COL title VAL  "Sony SEL 70-200mm f/4 FE OSS"@en	0
+COL title VAL  "Sony 10-18mm f/4.0 OSS SEL Lens"@en	COL title VAL  "Sony SEL FE 24mm f/1.4 GM E-Mount Lens"@en	0
+COL title VAL  "Manfrotto MK290LTA3 Video Tripod with Fluid Head"@en	COL title VAL  "290 LIGHT ALU BEFREE LIVE FLUID VIDEO HE"@vi	1
+COL title VAL  "Sony FE 400mm f/2.8 GM OSS"@en	COL title VAL  "Sony SEL 70-200mm f/4 FE OSS"@en	0
+COL title VAL  "0000109995| Sony FE 85mm f1.8 FE Lens"@en	COL title VAL  "SONY Sony Lens FE 24mm F1.4 GM"@en	0
+COL title VAL  "Sony SEL FE 24mm f/1.4 GM E-Mount Lens"@en	COL title VAL  "Sony FE 400mm f/2.8 GM OSS"@en	0
+COL title VAL  "Canon EF 100mm f/2.8 L Macro IS USM"@it	COL title VAL  "Canon EF 400mm f2.8L IS III USM Lens"@fr	0
+COL title VAL  "Sony SEL FE 24mm f/1.4 GM E-Mount Lens"@en	COL title VAL  "Sony FE 20mm F1.8 G Lens"@en	0
+COL title VAL  "CANON EF 100mm/2.8L macro IS USME67"@ca	COL title VAL  "Canon EF 100mm f/2.8 L Macro IS USM"@it	1
+COL title VAL  "Manfrotto MKBFRTC4GT-BH Befree GT Travel Carbon Fibre Tripod with 496 Ball Head"@en	COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	0
+COL title VAL  "Canon EF 400mm F2.8L IS III USM"@it	COL title VAL  "Canon EF 24-105mm f4 L IS II USM"@en	0
+COL title VAL  "Sony SEL-70200G F4 OSS"@pl	COL title VAL  "Sony FE 400mm f/2.8 GM OSS"@en	0
+COL title VAL  "0000109995| Sony FE 85mm f1.8 FE Lens"@en	COL title VAL  "Nikon AF-S NIKKOR 50MM F1.8G"@de	0
+COL title VAL  "DJI Inspire 2 Intelligent Charging Hub"@de	COL title VAL  "Canon EF 400mm F2.8L IS III USM"@it	0
+COL title VAL  "Canon EF100mm f/2.8L Macro IS USM"@it	COL title VAL  "Sony FE 400mm f/2.8 GM OSS"@en	0
+COL title VAL  "Full Frame E-Mount FE400mm F2.8 G Master OSS Lens"@de	COL title VAL  "Sony FE 400mm f/2.8 GM OSS"@en	1
+COL title VAL  "Sony SEL FE 24mm f/1.4 GM E-Mount Lens"@en	COL title VAL  "FE 85MM F/1.8 TELEPHOTO PRIME LENS FOR E-MOUNT CAMERAS"@en	0
+COL title VAL  "Sony FE 20mm F1.8 G Lens"@en	COL title VAL  "Nikon AF-S NIKKOR 50MM F1.8G"@de	0
+COL title VAL  "CANON EF 100mm/2.8L macro IS USME67"@ca	COL title VAL  "Canon EF 400mm F2.8L IS III USM"@it	0
+COL title VAL  "Canon RF24-105mm F4-7.1 IS STM"@en	COL title VAL  "Canon EF 400mm F2.8L IS III USM"@it	0
+COL title VAL  "Full Frame E-Mount FE20mm F1.8 Wide Angle G Lens"@de	COL title VAL  "0000010490| Samyang 24mm F1.4 Nikon AE Full Frame Lens"@tl	0
+COL title VAL  "Hikvision Dome Wall mount Bracket - DS-1273ZJ-140"@en	COL title VAL  "Camera de supraveghere Hikvision IP Speed Dome DS-2DE5225IW-AE"@en	0
+COL title VAL  "Nikon AF-S NIKKOR 50MM F1.8G"@de	COL title VAL  "Canon EF100mm f/2.8L Macro IS USM"@it	1
+COL title VAL  "CANON EF 100mm/2.8L macro IS USME67"@ca	COL title VAL  "Canon EF 24-105mm f4 L IS II USM"@en	0
+COL title VAL  "Sony FE 400mm f/2.8 GM OSS"@en	COL title VAL  "Nikon AF-S 24-85mm f3.5-4.5 G ED VR"@de	0
+COL title VAL  "Canon EF 100mm f/2.8 L Macro IS USM"@it	COL title VAL  "Canon EF100mm f/2.8L Macro IS USM"@it	0
+COL title VAL  "Manfrotto 055 XPRO Aluminium Stativ (3 Segmente) + XPRO Magnesium Kugelkopf 200PL - MK055XPRO3-BHQ2"@it	COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	1
+COL title VAL  "Full Frame E-Mount FE20mm F1.8 Wide Angle G Lens"@de	COL title VAL  "Full Frame E-Mount FE400mm F2.8 G Master OSS Lens"@de	0
+COL title VAL  "Full Frame E-Mount FE400mm F2.8 G Master OSS Lens"@de	COL title VAL  "Canon RF24-105mm F4-7.1 IS STM"@en	0
+COL title VAL  "FE 85MM F/1.8 TELEPHOTO PRIME LENS FOR E-MOUNT CAMERAS"@en	COL title VAL  "Sony E PZ 18-200mm f/3.5-6.3 OSS Telephoto Lens"@en	0
+COL title VAL  "Sony E PZ 18-200mm f/3.5-6.3 OSS Lens"@en	COL title VAL  "Sony 10-18mm f/4.0 OSS SEL Lens"@en	0
+COL title VAL  "Nikon AF-S 24-85mm f3.5-4.5 G ED VR"@de	COL title VAL  "Sony SEL FE 24mm f/1.4 GM E-Mount Lens"@en	0
+COL title VAL  "Sony FE 20mm F1.8 G Lens"@en	COL title VAL  "Sony SEL 35mm/F2.8 FE Full Frame"@en	0
+COL title VAL  "Canon EF 100mm f/2.8 L Macro IS USM"@it	COL title VAL  "Sony FE 400mm f/2.8 GM OSS"@en	0
+COL title VAL  "Full Frame E-Mount FE400mm F2.8 G Master OSS Lens"@de	COL title VAL  "FE 85MM F/1.8 TELEPHOTO PRIME LENS FOR E-MOUNT CAMERAS"@en	0
+COL title VAL  "Nikon AF-S NIKKOR 50MM F1.8G"@de	COL title VAL  "0000010490| Samyang 24mm F1.4 Nikon AE Full Frame Lens"@tl	0
+COL title VAL  "Sony SEL 70-200mm f/4 FE OSS"@en	COL title VAL  "Sony FE 20mm F1.8 G Lens"@en	0
+COL title VAL  "Sony SEL-70200G F4 OSS"@pl	COL title VAL  "Sony SEL 70-200mm f/4 FE OSS"@en	1
+COL title VAL  "Camera de supraveghere Hikvision IP Speed Dome DS-2DE5225IW-AE"@en	COL title VAL  "2MP 25X Network IR PTZ Camera"@en	1
+COL title VAL  "Sony FE 400mm f/2.8 GM OSS"@en	COL title VAL  "Sony E PZ 18-200mm f/3.5-6.3 OSS Lens"@en	0
+COL title VAL  "Manfrotto tripod kit MK190X3-3W1"@en	COL title VAL  "Manfrotto tripod kit Befree GT CF 4 MKBFRTC4GT-BH"@en	0
+COL title VAL  "Manfrotto tripod kit MK190X3-3W1"@en	COL title VAL  "Manfrotto MK290LTA3 Video Tripod with Fluid Head"@en	0
+COL title VAL  "Canon EF 24-105mm f4 L IS II USM"@en	COL title VAL  "RF 24-105MM F4-7.1 IS STM STANDARD ZOOM LENS FOR RF MOUNT CAMERAS - BLACK"@de	0
+COL title VAL  "Sony SEL 70-200mm f/4 FE OSS"@en	COL title VAL  "SONY Sony Lens FE 24mm F1.4 GM"@en	0
+COL title VAL  "0000109995| Sony FE 85mm f1.8 FE Lens"@en	COL title VAL  "Fujifilm 8-16mm f2.8 XF R LM WR Lens"@de	0
+COL title VAL  "Full Frame E-Mount FE20mm F1.8 Wide Angle G Lens"@de	COL title VAL  "FE 85MM F/1.8 TELEPHOTO PRIME LENS FOR E-MOUNT CAMERAS"@en	0
+COL title VAL  "RF 24-105MM F4-7.1 IS STM STANDARD ZOOM LENS FOR RF MOUNT CAMERAS - BLACK"@de	COL title VAL  "Canon RF24-105mm F4-7.1 IS STM"@en	1
+COL title VAL  "Sony SEL FE 24mm f/1.4 GM E-Mount Lens"@en	COL title VAL  "Sony E PZ 18-200mm f/3.5-6.3 OSS Lens"@en	0
+COL title VAL  "Hikvision ColorVu DS-2CD2347G1-LU 4MP Network IP CCTV Dome Camera 2.8mm Fixed Lens Visible Light"@en	COL title VAL  "DS-2CD2347G1-LU Hikvision ColorVu 4MP IP Turret Camera with 2.8mm Fixed Lens, 30m IR, Builtin Mic, IP66"@en	1
+COL title VAL  "Hikvision DS-1273ZJ-140 Bracket"@en	COL title VAL  "Hikvision Dome Wall mount Bracket - DS-1273ZJ-140"@en	1
+COL title VAL  "Canon EF 400mm F2.8L IS III USM"@it	COL title VAL  "Canon EF 100mm f/2.8 L Macro IS USM"@it	0
+COL title VAL  "Full Frame E-Mount FE400mm F2.8 G Master OSS Lens"@de	COL title VAL  "Canon EF 400mm F2.8L IS III USM"@it	0
+COL title VAL  "Manfrotto MK190X3+804MK2 3-way head tripod"@en	COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	0
+COL title VAL  "Nikon AF-S 24-85mm f3.5-4.5 G ED VR"@de	COL title VAL  "Nikon AF-S NIKKOR 50MM F1.8G"@de	0
+COL title VAL  "Sony E PZ 18-200mm f/3.5-6.3 OSS Telephoto Lens"@en	COL title VAL  "Sony 10-18mm f/4.0 OSS SEL Lens"@en	0
+COL title VAL  "Manfrotto tripod kit Befree GT CF 4 MKBFRTC4GT-BH"@en	COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	0
+COL title VAL  "Manfrotto MK190X3+804MK2 3-way head tripod"@en	COL title VAL  "Manfrotto tripod kit MK190X3-3W1"@en	1
+COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	COL title VAL  "Manfrotto tripod kit MK190X3-3W1"@en	0
+COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	0
+COL title VAL  "Sony FE 400mm f/2.8 GM OSS"@en	COL title VAL  "SONY Sony Lens FE 24mm F1.4 GM"@en	0
+COL title VAL  "Canon EF100mm f/2.8L Macro IS USM"@it	COL title VAL  "Canon EF 24-105mm f4 L IS II USM"@en	0
+COL title VAL  "Manfrotto tripod kit MK190X3-3W1"@en	COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	0
+COL title VAL  "Full Frame E-Mount FE400mm F2.8 G Master OSS Lens"@de	COL title VAL  "Canon EF 400mm f2.8L IS III USM Lens"@fr	0
+COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	COL title VAL  "290 LIGHT ALU BEFREE LIVE FLUID VIDEO HE"@vi	0
+COL title VAL  "Canon EF100mm f/2.8L Macro IS USM"@it	COL title VAL  "Full Frame E-Mount FE400mm F2.8 G Master OSS Lens"@de	0
+COL title VAL  "Manfrotto MK190X3+804MK2 3-way head tripod"@en	COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	0
+COL title VAL  "Canon EF100mm f/2.8L Macro IS USM"@it	COL title VAL  "CANON EF 100mm/2.8L macro IS USME67"@ca	0
+COL title VAL  "Sony 10-18mm f/4.0 OSS SEL Lens"@en	COL title VAL  "Sony SEL 35mm/F2.8 FE Full Frame"@en	1
+COL title VAL  "Fujifilm 8-16mm f2.8 XF R LM WR Lens"@de	COL title VAL  "Sony 10-18mm f/4.0 OSS SEL Lens"@en	0
+COL title VAL  "Manfrotto MKBFRTC4GT-BH Befree GT Travel Carbon Fibre Tripod with 496 Ball Head"@en	COL title VAL  "Manfrotto MK290LTA3 Video Tripod with Fluid Head"@en	0
+COL title VAL  "EF 24-105mm f/4L IS II USM"@en	COL title VAL  "Canon EF 100mm f/2.8 L Macro IS USM"@it	0
+COL title VAL  "Sony E PZ 18-200mm f/3.5-6.3 OSS Telephoto Lens"@en	COL title VAL  "Sony SEL FE 24mm f/1.4 GM E-Mount Lens"@en	0
+COL title VAL  "FE 85MM F/1.8 TELEPHOTO PRIME LENS FOR E-MOUNT CAMERAS"@en	COL title VAL  "0000109995| Sony FE 85mm f1.8 FE Lens"@en	1
+COL title VAL  "Sony SEL 35mm/F2.8 FE Full Frame"@en	COL title VAL  "Full Frame E-Mount FE400mm F2.8 G Master OSS Lens"@de	0
+COL title VAL  "Manfrotto 500 Fluid Video Head with 190X Video Aluminum Tripod & Leveling Column Kit"@en	COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	1
+COL title VAL  "Full Frame E-Mount FE20mm F1.8 Wide Angle G Lens"@de	COL title VAL  "Sony SEL 35mm/F2.8 FE Full Frame"@en	0
+COL title VAL  "Full Frame E-Mount FE400mm F2.8 G Master OSS Lens"@de	COL title VAL  "Fujifilm 8-16mm f2.8 XF R LM WR Lens"@de	0
+COL title VAL  "SONY Sony Lens FE 24mm F1.4 GM"@en	COL title VAL  "0000010490| Samyang 24mm F1.4 Nikon AE Full Frame Lens"@tl	0
+COL title VAL  "EF 24-105mm f/4L IS II USM"@en	COL title VAL  "Canon EF100mm f/2.8L Macro IS USM"@it	0
+COL title VAL  "Samyang AE 24mm F1.4 Nikon Black | 2 Years Warranty"@en	COL title VAL  "SONY Sony Lens FE 24mm F1.4 GM"@en	0
+COL title VAL  "Manfrotto tripod kit MK190X3-3W1"@en	COL title VAL  "Manfrotto 500 Fluid Video Head with 190X Video Aluminum Tripod & Leveling Column Kit"@en	0
+COL title VAL  "Samyang AE 24mm F1.4 Nikon Black | 2 Years Warranty"@en	COL title VAL  "Nikon AF-S NIKKOR 50MM F1.8G"@de	0
+COL title VAL  "Manfrotto 055 XPRO Aluminium Stativ (3 Segmente) + XPRO Magnesium Kugelkopf 200PL - MK055XPRO3-BHQ2"@it	COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	0
+COL title VAL  "Sony SEL 35mm/F2.8 FE Full Frame"@en	COL title VAL  "FE 85MM F/1.8 TELEPHOTO PRIME LENS FOR E-MOUNT CAMERAS"@en	0
+COL title VAL  "Manfrotto 500 Fluid Video Head with 190X Video Aluminum Tripod & Leveling Column Kit"@en	COL title VAL  "Manfrotto MKBFRTC4GT-BH Befree GT Travel Carbon Fibre Tripod with 496 Ball Head"@en	0
+COL title VAL  "Canon EF 400mm f2.8L IS III USM Lens"@fr	COL title VAL  "Canon EF100mm f/2.8L Macro IS USM"@it	0
+COL title VAL  "Manfrotto 500 Fluid Video Head with 190X Video Aluminum Tripod & Leveling Column Kit"@en	COL title VAL  "Manfrotto MK290LTA3 Video Tripod with Fluid Head"@en	0
+COL title VAL  "Sony FE 400mm f/2.8 GM OSS"@en	COL title VAL  "0000109995| Sony FE 85mm f1.8 FE Lens"@en	0
+COL title VAL  "DJI Inspire 2 Intelligent Charging Hub"@de	COL title VAL  "DJI Inspire 2 | Matrice 200 | DJI Matrice 210 Charging Hub | Spare Part 8"@en	1
+COL title VAL  "Hikvision Dome Wall mount Bracket - DS-1273ZJ-140"@en	COL title VAL  "Hikvision ColorVu DS-2CD2347G1-LU 4MP Network IP CCTV Dome Camera 2.8mm Fixed Lens Visible Light"@en	0
+COL title VAL  "Camera de supraveghere Hikvision IP Speed Dome DS-2DE5225IW-AE"@en	COL title VAL  "Hikvision ColorVu DS-2CD2347G1-LU 4MP Network IP CCTV Dome Camera 2.8mm Fixed Lens Visible Light"@en	0
+COL title VAL  "Canon EF 400mm f2.8L IS III USM Lens"@fr	COL title VAL  "CANON EF 100mm/2.8L macro IS USME67"@ca	0
+COL title VAL  "Canon EF 400mm F2.8L IS III USM"@it	COL title VAL  "Canon EF 400mm f2.8L IS III USM Lens"@fr	1
+COL title VAL  "Manfrotto MK190X3+804MK2 3-way head tripod"@en	COL title VAL  "Manfrotto MK290LTA3 Video Tripod with Fluid Head"@en	0
+COL title VAL  "Samyang AE 24mm F1.4 Nikon Black | 2 Years Warranty"@en	COL title VAL  "0000010490| Samyang 24mm F1.4 Nikon AE Full Frame Lens"@tl	1
+COL title VAL  "Sony E PZ 18-200mm f/3.5-6.3 OSS Lens"@en	COL title VAL  "Sony E PZ 18-200mm f/3.5-6.3 OSS Telephoto Lens"@en	1
+COL title VAL  "290 LIGHT ALU BEFREE LIVE FLUID VIDEO HE"@vi	COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	0
+COL title VAL  "Manfrotto MKBFRTC4GT-BH Befree GT Travel Carbon Fibre Tripod with 496 Ball Head"@en	COL title VAL  "Manfrotto tripod kit Befree GT CF 4 MKBFRTC4GT-BH"@en	1
+COL title VAL  "FUJIFILM XF 8-16mm f/2.8 R LM WR Lens"@de	COL title VAL  "Sony 10-18mm f/4.0 OSS SEL Lens"@en	0
+COL title VAL  "FUJIFILM XF 8-16mm f/2.8 R LM WR Lens"@de	COL title VAL  "Fujifilm 8-16mm f2.8 XF R LM WR Lens"@de	1
+COL title VAL  "Sony SEL FE 24mm f/1.4 GM E-Mount Lens"@en	COL title VAL  "Sony SEL 70-200mm f/4 FE OSS"@en	0
+COL title VAL  "Canon EF 100mm f/2.8 L Macro IS USM"@it	COL title VAL  "290 LIGHT ALU BEFREE LIVE FLUID VIDEO HE"@vi	0
+COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	COL title VAL  "Manfrotto 500 Fluid Video Head with 190X Video Aluminum Tripod & Leveling Column Kit"@en	0
+COL title VAL  "0000109995| Sony FE 85mm f1.8 FE Lens"@en	COL title VAL  "Sony SEL 35mm/F2.8 FE Full Frame"@en	0
+COL title VAL  "Nikon AF-S NIKKOR 50MM F1.8G"@de	COL title VAL  "AF-S FX 24-85MM F3.5-4.5G ED VR"@de	0
+COL title VAL  "Sony FE 400mm f/2.8 GM OSS"@en	COL title VAL  "Sony FE 20mm F1.8 G Lens"@en	0
+COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	COL title VAL  "Manfrotto tripod kit Befree GT CF 4 MKBFRTC4GT-BH"@en	0
+COL title VAL  "Canon EF 100mm f/2.8 L Macro IS USM"@it	COL title VAL  "FUJIFILM XF 8-16mm f/2.8 R LM WR Lens"@de	0
+COL title VAL  "0000109995| Sony FE 85mm f1.8 FE Lens"@en	COL title VAL  "Sony FE 20mm F1.8 G Lens"@en	0
+COL title VAL  "SONY Sony Lens FE 24mm F1.4 GM"@en	COL title VAL  "Sony SEL FE 24mm f/1.4 GM E-Mount Lens"@en	1
+COL title VAL  "SONY Sony Lens FE 24mm F1.4 GM"@en	COL title VAL  "Sony FE 20mm F1.8 G Lens"@en	0
+COL title VAL  "Sony SEL 70-200mm f/4 FE OSS"@en	COL title VAL  "Sony E PZ 18-200mm f/3.5-6.3 OSS Telephoto Lens"@en	0
+COL title VAL  "Canon EF100mm f/2.8L Macro IS USM"@it	COL title VAL  "Canon RF24-105mm F4-7.1 IS STM"@en	0

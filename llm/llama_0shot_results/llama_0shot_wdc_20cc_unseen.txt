@@ -1,0 +1,14 @@
+~~~ hf:meta-llama/Meta-Llama-3.1-8B-Instruct 0-shot ~~~
+wdc_automotive_test.txt F1: 0.615385
+wdc_camera_and_photo_test.txt F1: 0.800000
+wdc_cell_phones_and_accessories_test.txt F1: 0.600000
+wdc_clothing_test.txt F1: 0.666667
+wdc_computers_and_accessories_test.txt F1: 0.659218
+wdc_home_and_garden_test.txt F1: 0.789474
+wdc_jewelry_test.txt F1: 0.573705
+wdc_movies_and_tv_test.txt F1: 0.814815
+wdc_musical_instruments_test.txt F1: 0.636364
+wdc_office_products_test.txt F1: 0.635220
+wdc_other_electronics_test.txt F1: 0.655367
+wdc_sports_and_outdoors_test.txt F1: 0.923077
+wdc_tools_and_home_improvement_test.txt F1: 0.615385

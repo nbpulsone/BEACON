@@ -1,0 +1,70 @@
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Kallvit"@en	COL title VAL  "Philips TL5 HE 14W 865 (MASTER) | 55cm - Daylight"@en	0
+COL title VAL  "Philips TL5 HE 14W 865 (MASTER) | 55cm - Daylight"@en	COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	0
+COL title VAL  "PHILIPS Trubice 14W/830 MASTER HE TL5"@en	COL title VAL  "PHILIPS Trubice 35W/840 MASTER HE TL5"@en	0
+COL title VAL  "PHILIPS Trubice 14W/830 MASTER HE TL5"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - kold hvid"@et	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Kallvit"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - kold hvid"@et	1
+COL title VAL  "Neff B47CR32N0B Slide&Hide® Built-in Single Oven"@de	COL title VAL  "NEFF 600mm Pyrolytic Slide & Hide Oven"@da	0
+COL title VAL  "Philips TL-lamp type MASTER TL-D Secura 18W/840"@en	COL title VAL  "PHILIPS Trubice 35W/840 MASTER HE TL5"@en	0
+COL title VAL  "Bosch KGN34NWEAG 60cm Frost Free Fridge Freezer"@de	COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer - Silver"@de	0
+COL title VAL  "PHILIPS Trubice 14W/830 MASTER HE TL5"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Kallvit"@en	0
+COL title VAL  "NEFF B57CR22N0B Pyrolytic SLIDE&HIDE® Oven"@en	COL title VAL  "Neff K1514X7GB Built-in Single Door Fridge"@de	0
+COL title VAL  "Neff T26DS49N0 60 cm Gas Hob"@en	COL title VAL  "NEFF 600mm Pyrolytic Slide & Hide Oven"@da	0
+COL title VAL  "Philips TL-lamp type MASTER TL-D Secura 18W/840"@en	COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	0
+COL title VAL  "Fisher & Paykel 8kg Front Load Washer"@en	COL title VAL  "Fisher & Paykel Front Loader Washing Machine, 8kg"@en	1
+COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Kallvit"@en	0
+COL title VAL  "PHILIPS Trubice 14W/830 MASTER HE TL5"@en	COL title VAL  "10.0 cu. ft. Smart Double Wall Oven with Touchscreen"@en	0
+COL title VAL  "NEFF B57CR22N0B Pyrolytic SLIDE&HIDE® Oven"@en	COL title VAL  "NEFF 600mm Pyrolytic Slide & Hide Oven"@da	1
+COL title VAL  "Bosch Tall Frost Free Fridge Freezer KGN34NWEAG"@de	COL title VAL  "Bosch KGN34NWEAG 60cm Frost Free Fridge Freezer"@de	1
+COL title VAL  "7kg Simpson Top Load Washing Machine"@en	COL title VAL  "Fisher & Paykel Front Loader Washing Machine, 8kg"@en	0
+COL title VAL  "FLUORESCENTE T5 35w/830 145cm 3000k"@pl	COL title VAL  "MASTER TL5 HE 35W 840 G5"@de	0
+COL title VAL  "Berkel 829E-PLUS 14\" Manual Gravity Feed Meat Slicer - 1/2 hp"@en	COL title VAL  "Berkel 829e-plus Manual Gravity Feed Slicer 14\""@en	1
+COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	COL title VAL  "PHILIPS Trubice 14W/830 MASTER HE TL5"@en	1
+COL title VAL  "Bosch Tall Frost Free Fridge Freezer KGN34NWEAG"@de	COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer - Silver"@de	0
+COL title VAL  "Philips TL5 HE 14W 865 (MASTER) | 55cm - Daylight"@en	COL title VAL  "MASTER TL5 HE 35W 840 G5"@de	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Kallvit"@en	COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	0
+COL title VAL  "PHILIPS Trubice 35W/840 MASTER HE TL5"@en	COL title VAL  "PH TL-5 35W/830 HE"@pl	0
+COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer - Silver"@de	COL title VAL  "Neff K1514X7GB Series 1 Frost Free Integrated Fridge A+"@en	0
+COL title VAL  "Neff K1514X7GB Built-in Single Door Fridge"@de	COL title VAL  "NEFF 600mm Pyrolytic Slide & Hide Oven"@da	0
+COL title VAL  "Fisher & Paykel 8kg Front Load Washer"@en	COL title VAL  "Simpson SWT7055LMWA 7kg Top Load Washer"@en	0
+COL title VAL  "Philips TL-lamp type MASTER TL-D Secura 18W/840"@en	COL title VAL  "Philips TL-D Secura 18W 840 - 59cm (MASTER)"@en	1
+COL title VAL  "Philips TL5 HE 14W 865 (MASTER) | 55cm - Daylight"@en	COL title VAL  "Philips TL-D Secura 18W 840 - 59cm (MASTER)"@en	0
+COL title VAL  "7kg Simpson Top Load Washing Machine"@en	COL title VAL  "Fisher & Paykel 8kg Front Load Washer"@en	0
+COL title VAL  "Neff B47CR32N0B Slide&Hide® Built-in Single Oven"@de	COL title VAL  "Neff N70 B47CR32N0B Single Built In Electric Oven"@en	1
+COL title VAL  "Bosch Tall Frost Free Fridge Freezer KGN34NWEAG"@de	COL title VAL  "Neff K1514X7GB Series 1 Frost Free Integrated Fridge A+"@en	0
+COL title VAL  "McAllen Signature Design by Ashley Quilt Set Twin"@en	COL title VAL  "Bedding Sets Twin McAllen Quilt Set"@de	1
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Kallvit"@en	COL title VAL  "PHILIPS Trubice 35W/840 MASTER HE TL5"@en	0
+COL title VAL  "30\" Double Wall Oven with Touch Screen and Frozen Bake Technology - Stainless Steel"@en	COL title VAL  "10.0 cu. ft. Smart Double Wall Oven with Touchscreen"@en	1
+COL title VAL  "Neff K1514X7GB Built-in Single Door Fridge"@de	COL title VAL  "Neff B47CR32N0B Slide&Hide® Built-in Single Oven"@de	0
+COL title VAL  "24'' High Backless Blue Metal Restaurant Indoor-Outdoor Counter Height Stool with Square Seat"@en	COL title VAL  "Flash Furniture 24'' High Backless Blue Metal Indoor-Outdoor Counter Height Stool with Square Seat [CH-31320-24-BL-GG]"@en	1
+COL title VAL  "F&P 90cm Gas Cooktop (CG905DWNGFCX3)"@nl	COL title VAL  "Neff T26DS49N0 60 cm Gas Hob"@en	0
+COL title VAL  "Bosch Tall Frost Free Fridge Freezer KGN34NWEAG"@de	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Kallvit"@en	0
+COL title VAL  "PHILIPS Trubice 35W/840 MASTER HE TL5"@en	COL title VAL  "Philips TL5 HE 14W 865 (MASTER) | 55cm - Daylight"@en	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Kallvit"@en	COL title VAL  "MASTER TL5 HE 35W 840 G5"@de	0
+COL title VAL  "PH TL-5 35W/830 HE"@pl	COL title VAL  "MASTER TL5 HE 35W 840 G5"@de	0
+COL title VAL  "Samsung NoFrost Freestanding American Fridge Freezer - Inox | RS68N8220S9"@en	COL title VAL  "Neff K1514X7GB Series 1 Frost Free Integrated Fridge A+"@en	0
+COL title VAL  "Simpson SWT7055LMWA 7kg Top Load Washer"@en	COL title VAL  "7kg Simpson Top Load Washing Machine"@en	1
+COL title VAL  "PHILIPS Trubice 14W/830 MASTER HE TL5"@en	COL title VAL  "FLUORESCENTE T5 35w/830 145cm 3000k"@pl	0
+COL title VAL  "Gardeon 4-piece Rattan Outdoor Set - Black"@nl	COL title VAL  "24'' High Backless Blue Metal Restaurant Indoor-Outdoor Counter Height Stool with Square Seat"@en	0
+COL title VAL  "Samsung NoFrost Freestanding American Fridge Freezer - Inox | RS68N8220S9"@en	COL title VAL  "Bosch KGN34NWEAG 60cm Frost Free Fridge Freezer"@de	0
+COL title VAL  "NEFF B57CR22N0B Pyrolytic SLIDE&HIDE® Oven"@en	COL title VAL  "Neff T26DS49N0 4 Burner Gas Hob"@de	0
+COL title VAL  "MASTER TL5 HE 35W 840 G5"@de	COL title VAL  "PHILIPS Trubice 35W/840 MASTER HE TL5"@en	1
+COL title VAL  "PHILIPS Trubice 14W/830 MASTER HE TL5"@en	COL title VAL  "Philips TL5 HE 14W 865 (MASTER) | 55cm - Daylight"@en	0
+COL title VAL  "Samsung NoFrost Freestanding American Fridge Freezer - Inox | RS68N8220S9"@en	COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer - Silver"@de	1
+COL title VAL  "Philips TL-D Secura 18W 840 - 59cm (MASTER)"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Kallvit"@en	0
+COL title VAL  "Philips TL-lamp type MASTER TL-D Secura 18W/840"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Kallvit"@en	0
+COL title VAL  "Gardeon 4-piece Wicker Outdoor Set - Black"@de	COL title VAL  "Bedding Sets Twin McAllen Quilt Set"@de	0
+COL title VAL  "PH TL-5 35W/830 HE"@pl	COL title VAL  "FLUORESCENTE T5 35w/830 145cm 3000k"@pl	1
+COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	0
+COL title VAL  "Bosch KGN34NWEAG 60cm Frost Free Fridge Freezer"@de	COL title VAL  "Neff K1514X7GB Series 1 Frost Free Integrated Fridge A+"@en	0
+COL title VAL  "Gardeon 4-piece Rattan Outdoor Set - Black"@nl	COL title VAL  "Gardeon 4-piece Wicker Outdoor Set - Black"@de	1
+COL title VAL  "NEFF B57CR22N0B Pyrolytic SLIDE&HIDE® Oven"@en	COL title VAL  "Neff T26DS49N0 60 cm Gas Hob"@en	0
+COL title VAL  "PHILIPS Trubice 35W/840 MASTER HE TL5"@en	COL title VAL  "Philips TL-D Secura 18W 840 - 59cm (MASTER)"@en	0
+COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	COL title VAL  "FLUORESCENTE T5 35w/830 145cm 3000k"@pl	0
+COL title VAL  "F&P 90cm Gas Cooktop (CG905DWNGFCX3)"@nl	COL title VAL  "Gas on Steel Cooktop, 90cm, Flush Fit"@en	1
+COL title VAL  "NEFF B57CR22N0B Pyrolytic SLIDE&HIDE® Oven"@en	COL title VAL  "Neff N70 B47CR32N0B Single Built In Electric Oven"@en	0
+COL title VAL  "Neff B47CR32N0B Slide&Hide® Built-in Single Oven"@de	COL title VAL  "NEFF B57CR22N0B Pyrolytic SLIDE&HIDE® Oven"@en	0
+COL title VAL  "Neff T26DS49N0 4 Burner Gas Hob"@de	COL title VAL  "Neff T26DS49N0 60 cm Gas Hob"@en	1
+COL title VAL  "Neff K1514X7GB Series 1 Frost Free Integrated Fridge A+"@en	COL title VAL  "Neff K1514X7GB Built-in Single Door Fridge"@de	1
+COL title VAL  "Samsung NoFrost Freestanding American Fridge Freezer - Inox | RS68N8220S9"@en	COL title VAL  "Bosch Tall Frost Free Fridge Freezer KGN34NWEAG"@de	0
+COL title VAL  "Neff N70 B47CR32N0B Single Built In Electric Oven"@en	COL title VAL  "Neff K1514X7GB Built-in Single Door Fridge"@de	0
+COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	COL title VAL  "Philips TL5 HE 14W 865 (MASTER) | 55cm - Daylight"@en	1

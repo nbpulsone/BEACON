@@ -1,0 +1,9 @@
+COL title VAL  "100% Speedcraft Soft Tact Black Sunglasses - HiPER Red Multilayer Mirror Lens"@en	COL title VAL  "Ray-Ban 3025 Aviator Sunglasses"@en	0
+COL title VAL  "Square RB 1971 Unisex Sunglasses"@fr	COL title VAL  "Ray-Ban 3025 Aviator Sunglasses"@en	0
+COL title VAL  "RAY-BAN AVIATOR CLASSIC S-RAY 3025-004/58(58IT)"@en	COL title VAL  "Ray-Ban 3025 Aviator Sunglasses"@en	1
+COL title VAL  "Square RB 1971 Unisex Sunglasses"@fr	COL title VAL  "Ray Ban Women Sunglass Square Gradient Blue(Silver)"@de	1
+COL title VAL  "Ray Ban Women Sunglass Square Gradient Blue(Silver)"@de	COL title VAL  "Ray-Ban 3025 Aviator Sunglasses"@en	0
+COL title VAL  "RAY-BAN AVIATOR CLASSIC S-RAY 3025-004/58(58IT)"@en	COL title VAL  "Ray Ban Women Sunglass Square Gradient Blue(Silver)"@de	0
+COL title VAL  "Dutch Doobadoo Dutch Mask Art stencil Bubbles A5"@en	COL title VAL  "Dutch Doobadoo Dutch Mask A5 Bubbles"@en	1
+COL title VAL  "100% Speedcraft Soft Tact Black Sunglasses - HiPER Red Multilayer Mirror Lens"@en	COL title VAL  "100% Speedcraft Sunglasses: Soft Tact Black Frame with HiPER Red Multilayer Mirr (Spare Clear Lens)"@en	1
+COL title VAL  "Radar Ev Matte Black Prizm Trail Torch"@en	COL title VAL  "OAKLEY Radar EV Path Zonnebril"@en	1

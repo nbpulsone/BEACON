@@ -1,0 +1,560 @@
+COL title VAL  "Crucial Ballistix RGB 16GB Kit (2 x 8GB) DDR4-3000 Desktop Gaming Memory (Red) | BL2K8G30C15U4RL | Crucial UK"@en	COL title VAL  "Seagate Backup Plus Slim 2TB silber"@id	0
+COL title VAL  "Asus ROG Strix Slice Gaming Mouse Pad"@en	COL title VAL  "Asus ROG STRIX SLICE Gaming Mouse Pad Ultrathin Design Glow-in-the-dark Logo 350 x 250 x 0.6 mm"@en	1
+COL title VAL  "ASUS ROG Balteus Gaming Musematte"@de	COL title VAL  "Asus ROG Strix Slice Gaming Mouse Pad"@en	0
+COL title VAL  "Philips 258B6QUEB - WQHD IPS Monitor"@en	COL title VAL  "Philips 258B6QUEB25" 2560x1440 5ms VGA DVI DP HDMI USB-C"@en	1
+COL title VAL  "Crucial Memory BL2K16G32C16U4WL 32GB (2x16GB) DDR4 3200MT/s CL16 Unbuffered DIMM Retail"@en	COL title VAL  "672631-B21 HP 16GB (1x16GB) SDRAM DIMM"@de	0
+COL title VAL  "Pendrive 3.0 Sandisk Cruzer Glide 16 GB"@da	COL title VAL  "Pendrive 16GB USB 2.0 Kingston DT104"@de	0
+COL title VAL  "EXT 1TB SG BACKUP+SLIM RED"@de	COL title VAL  "2TB Backup Plus Slim - Red"@de	0
+COL title VAL  "Cruzer Glide USB Flashdrive - 32GB"@de	COL title VAL  "Galaxy A21s 3+32GB Sort"@so	0
+COL title VAL  "HD 3,5 8TB 7200RPM IRONWOLF SEAGATE"@en	COL title VAL  "Seagate Ironwolf 10TB 3.5in NAS Hard Drive"@en	0
+COL title VAL  "ASUS Mouse Gaming ROG Chakram"@en	COL title VAL  "Asus ROG Strix Slice Gaming Mouse Pad"@en	0
+COL title VAL  "Seagate 1TB Backup Plus Slim USB 3.0 External Hard Drive, Red"@en	COL title VAL  "Disco Duro Externo Seagate Backup Plus Slim - 2TB - USB 3.0 - Mac/Win - Plata"@en	0
+COL title VAL  "HD 3,5 8TB 7200RPM IRONWOLF SEAGATE"@en	COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	0
+COL title VAL  "SSD TRANSCEND SSD230S 256Gb 3D NAND SATA 3 Aluminium TS256GSSD230S"@de	COL title VAL  "Transcend SSD230 256GB best price"@en	1
+COL title VAL  "1TB Backup Plus Slim - Blue"@de	COL title VAL  "Seagate 1TB Backup Plus Slim USB 3.0 External Hard Drive, Red"@en	0
+COL title VAL  "Cooler Master MasterFan Cooling Fan"@en	COL title VAL  "Cooler Master MasterLiquid ML240L RGB V2 240mm Liquid CPU Cooler MLW-D24M-A18PC-R2 | PCByte"@en	0
+COL title VAL  "RAM Mount Tab-Tite Cradle 8\" Tablets Samsung Galaxy Tab A 8.0 iPad Mini"@en	COL title VAL  "RAM Tab-Tite™Cradle for 8\" Tablets including Samsung Galaxy Tab A & S2 8.0 with Otterbox Defender Case"@en	0
+COL title VAL  "Western Digital Black NVMe M.2-2280 250GB"@de	COL title VAL  "WD Black SSD 3D NVMe - 250GB"@de	1
+COL title VAL  "Pendrive 16GB USB 2.0 Kingston DT104"@de	COL title VAL  "Pendrive Usb 2.0 16gb Twist Pd588 Multilaser"@en	0
+COL title VAL  "Apple iPad (2018) 128 GB Wifi + 4G Space Gray"@en	COL title VAL  "Refurbished iPad 2018 32GB Space Gray Wifi only"@en	0
+COL title VAL  "Seagate 1TB Backup Plus Slim USB 3.0 External Hard Drive, Red"@en	COL title VAL  "Cooler Master MasterLiquid ML240L RGB V2 240mm Liquid CPU Cooler MLW-D24M-A18PC-R2 | PCByte"@en	0
+COL title VAL  "Samsung 512GB SSD, 860 PRO Series, 2.5\" SATA III, Read up to 560MB/s, Write up to 530MB/s, 100K/90K IOPS"@en	COL title VAL  "Samsung 860 EVO 2.5'' 1TB SATA III 3-D Vertical Internal SSD"@en	0
+COL title VAL  "1TB Backup Plus Slim - Blue"@de	COL title VAL  "WD Black 1TB High-Performance NVMe PCIe Internal SSD - M.2 2280, 8 Gb/s - WDS100T2X0C"@en	0
+COL title VAL  "PEN DRIVE 16GB KINGSTON USB 3.1 DTMC3/16GB"@de	COL title VAL  "SANDISK CRUZER GLIDE USB 3.0 DRIVE 32GB"@de	0
+COL title VAL  "iPad (2017) 32GB 4G Spacegray"@en	COL title VAL  "iPad 2017 32GB Zwart Wifi + 4G (A grade)"@de	1
+COL title VAL  "ASUS MB169B+ 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Zwart, Zilver"@de	COL title VAL  "ASUS ZenScreen MB16ACE 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Grijs"@nl	0
+COL title VAL  "RAM Tab-Tite™ for 10\" Tablets, Tab 4 + more (RAM-HOL-TAB26U)"@en	COL title VAL  "RAM Tab-Tite™ Cradle for 7-8\" Tablets in a heavy duty case"@en	0
+COL title VAL  "ASUS ROG Balteus Vertical Gaming Mouse Pad - ASUS Official Store | Free Shipping and Financing Available"@en	COL title VAL  "ASUS Mouse Gaming ROG Chakram"@en	0
+COL title VAL  "WD Black 4TB SATA 3 Performance HDD/Hard Drive WD4004FZWX"@en	COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	0
+COL title VAL  "32GB Kit (4 x 8GB) Vengeance RGB Pro DDR4 3000MHz, CL15, White, RGB LED, DIMM Memory"@en	COL title VAL  "RAM DDR4 32GB Kit (2x16) PC4-28800 3600MT/s CL16 1.35V Crucial BX Black RGB"@en	0
+COL title VAL  "Targus Magnetic 12inch Screen For MacBook"@en	COL title VAL  "Targus Privacy Screen 12.1" Widescreen Laptops"@en	0
+COL title VAL  "LED LG 27 Inch 27GK750F-B G-Sync Compatible Gaming Monitor"@en	COL title VAL  "Monitor LED LG 24MP59G-P - 24\" - 1920x1080 - VGA - HDMI - DisplayPort"@en	0
+COL title VAL  "Apple iPad (2018) 128 GB Wifi + 4G Space Gray"@en	COL title VAL  "iPad (2018) 128GB 4G Space Gray B grade"@en	1
+COL title VAL  "Kingston DataTraveler 20 USB Flash Drive 2.0 64GB"@no	COL title VAL  "Lexar JumpDrive S57 USB 3.0 flash drive 128GB"@en	0
+COL title VAL  "LG 24GL600F 24 Inch 144Hz Gaming Monitor"@en	COL title VAL  "Monitor LED LG 24MP59G-P - 24\" - 1920x1080 - VGA - HDMI - DisplayPort"@en	0
+COL title VAL  "Apple Refurbished iPad 2018 128GB Silver Wifi + 4G"@en	COL title VAL  "Apple iPad (2018) 128 GB Wifi + 4G Space Gray"@en	0
+COL title VAL  "Privacy Screen 22\"W (16:10)"@en	COL title VAL  "TARGUS Privacy Screen 22inch Widescreen"@en	1
+COL title VAL  "Philips 271S7QJMB - Full HD IPS Monitor"@en	COL title VAL  "25'' Full HD LED TN monitor ASUS"@it	0
+COL title VAL  "Asus ROG STRIX B460-I GAMING LGA 1200 Mini-ITX Motherboard"@en	COL title VAL  "Asus ROG Balteus Qi Wireless Charging Gaming Mouse Pad"@en	0
+COL title VAL  "Crucial Memorie Ballistix Black 16GB(2x8GB) DDR4 2666MHz CL16 Dual Channel Kit"@en	COL title VAL  "RAM DDR4 32GB Kit (2x16) PC4-25600 3200MT/s CL16 1.35V Crucial BX White RGB"@en	0
+COL title VAL  "iPad (2018) 128GB 4G Space Gray B grade"@en	COL title VAL  "iPad 2018 128GB Silver Wifi + 4G (A grade)"@de	0
+COL title VAL  "SSD Samsung 850 EVO 120GB 2.5"@tl	COL title VAL  "Samsung 860 EVO MZ-76E1T0B/AM 1 TB Solid State Drive - 2.5\" Internal - SATA (SATA/600) **"@en	0
+COL title VAL  "Kingston DataTraveler 20 USB Flash Drive 2.0 64GB"@no	COL title VAL  "8GB Kingston DataTraveler 2000 Encrypted USB Flash Drive - Blue"@en	0
+COL title VAL  "ASUS LCD 15.6\" MB16AHP 1920x1080 ZenScreen Go USB Type-C Portable IPS 4h batt Micro-HDMI Foldablecase Auto-Rotate REPRO"@en	COL title VAL  "ASUS ZenScreen 15.6\" FHD IPS, USBC, Flicker Free, Blue Light Filter Portable Screen (MB16AC)"@de	0
+COL title VAL  "Apple 10.2\" iPad (Late 2019, 128GB, Wi-Fi Only, Space Gray)"@en	COL title VAL  "Apple 9.7-inch iPad Wi-Fi - 6th generation - tablet - 32 GB - 9.7\""@en	0
+COL title VAL  "WD4004FZWX WD BLACK 4TB SATA 6GB/S 128MB 7200RPM"@de	COL title VAL  "WD Black 4TB SATA 3 Performance HDD/Hard Drive WD4004FZWX"@en	1
+COL title VAL  "Transcend 480GB 2.5inch SATA III SSD"@en	COL title VAL  "TEAM SSD L3 EVO 240G 2.5INCH"@ca	0
+COL title VAL  "iPad 2018 128GB Silver Wifi + 4G (A grade)"@de	COL title VAL  "Refurbished iPad 2018 32GB Space Gray Wifi only"@en	0
+COL title VAL  "Privacy Screen 17\" (4:3)"@en	COL title VAL  "TARGUS Privacy Screen 22inch Widescreen"@en	0
+COL title VAL  "ASUS Mouse Gaming ROG Chakram"@en	COL title VAL  "Asus ROG STRIX SLICE Gaming Mouse Pad Ultrathin Design Glow-in-the-dark Logo 350 x 250 x 0.6 mm"@en	0
+COL title VAL  "Samsung MZ-75E120B-AM 120GB SATA SSD"@tl	COL title VAL  "Patriot P210 256GB SATA III SSD"@en	0
+COL title VAL  "RAM Tab-Tite RAM-HOL-TAB-27U - holder"@da	COL title VAL  "RAM-HOL-TAB29U RAM Mounts Tab-Tite Cradle for 7-8\" Tablets in Heavy Duty Case"@en	0
+COL title VAL  "Patriot BURST 480GB 2.5 SSD"@en	COL title VAL  "Transcend 480GB 2.5inch SATA III SSD"@en	0
+COL title VAL  "HANNSPREE 23.6'' HS246HFW IPS,HDMI,Speakers"@nl	COL title VAL  "LG Monitor 24MP59G-P 23.8\" IPS FullHD VGA HDMI 1ms"@en	0
+COL title VAL  "TEAM SSD L3 EVO 240G 2.5INCH"@ca	COL title VAL  "SSD Samsung 850 EVO 120GB 2.5"@tl	0
+COL title VAL  "RAM Mount Tab-Tite Cradle 8\" Tablets Samsung Galaxy Tab A 8.0 iPad Mini"@en	COL title VAL  "RAM Tab-Tite™ Cradle for 9\"-10.5\" Tablets (RAM-HOL-TAB20U)"@en	0
+COL title VAL  "4TB IronWolf ST4000VN008, 5900 RPM, SATA 6Gb/s, 64MB cache, 3.5-Inch HDD"@en	COL title VAL  "Seagate 2TB Exos 7E8 SATA 6Gb s 512n 3.5\" Enterprise Hard Drive"@en	0
+COL title VAL  "Asus ZenScreen MB169B+ 15,6\" IPS USB"@de	COL title VAL  "ASUS ZenScreen 15.6\" FHD IPS, USBC, Flicker Free, Blue Light Filter Portable Screen (MB16AC)"@de	0
+COL title VAL  "RAM-HOL-TAB29U RAM Mounts Tab-Tite Cradle for 7-8\" Tablets in Heavy Duty Case"@en	COL title VAL  "RAM Tab-Tite™ Cradle for 9\"-10.5\" Tablets (RAM-HOL-TAB20U)"@en	0
+COL title VAL  "Philips 258B6QUEB - WQHD IPS Monitor"@en	COL title VAL  "Philips Monitor LCD 329P9H/00"@en	0
+COL title VAL  "Philips Monitor LCD 328P6VJEB/00"@en	COL title VAL  "Targus 19" Widescreen LCD Monitor Privacy Screen"@en	0
+COL title VAL  "ST33000650NS EQL 3TB 7.2K 3.5 SATA PS6510E"@de	COL title VAL  "Constellation ES.2 ST33000650NS 3 TB Internal Hard Drive"@en	1
+COL title VAL  "Memória RAM Kingston_ValueRAM DDR4 2666MHz HX426C13PB3/16"@de	COL title VAL  "16GB DDR4-2666MHz CL13 Kings. XMP HyperX Predator"@en	1
+COL title VAL  "PEN DRIVE 16GB KINGSTON USB 3.1 DTMC3/16GB"@de	COL title VAL  "Pendrive 16GB USB 2.0 Kingston DT104"@de	0
+COL title VAL  "ASUS MB169B+ 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Zwart, Zilver"@de	COL title VAL  "ASUS LCD 15.6\" MB16AHP 1920x1080 ZenScreen Go USB Type-C Portable IPS 4h batt Micro-HDMI Foldablecase Auto-Rotate REPRO"@en	0
+COL title VAL  "480GB Transcend SSD220 2.5\" (6.4cm) SATA 6Gb/s TLC (TS480GSSD220S)"@en	COL title VAL  "Ssd patriot burst 480gb 2.5 sata3 r/w speed: 560ms/s/540 mb/s"@en	0
+COL title VAL  "Patriot P210 256GB SATA III SSD"@en	COL title VAL  "Patriot BURST 480GB 2.5 SSD"@en	0
+COL title VAL  "SAMSUNG 850 EVO SATA M.2 2280 250GB SSD (MZ-N5E250BW)"@de	COL title VAL  "Asus MB16AHP 15.6 ", Touchscreen, IPS, FHD, 1920 x 1080 pixels, 16:9, 250 cd/m², Black"@en	0
+COL title VAL  "Crucial Memory BL2K16G32C16U4WL 32GB (2x16GB) DDR4 3200MT/s CL16 Unbuffered DIMM Retail"@en	COL title VAL  "RAM Memory Crucial BL2K8G26C16U4 2 x 8 GB DDR4 2666 Mhz"@en	0
+COL title VAL  "672631-B21 HP 16GB (1x16GB) SDRAM DIMM"@de	COL title VAL  "iPad 2019 128GB Space Grey Wifi Only"@en	0
+COL title VAL  "4TB IronWolf ST4000VN008, 5900 RPM, SATA 6Gb/s, 64MB cache, 3.5-Inch HDD"@en	COL title VAL  "SEAGATE IronWolf NAS HDD4TB, SATA 6Gb/s"@en	1
+COL title VAL  "Asus ROG STRIX B460-I GAMING LGA 1200 Mini-ITX Motherboard"@en	COL title VAL  "Asus ROG Strix Slice Gaming Mouse Pad"@en	0
+COL title VAL  "Seagate Backup Plus Slim STHN2000406hard drive - 2 TB - USB 3.0"@en	COL title VAL  "Seagate Backup Plus Slim 2TB silber"@id	0
+COL title VAL  "LG Monitor 24MP59G-P 23.8\" IPS FullHD VGA HDMI 1ms"@en	COL title VAL  "Philips 271S7QJMB - Full HD IPS Monitor"@en	0
+COL title VAL  "Philips 329P9H/00 31.5 ", IPS, UHD, 16 : 9, 5 ms, 350 cd/m², Black"@en	COL title VAL  "Asus Gaming Monitor VG258QR 24.5 \", TN, FHD, 1920 x 1080 pixels, 16:9, 1 ms, 400 cd/m², Black"@en	0
+COL title VAL  "SANDISK CRUZER GLIDE USB 3.0 DRIVE 32GB"@de	COL title VAL  "Lexar Professional JumpDrive S57 USB 3.0 Flash Drive Memory Stick - 128GB"@en	0
+COL title VAL  "Kingston DataTraveler 104 16GB USB 2.0"@no	COL title VAL  "PENDRIVE 64GB USB2.0 KINGSTONDT20"@de	0
+COL title VAL  "Targus Privacy Screen 17\" Anti-glare screen protector Desktop/Laptop Universal 1 pc(s)"@en	COL title VAL  "Targus Magnetic 12inch Screen For MacBook"@en	0
+COL title VAL  "ASUS ZenScreen 15.6\" FHD IPS, USBC, Flicker Free, Blue Light Filter, Anti Glare Portable Screen (MB1"@de	COL title VAL  "Asus 15,6" ZenScreen MB16AP"@nl	0
+COL title VAL  "Apple Refurbished iPad 2018 128GB Silver Wifi + 4G"@en	COL title VAL  "RAM halda fyrir Apple iPad Air 1-2 í hulstri"@ca	0
+COL title VAL  "Pendrive Usb 2.0 16gb Twist Pd588 Multilaser"@en	COL title VAL  "Logitech - 980-001263 - Z337 Speaker System"@de	0
+COL title VAL  "Lexar Professional JumpDrive S57 USB 3.0 Flash Drive Memory Stick - 128GB"@en	COL title VAL  "Lexar JumpDrive S57 USB 3.0 flash drive 128GB"@en	1
+COL title VAL  "Constellation ES.2 ST33000650NS 3 TB Internal Hard Drive"@en	COL title VAL  "Seagate Ironwolf 10TB 3.5in NAS Hard Drive"@en	0
+COL title VAL  "Crucial Ballistix RGB 16GB Kit (2 x 8GB) DDR4-3000 Desktop Gaming Memory (Red) | BL2K8G30C15U4RL | Crucial UK"@en	COL title VAL  "ASUS ROG Spatha gaming mouse (90MP00A1-B0UA00)"@en	0
+COL title VAL  "Refurbished iPad 2018 32GB Space Gray Wifi only"@en	COL title VAL  "Apple 9.7-inch iPad Wi-Fi - 6th generation - tablet - 32 GB - 9.7\""@en	1
+COL title VAL  "Cooler Master MF200R RGB LED Vifte"@de	COL title VAL  "Cooler Master MasterLiquid ML240L RGB V2 240mm Liquid CPU Cooler MLW-D24M-A18PC-R2 | PCByte"@en	0
+COL title VAL  "2TB Backup Plus Slim - Red"@de	COL title VAL  "Seagate Backup Plus Slim 2 To - Gris"@id	0
+COL title VAL  "ASUS ROG Spatha gaming mouse (90MP00A1-B0UA00)"@en	COL title VAL  "Seagate IronWolf Pro ST8000NE0004 disco duro interno 3.5\" 8000 GB Serial ATA III"@it	0
+COL title VAL  "Kingston DataTraveler 104 16GB USB 2.0"@no	COL title VAL  "PEN DRIVE 16GB KINGSTON USB 3.1 DTMC3/16GB"@de	0
+COL title VAL  "RAM halda fyrir Apple iPad Air 1-2 í hulstri"@ca	COL title VAL  "RAM Tab-Tite™ Cradle for 9\"-10.5\" Tablets (RAM-HOL-TAB20U)"@en	1
+COL title VAL  "Asus ROG Balteus Qi Wireless Charging Gaming Mouse Pad"@en	COL title VAL  "Asus ROG Strix Slice Gaming Mouse Pad"@en	0
+COL title VAL  "RAM Tab-Tite™ Cradle for 7-8\" Tablets in a heavy duty case"@en	COL title VAL  "RAM-HOL-TAB23U - RAM Tab-Tite Cradle for 8Tablets including the Samsung Galaxy Tab 4 8.0 and Tab S 8.4 with Otterbox Defender Case"@en	1
+COL title VAL  "Apple 10.2\" iPad (Late 2019, 128GB, Wi-Fi Only, Space Gray)"@en	COL title VAL  "Disco Duro Externo Seagate Backup Plus Slim - 2TB - USB 3.0 - Mac/Win - Plata"@en	0
+COL title VAL  "RAM Tab-Tite™ for 10\" Tablets, Tab 4 + more (RAM-HOL-TAB26U)"@en	COL title VAL  "RAM Tab-Tite™ Cradle for 9\"-10.5\" Tablets (RAM-HOL-TAB20U)"@en	0
+COL title VAL  "Seagate Backup Plus Slim STHN2000406hard drive - 2 TB - USB 3.0"@en	COL title VAL  "Seagate Backup Plus Slim 2TB USB 3.1 (Gen 1 Type-A) Portable External Hard Drive - Red"@en	0
+COL title VAL  "Patriot BURST 480GB 2.5 SSD"@en	COL title VAL  "Disco SSD Goodram SSD 2.5\" SSDPR-CX400-256"@en	0
+COL title VAL  "Seagate BARRACUDA 1TB 2.5\" 7mm Internal Hard Drive - SATA3 - 5400RPM -128MB Cache (2years warranty )"@en	COL title VAL  "Seagate Barracuda ST2000DM001 Desktop SATA Hard Drive"@en	0
+COL title VAL  "Samsung 860 EVO 2.5'' 1TB SATA III 3-D Vertical Internal SSD"@en	COL title VAL  "Transcend 480GB 2.5inch SATA III SSD"@en	0
+COL title VAL  "Samsung 860 EVO 2.5'' 1TB SATA III 3-D Vertical Internal SSD"@en	COL title VAL  "Samsung 860 EVO MZ-76E1T0B/AM 1 TB Solid State Drive - 2.5\" Internal - SATA (SATA/600) **"@en	1
+COL title VAL  "256GB P210 7mm, 500 / 400 MB/s, 3D NAND, SATA 6Gb/s, 2.5-Inch SSD"@en	COL title VAL  "1TB BarraCuda ST1000LM048, 5400 RPM, SATA 6Gb/s, 128MB cache, 2.5-Inch HDD"@en	0
+COL title VAL  "PENDRIVE 64GB USB2.0 KINGSTONDT20"@de	COL title VAL  "Pendrive 3.0 Sandisk Cruzer Glide 16 GB"@da	0
+COL title VAL  "Asus 15,6" ZenScreen MB16AP"@nl	COL title VAL  "Asus MB16AHP 15.6 ", Touchscreen, IPS, FHD, 1920 x 1080 pixels, 16:9, 250 cd/m², Black"@en	0
+COL title VAL  "RAM-HOL-TAB23U - RAM Tab-Tite Cradle for 8Tablets including the Samsung Galaxy Tab 4 8.0 and Tab S 8.4 with Otterbox Defender Case"@en	COL title VAL  "RAM Tab-Tite Cradle for 10\" Tablets including the Samsung Galaxy Tab 4 10.1 and Tab S 10.5"@en	0
+COL title VAL  "Samsung 860 EVO MZ-76E1T0B/AM 1 TB Solid State Drive - 2.5\" Internal - SATA (SATA/600) **"@en	COL title VAL  "Goodram CX400 internal solid state drive 2.5\" 256 GB SATA III QLC 3D NAND SSD"@en	0
+COL title VAL  "SEAGATE IronWolf NAS HDD4TB, SATA 6Gb/s"@en	COL title VAL  "WD4004FZWX WD BLACK 4TB SATA 6GB/S 128MB 7200RPM"@de	0
+COL title VAL  "SanDisk 16GB Cruzer Glide USB3.0 Flash Drive"@de	COL title VAL  "Cruzer Glide USB Flashdrive - 32GB"@de	0
+COL title VAL  "Philips 271S7QJMB/00 Series, 27 inches (68,6 cm), Full HD (1920 x 1080), VGA, DP1.2, HDMI1.4, Speaker"@en	COL title VAL  "ASUS MB169B+ 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Zwart, Zilver"@de	0
+COL title VAL  "Samsung 860 EVO MZ-76E1T0B/AM 1 TB Solid State Drive - 2.5\" Internal - SATA (SATA/600) **"@en	COL title VAL  "Samsung 850 EVO Series M.2 250GB SATA 6Gbps Solid State Drive (MZ-N5E250BW)"@en	0
+COL title VAL  "Privacy Screen 19\"W (16:10)"@en	COL title VAL  "Targus Privacy Screen 12.1\"W Anti-glare screen protector Desktop/Laptop Universal 1 pc(s)"@en	0
+COL title VAL  "672631-B21 HP 16GB (1x16GB) SDRAM DIMM"@de	COL title VAL  "Targus Privacy Screen 17\" Anti-glare screen protector Desktop/Laptop Universal 1 pc(s)"@en	0
+COL title VAL  "Kingston DataTraveler 20 USB Flash Drive 2.0 64GB"@no	COL title VAL  "Pendrive Usb 2.0 16gb Twist Pd588 Multilaser"@en	0
+COL title VAL  "Asus ROG STRIX B460-I GAMING LGA 1200 Mini-ITX Motherboard"@en	COL title VAL  "Apple 10.2\" iPad (Late 2019, 128GB, Wi-Fi Only, Space Gray)"@en	0
+COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	COL title VAL  "Seagate Barracuda ST2000DM001 Desktop SATA Hard Drive"@en	0
+COL title VAL  "Monitor Asus 15,6" MB16AP ZenScreen GO Portable USB Type-C"@en	COL title VAL  "ASUS ZenScreen 15.6\" FHD IPS, USBC, Flicker Free, Blue Light Filter Portable Screen (MB16AC)"@de	0
+COL title VAL  "Western Digital SSD M.2 PCIe 500GB Black NVMe"@de	COL title VAL  "WD Black 500 GB M.2 2280"@en	1
+COL title VAL  "Disco Duro Externo Seagate Backup Plus Slim - 2TB - USB 3.0 - Mac/Win - Plata"@en	COL title VAL  "Seagate Backup Plus Slim STHN2000406hard drive - 2 TB - USB 3.0"@en	0
+COL title VAL  "LG Monitor 24MP59G-P 23.8\" IPS FullHD VGA HDMI 1ms"@en	COL title VAL  "Monitor 23.8\" ACER B247Ybmiprx, 16:9, IPS, LED, FHD 1920*1080, 4 ms, 250 cd/mp, 1000:1/ 100M:1, 178/178, pivot, VGA, HDMI, DP(1.2), UM.QB7EE.001"@en	0
+COL title VAL  "Monitor Philips 31,5" 325E1C/00 VGA HDMI DP"@en	COL title VAL  "Philips 258B6QUEB - WQHD IPS Monitor"@en	0
+COL title VAL  "Acer B247Y 23.8" 1920x1080 4ms Full HD HDMI VGA LED Monitor"@en	COL title VAL  "25'' Full HD LED TN monitor ASUS"@it	0
+COL title VAL  "Privacy Screen 17\" (4:3)"@en	COL title VAL  "Targus Privacy Screen 17\" Anti-glare screen protector Desktop/Laptop Universal 1 pc(s)"@en	1
+COL title VAL  "Samsung Galaxy A21s Dual SIM 32GB 3GB RAM SM-A217F/DS Black"@en	COL title VAL  "Galaxy A21s 3+32GB Sort"@so	1
+COL title VAL  "Seagate IronWolf Pro - 3.5\" - 10000 GB - 7200 RPM ST10000NE0008"@en	COL title VAL  "HD 3,5 8TB 7200RPM IRONWOLF SEAGATE"@en	0
+COL title VAL  "Cle Usb CORSAIR Flash Voyager"@en	COL title VAL  "Corsair Flash Voyager V2 128GB"@en	1
+COL title VAL  "iPad 2018 128GB Silver Wifi + 4G (A grade)"@de	COL title VAL  "iPad 2019 128GB Space Grey Wifi Only"@en	0
+COL title VAL  "256GB P210 7mm, 500 / 400 MB/s, 3D NAND, SATA 6Gb/s, 2.5-Inch SSD"@en	COL title VAL  "SSD TRANSCEND SSD230S 256Gb 3D NAND SATA 3 Aluminium TS256GSSD230S"@de	0
+COL title VAL  "Pen Drive Multilaser 16Gb Pd 588"@en	COL title VAL  "PEN DRIVE 16GB KINGSTON USB 3.1 DTMC3/16GB"@de	0
+COL title VAL  "Crucial Ballistix RGB 16GB Kit (2 x 8GB) DDR4-3000 Desktop Gaming Memory (Red) | BL2K8G30C15U4RL | Crucial UK"@en	COL title VAL  "RAM DDR4 32GB Kit (2x16) PC4-28800 3600MT/s CL16 1.35V Crucial BX Black RGB"@en	0
+COL title VAL  "HDD Extern WD My Book V3 10TB, 3.5\", USB 3.0, Negru - WDBBGB0100HBK-EESN"@de	COL title VAL  "Seagate 1TB Backup Plus Slim USB 3.0 External Hard Drive, Red"@en	0
+COL title VAL  "WD Black 1TB High-Performance NVMe PCIe Internal SSD - M.2 2280, 8 Gb/s - WDS100T2X0C"@en	COL title VAL  "WD Black 4TB SATA 3 Performance HDD/Hard Drive WD4004FZWX"@en	0
+COL title VAL  "RAM-HOL-TAB29U RAM Mounts Tab-Tite Cradle for 7-8\" Tablets in Heavy Duty Case"@en	COL title VAL  "RAM Tab-Tite™Cradle for 8\" Tablets including Samsung Galaxy Tab A & S2 8.0 with Otterbox Defender Case"@en	1
+COL title VAL  "Apple 10.2\" iPad (Late 2019, 128GB, Wi-Fi Only, Space Gray)"@en	COL title VAL  "Refurbished iPad 2018 32GB Space Gray Wifi only"@en	0
+COL title VAL  "RAM Tab-Tite™ for 10\" Tablets, Tab 4 + more (RAM-HOL-TAB26U)"@en	COL title VAL  "RAM Tab-Tite Cradle for 10\" Tablets including the Samsung Galaxy Tab 4 10.1 and Tab S 10.5"@en	1
+COL title VAL  "Seagate Backup Plus Slim STHN2000406hard drive - 2 TB - USB 3.0"@en	COL title VAL  "SANDISK CRUZER GLIDE USB 3.0 DRIVE 32GB"@de	0
+COL title VAL  "WD Black 1TB High-Performance NVMe PCIe Internal SSD - M.2 2280, 8 Gb/s - WDS100T2X0C"@en	COL title VAL  "Western Digital SSD M.2 PCIe 500GB Black NVMe"@de	0
+COL title VAL  "Monitor 23.8\" ACER B247Ybmiprx, 16:9, IPS, LED, FHD 1920*1080, 4 ms, 250 cd/mp, 1000:1/ 100M:1, 178/178, pivot, VGA, HDMI, DP(1.2), UM.QB7EE.001"@en	COL title VAL  "Asus Gaming Monitor VG258QR 24.5 \", TN, FHD, 1920 x 1080 pixels, 16:9, 1 ms, 400 cd/m², Black"@en	0
+COL title VAL  "ASUS ZenScreen 15.6\" FHD IPS, USBC, Flicker Free, Blue Light Filter Portable Screen (MB16AC)"@de	COL title VAL  "ASUS ZenScreen 15.6\" FHD IPS, USBC, Flicker Free, Blue Light Filter, Anti Glare Portable Screen (MB1"@de	0
+COL title VAL  "Cooler Master MF200R Hybrid Silent High Airflow RGB Rifle Bearing 200mm Case Fan"@en	COL title VAL  "Cooler Master MF200R RGB LED Vifte"@de	1
+COL title VAL  "SEAGATE IronWolf NAS HDD4TB, SATA 6Gb/s"@en	COL title VAL  "Seagate IronWolf Pro 10 To"@en	0
+COL title VAL  "Crucial Ballistix RGB 16GB Kit (2 x 8GB) DDR4-3000 Desktop Gaming Memory (Red) | BL2K8G30C15U4RL | Crucial UK"@en	COL title VAL  "Memória RAM Kingston_ValueRAM DDR4 2666MHz HX426C13PB3/16"@de	0
+COL title VAL  "LG Monitor 24MP59G-P 23.8\" IPS FullHD VGA HDMI 1ms"@en	COL title VAL  "Seagate IronWolf 10 To (NAS)"@en	0
+COL title VAL  "RAM DDR4 32GB Kit (2x16) PC4-28800 3600MT/s CL16 1.35V Crucial BX Black RGB"@en	COL title VAL  "Corsair Vengeance RGB Pro 32GB (4x8GB) 3000MHz CL15 DDR4 White"@en	0
+COL title VAL  "Seagate Backup Plus Slim STHN2000406hard drive - 2 TB - USB 3.0"@en	COL title VAL  "HD SEAGATE IRONWOLF 2 TB P/ NAS - ST2000VN004"@en	0
+COL title VAL  "8GB Kingston DataTraveler 2000 Encrypted USB Flash Drive - Blue"@en	COL title VAL  "PENDRIVE 64GB USB2.0 KINGSTONDT20"@de	0
+COL title VAL  "Samsung 512GB SSD, 860 PRO Series, 2.5\" SATA III, Read up to 560MB/s, Write up to 530MB/s, 100K/90K IOPS"@en	COL title VAL  "Western Digital SSD M.2 PCIe 1TB Black NVMe"@de	0
+COL title VAL  "Acer B247Y 23.8" 1920x1080 4ms Full HD HDMI VGA LED Monitor"@en	COL title VAL  "Hannspree Hanns.G HS246HFW 23.6\" Full HD Opaco Bianco monitor piatto per PC LED display"@it	0
+COL title VAL  "Kingston DataTraveler 20 USB Flash Drive 2.0 64GB"@no	COL title VAL  "SanDisk 16GB Cruzer Glide USB3.0 Flash Drive"@de	0
+COL title VAL  "Philips 271S7QJMB/00 Series, 27 inches (68,6 cm), Full HD (1920 x 1080), VGA, DP1.2, HDMI1.4, Speaker"@en	COL title VAL  "Logitech - 980-001263 - Z337 Speaker System"@de	0
+COL title VAL  "ASUS ZenScreen MB16ACE 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Grijs"@nl	COL title VAL  "Monitor Asus 15,6" MB16AP ZenScreen GO Portable USB Type-C"@en	0
+COL title VAL  "4TB IronWolf ST4000VN008, 5900 RPM, SATA 6Gb/s, 64MB cache, 3.5-Inch HDD"@en	COL title VAL  "1TB BarraCuda ST1000LM048, 5400 RPM, SATA 6Gb/s, 128MB cache, 2.5-Inch HDD"@en	0
+COL title VAL  "Asus ROG Balteus Qi Wireless Charging Gaming Mouse Pad"@en	COL title VAL  "ASUS ROG Balteus Gaming Musematte"@de	0
+COL title VAL  "SSD Samsung 850 EVO 120GB 2.5"@tl	COL title VAL  "WD Black SSD 3D NVMe - 250GB"@de	0
+COL title VAL  "RAM Tab-Tite RAM-HOL-TAB-27U - holder"@da	COL title VAL  "RAM Mount Tab-Tite Cradle 8\" Tablets Samsung Galaxy Tab A 8.0 iPad Mini"@en	1
+COL title VAL  "RAM Mount Tab-Tite Cradle 8\" Tablets Samsung Galaxy Tab A 8.0 iPad Mini"@en	COL title VAL  "RAM Tab-Tite™ Cradle for 7-8\" Tablets in a heavy duty case"@en	0
+COL title VAL  "RAM Mount Tab-Tite Cradle 8\" Tablets Samsung Galaxy Tab A 8.0 iPad Mini"@en	COL title VAL  "RAM-HOL-TAB23U - RAM Tab-Tite Cradle for 8Tablets including the Samsung Galaxy Tab 4 8.0 and Tab S 8.4 with Otterbox Defender Case"@en	0
+COL title VAL  "SEAGATE IronWolf NAS HDD4TB, SATA 6Gb/s"@en	COL title VAL  "Seagate 2TB Exos 7E8 SATA 6Gb s 512n 3.5\" Enterprise Hard Drive"@en	0
+COL title VAL  "Apple Smart Cover for 10.5‑inch iPad Air - Charcoal Gray"@en	COL title VAL  "Transcend 480GB 2.5inch SATA III SSD"@en	0
+COL title VAL  "Seagate 1TB Backup Plus Slim USB 3.0 External Hard Drive, Red"@en	COL title VAL  "EXT 1TB SG BACKUP+SLIM RED"@de	1
+COL title VAL  "Targus 19" Widescreen LCD Monitor Privacy Screen"@en	COL title VAL  "Privacy Screen 19\"W (16:10)"@en	1
+COL title VAL  "Seagate IronWolf 10 To (NAS)"@en	COL title VAL  "Seagate Ironwolf 10TB 3.5in NAS Hard Drive"@en	1
+COL title VAL  "SANDISK CRUZER GLIDE USB 3.0 DRIVE 32GB"@de	COL title VAL  "Cruzer Glide USB Flashdrive - 32GB"@de	1
+COL title VAL  "ASUS ZenScreen 15.6\" FHD IPS, USBC, Flicker Free, Blue Light Filter, Anti Glare Portable Screen (MB1"@de	COL title VAL  "SSD Samsung 850 EVO 120GB 2.5"@tl	0
+COL title VAL  "Cooler Master MF200R Hybrid Silent High Airflow RGB Rifle Bearing 200mm Case Fan"@en	COL title VAL  "CASE/PSU FAN COOLER MASTER MASTERFAN SF120M"@en	0
+COL title VAL  "Patriot BURST 480GB 2.5 SSD"@en	COL title VAL  "Ssd patriot burst 480gb 2.5 sata3 r/w speed: 560ms/s/540 mb/s"@en	1
+COL title VAL  "8GB Kingston DataTraveler 2000 Encrypted USB Flash Drive - Blue"@en	COL title VAL  "Cle Usb CORSAIR Flash Voyager"@en	0
+COL title VAL  "Seagate Constellation ES.3 ST4000NM0033 4TB"@en	COL title VAL  "HP Seagate 4TB 7.2K 3.5\" 6G SP SATA ST4000NM0033 HDD Hard Drive HPE"@en	1
+COL title VAL  "Crucial Ballistix RGB 32GB (2x16GB) DDR4 UDIMM 3600MHz CL16 Black Aluminum Heat Spreader Intel XMP2.0 AMD Ryzen Desktop PC Gaming Memory"@en	COL title VAL  "32GB Kit (4 x 8GB) Vengeance RGB Pro DDR4 3000MHz, CL15, White, RGB LED, DIMM Memory"@en	0
+COL title VAL  "Targus 19" Widescreen LCD Monitor Privacy Screen"@en	COL title VAL  "Targus Privacy Screen 17\" Anti-glare screen protector Desktop/Laptop Universal 1 pc(s)"@en	0
+COL title VAL  "Apple iPad (2018) 128 GB Wifi + 4G Space Gray"@en	COL title VAL  "Apple Smart Cover for 10.5‑inch iPad Air - Charcoal Gray"@en	0
+COL title VAL  "ASUS ROG Spatha Mouse - Laser - Cable/Wireless - 12 Button(s) - Titanium Black"@en	COL title VAL  "Asus ROG Balteus Qi Wireless Charging Gaming Mouse Pad"@en	0
+COL title VAL  "Samsung 860 PRO 2.5\" 512 GB Serial ATA III 3D MLC"@id	COL title VAL  "Seagate IronWolf Pro ST8000NE0004 disco duro interno 3.5\" 8000 GB Serial ATA III"@it	0
+COL title VAL  "HDD Extern WD My Book V3 10TB, 3.5\", USB 3.0, Negru - WDBBGB0100HBK-EESN"@de	COL title VAL  "SANDISK CRUZER GLIDE USB 3.0 DRIVE 32GB"@de	0
+COL title VAL  "Samsung MZ-75E120B-AM 120GB SATA SSD"@tl	COL title VAL  "Samsung 860 EVO MZ-76E1T0B/AM 1 TB Solid State Drive - 2.5\" Internal - SATA (SATA/600) **"@en	0
+COL title VAL  "PENDRIVE 64GB USB2.0 KINGSTONDT20"@de	COL title VAL  "Pendrive Usb 2.0 16gb Twist Pd588 Multilaser"@en	0
+COL title VAL  "Samsung 850 EVO Series M.2 250GB SATA 6Gbps Solid State Drive (MZ-N5E250BW)"@en	COL title VAL  "Kingston DataTraveler 20 USB Flash Drive 2.0 64GB"@no	0
+COL title VAL  "Asus ROG Balteus Qi RGB Mouse Pad 370x320 USB Nero"@et	COL title VAL  "RAM Memory Crucial BL2K8G26C16U4 2 x 8 GB DDR4 2666 Mhz"@en	0
+COL title VAL  "ASUS ROG Chakram RGB wireless gaming mouse (Qi charging, side Joystick, wired/2.4 GHz/Bluetooth connectivity, 16000 dpi sensor, Screw-less magnetic buttons, Aura Sync lighting)-Black"@en	COL title VAL  "ASUS Mouse Gaming ROG Chakram"@en	1
+COL title VAL  "Seagate Barracuda ST2000DM001 Desktop SATA Hard Drive"@en	COL title VAL  "WD Black 4TB SATA 3 Performance HDD/Hard Drive WD4004FZWX"@en	0
+COL title VAL  "Asus ROG STRIX B460-I GAMING LGA 1200 Mini-ITX Motherboard"@en	COL title VAL  "Asus ROG STRIX SLICE Gaming Mouse Pad Ultrathin Design Glow-in-the-dark Logo 350 x 250 x 0.6 mm"@en	0
+COL title VAL  "Seagate Exos ST2000NM000A 2 TB Hard Drive - Internal - SATA (SATA/600) - 7200rpm - 256 MB Buffer - 256-bit Encryption Standard"@en	COL title VAL  "8GB Kingston DataTraveler 2000 Encrypted USB Flash Drive - Blue"@en	0
+COL title VAL  "Curved LCD monitor with Ultra Wide-Color"@en	COL title VAL  "Monitor Philips 31,5" 325E1C/00 VGA HDMI DP"@en	1
+COL title VAL  "Crucial Memorie Ballistix Black 16GB(2x8GB) DDR4 2666MHz CL16 Dual Channel Kit"@en	COL title VAL  "Crucial Memory BL2K8G30C15U4RL 16GB (2x8GB) DDR4 3000MT/s CL15 Unbuffered DIMM Retail"@en	0
+COL title VAL  "Samsung 512GB SSD, 860 PRO Series, 2.5\" SATA III, Read up to 560MB/s, Write up to 530MB/s, 100K/90K IOPS"@en	COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	0
+COL title VAL  "iPad 2019 128GB Space Grey Wifi Only"@en	COL title VAL  "Apple iPad (2018) 128 GB Wifi + 4G Space Gray"@en	0
+COL title VAL  "Disco Duro Externo Seagate Backup Plus Slim - 2TB - USB 3.0 - Mac/Win - Plata"@en	COL title VAL  "2TB Backup Plus Slim - Red"@de	0
+COL title VAL  "Disco Duro Externo Seagate Backup Plus Slim - 2TB - USB 3.0 - Mac/Win - Plata"@en	COL title VAL  "Samsung Galaxy A21s Dual SIM 32GB 3GB RAM SM-A217F/DS Black"@en	0
+COL title VAL  "8GB Kingston DataTraveler 2000 Encrypted USB Flash Drive - Blue"@en	COL title VAL  "MSI GeForce RTX 2070 SUPER VENTUS GP OC 8GB"@de	0
+COL title VAL  "Seagate IronWolf Pro ST8000NE0004 disco duro interno 3.5\" 8000 GB Serial ATA III"@it	COL title VAL  "Seagate IronWolf Pro 10 To"@en	0
+COL title VAL  "Seagate Backup Plus Slim 2TB silber"@id	COL title VAL  "Asus ROG Strix Slice Gaming Mouse Pad"@en	0
+COL title VAL  "Goodram CX400 internal solid state drive 2.5\" 256 GB SATA III QLC 3D NAND SSD"@en	COL title VAL  "Samsung 860 PRO 2.5\" 512 GB Serial ATA III 3D MLC"@id	0
+COL title VAL  "672631-B21 HP 16GB (1x16GB) SDRAM DIMM"@de	COL title VAL  "Crucial Memory BL2K8G30C15U4RL 16GB (2x8GB) DDR4 3000MT/s CL15 Unbuffered DIMM Retail"@en	0
+COL title VAL  "Crucial Memorie Ballistix Black 16GB(2x8GB) DDR4 2666MHz CL16 Dual Channel Kit"@en	COL title VAL  "Memória RAM Kingston_ValueRAM DDR4 2666MHz HX426C13PB3/16"@de	0
+COL title VAL  "Samsung 850 EVO Series M.2 250GB SATA 6Gbps Solid State Drive (MZ-N5E250BW)"@en	COL title VAL  "SAMSUNG 850 EVO SATA M.2 2280 250GB SSD (MZ-N5E250BW)"@de	1
+COL title VAL  "ASUS ROG Balteus Gaming Musematte"@de	COL title VAL  "Asus ROG Balteus Qi RGB Mouse Pad 370x320 USB Nero"@et	0
+COL title VAL  "Goodram CX400 internal solid state drive 2.5\" 256 GB SATA III QLC 3D NAND SSD"@en	COL title VAL  "Transcend 480GB 2.5inch SATA III SSD"@en	0
+COL title VAL  "Monitor Asus 15,6" MB16AP ZenScreen GO Portable USB Type-C"@en	COL title VAL  "ASUS LCD 15.6\" MB16AHP 1920x1080 ZenScreen Go USB Type-C Portable IPS 4h batt Micro-HDMI Foldablecase Auto-Rotate REPRO"@en	0
+COL title VAL  "HANNSPREE 23.6'' HS246HFW IPS,HDMI,Speakers"@nl	COL title VAL  "Asus ZenScreen MB169B+ 15,6\" IPS USB"@de	0
+COL title VAL  "Philips 271S7QJMB/00 Series, 27 inches (68,6 cm), Full HD (1920 x 1080), VGA, DP1.2, HDMI1.4, Speaker"@en	COL title VAL  "ASUS ZenScreen MB16ACE 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Grijs"@nl	0
+COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	COL title VAL  "1TB BarraCuda ST1000LM048, 5400 RPM, SATA 6Gb/s, 128MB cache, 2.5-Inch HDD"@en	0
+COL title VAL  "Monitor LG Ultragear 24GL600F - 23.6\" - LED - 1920X1080 Full HD - 1MS - HDMI - DisplayPort"@en	COL title VAL  "Monitor LED LG 24MP59G-P - 24\" - 1920x1080 - VGA - HDMI - DisplayPort"@en	0
+COL title VAL  "Apple Refurbished iPad 2018 128GB Silver Wifi + 4G"@en	COL title VAL  "iPad 2017 32GB Zwart Wifi + 4G (A grade)"@de	0
+COL title VAL  "1TB Backup Plus Slim - Blue"@de	COL title VAL  "EXT 1TB SG BACKUP+SLIM RED"@de	0
+COL title VAL  "HD 3,5 8TB 7200RPM IRONWOLF SEAGATE"@en	COL title VAL  "ST33000650NS EQL 3TB 7.2K 3.5 SATA PS6510E"@de	0
+COL title VAL  "Samsung MZ-75E120B-AM 120GB SATA SSD"@tl	COL title VAL  "SSD Samsung 850 EVO 120GB 2.5"@tl	1
+COL title VAL  "Targus Privacy Screen 12.1\"W Anti-glare screen protector Desktop/Laptop Universal 1 pc(s)"@en	COL title VAL  "Targus Privacy Screen 12.1" Widescreen Laptops"@en	1
+COL title VAL  "Asus MB16AHP 15.6 ", Touchscreen, IPS, FHD, 1920 x 1080 pixels, 16:9, 250 cd/m², Black"@en	COL title VAL  "Asus ZenScreen MB169B+ 15,6\" IPS USB"@de	0
+COL title VAL  "iPad (2018) 128GB 4G Space Gray B grade"@en	COL title VAL  "Apple 10.2\" iPad (Late 2019, 128GB, Wi-Fi Only, Space Gray)"@en	0
+COL title VAL  "Kingston 8GB DataTraveler (USB 3.1 Gen 1) 120MB/s"@de	COL title VAL  "SSD Samsung 850 EVO 120GB 2.5"@tl	0
+COL title VAL  "RAM Tab-Tite™ Cradle for 9\"-10.5\" Tablets (RAM-HOL-TAB20U)"@en	COL title VAL  "RAM Tab-Tite™Cradle for 8\" Tablets including Samsung Galaxy Tab A & S2 8.0 with Otterbox Defender Case"@en	0
+COL title VAL  "Targus Magnetic 12inch Screen For MacBook"@en	COL title VAL  "Targus Privacy Screen 12.1\"W Anti-glare screen protector Desktop/Laptop Universal 1 pc(s)"@en	0
+COL title VAL  "Seagate Backup Plus Slim 2 To - Gris"@id	COL title VAL  "1TB Backup Plus Slim - Blue"@de	0
+COL title VAL  "Targus Privacy Screen 12.1" Widescreen Laptops"@en	COL title VAL  "Targus 19" Widescreen LCD Monitor Privacy Screen"@en	0
+COL title VAL  "Patriot P210 256GB SATA III SSD"@en	COL title VAL  "Transcend 480GB 2.5inch SATA III SSD"@en	0
+COL title VAL  "Crucial Memory BL2K8G30C15U4RL 16GB (2x8GB) DDR4 3000MT/s CL15 Unbuffered DIMM Retail"@en	COL title VAL  "Corsair Vengeance RGB Pro 32GB (4x8GB) 3000MHz CL15 DDR4 White"@en	0
+COL title VAL  "RAM Tab-Tite™ Cradle for 9\"-10.5\" Tablets (RAM-HOL-TAB20U)"@en	COL title VAL  "RAM Tab-Tite Cradle for 10\" Tablets including the Samsung Galaxy Tab 4 10.1 and Tab S 10.5"@en	0
+COL title VAL  "ASUS ROG Spatha gaming mouse (90MP00A1-B0UA00)"@en	COL title VAL  "ASUS ROG Balteus Gaming Musematte"@de	0
+COL title VAL  "Seagate Ironwolf 10TB 3.5in NAS Hard Drive"@en	COL title VAL  "Seagate 1TB Backup Plus Slim USB 3.0 External Hard Drive, Red"@en	0
+COL title VAL  "Hannspree Hanns.G HS246HFW 23.6\" Full HD Opaco Bianco monitor piatto per PC LED display"@it	COL title VAL  "Monitor LG Ultragear 24GL600F - 23.6\" - LED - 1920X1080 Full HD - 1MS - HDMI - DisplayPort"@en	0
+COL title VAL  "Monitor LED LG 24MP59G-P - 24\" - 1920x1080 - VGA - HDMI - DisplayPort"@en	COL title VAL  "Acer B247Y 23.8" 1920x1080 4ms Full HD HDMI VGA LED Monitor"@en	0
+COL title VAL  "Crucial Memory BL2K16G32C16U4WL 32GB (2x16GB) DDR4 3200MT/s CL16 Unbuffered DIMM Retail"@en	COL title VAL  "RAM DDR4 32GB Kit (2x16) PC4-28800 3600MT/s CL16 1.35V Crucial BX Black RGB"@en	0
+COL title VAL  "ASUS ROG Balteus Vertical Gaming Mouse Pad - ASUS Official Store | Free Shipping and Financing Available"@en	COL title VAL  "ASUS ROG Balteus Gaming Musematte"@de	1
+COL title VAL  "ASUS ROG Mainboard ROG STRIX B460-I GAMING - Motherboard - ATX (90MB13X0-M0EAY0)"@en	COL title VAL  "ASUS Mouse Gaming ROG Chakram"@en	0
+COL title VAL  "Goodram CX400 internal solid state drive 2.5\" 256 GB SATA III QLC 3D NAND SSD"@en	COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	0
+COL title VAL  "HD 3,5 8TB 7200RPM IRONWOLF SEAGATE"@en	COL title VAL  "Seagate IronWolf 10 To (NAS)"@en	0
+COL title VAL  "Seagate 2TB Exos 7E8 SATA 6Gb s 512n 3.5\" Enterprise Hard Drive"@en	COL title VAL  "Samsung 860 PRO 2.5\" 512 GB Serial ATA III 3D MLC"@id	0
+COL title VAL  "Samsung 860 EVO 2.5'' 1TB SATA III 3-D Vertical Internal SSD"@en	COL title VAL  "Goodram CX400 internal solid state drive 2.5\" 256 GB SATA III QLC 3D NAND SSD"@en	0
+COL title VAL  "Seagate 1TB Backup Plus Slim USB 3.0 External Hard Drive, Red"@en	COL title VAL  "Western Digital WD MyBook 10TB USB 3.0 black"@en	0
+COL title VAL  "Monitor Philips 31,5" 325E1C/00 VGA HDMI DP"@en	COL title VAL  "Philips Monitor LCD 329P9H/00"@en	0
+COL title VAL  "Crucial Ballistix RGB 32GB (2x16GB) DDR4 UDIMM 3600MHz CL16 Black Aluminum Heat Spreader Intel XMP2.0 AMD Ryzen Desktop PC Gaming Memory"@en	COL title VAL  "RAM DDR4 32GB Kit (2x16) PC4-28800 3600MT/s CL16 1.35V Crucial BX Black RGB"@en	1
+COL title VAL  "Transcend 480GB 2.5inch SATA III SSD"@en	COL title VAL  "SSD TRANSCEND SSD230S 256Gb 3D NAND SATA 3 Aluminium TS256GSSD230S"@de	0
+COL title VAL  "Targus Magnetic 12inch Screen For MacBook"@en	COL title VAL  "TARGUS Privacy Screen 22inch Widescreen"@en	0
+COL title VAL  "RAM-HOL-TAB29U RAM Mounts Tab-Tite Cradle for 7-8\" Tablets in Heavy Duty Case"@en	COL title VAL  "RAM-HOL-TAB23U - RAM Tab-Tite Cradle for 8Tablets including the Samsung Galaxy Tab 4 8.0 and Tab S 8.4 with Otterbox Defender Case"@en	0
+COL title VAL  "Western Digital WD MyBook 10TB USB 3.0 black"@en	COL title VAL  "SANDISK CRUZER GLIDE USB 3.0 DRIVE 32GB"@de	0
+COL title VAL  "Monitor 31.5" PHILIPS 328P6VJEB, 4K UHD 3840*2160, VA, WLED, 60 Hz, 300cd/mp, 16:9, 3000:1/ 50M:1, 4 ms, anti-glare 3H, 178/178, Fli cker-free,MHL, VGA, DVI, DP, HDMI/ MHL, 4* USB, PC audio in, boxe 2"@en	COL title VAL  "Monitor Philips 31,5" 325E1C/00 VGA HDMI DP"@en	0
+COL title VAL  "256GB P210 7mm, 500 / 400 MB/s, 3D NAND, SATA 6Gb/s, 2.5-Inch SSD"@en	COL title VAL  "Goodram CX400 internal solid state drive 2.5\" 256 GB SATA III QLC 3D NAND SSD"@en	0
+COL title VAL  "Transcend 480GB 2.5inch SATA III SSD"@en	COL title VAL  "Ssd patriot burst 480gb 2.5 sata3 r/w speed: 560ms/s/540 mb/s"@en	0
+COL title VAL  "Seagate Constellation ES.3 ST4000NM0033 4TB"@en	COL title VAL  "Constellation ES.2 ST33000650NS 3 TB Internal Hard Drive"@en	0
+COL title VAL  "Crucial Memory BL2K8G30C15U4RL 16GB (2x8GB) DDR4 3000MT/s CL15 Unbuffered DIMM Retail"@en	COL title VAL  "Crucial Memory BL2K16G32C16U4WL 32GB (2x16GB) DDR4 3200MT/s CL16 Unbuffered DIMM Retail"@en	0
+COL title VAL  "Crucial Memory BL2K16G32C16U4WL 32GB (2x16GB) DDR4 3200MT/s CL16 Unbuffered DIMM Retail"@en	COL title VAL  "RAM DDR4 32GB Kit (2x16) PC4-25600 3200MT/s CL16 1.35V Crucial BX White RGB"@en	1
+COL title VAL  "Monitor 31.5" PHILIPS 328P6VJEB, 4K UHD 3840*2160, VA, WLED, 60 Hz, 300cd/mp, 16:9, 3000:1/ 50M:1, 4 ms, anti-glare 3H, 178/178, Fli cker-free,MHL, VGA, DVI, DP, HDMI/ MHL, 4* USB, PC audio in, boxe 2"@en	COL title VAL  "Philips Monitor LCD 328P6VJEB/00"@en	1
+COL title VAL  "Kingston DataTraveler 20 USB Flash Drive 2.0 64GB"@no	COL title VAL  "Pendrive 16GB USB 2.0 Kingston DT104"@de	0
+COL title VAL  "ASUS ZenScreen MB16ACE 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Grijs"@nl	COL title VAL  "Asus 15,6" ZenScreen MB16AP"@nl	0
+COL title VAL  "HP 16GB 2Rx4 PC3 G8 Server Ram"@de	COL title VAL  "Pendrive 16GB USB 2.0 Kingston DT104"@de	0
+COL title VAL  "Seagate BARRACUDA 1TB 2.5\" 7mm Internal Hard Drive - SATA3 - 5400RPM -128MB Cache (2years warranty )"@en	COL title VAL  "HP Seagate 4TB 7.2K 3.5\" 6G SP SATA ST4000NM0033 HDD Hard Drive HPE"@en	0
+COL title VAL  "WD Black 1TB High-Performance NVMe PCIe Internal SSD - M.2 2280, 8 Gb/s - WDS100T2X0C"@en	COL title VAL  "WD Black 500 GB M.2 2280"@en	0
+COL title VAL  "Kingston 8GB DataTraveler (USB 3.1 Gen 1) 120MB/s"@de	COL title VAL  "PEN DRIVE 16GB KINGSTON USB 3.1 DTMC3/16GB"@de	0
+COL title VAL  "SanDisk 16GB Cruzer Glide USB3.0 Flash Drive"@de	COL title VAL  "Lexar Professional JumpDrive S57 USB 3.0 Flash Drive Memory Stick - 128GB"@en	0
+COL title VAL  "Disco Duro Externo Seagate Backup Plus Slim - 2TB - USB 3.0 - Mac/Win - Plata"@en	COL title VAL  "Seagate Backup Plus Slim 2TB silber"@id	1
+COL title VAL  "Team Group L3 EVO 2.5\" 240GB SATA III TLC Internal Solid State Drive SSD | T253LE240GTC101"@en	COL title VAL  "Goodram CX400 internal solid state drive 2.5\" 256 GB SATA III QLC 3D NAND SSD"@en	0
+COL title VAL  "iPad Air 10.5 Smart Cover - Charcoal Gray"@en	COL title VAL  "Apple Smart Cover for 10.5‑inch iPad Air - Charcoal Gray"@en	1
+COL title VAL  "Seagate Backup Plus Slim 2 To - Gris"@id	COL title VAL  "Seagate IronWolf 10 To (NAS)"@en	0
+COL title VAL  "Crucial Memorie Ballistix Black 16GB(2x8GB) DDR4 2666MHz CL16 Dual Channel Kit"@en	COL title VAL  "16GB DDR4-2666MHz CL13 Kings. XMP HyperX Predator"@en	0
+COL title VAL  "HD 3,5 8TB 7200RPM IRONWOLF SEAGATE"@en	COL title VAL  "ASUS Mouse Gaming ROG Chakram"@en	0
+COL title VAL  "Monitor Asus 15,6" MB16AP ZenScreen GO Portable USB Type-C"@en	COL title VAL  "Asus ZenScreen MB169B+ 15,6\" IPS USB"@de	0
+COL title VAL  "Seagate Ironwolf 10TB 3.5in NAS Hard Drive"@en	COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	0
+COL title VAL  "Philips Monitor LCD 328P6VJEB/00"@en	COL title VAL  "Monitor Philips 31,5" 325E1C/00 VGA HDMI DP"@en	0
+COL title VAL  "Ssd patriot burst 480gb 2.5 sata3 r/w speed: 560ms/s/540 mb/s"@en	COL title VAL  "Samsung 512GB SSD, 860 PRO Series, 2.5\" SATA III, Read up to 560MB/s, Write up to 530MB/s, 100K/90K IOPS"@en	0
+COL title VAL  "Targus Privacy Screen 17\" Anti-glare screen protector Desktop/Laptop Universal 1 pc(s)"@en	COL title VAL  "Targus Privacy Screen 12.1" Widescreen Laptops"@en	0
+COL title VAL  "Samsung 860 PRO 2.5\" 512 GB Serial ATA III 3D MLC"@id	COL title VAL  "SSD Samsung 850 EVO 120GB 2.5"@tl	0
+COL title VAL  "4TB IronWolf ST4000VN008, 5900 RPM, SATA 6Gb/s, 64MB cache, 3.5-Inch HDD"@en	COL title VAL  "Seagate IronWolf Pro - 3.5\" - 10000 GB - 7200 RPM ST10000NE0008"@en	0
+COL title VAL  "Seagate Ironwolf 10TB 3.5in NAS Hard Drive"@en	COL title VAL  "SEAGATE IronWolf NAS HDD4TB, SATA 6Gb/s"@en	0
+COL title VAL  "Seagate Ironwolf 10TB 3.5in NAS Hard Drive"@en	COL title VAL  "Seagate 2TB Exos 7E8 SATA 6Gb s 512n 3.5\" Enterprise Hard Drive"@en	0
+COL title VAL  "iPad (2017) 32GB 4G Spacegray"@en	COL title VAL  "iPad 2019 128GB Space Grey Wifi Only"@en	0
+COL title VAL  "Transcend SSD230 256GB best price"@en	COL title VAL  "Patriot P210 256GB SATA III SSD"@en	0
+COL title VAL  "SANDISK CRUZER GLIDE USB 3.0 DRIVE 32GB"@de	COL title VAL  "MSI GeForce RTX 2070 SUPER VENTUS GP OC 8GB"@de	0
+COL title VAL  "iPad (2017) 32GB 4G Spacegray"@en	COL title VAL  "ASUS ROG Spatha Mouse - Laser - Cable/Wireless - 12 Button(s) - Titanium Black"@en	0
+COL title VAL  "RAM Memory Crucial BL2K8G26C16U4 2 x 8 GB DDR4 2666 Mhz"@en	COL title VAL  "Crucial Memorie Ballistix Black 16GB(2x8GB) DDR4 2666MHz CL16 Dual Channel Kit"@en	1
+COL title VAL  "Western Digital Black NVMe M.2-2280 250GB"@de	COL title VAL  "Western Digital SSD M.2 PCIe 1TB Black NVMe"@de	0
+COL title VAL  "32GB Kit (4 x 8GB) Vengeance RGB Pro DDR4 3000MHz, CL15, White, RGB LED, DIMM Memory"@en	COL title VAL  "Cooler Master MF200R RGB LED Vifte"@de	0
+COL title VAL  "25'' Full HD LED TN monitor ASUS"@it	COL title VAL  "ASUS MB16AC computer monitor 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Grijs"@ca	0
+COL title VAL  "iPad 2018 128GB Silver Wifi + 4G (A grade)"@de	COL title VAL  "A-DATA UV128 128GB USB3.0 Stick Black"@en	0
+COL title VAL  "ASUS ZenScreen MB16ACE 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Grijs"@nl	COL title VAL  "ASUS MB16AC computer monitor 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Grijs"@ca	0
+COL title VAL  "Seagate Exos ST2000NM000A 2 TB Hard Drive - Internal - SATA (SATA/600) - 7200rpm - 256 MB Buffer - 256-bit Encryption Standard"@en	COL title VAL  "HDD 2000 GB; S-ATA III; 7200 RPM; 64 MB BUFFER; SEAGATE; ST2000DM001; NOU"@en	0
+COL title VAL  "RAM-HOL-TAB29U RAM Mounts Tab-Tite Cradle for 7-8\" Tablets in Heavy Duty Case"@en	COL title VAL  "RAM Mount Tab-Tite Cradle 8\" Tablets Samsung Galaxy Tab A 8.0 iPad Mini"@en	0
+COL title VAL  "Seagate IronWolf Pro 10 To"@en	COL title VAL  "Seagate IronWolf 10 To (NAS)"@en	0
+COL title VAL  "RAM-HOL-TAB23U - RAM Tab-Tite Cradle for 8Tablets including the Samsung Galaxy Tab 4 8.0 and Tab S 8.4 with Otterbox Defender Case"@en	COL title VAL  "Targus Magnetic 12inch Screen For MacBook"@en	0
+COL title VAL  "Asus ROG Balteus Qi Wireless Charging Gaming Mouse Pad"@en	COL title VAL  "ASUS ROG Balteus Vertical Gaming Mouse Pad - ASUS Official Store | Free Shipping and Financing Available"@en	0
+COL title VAL  "Team Group L3 EVO 2.5\" 240GB SATA III TLC Internal Solid State Drive SSD | T253LE240GTC101"@en	COL title VAL  "Cooler Master MasterLiquid ML240L V2 RGB - 240 mm"@ca	0
+COL title VAL  "Seagate IronWolf 10 To (NAS)"@en	COL title VAL  "SEAGATE IronWolf NAS HDD4TB, SATA 6Gb/s"@en	0
+COL title VAL  "Pendrive 16GB USB 2.0 Kingston DT104"@de	COL title VAL  "16GB DDR4-2666MHz CL13 Kings. XMP HyperX Predator"@en	0
+COL title VAL  "Philips 271S7QJMB - Full HD IPS Monitor"@en	COL title VAL  "Philips 258B6QUEB - WQHD IPS Monitor"@en	0
+COL title VAL  "Seagate Ironwolf 10TB 3.5in NAS Hard Drive"@en	COL title VAL  "WD Black 4TB SATA 3 Performance HDD/Hard Drive WD4004FZWX"@en	0
+COL title VAL  "Seagate Constellation ES.3 ST4000NM0033 4TB"@en	COL title VAL  "HD 3,5 8TB 7200RPM IRONWOLF SEAGATE"@en	0
+COL title VAL  "Monitor LG 27GK750F-B 27\""@en	COL title VAL  "LED LG 27 Inch 27GK750F-B G-Sync Compatible Gaming Monitor"@en	1
+COL title VAL  "Crucial Memorie Ballistix Black 16GB(2x8GB) DDR4 2666MHz CL16 Dual Channel Kit"@en	COL title VAL  "RAM DDR4 32GB Kit (2x16) PC4-28800 3600MT/s CL16 1.35V Crucial BX Black RGB"@en	0
+COL title VAL  "Pendrive 16GB USB 2.0 Kingston DT104"@de	COL title VAL  "PENDRIVE 64GB USB2.0 KINGSTONDT20"@de	0
+COL title VAL  "Privacy Screen 19\"W (16:10)"@en	COL title VAL  "Privacy Screen 22\"W (16:10)"@en	0
+COL title VAL  "32GB Kit (4 x 8GB) Vengeance RGB Pro DDR4 3000MHz, CL15, White, RGB LED, DIMM Memory"@en	COL title VAL  "Crucial Memory BL2K8G30C15U4RL 16GB (2x8GB) DDR4 3000MT/s CL15 Unbuffered DIMM Retail"@en	0
+COL title VAL  "RAM Tab-Tite™Cradle for 8\" Tablets including Samsung Galaxy Tab A & S2 8.0 with Otterbox Defender Case"@en	COL title VAL  "RAM-HOL-TAB23U - RAM Tab-Tite Cradle for 8Tablets including the Samsung Galaxy Tab 4 8.0 and Tab S 8.4 with Otterbox Defender Case"@en	0
+COL title VAL  "Samsung MZ-75E120B-AM 120GB SATA SSD"@tl	COL title VAL  "SAMSUNG 850 EVO SATA M.2 2280 250GB SSD (MZ-N5E250BW)"@de	0
+COL title VAL  "Asus ROG Balteus Qi Wireless Charging Gaming Mouse Pad"@en	COL title VAL  "ASUS ROG Spatha gaming mouse (90MP00A1-B0UA00)"@en	0
+COL title VAL  "PENDRIVE 64GB USB2.0 KINGSTONDT20"@de	COL title VAL  "Kingston DataTraveler 20 USB Flash Drive 2.0 64GB"@no	1
+COL title VAL  "SEAGATE IronWolf NAS HDD4TB, SATA 6Gb/s"@en	COL title VAL  "Privacy Screen 17\" (4:3)"@en	0
+COL title VAL  "EXT 1TB SG BACKUP+SLIM RED"@de	COL title VAL  "Targus 19" Widescreen LCD Monitor Privacy Screen"@en	0
+COL title VAL  "Crucial Ballistix RGB 32GB (2x16GB) DDR4 UDIMM 3600MHz CL16 Black Aluminum Heat Spreader Intel XMP2.0 AMD Ryzen Desktop PC Gaming Memory"@en	COL title VAL  "Crucial Memory BL2K16G32C16U4WL 32GB (2x16GB) DDR4 3200MT/s CL16 Unbuffered DIMM Retail"@en	0
+COL title VAL  "Samsung 860 PRO 2.5\" 512 GB Serial ATA III 3D MLC"@id	COL title VAL  "Samsung 860 EVO 2.5'' 1TB SATA III 3-D Vertical Internal SSD"@en	0
+COL title VAL  "RAM Tab-Tite™ Cradle for 9\"-10.5\" Tablets (RAM-HOL-TAB20U)"@en	COL title VAL  "RAM Tab-Tite™ Cradle for 7-8\" Tablets in a heavy duty case"@en	0
+COL title VAL  "SSD TRANSCEND SSD230S 256Gb 3D NAND SATA 3 Aluminium TS256GSSD230S"@de	COL title VAL  "Patriot P210 256GB SATA III SSD"@en	0
+COL title VAL  "WD Black 4TB SATA 3 Performance HDD/Hard Drive WD4004FZWX"@en	COL title VAL  "Seagate 2TB Exos 7E8 SATA 6Gb s 512n 3.5\" Enterprise Hard Drive"@en	0
+COL title VAL  "HP Seagate 4TB 7.2K 3.5\" 6G SP SATA ST4000NM0033 HDD Hard Drive HPE"@en	COL title VAL  "Samsung 850 EVO Series M.2 250GB SATA 6Gbps Solid State Drive (MZ-N5E250BW)"@en	0
+COL title VAL  "Targus 19" Widescreen LCD Monitor Privacy Screen"@en	COL title VAL  "Targus Magnetic 12inch Screen For MacBook"@en	0
+COL title VAL  "Apple 10.2\" iPad (Late 2019, 128GB, Wi-Fi Only, Space Gray)"@en	COL title VAL  "RAM halda fyrir Apple iPad Air 1-2 í hulstri"@ca	0
+COL title VAL  "Asus ZenScreen MB169B+ 15,6\" IPS USB"@de	COL title VAL  "ASUS ZenScreen 15.6\" FHD IPS, USBC, Flicker Free, Blue Light Filter, Anti Glare Portable Screen (MB1"@de	0
+COL title VAL  "Cruzer Glide USB Flashdrive - 32GB"@de	COL title VAL  "Cle Usb CORSAIR Flash Voyager"@en	0
+COL title VAL  "Western Digital Black NVMe M.2-2280 250GB"@de	COL title VAL  "Western Digital WD MyBook 10TB USB 3.0 black"@en	0
+COL title VAL  "RAM DDR4 32GB Kit (2x16) PC4-25600 3200MT/s CL16 1.35V Crucial BX White RGB"@en	COL title VAL  "RAM DDR4 32GB Kit (2x16) PC4-28800 3600MT/s CL16 1.35V Crucial BX Black RGB"@en	0
+COL title VAL  "Seagate Backup Plus Slim 2 To - Gris"@id	COL title VAL  "Seagate Backup Plus Slim 2TB USB 3.1 (Gen 1 Type-A) Portable External Hard Drive - Red"@en	0
+COL title VAL  "Monitor LG 27GK750F-B 27\""@en	COL title VAL  "LG 24GL600F 24 Inch 144Hz Gaming Monitor"@en	0
+COL title VAL  "2TB Backup Plus Slim - Red"@de	COL title VAL  "1TB Backup Plus Slim - Blue"@de	0
+COL title VAL  "Crucial Memory BL2K8G30C15U4RL 16GB (2x8GB) DDR4 3000MT/s CL15 Unbuffered DIMM Retail"@en	COL title VAL  "Crucial Ballistix RGB 16GB Kit (2 x 8GB) DDR4-3000 Desktop Gaming Memory (Red) | BL2K8G30C15U4RL | Crucial UK"@en	1
+COL title VAL  "Western Digital SSD M.2 PCIe 1TB Black NVMe"@de	COL title VAL  "WD Black 500 GB M.2 2280"@en	0
+COL title VAL  "672631-B21 HP 16GB (1x16GB) SDRAM DIMM"@de	COL title VAL  "HP 16GB 2Rx4 PC3 G8 Server Ram"@de	1
+COL title VAL  "Cooler Master MF200R RGB LED Vifte"@de	COL title VAL  "Cooler Master MasterLiquid ML240L V2 RGB - 240 mm"@ca	0
+COL title VAL  "Monitor LED LG 24MP59G-P - 24\" - 1920x1080 - VGA - HDMI - DisplayPort"@en	COL title VAL  "Monitor Philips 31,5" 325E1C/00 VGA HDMI DP"@en	0
+COL title VAL  "Apple Refurbished iPad 2018 128GB Silver Wifi + 4G"@en	COL title VAL  "Refurbished iPad 2018 32GB Space Gray Wifi only"@en	0
+COL title VAL  "Samsung 860 EVO MZ-76E1T0B/AM 1 TB Solid State Drive - 2.5\" Internal - SATA (SATA/600) **"@en	COL title VAL  "Team Group L3 EVO 2.5\" 240GB SATA III TLC Internal Solid State Drive SSD | T253LE240GTC101"@en	0
+COL title VAL  "CASE/PSU FAN COOLER MASTER MASTERFAN SF120M"@en	COL title VAL  "Kingston 8GB DataTraveler (USB 3.1 Gen 1) 120MB/s"@de	0
+COL title VAL  "Monitor LG Ultragear 24GL600F - 23.6\" - LED - 1920X1080 Full HD - 1MS - HDMI - DisplayPort"@en	COL title VAL  "Acer B247Y 23.8" 1920x1080 4ms Full HD HDMI VGA LED Monitor"@en	0
+COL title VAL  "Monitor LG Ultragear 24GL600F - 23.6\" - LED - 1920X1080 Full HD - 1MS - HDMI - DisplayPort"@en	COL title VAL  "LG Monitor 24MP59G-P 23.8\" IPS FullHD VGA HDMI 1ms"@en	0
+COL title VAL  "ASUS ROG Chakram RGB wireless gaming mouse (Qi charging, side Joystick, wired/2.4 GHz/Bluetooth connectivity, 16000 dpi sensor, Screw-less magnetic buttons, Aura Sync lighting)-Black"@en	COL title VAL  "Asus ROG Balteus Qi Wireless Charging Gaming Mouse Pad"@en	0
+COL title VAL  "Targus Magnetic 12inch Screen For MacBook"@en	COL title VAL  "Targus ASM12MBGL Antireflectiescherm MacBook 12\" 1stuk(s) schermbeschermer"@en	1
+COL title VAL  "Galaxy A21s 3+32GB Sort"@so	COL title VAL  "SANDISK CRUZER GLIDE USB 3.0 DRIVE 32GB"@de	0
+COL title VAL  "Seagate Backup Plus Slim STHN2000406hard drive - 2 TB - USB 3.0"@en	COL title VAL  "SEAGATE - BackupPlus Slim 11.7mm 1TB HDD USB 3.0/2.0 compatible with Windows and Mac light blue"@en	0
+COL title VAL  "Seagate IronWolf Pro - 3.5\" - 10000 GB - 7200 RPM ST10000NE0008"@en	COL title VAL  "Seagate IronWolf Pro ST8000NE0004 disco duro interno 3.5\" 8000 GB Serial ATA III"@it	0
+COL title VAL  "RAM Tab-Tite™Cradle for 8\" Tablets including Samsung Galaxy Tab A & S2 8.0 with Otterbox Defender Case"@en	COL title VAL  "RAM Tab-Tite Cradle for 10\" Tablets including the Samsung Galaxy Tab 4 10.1 and Tab S 10.5"@en	0
+COL title VAL  "Cooler Master MasterFan Cooling Fan"@en	COL title VAL  "Cooler Master MF200R RGB LED Vifte"@de	0
+COL title VAL  "16GB DDR4-2666MHz CL13 Kings. XMP HyperX Predator"@en	COL title VAL  "Crucial Memory BL2K8G30C15U4RL 16GB (2x8GB) DDR4 3000MT/s CL15 Unbuffered DIMM Retail"@en	0
+COL title VAL  "Monitor LED LG 24MP59G-P - 24\" - 1920x1080 - VGA - HDMI - DisplayPort"@en	COL title VAL  "TEAM SSD L3 EVO 240G 2.5INCH"@ca	0
+COL title VAL  "Crucial Ballistix RGB 16GB Kit (2 x 8GB) DDR4-3000 Desktop Gaming Memory (Red) | BL2K8G30C15U4RL | Crucial UK"@en	COL title VAL  "32GB Kit (4 x 8GB) Vengeance RGB Pro DDR4 3000MHz, CL15, White, RGB LED, DIMM Memory"@en	0
+COL title VAL  "ASUS ZenScreen 15.6\" FHD IPS, USBC, Flicker Free, Blue Light Filter, Anti Glare Portable Screen (MB1"@de	COL title VAL  "ASUS ZenScreen MB16ACE 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Grijs"@nl	1
+COL title VAL  "Asus ROG Balteus Qi Wireless Charging Gaming Mouse Pad"@en	COL title VAL  "ASUS Mouse Gaming ROG Chakram"@en	0
+COL title VAL  "Asus MB16AHP 15.6 ", Touchscreen, IPS, FHD, 1920 x 1080 pixels, 16:9, 250 cd/m², Black"@en	COL title VAL  "Asus Gaming Monitor VG258QR 24.5 \", TN, FHD, 1920 x 1080 pixels, 16:9, 1 ms, 400 cd/m², Black"@en	0
+COL title VAL  "Seagate 2TB Exos 7E8 SATA 6Gb s 512n 3.5\" Enterprise Hard Drive"@en	COL title VAL  "HP Seagate 4TB 7.2K 3.5\" 6G SP SATA ST4000NM0033 HDD Hard Drive HPE"@en	0
+COL title VAL  "Philips 258B6QUEB25" 2560x1440 5ms VGA DVI DP HDMI USB-C"@en	COL title VAL  "Monitor Philips 31,5" 325E1C/00 VGA HDMI DP"@en	0
+COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	COL title VAL  "WD4004FZWX WD BLACK 4TB SATA 6GB/S 128MB 7200RPM"@de	0
+COL title VAL  "32GB Kit (4 x 8GB) Vengeance RGB Pro DDR4 3000MHz, CL15, White, RGB LED, DIMM Memory"@en	COL title VAL  "Crucial Memorie Ballistix Black 16GB(2x8GB) DDR4 2666MHz CL16 Dual Channel Kit"@en	0
+COL title VAL  "SAMSUNG 850 EVO SATA M.2 2280 250GB SSD (MZ-N5E250BW)"@de	COL title VAL  "Western Digital SSD M.2 PCIe 1TB Black NVMe"@de	0
+COL title VAL  "SEAGATE IronWolf NAS HDD4TB, SATA 6Gb/s"@en	COL title VAL  "Refurbished iPad 2018 32GB Space Gray Wifi only"@en	0
+COL title VAL  "Cooler Master MasterFan Cooling Fan"@en	COL title VAL  "Cooler Master MasterLiquid ML240L V2 RGB - 240 mm"@ca	0
+COL title VAL  "ASUS MB169B+ 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Zwart, Zilver"@de	COL title VAL  "ASUS MB16AC computer monitor 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Grijs"@ca	0
+COL title VAL  "480GB Transcend SSD220 2.5\" (6.4cm) SATA 6Gb/s TLC (TS480GSSD220S)"@en	COL title VAL  "SSD TRANSCEND SSD230S 256Gb 3D NAND SATA 3 Aluminium TS256GSSD230S"@de	0
+COL title VAL  "Targus Privacy Screen 12.1\"W Anti-glare screen protector Desktop/Laptop Universal 1 pc(s)"@en	COL title VAL  "Targus ASM12MBGL Antireflectiescherm MacBook 12\" 1stuk(s) schermbeschermer"@en	0
+COL title VAL  "Apple 10.2\" iPad (Late 2019, 128GB, Wi-Fi Only, Space Gray)"@en	COL title VAL  "Apple Refurbished iPad 2018 128GB Silver Wifi + 4G"@en	0
+COL title VAL  "Philips 258B6QUEB - WQHD IPS Monitor"@en	COL title VAL  "Philips Monitor LCD 328P6VJEB/00"@en	0
+COL title VAL  "iPad 2019 128GB Space Grey Wifi Only"@en	COL title VAL  "Apple Refurbished iPad 2018 128GB Silver Wifi + 4G"@en	0
+COL title VAL  "Monitor 31.5" PHILIPS 328P6VJEB, 4K UHD 3840*2160, VA, WLED, 60 Hz, 300cd/mp, 16:9, 3000:1/ 50M:1, 4 ms, anti-glare 3H, 178/178, Fli cker-free,MHL, VGA, DVI, DP, HDMI/ MHL, 4* USB, PC audio in, boxe 2"@en	COL title VAL  "Monitor 23.8\" ACER B247Ybmiprx, 16:9, IPS, LED, FHD 1920*1080, 4 ms, 250 cd/mp, 1000:1/ 100M:1, 178/178, pivot, VGA, HDMI, DP(1.2), UM.QB7EE.001"@en	0
+COL title VAL  "Cooler Master MasterFan Cooling Fan"@en	COL title VAL  "CASE/PSU FAN COOLER MASTER MASTERFAN SF120M"@en	1
+COL title VAL  "MSI nVidia Geforce RTX 2070 Super VENTUS GP OC 8GB GDDR6 7680x4320@60Hz 3xDisplays HDMI2.0b NVLink VR G-Sync1785MHz TORX Fan (LS)"@en	COL title VAL  "MSI GeForce RTX 2070 SUPER VENTUS GP OC 8GB"@de	1
+COL title VAL  "LG 24GL600F 24 Inch 144Hz Gaming Monitor"@en	COL title VAL  "Monitor LG Ultragear 24GL600F - 23.6\" - LED - 1920X1080 Full HD - 1MS - HDMI - DisplayPort"@en	1
+COL title VAL  "Seagate 1TB Backup Plus Slim USB 3.0 External Hard Drive, Red"@en	COL title VAL  "Seagate Backup Plus Slim STHN2000406hard drive - 2 TB - USB 3.0"@en	0
+COL title VAL  "PEN DRIVE 16GB KINGSTON USB 3.1 DTMC3/16GB"@de	COL title VAL  "ADATA USB 3.2 Memory Pen UV128 - 128GB"@en	0
+COL title VAL  "HDD Extern WD My Book V3 10TB, 3.5\", USB 3.0, Negru - WDBBGB0100HBK-EESN"@de	COL title VAL  "Western Digital WD MyBook 10TB USB 3.0 black"@en	1
+COL title VAL  "8GB Kingston DataTraveler 2000 Encrypted USB Flash Drive - Blue"@en	COL title VAL  "Pendrive 16GB USB 2.0 Kingston DT104"@de	0
+COL title VAL  "Philips 271S7QJMB - Full HD IPS Monitor"@en	COL title VAL  "Philips Monitor LCD 329P9H/00"@en	0
+COL title VAL  "Samsung 850 EVO Series M.2 250GB SATA 6Gbps Solid State Drive (MZ-N5E250BW)"@en	COL title VAL  "Samsung 512GB SSD, 860 PRO Series, 2.5\" SATA III, Read up to 560MB/s, Write up to 530MB/s, 100K/90K IOPS"@en	0
+COL title VAL  "Kingston DataTraveler 104 16GB USB 2.0"@no	COL title VAL  "Kingston 8GB DataTraveler (USB 3.1 Gen 1) 120MB/s"@de	0
+COL title VAL  "Seagate Exos ST2000NM000A 2 TB Hard Drive - Internal - SATA (SATA/600) - 7200rpm - 256 MB Buffer - 256-bit Encryption Standard"@en	COL title VAL  "Constellation ES.2 ST33000650NS 3 TB Internal Hard Drive"@en	0
+COL title VAL  "Acer B247Y 23.8" 1920x1080 4ms Full HD HDMI VGA LED Monitor"@en	COL title VAL  "Monitor 23.8\" ACER B247Ybmiprx, 16:9, IPS, LED, FHD 1920*1080, 4 ms, 250 cd/mp, 1000:1/ 100M:1, 178/178, pivot, VGA, HDMI, DP(1.2), UM.QB7EE.001"@en	1
+COL title VAL  "TARGUS Privacy Screen 22inch Widescreen"@en	COL title VAL  "WD Black 1TB High-Performance NVMe PCIe Internal SSD - M.2 2280, 8 Gb/s - WDS100T2X0C"@en	0
+COL title VAL  "Goodram CX400 internal solid state drive 2.5\" 256 GB SATA III QLC 3D NAND SSD"@en	COL title VAL  "SSD TRANSCEND SSD230S 256Gb 3D NAND SATA 3 Aluminium TS256GSSD230S"@de	0
+COL title VAL  "480GB Transcend SSD220 2.5\" (6.4cm) SATA 6Gb/s TLC (TS480GSSD220S)"@en	COL title VAL  "256GB P210 7mm, 500 / 400 MB/s, 3D NAND, SATA 6Gb/s, 2.5-Inch SSD"@en	0
+COL title VAL  "Transcend SSD230 256GB best price"@en	COL title VAL  "Transcend 480GB 2.5inch SATA III SSD"@en	0
+COL title VAL  "Targus 19" Widescreen LCD Monitor Privacy Screen"@en	COL title VAL  "TARGUS Privacy Screen 22inch Widescreen"@en	0
+COL title VAL  "Asus Gaming Monitor VG258QR 24.5 \", TN, FHD, 1920 x 1080 pixels, 16:9, 1 ms, 400 cd/m², Black"@en	COL title VAL  "ASUS MB16AC computer monitor 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Grijs"@ca	0
+COL title VAL  "Asus MB16AHP 15.6 ", Touchscreen, IPS, FHD, 1920 x 1080 pixels, 16:9, 250 cd/m², Black"@en	COL title VAL  "Philips 329P9H/00 31.5 ", IPS, UHD, 16 : 9, 5 ms, 350 cd/m², Black"@en	0
+COL title VAL  "SSD Samsung 850 EVO 120GB 2.5"@tl	COL title VAL  "Samsung 860 EVO 2.5'' 1TB SATA III 3-D Vertical Internal SSD"@en	0
+COL title VAL  "Corsair Flash Voyager V2 128GB"@en	COL title VAL  "Lexar JumpDrive S57 USB 3.0 flash drive 128GB"@en	0
+COL title VAL  "ASUS MB16AC computer monitor 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Grijs"@ca	COL title VAL  "Philips 271S7QJMB/00 Series, 27 inches (68,6 cm), Full HD (1920 x 1080), VGA, DP1.2, HDMI1.4, Speaker"@en	0
+COL title VAL  "PENDRIVE 64GB USB2.0 KINGSTONDT20"@de	COL title VAL  "PEN DRIVE 16GB KINGSTON USB 3.1 DTMC3/16GB"@de	0
+COL title VAL  "ASUS ZenScreen 15.6\" FHD IPS, USBC, Flicker Free, Blue Light Filter, Anti Glare Portable Screen (MB1"@de	COL title VAL  "ASUS LCD 15.6\" MB16AHP 1920x1080 ZenScreen Go USB Type-C Portable IPS 4h batt Micro-HDMI Foldablecase Auto-Rotate REPRO"@en	0
+COL title VAL  "Pen Drive Multilaser 16Gb Pd 588"@en	COL title VAL  "SanDisk 16GB Cruzer Glide USB3.0 Flash Drive"@de	0
+COL title VAL  "ASUS Mouse Gaming ROG Chakram"@en	COL title VAL  "ASUS ROG Balteus Gaming Musematte"@de	0
+COL title VAL  "SEAGATE - BackupPlus Slim 11.7mm 1TB HDD USB 3.0/2.0 compatible with Windows and Mac light blue"@en	COL title VAL  "1TB Backup Plus Slim - Blue"@de	1
+COL title VAL  "Goodram CX400 internal solid state drive 2.5\" 256 GB SATA III QLC 3D NAND SSD"@en	COL title VAL  "Disco SSD Goodram SSD 2.5\" SSDPR-CX400-256"@en	1
+COL title VAL  "Philips Monitor LCD 328P6VJEB/00"@en	COL title VAL  "Curved LCD monitor with Ultra Wide-Color"@en	0
+COL title VAL  "Privacy Screen 19\"W (16:10)"@en	COL title VAL  "Privacy Screen 17\" (4:3)"@en	0
+COL title VAL  "Targus Privacy Screen 12.1" Widescreen Laptops"@en	COL title VAL  "8GB Kingston DataTraveler 2000 Encrypted USB Flash Drive - Blue"@en	0
+COL title VAL  "LG 24GL600F 24 Inch 144Hz Gaming Monitor"@en	COL title VAL  "LED LG 27 Inch 27GK750F-B G-Sync Compatible Gaming Monitor"@en	0
+COL title VAL  "Monitor Philips 31,5" 325E1C/00 VGA HDMI DP"@en	COL title VAL  "Philips 329P9H/00 31.5 ", IPS, UHD, 16 : 9, 5 ms, 350 cd/m², Black"@en	0
+COL title VAL  "SSD Samsung 850 EVO 120GB 2.5"@tl	COL title VAL  "Ssd patriot burst 480gb 2.5 sata3 r/w speed: 560ms/s/540 mb/s"@en	0
+COL title VAL  "Philips Monitor LCD 329P9H/00"@en	COL title VAL  "Philips 329P9H/00 31.5 ", IPS, UHD, 16 : 9, 5 ms, 350 cd/m², Black"@en	1
+COL title VAL  "iPad 2019 128GB Space Grey Wifi Only"@en	COL title VAL  "iPad 2017 32GB Zwart Wifi + 4G (A grade)"@de	0
+COL title VAL  "Seagate IronWolf Pro ST8000NE0004 disco duro interno 3.5\" 8000 GB Serial ATA III"@it	COL title VAL  "HD 3,5 8TB 7200RPM IRONWOLF SEAGATE"@en	1
+COL title VAL  "1TB BarraCuda ST1000LM048, 5400 RPM, SATA 6Gb/s, 128MB cache, 2.5-Inch HDD"@en	COL title VAL  "480GB Transcend SSD220 2.5\" (6.4cm) SATA 6Gb/s TLC (TS480GSSD220S)"@en	0
+COL title VAL  "Targus ASM12MBGL Antireflectiescherm MacBook 12\" 1stuk(s) schermbeschermer"@en	COL title VAL  "ASUS ROG Spatha Mouse - Laser - Cable/Wireless - 12 Button(s) - Titanium Black"@en	0
+COL title VAL  "RAM-HOL-TAB23U - RAM Tab-Tite Cradle for 8Tablets including the Samsung Galaxy Tab 4 8.0 and Tab S 8.4 with Otterbox Defender Case"@en	COL title VAL  "RAM Tab-Tite™ for 10\" Tablets, Tab 4 + more (RAM-HOL-TAB26U)"@en	0
+COL title VAL  "Transcend SSD230 256GB best price"@en	COL title VAL  "Western Digital SSD M.2 PCIe 1TB Black NVMe"@de	0
+COL title VAL  "Asus MB16AHP 15.6 ", Touchscreen, IPS, FHD, 1920 x 1080 pixels, 16:9, 250 cd/m², Black"@en	COL title VAL  "ASUS LCD 15.6\" MB16AHP 1920x1080 ZenScreen Go USB Type-C Portable IPS 4h batt Micro-HDMI Foldablecase Auto-Rotate REPRO"@en	1
+COL title VAL  "TARGUS Privacy Screen 22inch Widescreen"@en	COL title VAL  "Targus Privacy Screen 17\" Anti-glare screen protector Desktop/Laptop Universal 1 pc(s)"@en	0
+COL title VAL  "Western Digital Black NVMe M.2-2280 250GB"@de	COL title VAL  "Western Digital SSD M.2 PCIe 500GB Black NVMe"@de	0
+COL title VAL  "Acer B247Y 23.8" 1920x1080 4ms Full HD HDMI VGA LED Monitor"@en	COL title VAL  "LG Monitor 24MP59G-P 23.8\" IPS FullHD VGA HDMI 1ms"@en	0
+COL title VAL  "480GB Transcend SSD220 2.5\" (6.4cm) SATA 6Gb/s TLC (TS480GSSD220S)"@en	COL title VAL  "Transcend 480GB 2.5inch SATA III SSD"@en	1
+COL title VAL  "WD Black SSD 3D NVMe - 250GB"@de	COL title VAL  "Western Digital SSD M.2 PCIe 500GB Black NVMe"@de	0
+COL title VAL  "Privacy Screen 22\"W (16:10)"@en	COL title VAL  "Targus Privacy Screen 12.1" Widescreen Laptops"@en	0
+COL title VAL  "32GB Kit (4 x 8GB) Vengeance RGB Pro DDR4 3000MHz, CL15, White, RGB LED, DIMM Memory"@en	COL title VAL  "Crucial Memory BL2K16G32C16U4WL 32GB (2x16GB) DDR4 3200MT/s CL16 Unbuffered DIMM Retail"@en	0
+COL title VAL  "TARGUS Privacy Screen 22inch Widescreen"@en	COL title VAL  "Privacy Screen 19\"W (16:10)"@en	0
+COL title VAL  "Philips 258B6QUEB25" 2560x1440 5ms VGA DVI DP HDMI USB-C"@en	COL title VAL  "Monitor LED LG 24MP59G-P - 24\" - 1920x1080 - VGA - HDMI - DisplayPort"@en	0
+COL title VAL  "Samsung 860 PRO 2.5\" 512 GB Serial ATA III 3D MLC"@id	COL title VAL  "Samsung 512GB SSD, 860 PRO Series, 2.5\" SATA III, Read up to 560MB/s, Write up to 530MB/s, 100K/90K IOPS"@en	1
+COL title VAL  "Samsung 860 EVO 2.5'' 1TB SATA III 3-D Vertical Internal SSD"@en	COL title VAL  "SAMSUNG 850 EVO SATA M.2 2280 250GB SSD (MZ-N5E250BW)"@de	0
+COL title VAL  "1TB BarraCuda ST1000LM048, 5400 RPM, SATA 6Gb/s, 128MB cache, 2.5-Inch HDD"@en	COL title VAL  "Seagate BARRACUDA 1TB 2.5\" 7mm Internal Hard Drive - SATA3 - 5400RPM -128MB Cache (2years warranty )"@en	1
+COL title VAL  "32GB Kit (4 x 8GB) Vengeance RGB Pro DDR4 3000MHz, CL15, White, RGB LED, DIMM Memory"@en	COL title VAL  "Corsair Vengeance RGB Pro 32GB (4x8GB) 3000MHz CL15 DDR4 White"@en	1
+COL title VAL  "HD SEAGATE IRONWOLF 2 TB P/ NAS - ST2000VN004"@en	COL title VAL  "HD 3,5 8TB 7200RPM IRONWOLF SEAGATE"@en	0
+COL title VAL  "Philips 271S7QJMB - Full HD IPS Monitor"@en	COL title VAL  "Philips 271S7QJMB/00 Series, 27 inches (68,6 cm), Full HD (1920 x 1080), VGA, DP1.2, HDMI1.4, Speaker"@en	1
+COL title VAL  "Acer B247Y 23.8" 1920x1080 4ms Full HD HDMI VGA LED Monitor"@en	COL title VAL  "Philips 258B6QUEB25" 2560x1440 5ms VGA DVI DP HDMI USB-C"@en	0
+COL title VAL  "Crucial Memorie Ballistix Black 16GB(2x8GB) DDR4 2666MHz CL16 Dual Channel Kit"@en	COL title VAL  "Crucial Ballistix RGB 16GB Kit (2 x 8GB) DDR4-3000 Desktop Gaming Memory (Red) | BL2K8G30C15U4RL | Crucial UK"@en	0
+COL title VAL  "ASUS ZenScreen 15.6\" FHD IPS, USBC, Flicker Free, Blue Light Filter, Anti Glare Portable Screen (MB1"@de	COL title VAL  "Monitor Asus 15,6" MB16AP ZenScreen GO Portable USB Type-C"@en	0
+COL title VAL  "25'' Full HD LED TN monitor ASUS"@it	COL title VAL  "Asus Gaming Monitor VG258QR 24.5 \", TN, FHD, 1920 x 1080 pixels, 16:9, 1 ms, 400 cd/m², Black"@en	1
+COL title VAL  "TARGUS Privacy Screen 22inch Widescreen"@en	COL title VAL  "Targus Privacy Screen 12.1" Widescreen Laptops"@en	0
+COL title VAL  "Apple 10.2\" iPad (Late 2019, 128GB, Wi-Fi Only, Space Gray)"@en	COL title VAL  "iPad 2019 128GB Space Grey Wifi Only"@en	1
+COL title VAL  "ASUS ZenScreen MB16ACE 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Grijs"@nl	COL title VAL  "Asus MB16AHP 15.6 ", Touchscreen, IPS, FHD, 1920 x 1080 pixels, 16:9, 250 cd/m², Black"@en	0
+COL title VAL  "256GB P210 7mm, 500 / 400 MB/s, 3D NAND, SATA 6Gb/s, 2.5-Inch SSD"@en	COL title VAL  "Patriot P210 256GB SATA III SSD"@en	1
+COL title VAL  "Asus ROG Strix Slice Gaming Mouse Pad"@en	COL title VAL  "ASUS ROG Balteus Vertical Gaming Mouse Pad - ASUS Official Store | Free Shipping and Financing Available"@en	0
+COL title VAL  "Monitor LG Ultragear 24GL600F - 23.6\" - LED - 1920X1080 Full HD - 1MS - HDMI - DisplayPort"@en	COL title VAL  "HANNSPREE 23.6'' HS246HFW IPS,HDMI,Speakers"@nl	0
+COL title VAL  "Patriot BURST 480GB 2.5 SSD"@en	COL title VAL  "SSD Samsung 850 EVO 120GB 2.5"@tl	0
+COL title VAL  "Cle Usb CORSAIR Flash Voyager"@en	COL title VAL  "Privacy Screen 17\" (4:3)"@en	0
+COL title VAL  "SEAGATE IronWolf NAS HDD4TB, SATA 6Gb/s"@en	COL title VAL  "HD SEAGATE IRONWOLF 2 TB P/ NAS - ST2000VN004"@en	0
+COL title VAL  "Asus ROG Balteus Qi RGB Mouse Pad 370x320 USB Nero"@et	COL title VAL  "ASUS Mouse Gaming ROG Chakram"@en	0
+COL title VAL  "Seagate IronWolf 10 To (NAS)"@en	COL title VAL  "HD SEAGATE IRONWOLF 2 TB P/ NAS - ST2000VN004"@en	0
+COL title VAL  "Pendrive 16GB USB 2.0 Kingston DT104"@de	COL title VAL  "Kingston DataTraveler 104 16GB USB 2.0"@no	1
+COL title VAL  "Crucial Ballistix RGB 16GB Kit (2 x 8GB) DDR4-3000 Desktop Gaming Memory (Red) | BL2K8G30C15U4RL | Crucial UK"@en	COL title VAL  "RAM Memory Crucial BL2K8G26C16U4 2 x 8 GB DDR4 2666 Mhz"@en	0
+COL title VAL  "ASUS Mouse Gaming ROG Chakram"@en	COL title VAL  "ASUS ROG Spatha Mouse - Laser - Cable/Wireless - 12 Button(s) - Titanium Black"@en	0
+COL title VAL  "Pendrive Usb 2.0 16gb Twist Pd588 Multilaser"@en	COL title VAL  "Pen Drive Multilaser 16Gb Pd 588"@en	1
+COL title VAL  "ADATA USB 3.2 Memory Pen UV128 - 128GB"@en	COL title VAL  "Lexar Professional JumpDrive S57 USB 3.0 Flash Drive Memory Stick - 128GB"@en	0
+COL title VAL  "ASUS MB169B+ 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Zwart, Zilver"@de	COL title VAL  "Asus ZenScreen MB169B+ 15,6\" IPS USB"@de	1
+COL title VAL  "RAM Tab-Tite Cradle for 10\" Tablets including the Samsung Galaxy Tab 4 10.1 and Tab S 10.5"@en	COL title VAL  "RAM Mount Tab-Tite Cradle 8\" Tablets Samsung Galaxy Tab A 8.0 iPad Mini"@en	0
+COL title VAL  "iPad 2018 128GB Silver Wifi + 4G (A grade)"@de	COL title VAL  "iPad 2017 32GB Zwart Wifi + 4G (A grade)"@de	0
+COL title VAL  "Refurbished iPad 2018 32GB Space Gray Wifi only"@en	COL title VAL  "iPad 2019 128GB Space Grey Wifi Only"@en	0
+COL title VAL  "Western Digital WD MyBook 10TB USB 3.0 black"@en	COL title VAL  "Western Digital SSD M.2 PCIe 1TB Black NVMe"@de	0
+COL title VAL  "Philips Monitor LCD 329P9H/00"@en	COL title VAL  "Asus Gaming Monitor VG258QR 24.5 \", TN, FHD, 1920 x 1080 pixels, 16:9, 1 ms, 400 cd/m², Black"@en	0
+COL title VAL  "iPad (2017) 32GB 4G Spacegray"@en	COL title VAL  "iPad (2018) 128GB 4G Space Gray B grade"@en	0
+COL title VAL  "HD SEAGATE IRONWOLF 2 TB P/ NAS - ST2000VN004"@en	COL title VAL  "Seagate Barracuda ST2000DM001 Desktop SATA Hard Drive"@en	0
+COL title VAL  "RAM DDR4 32GB Kit (2x16) PC4-25600 3200MT/s CL16 1.35V Crucial BX White RGB"@en	COL title VAL  "Corsair Vengeance RGB Pro 32GB (4x8GB) 3000MHz CL15 DDR4 White"@en	0
+COL title VAL  "A-DATA UV128 128GB USB3.0 Stick Black"@en	COL title VAL  "Lexar Professional JumpDrive S57 USB 3.0 Flash Drive Memory Stick - 128GB"@en	0
+COL title VAL  "Crucial Ballistix RGB 16GB Kit (2 x 8GB) DDR4-3000 Desktop Gaming Memory (Red) | BL2K8G30C15U4RL | Crucial UK"@en	COL title VAL  "Crucial Memory BL2K16G32C16U4WL 32GB (2x16GB) DDR4 3200MT/s CL16 Unbuffered DIMM Retail"@en	0
+COL title VAL  "4TB IronWolf ST4000VN008, 5900 RPM, SATA 6Gb/s, 64MB cache, 3.5-Inch HDD"@en	COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	0
+COL title VAL  "2TB Backup Plus Slim - Red"@de	COL title VAL  "HD 3,5 8TB 7200RPM IRONWOLF SEAGATE"@en	0
+COL title VAL  "Apple 10.2\" iPad (Late 2019, 128GB, Wi-Fi Only, Space Gray)"@en	COL title VAL  "Apple Smart Cover for 10.5‑inch iPad Air - Charcoal Gray"@en	0
+COL title VAL  "Asus ROG Balteus Qi Wireless Charging Gaming Mouse Pad"@en	COL title VAL  "Asus ROG Balteus Qi RGB Mouse Pad 370x320 USB Nero"@et	1
+COL title VAL  "Monitor 23.8\" ACER B247Ybmiprx, 16:9, IPS, LED, FHD 1920*1080, 4 ms, 250 cd/mp, 1000:1/ 100M:1, 178/178, pivot, VGA, HDMI, DP(1.2), UM.QB7EE.001"@en	COL title VAL  "Privacy Screen 17\" (4:3)"@en	0
+COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	COL title VAL  "Seagate BARRACUDA 1TB 2.5\" 7mm Internal Hard Drive - SATA3 - 5400RPM -128MB Cache (2years warranty )"@en	0
+COL title VAL  "Kingston 8GB DataTraveler (USB 3.1 Gen 1) 120MB/s"@de	COL title VAL  "8GB Kingston DataTraveler 2000 Encrypted USB Flash Drive - Blue"@en	1
+COL title VAL  "Targus Privacy Screen 17\" Anti-glare screen protector Desktop/Laptop Universal 1 pc(s)"@en	COL title VAL  "Targus Privacy Screen 12.1\"W Anti-glare screen protector Desktop/Laptop Universal 1 pc(s)"@en	0
+COL title VAL  "Seagate 2TB Exos 7E8 SATA 6Gb s 512n 3.5\" Enterprise Hard Drive"@en	COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	0
+COL title VAL  "iPad 2017 32GB Zwart Wifi + 4G (A grade)"@de	COL title VAL  "Apple iPad (2018) 128 GB Wifi + 4G Space Gray"@en	0
+COL title VAL  "iPad (2018) 128GB 4G Space Gray B grade"@en	COL title VAL  "iPad 2019 128GB Space Grey Wifi Only"@en	0
+COL title VAL  "iPad 2018 128GB Silver Wifi + 4G (A grade)"@de	COL title VAL  "Apple Refurbished iPad 2018 128GB Silver Wifi + 4G"@en	1
+COL title VAL  "HANNSPREE 23.6'' HS246HFW IPS,HDMI,Speakers"@nl	COL title VAL  "Hannspree Hanns.G HS246HFW 23.6\" Full HD Opaco Bianco monitor piatto per PC LED display"@it	1
+COL title VAL  "ASUS MB16AC computer monitor 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Grijs"@ca	COL title VAL  "Asus MB16AHP 15.6 ", Touchscreen, IPS, FHD, 1920 x 1080 pixels, 16:9, 250 cd/m², Black"@en	0
+COL title VAL  "HP Seagate 4TB 7.2K 3.5\" 6G SP SATA ST4000NM0033 HDD Hard Drive HPE"@en	COL title VAL  "4TB IronWolf ST4000VN008, 5900 RPM, SATA 6Gb/s, 64MB cache, 3.5-Inch HDD"@en	0
+COL title VAL  "Seagate IronWolf Pro - 3.5\" - 10000 GB - 7200 RPM ST10000NE0008"@en	COL title VAL  "HD SEAGATE IRONWOLF 2 TB P/ NAS - ST2000VN004"@en	0
+COL title VAL  "Memória RAM Kingston_ValueRAM DDR4 2666MHz HX426C13PB3/16"@de	COL title VAL  "RAM DDR4 32GB Kit (2x16) PC4-28800 3600MT/s CL16 1.35V Crucial BX Black RGB"@en	0
+COL title VAL  "SSD TRANSCEND SSD230S 256Gb 3D NAND SATA 3 Aluminium TS256GSSD230S"@de	COL title VAL  "Seagate IronWolf Pro 10 To"@en	0
+COL title VAL  "CASE/PSU FAN COOLER MASTER MASTERFAN SF120M"@en	COL title VAL  "HP Seagate 4TB 7.2K 3.5\" 6G SP SATA ST4000NM0033 HDD Hard Drive HPE"@en	0
+COL title VAL  "Philips Monitor LCD 329P9H/00"@en	COL title VAL  "Targus 19" Widescreen LCD Monitor Privacy Screen"@en	0
+COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	COL title VAL  "HP Seagate 4TB 7.2K 3.5\" 6G SP SATA ST4000NM0033 HDD Hard Drive HPE"@en	0
+COL title VAL  "Seagate Backup Plus Slim 2TB USB 3.1 (Gen 1 Type-A) Portable External Hard Drive - Red"@en	COL title VAL  "RAM halda fyrir Apple iPad Air 1-2 í hulstri"@ca	0
+COL title VAL  "Philips Monitor LCD 329P9H/00"@en	COL title VAL  "Curved LCD monitor with Ultra Wide-Color"@en	0
+COL title VAL  "HP Seagate 4TB 7.2K 3.5\" 6G SP SATA ST4000NM0033 HDD Hard Drive HPE"@en	COL title VAL  "WD Black 4TB SATA 3 Performance HDD/Hard Drive WD4004FZWX"@en	0
+COL title VAL  "RAM DDR4 32GB Kit (2x16) PC4-25600 3200MT/s CL16 1.35V Crucial BX White RGB"@en	COL title VAL  "32GB Kit (4 x 8GB) Vengeance RGB Pro DDR4 3000MHz, CL15, White, RGB LED, DIMM Memory"@en	0
+COL title VAL  "32GB Kit (4 x 8GB) Vengeance RGB Pro DDR4 3000MHz, CL15, White, RGB LED, DIMM Memory"@en	COL title VAL  "Apple 10.2\" iPad (Late 2019, 128GB, Wi-Fi Only, Space Gray)"@en	0
+COL title VAL  "ASUS MB169B+ 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Zwart, Zilver"@de	COL title VAL  "25'' Full HD LED TN monitor ASUS"@it	0
+COL title VAL  "SanDisk 16GB Cruzer Glide USB3.0 Flash Drive"@de	COL title VAL  "SANDISK CRUZER GLIDE USB 3.0 DRIVE 32GB"@de	0
+COL title VAL  "SAMSUNG 850 EVO SATA M.2 2280 250GB SSD (MZ-N5E250BW)"@de	COL title VAL  "Western Digital Black NVMe M.2-2280 250GB"@de	0
+COL title VAL  "Kingston 8GB DataTraveler (USB 3.1 Gen 1) 120MB/s"@de	COL title VAL  "USB DISK KINGSTON 16GB DT MICRO, 3.1, srebrn, kovinski, micro format"@sl	0
+COL title VAL  "2TB Backup Plus Slim - Red"@de	COL title VAL  "Seagate Backup Plus Slim 2TB USB 3.1 (Gen 1 Type-A) Portable External Hard Drive - Red"@en	1
+COL title VAL  "SEAGATE - BackupPlus Slim 11.7mm 1TB HDD USB 3.0/2.0 compatible with Windows and Mac light blue"@en	COL title VAL  "Seagate 1TB Backup Plus Slim USB 3.0 External Hard Drive, Red"@en	0
+COL title VAL  "Seagate Ironwolf 10TB 3.5in NAS Hard Drive"@en	COL title VAL  "Seagate Barracuda ST2000DM001 Desktop SATA Hard Drive"@en	0
+COL title VAL  "ASUS ROG Spatha Mouse - Laser - Cable/Wireless - 12 Button(s) - Titanium Black"@en	COL title VAL  "CASE/PSU FAN COOLER MASTER MASTERFAN SF120M"@en	0
+COL title VAL  "Pendrive 3.0 Sandisk Cruzer Glide 16 GB"@da	COL title VAL  "ASUS ROG Spatha Mouse - Laser - Cable/Wireless - 12 Button(s) - Titanium Black"@en	0
+COL title VAL  "16GB DDR4-2666MHz CL13 Kings. XMP HyperX Predator"@en	COL title VAL  "Crucial Ballistix RGB 32GB (2x16GB) DDR4 UDIMM 3600MHz CL16 Black Aluminum Heat Spreader Intel XMP2.0 AMD Ryzen Desktop PC Gaming Memory"@en	0
+COL title VAL  "Crucial Ballistix RGB 32GB (2x16GB) DDR4 UDIMM 3600MHz CL16 Black Aluminum Heat Spreader Intel XMP2.0 AMD Ryzen Desktop PC Gaming Memory"@en	COL title VAL  "Crucial Memorie Ballistix Black 16GB(2x8GB) DDR4 2666MHz CL16 Dual Channel Kit"@en	0
+COL title VAL  "Seagate Backup Plus Slim 2TB silber"@id	COL title VAL  "2TB Backup Plus Slim - Red"@de	0
+COL title VAL  "Kingston DataTraveler 20 USB Flash Drive 2.0 64GB"@no	COL title VAL  "Kingston DataTraveler 104 16GB USB 2.0"@no	0
+COL title VAL  "Galaxy A21s 3+32GB Sort"@so	COL title VAL  "iPad (2017) 32GB 4G Spacegray"@en	0
+COL title VAL  "Kingston 8GB DataTraveler (USB 3.1 Gen 1) 120MB/s"@de	COL title VAL  "ADATA USB 3.2 Memory Pen UV128 - 128GB"@en	0
+COL title VAL  "Pendrive 16GB USB 2.0 Kingston DT104"@de	COL title VAL  "USB DISK KINGSTON 16GB DT MICRO, 3.1, srebrn, kovinski, micro format"@sl	0
+COL title VAL  "Apple iPad (2018) 128 GB Wifi + 4G Space Gray"@en	COL title VAL  "SEAGATE IronWolf NAS HDD4TB, SATA 6Gb/s"@en	0
+COL title VAL  "Crucial Ballistix RGB 32GB (2x16GB) DDR4 UDIMM 3600MHz CL16 Black Aluminum Heat Spreader Intel XMP2.0 AMD Ryzen Desktop PC Gaming Memory"@en	COL title VAL  "Crucial Ballistix RGB 16GB Kit (2 x 8GB) DDR4-3000 Desktop Gaming Memory (Red) | BL2K8G30C15U4RL | Crucial UK"@en	0
+COL title VAL  "WD4004FZWX WD BLACK 4TB SATA 6GB/S 128MB 7200RPM"@de	COL title VAL  "1TB BarraCuda ST1000LM048, 5400 RPM, SATA 6Gb/s, 128MB cache, 2.5-Inch HDD"@en	0
+COL title VAL  "Asus 15,6" ZenScreen MB16AP"@nl	COL title VAL  "ASUS ZenScreen 15.6\" FHD IPS, USBC, Flicker Free, Blue Light Filter Portable Screen (MB16AC)"@de	0
+COL title VAL  "Seagate IronWolf Pro 10 To"@en	COL title VAL  "Seagate IronWolf Pro - 3.5\" - 10000 GB - 7200 RPM ST10000NE0008"@en	1
+COL title VAL  "Refurbished iPad 2018 32GB Space Gray Wifi only"@en	COL title VAL  "iPad 2017 32GB Zwart Wifi + 4G (A grade)"@de	0
+COL title VAL  "Asus MB16AHP 15.6 ", Touchscreen, IPS, FHD, 1920 x 1080 pixels, 16:9, 250 cd/m², Black"@en	COL title VAL  "Monitor 23.8\" ACER B247Ybmiprx, 16:9, IPS, LED, FHD 1920*1080, 4 ms, 250 cd/mp, 1000:1/ 100M:1, 178/178, pivot, VGA, HDMI, DP(1.2), UM.QB7EE.001"@en	0
+COL title VAL  "Asus ZenScreen MB169B+ 15,6\" IPS USB"@de	COL title VAL  "ASUS ZenScreen MB16ACE 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Grijs"@nl	0
+COL title VAL  "Asus ROG STRIX B460-I GAMING LGA 1200 Mini-ITX Motherboard"@en	COL title VAL  "ASUS ROG Spatha Mouse - Laser - Cable/Wireless - 12 Button(s) - Titanium Black"@en	0
+COL title VAL  "Asus 15,6" ZenScreen MB16AP"@nl	COL title VAL  "ASUS MB169B+ 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Zwart, Zilver"@de	0
+COL title VAL  "A-DATA UV128 128GB USB3.0 Stick Black"@en	COL title VAL  "ADATA USB 3.2 Memory Pen UV128 - 128GB"@en	1
+COL title VAL  "Western Digital SSD M.2 PCIe 500GB Black NVMe"@de	COL title VAL  "Western Digital SSD M.2 PCIe 1TB Black NVMe"@de	0
+COL title VAL  "Cooler Master MasterFan Cooling Fan"@en	COL title VAL  "Cooler Master MF200R Hybrid Silent High Airflow RGB Rifle Bearing 200mm Case Fan"@en	0
+COL title VAL  "ASUS ROG Mainboard ROG STRIX B460-I GAMING - Motherboard - ATX (90MB13X0-M0EAY0)"@en	COL title VAL  "Asus ROG Strix Slice Gaming Mouse Pad"@en	0
+COL title VAL  "Cruzer Glide USB Flashdrive - 32GB"@de	COL title VAL  "Corsair Flash Voyager V2 128GB"@en	0
+COL title VAL  "Samsung 860 EVO 2.5'' 1TB SATA III 3-D Vertical Internal SSD"@en	COL title VAL  "Seagate IronWolf Pro ST8000NE0004 disco duro interno 3.5\" 8000 GB Serial ATA III"@it	0
+COL title VAL  "WD Black 1TB High-Performance NVMe PCIe Internal SSD - M.2 2280, 8 Gb/s - WDS100T2X0C"@en	COL title VAL  "Western Digital SSD M.2 PCIe 1TB Black NVMe"@de	1
+COL title VAL  "iPad 2018 128GB Silver Wifi + 4G (A grade)"@de	COL title VAL  "Apple iPad (2018) 128 GB Wifi + 4G Space Gray"@en	0
+COL title VAL  "iPad (2017) 32GB 4G Spacegray"@en	COL title VAL  "Refurbished iPad 2018 32GB Space Gray Wifi only"@en	0
+COL title VAL  "Seagate Backup Plus Slim 2TB silber"@id	COL title VAL  "1TB Backup Plus Slim - Blue"@de	0
+COL title VAL  "Philips 271S7QJMB - Full HD IPS Monitor"@en	COL title VAL  "Philips Monitor LCD 328P6VJEB/00"@en	0
+COL title VAL  "Seagate Backup Plus Slim 2TB USB 3.1 (Gen 1 Type-A) Portable External Hard Drive - Red"@en	COL title VAL  "Seagate Backup Plus Slim 2TB silber"@id	0
+COL title VAL  "SSD Samsung 850 EVO 120GB 2.5"@tl	COL title VAL  "SAMSUNG 850 EVO SATA M.2 2280 250GB SSD (MZ-N5E250BW)"@de	0
+COL title VAL  "HP Seagate 4TB 7.2K 3.5\" 6G SP SATA ST4000NM0033 HDD Hard Drive HPE"@en	COL title VAL  "ST33000650NS EQL 3TB 7.2K 3.5 SATA PS6510E"@de	0
+COL title VAL  "Samsung 860 EVO 2.5'' 1TB SATA III 3-D Vertical Internal SSD"@en	COL title VAL  "Team Group L3 EVO 2.5\" 240GB SATA III TLC Internal Solid State Drive SSD | T253LE240GTC101"@en	0
+COL title VAL  "TEAM SSD L3 EVO 240G 2.5INCH"@ca	COL title VAL  "Team Group L3 EVO 2.5\" 240GB SATA III TLC Internal Solid State Drive SSD | T253LE240GTC101"@en	1
+COL title VAL  "Western Digital SSD M.2 PCIe 500GB Black NVMe"@de	COL title VAL  "Western Digital WD MyBook 10TB USB 3.0 black"@en	0
+COL title VAL  "Pendrive 3.0 Sandisk Cruzer Glide 16 GB"@da	COL title VAL  "SanDisk 16GB Cruzer Glide USB3.0 Flash Drive"@de	1
+COL title VAL  "Lexar JumpDrive S57 USB 3.0 flash drive 128GB"@en	COL title VAL  "HDD Extern WD My Book V3 10TB, 3.5\", USB 3.0, Negru - WDBBGB0100HBK-EESN"@de	0
+COL title VAL  "iPad (2017) 32GB 4G Spacegray"@en	COL title VAL  "iPad 2018 128GB Silver Wifi + 4G (A grade)"@de	0
+COL title VAL  "Asus ROG STRIX SLICE Gaming Mouse Pad Ultrathin Design Glow-in-the-dark Logo 350 x 250 x 0.6 mm"@en	COL title VAL  "Asus ROG Balteus Qi Wireless Charging Gaming Mouse Pad"@en	0
+COL title VAL  "Seagate Backup Plus Slim 2TB USB 3.1 (Gen 1 Type-A) Portable External Hard Drive - Red"@en	COL title VAL  "Seagate 1TB Backup Plus Slim USB 3.0 External Hard Drive, Red"@en	0
+COL title VAL  "Asus 15,6" ZenScreen MB16AP"@nl	COL title VAL  "Monitor Asus 15,6" MB16AP ZenScreen GO Portable USB Type-C"@en	1
+COL title VAL  "Seagate Backup Plus Slim 2TB USB 3.1 (Gen 1 Type-A) Portable External Hard Drive - Red"@en	COL title VAL  "SEAGATE - BackupPlus Slim 11.7mm 1TB HDD USB 3.0/2.0 compatible with Windows and Mac light blue"@en	0
+COL title VAL  "HD 3,5 8TB 7200RPM IRONWOLF SEAGATE"@en	COL title VAL  "4TB IronWolf ST4000VN008, 5900 RPM, SATA 6Gb/s, 64MB cache, 3.5-Inch HDD"@en	0
+COL title VAL  "RAM-HOL-TAB29U RAM Mounts Tab-Tite Cradle for 7-8\" Tablets in Heavy Duty Case"@en	COL title VAL  "RAM Tab-Tite Cradle for 10\" Tablets including the Samsung Galaxy Tab 4 10.1 and Tab S 10.5"@en	0
+COL title VAL  "Seagate Backup Plus Slim 2 To - Gris"@id	COL title VAL  "Seagate Backup Plus Slim 2TB silber"@id	0
+COL title VAL  "Apple iPad (2018) 128 GB Wifi + 4G Space Gray"@en	COL title VAL  "Apple 9.7-inch iPad Wi-Fi - 6th generation - tablet - 32 GB - 9.7\""@en	0
+COL title VAL  "Constellation ES.2 ST33000650NS 3 TB Internal Hard Drive"@en	COL title VAL  "Seagate Backup Plus Slim STHN2000406hard drive - 2 TB - USB 3.0"@en	0
+COL title VAL  "Seagate Backup Plus Slim 2 To - Gris"@id	COL title VAL  "Seagate Backup Plus Slim STHN2000406hard drive - 2 TB - USB 3.0"@en	1
+COL title VAL  "Monitor 31.5" PHILIPS 328P6VJEB, 4K UHD 3840*2160, VA, WLED, 60 Hz, 300cd/mp, 16:9, 3000:1/ 50M:1, 4 ms, anti-glare 3H, 178/178, Fli cker-free,MHL, VGA, DVI, DP, HDMI/ MHL, 4* USB, PC audio in, boxe 2"@en	COL title VAL  "Crucial Memory BL2K16G32C16U4WL 32GB (2x16GB) DDR4 3200MT/s CL16 Unbuffered DIMM Retail"@en	0
+COL title VAL  "ASUS LCD 15.6\" MB16AHP 1920x1080 ZenScreen Go USB Type-C Portable IPS 4h batt Micro-HDMI Foldablecase Auto-Rotate REPRO"@en	COL title VAL  "Asus ZenScreen MB169B+ 15,6\" IPS USB"@de	0
+COL title VAL  "TARGUS Privacy Screen 22inch Widescreen"@en	COL title VAL  "Targus Privacy Screen 12.1\"W Anti-glare screen protector Desktop/Laptop Universal 1 pc(s)"@en	0
+COL title VAL  "25'' Full HD LED TN monitor ASUS"@it	COL title VAL  "Monitor LG Ultragear 24GL600F - 23.6\" - LED - 1920X1080 Full HD - 1MS - HDMI - DisplayPort"@en	0
+COL title VAL  "ASUS ROG Chakram RGB wireless gaming mouse (Qi charging, side Joystick, wired/2.4 GHz/Bluetooth connectivity, 16000 dpi sensor, Screw-less magnetic buttons, Aura Sync lighting)-Black"@en	COL title VAL  "ASUS ROG Spatha Mouse - Laser - Cable/Wireless - 12 Button(s) - Titanium Black"@en	0
+COL title VAL  "Cooler Master MasterLiquid ML240L V2 RGB - 240 mm"@ca	COL title VAL  "TEAM SSD L3 EVO 240G 2.5INCH"@ca	0
+COL title VAL  "Seagate IronWolf Pro - 3.5\" - 10000 GB - 7200 RPM ST10000NE0008"@en	COL title VAL  "HDD 2000 GB; S-ATA III; 7200 RPM; 64 MB BUFFER; SEAGATE; ST2000DM001; NOU"@en	0
+COL title VAL  "Asus ZenScreen MB169B+ 15,6\" IPS USB"@de	COL title VAL  "Asus 15,6" ZenScreen MB16AP"@nl	0
+COL title VAL  "Targus Privacy Screen 12.1" Widescreen Laptops"@en	COL title VAL  "Apple 10.2\" iPad (Late 2019, 128GB, Wi-Fi Only, Space Gray)"@en	0
+COL title VAL  "iPad Air 10.5 Smart Cover - Charcoal Gray"@en	COL title VAL  "Apple 10.2\" iPad (Late 2019, 128GB, Wi-Fi Only, Space Gray)"@en	0
+COL title VAL  "Privacy Screen 17\" (4:3)"@en	COL title VAL  "Privacy Screen 22\"W (16:10)"@en	0
+COL title VAL  "Seagate 2TB Exos 7E8 SATA 6Gb s 512n 3.5\" Enterprise Hard Drive"@en	COL title VAL  "Seagate Barracuda ST2000DM001 Desktop SATA Hard Drive"@en	0
+COL title VAL  "Asus ROG STRIX B460-I GAMING LGA 1200 Mini-ITX Motherboard"@en	COL title VAL  "ASUS ROG Mainboard ROG STRIX B460-I GAMING - Motherboard - ATX (90MB13X0-M0EAY0)"@en	1
+COL title VAL  "Asus ROG Strix Slice Gaming Mouse Pad"@en	COL title VAL  "Asus ROG Balteus Qi RGB Mouse Pad 370x320 USB Nero"@et	0
+COL title VAL  "Seagate Barracuda ST2000DM001 Desktop SATA Hard Drive"@en	COL title VAL  "HDD 2000 GB; S-ATA III; 7200 RPM; 64 MB BUFFER; SEAGATE; ST2000DM001; NOU"@en	1
+COL title VAL  "Team Group L3 EVO 2.5\" 240GB SATA III TLC Internal Solid State Drive SSD | T253LE240GTC101"@en	COL title VAL  "Transcend 480GB 2.5inch SATA III SSD"@en	0
+COL title VAL  "Samsung 850 EVO Series M.2 250GB SATA 6Gbps Solid State Drive (MZ-N5E250BW)"@en	COL title VAL  "Team Group L3 EVO 2.5\" 240GB SATA III TLC Internal Solid State Drive SSD | T253LE240GTC101"@en	0
+COL title VAL  "Ssd patriot burst 480gb 2.5 sata3 r/w speed: 560ms/s/540 mb/s"@en	COL title VAL  "256GB P210 7mm, 500 / 400 MB/s, 3D NAND, SATA 6Gb/s, 2.5-Inch SSD"@en	0
+COL title VAL  "LOGITECH Z337 2.1 SPEAKER SYSTEM WITH BLUETOOTH, RMS(40W),3.5MM(1), RCA(1),BLACK,1YR WTY [980-001263]"@de	COL title VAL  "Logitech - 980-001263 - Z337 Speaker System"@de	1
+COL title VAL  "Western Digital SSD M.2 PCIe 1TB Black NVMe"@de	COL title VAL  "WD Black SSD 3D NVMe - 250GB"@de	0
+COL title VAL  "ASUS ZenScreen 15.6\" FHD IPS, USBC, Flicker Free, Blue Light Filter Portable Screen (MB16AC)"@de	COL title VAL  "ASUS MB16AC computer monitor 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Grijs"@ca	1
+COL title VAL  "Seagate Exos ST2000NM000A 2 TB Hard Drive - Internal - SATA (SATA/600) - 7200rpm - 256 MB Buffer - 256-bit Encryption Standard"@en	COL title VAL  "Seagate 2TB Exos 7E8 SATA 6Gb s 512n 3.5\" Enterprise Hard Drive"@en	1
+COL title VAL  "WD Black 1TB High-Performance NVMe PCIe Internal SSD - M.2 2280, 8 Gb/s - WDS100T2X0C"@en	COL title VAL  "Western Digital Black NVMe M.2-2280 250GB"@de	0
+COL title VAL  "ASUS ROG Spatha gaming mouse (90MP00A1-B0UA00)"@en	COL title VAL  "ASUS ROG Spatha Mouse - Laser - Cable/Wireless - 12 Button(s) - Titanium Black"@en	1
+COL title VAL  "iPad Air 10.5 Smart Cover - Charcoal Gray"@en	COL title VAL  "iPad 2017 32GB Zwart Wifi + 4G (A grade)"@de	0
+COL title VAL  "Disco SSD Goodram SSD 2.5\" SSDPR-CX400-256"@en	COL title VAL  "SSD Samsung 850 EVO 120GB 2.5"@tl	0
+COL title VAL  "iPad (2018) 128GB 4G Space Gray B grade"@en	COL title VAL  "Refurbished iPad 2018 32GB Space Gray Wifi only"@en	0
+COL title VAL  "Cooler Master MasterLiquid ML240L RGB V2 240mm Liquid CPU Cooler MLW-D24M-A18PC-R2 | PCByte"@en	COL title VAL  "Cooler Master MasterLiquid ML240L V2 RGB - 240 mm"@ca	1
+COL title VAL  "USB DISK KINGSTON 16GB DT MICRO, 3.1, srebrn, kovinski, micro format"@sl	COL title VAL  "PEN DRIVE 16GB KINGSTON USB 3.1 DTMC3/16GB"@de	1
+COL title VAL  "ASUS ROG Spatha gaming mouse (90MP00A1-B0UA00)"@en	COL title VAL  "Asus ROG Strix Slice Gaming Mouse Pad"@en	0
+COL title VAL  "RAM-HOL-TAB29U RAM Mounts Tab-Tite Cradle for 7-8\" Tablets in Heavy Duty Case"@en	COL title VAL  "RAM Tab-Tite™ for 10\" Tablets, Tab 4 + more (RAM-HOL-TAB26U)"@en	0
+COL title VAL  "ASUS ROG Mainboard ROG STRIX B460-I GAMING - Motherboard - ATX (90MB13X0-M0EAY0)"@en	COL title VAL  "Asus ROG Balteus Qi Wireless Charging Gaming Mouse Pad"@en	0
+COL title VAL  "Pendrive 3.0 Sandisk Cruzer Glide 16 GB"@da	COL title VAL  "SANDISK CRUZER GLIDE USB 3.0 DRIVE 32GB"@de	0
+COL title VAL  "WD Black 500 GB M.2 2280"@en	COL title VAL  "Western Digital Black NVMe M.2-2280 250GB"@de	0
+COL title VAL  "RAM Tab-Tite™ Cradle for 7-8\" Tablets in a heavy duty case"@en	COL title VAL  "RAM-HOL-TAB29U RAM Mounts Tab-Tite Cradle for 7-8\" Tablets in Heavy Duty Case"@en	0
+COL title VAL  "RAM Tab-Tite™Cradle for 8\" Tablets including Samsung Galaxy Tab A & S2 8.0 with Otterbox Defender Case"@en	COL title VAL  "RAM Tab-Tite™ Cradle for 7-8\" Tablets in a heavy duty case"@en	0
+COL title VAL  "Philips 258B6QUEB25" 2560x1440 5ms VGA DVI DP HDMI USB-C"@en	COL title VAL  "Monitor 31.5" PHILIPS 328P6VJEB, 4K UHD 3840*2160, VA, WLED, 60 Hz, 300cd/mp, 16:9, 3000:1/ 50M:1, 4 ms, anti-glare 3H, 178/178, Fli cker-free,MHL, VGA, DVI, DP, HDMI/ MHL, 4* USB, PC audio in, boxe 2"@en	0
+COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	COL title VAL  "HD SEAGATE IRONWOLF 2 TB P/ NAS - ST2000VN004"@en	1
+COL title VAL  "Monitor LED LG 24MP59G-P - 24\" - 1920x1080 - VGA - HDMI - DisplayPort"@en	COL title VAL  "LG Monitor 24MP59G-P 23.8\" IPS FullHD VGA HDMI 1ms"@en	1
+COL title VAL  "Lexar JumpDrive S57 USB 3.0 flash drive 128GB"@en	COL title VAL  "SanDisk 16GB Cruzer Glide USB3.0 Flash Drive"@de	0
+COL title VAL  "Lexar JumpDrive S57 USB 3.0 flash drive 128GB"@en	COL title VAL  "SANDISK CRUZER GLIDE USB 3.0 DRIVE 32GB"@de	0
+COL title VAL  "ASUS Mouse Gaming ROG Chakram"@en	COL title VAL  "ASUS ROG Spatha gaming mouse (90MP00A1-B0UA00)"@en	0
+COL title VAL  "Asus MB16AHP 15.6 ", Touchscreen, IPS, FHD, 1920 x 1080 pixels, 16:9, 250 cd/m², Black"@en	COL title VAL  "ASUS MB169B+ 39,6 cm (15.6\") 1920 x 1080 Pixels Full HD LED Zwart, Zilver"@de	0
+COL title VAL  "Philips Monitor LCD 329P9H/00"@en	COL title VAL  "Philips Monitor LCD 328P6VJEB/00"@en	0
+COL title VAL  "Apple Smart Cover for 10.5‑inch iPad Air - Charcoal Gray"@en	COL title VAL  "RAM halda fyrir Apple iPad Air 1-2 í hulstri"@ca	0
+COL title VAL  "Seagate Exos ST2000NM000A 2 TB Hard Drive - Internal - SATA (SATA/600) - 7200rpm - 256 MB Buffer - 256-bit Encryption Standard"@en	COL title VAL  "Samsung 860 EVO MZ-76E1T0B/AM 1 TB Solid State Drive - 2.5\" Internal - SATA (SATA/600) **"@en	0

@@ -1,0 +1,31 @@
+COL title VAL  "D'Addario EXL165 Nickel Wound Custom Light Long Scale Bass Strings"@en	COL title VAL  "D'Addario NYXL1152 Nickel Wound, Medium Top / Heavy Bottom, 11-52"@en	0
+COL title VAL  "Ernie Ball Beefy Slinky Nickel Wound Strings (11-54) 3 Pack"@de	COL title VAL  "Ernie Ball 2222 Hybrid Slinky 9/46"@af	0
+COL title VAL  "Evans EMAD Resonant Bass Drum Head, 22 Inch"@en	COL title VAL  "D'addario D'addario Exl160 Bass Strings"@cy	0
+COL title VAL  "D'Addario EXL165 Nickel Wound Custom Light Long Scale Bass Strings"@en	COL title VAL  "BEEFY SLINKY NICKEL WOUND ELECTRIC GUITAR STRINGS - 11-54"@de	0
+COL title VAL  "D'Addario 50-105 Long Scale Bass Strings"@en	COL title VAL  "D'Addario 12-53 80/20 Bronze Acoustic Guitar Strings"@en	0
+COL title VAL  "Daddario 12-53 Light 80/20 Bronze Acoustic Strings"@en	COL title VAL  "D'Addario EXL165 Nickel Wound Custom Light Long Scale Bass Strings"@en	0
+COL title VAL  "D'Addario NYXL Nickel Wound Electric Guitar Strings - 11/52"@en	COL title VAL  "D'Addario NYXL1152 Nickel Wound, Medium Top / Heavy Bottom, 11-52"@en	1
+COL title VAL  "Evans EMAD Resonant Bass Drum Head, 22 Inch"@en	COL title VAL  "Evans REMAD Resonant Bass Drum Head, 22\""@en	1
+COL title VAL  "Evans REMAD Resonant Bass Drum Head, 22\""@en	COL title VAL  "Remo PS-0310-00 10\" Pinstripe Clear Batter Drum Head"@en	0
+COL title VAL  "Remo PS-0310-00 10\" Pinstripe Clear Batter Drum Head"@en	COL title VAL  "Evans EMAD Resonant Bass Drum Head, 22 Inch"@en	0
+COL title VAL  "Evans EMAD Resonant Bass Drum Head, 22 Inch"@en	COL title VAL  "Remo Clear Pinstripe 10 Inch Drum Head Skin PS-0310"@en	0
+COL title VAL  "Ernie Ball Beefy Slinky Nickel Wound Strings (11-54) 3 Pack"@de	COL title VAL  "2222 HYBRID SLINKY 9/46 Ernie Ball"@de	0
+COL title VAL  "Daddario 12-53 Light 80/20 Bronze Acoustic Strings"@en	COL title VAL  "D'addario D'addario Exl160 Bass Strings"@cy	0
+COL title VAL  "D'addario D'addario Exl160 Bass Strings"@cy	COL title VAL  "D'Addario NYXL Nickel Wound Electric Guitar Strings - 11/52"@en	0
+COL title VAL  "D'addario D'addario Exl160 Bass Strings"@cy	COL title VAL  "D'Addario 50-105 Long Scale Bass Strings"@en	1
+COL title VAL  "D'Addario EXL165 Nickel Wound Custom Light Long Scale Bass Strings"@en	COL title VAL  "D'Addario 50-105 Long Scale Bass Strings"@en	0
+COL title VAL  "Ernie Ball Beefy Slinky Nickel Wound Strings (11-54) 3 Pack"@de	COL title VAL  "D'Addario NYXL Nickel Wound Electric Guitar Strings - 11/52"@en	0
+COL title VAL  "Remo Clear Pinstripe 10 Inch Drum Head Skin PS-0310"@en	COL title VAL  "Remo PS-0310-00 10\" Pinstripe Clear Batter Drum Head"@en	1
+COL title VAL  "D'Addario EXL165 Nickel Wound Custom Light Long Scale Bass Strings"@en	COL title VAL  "EXL165 - XL Bass Nickel Wound, Long Scale 45-105"@en	1
+COL title VAL  "D'Addario NYXL Nickel Wound Electric Guitar Strings - 11/52"@en	COL title VAL  "D'Addario EXL165 Nickel Wound Custom Light Long Scale Bass Strings"@en	0
+COL title VAL  "D'addario D'addario Exl160 Bass Strings"@cy	COL title VAL  "Evans REMAD Resonant Bass Drum Head, 22\""@en	0
+COL title VAL  "Evans REMAD Resonant Bass Drum Head, 22\""@en	COL title VAL  "Remo Clear Pinstripe 10 Inch Drum Head Skin PS-0310"@en	0
+COL title VAL  "D'Addario 12-53 80/20 Bronze Acoustic Guitar Strings"@en	COL title VAL  "Daddario 12-53 Light 80/20 Bronze Acoustic Strings"@en	1
+COL title VAL  "D'addario D'addario Exl160 Bass Strings"@cy	COL title VAL  "D'Addario EXL165 Nickel Wound Custom Light Long Scale Bass Strings"@en	0
+COL title VAL  "D'addario D'addario Exl160 Bass Strings"@cy	COL title VAL  "D'Addario NYXL1152 Nickel Wound, Medium Top / Heavy Bottom, 11-52"@en	0
+COL title VAL  "EXL165 - XL Bass Nickel Wound, Long Scale 45-105"@en	COL title VAL  "D'Addario 50-105 Long Scale Bass Strings"@en	0
+COL title VAL  "Ernie Ball Beefy Slinky Nickel Wound Strings (11-54) 3 Pack"@de	COL title VAL  "BEEFY SLINKY NICKEL WOUND ELECTRIC GUITAR STRINGS - 11-54"@de	1
+COL title VAL  "Ernie Ball 2222 Hybrid Slinky 9/46"@af	COL title VAL  "2222 HYBRID SLINKY 9/46 Ernie Ball"@de	1
+COL title VAL  "BEEFY SLINKY NICKEL WOUND ELECTRIC GUITAR STRINGS - 11-54"@de	COL title VAL  "D'Addario NYXL1152 Nickel Wound, Medium Top / Heavy Bottom, 11-52"@en	0
+COL title VAL  "D'Addario 12-53 80/20 Bronze Acoustic Guitar Strings"@en	COL title VAL  "D'Addario EXL165 Nickel Wound Custom Light Long Scale Bass Strings"@en	0
+COL title VAL  "BEEFY SLINKY NICKEL WOUND ELECTRIC GUITAR STRINGS - 11-54"@de	COL title VAL  "D'Addario NYXL Nickel Wound Electric Guitar Strings - 11/52"@en	0

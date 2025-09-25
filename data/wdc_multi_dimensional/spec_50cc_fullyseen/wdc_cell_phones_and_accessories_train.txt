@@ -1,0 +1,139 @@
+COL title VAL  "64GB SanDisk iXpand V2 USB Flash Drive for iPhone and iPad lightning"@en	COL title VAL  "SanDisk iXpand Flash Drive 64GB for iPhone and iPad, Black/Silver, (SDIX30N-064G-GN6NN)"@en	1
+COL title VAL  "Apple 60W Magsafe 2 Power Adapter MD565LL/A B&H Photo Video"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	1
+COL title VAL  "Apple MX2E2ZM/A smartwatch accessory Charging cable White"@en	COL title VAL  "Apple Apple Watch Magnetic Charging 1m"@en	1
+COL title VAL  "Samsung LH46UHFCLBB - 116,8 cm (46\") - LED - 1920 x 1080 Pixel - 700 cd/m² - Full HD - 8 ms"@ca	COL title VAL  "Samsung UH46F5 UHF5 Series - 46\" LED-display - Full HD"@de	1
+COL title VAL  "Apple Apple Lightning to VGA Adapter MD825ZM/A"@en	COL title VAL  "Apple MD565LL/A 60W MagSafe 2 Power Adapter"@en	0
+COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	COL title VAL  "SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive"@de	1
+COL title VAL  "SanDisk iXpand Flash Drive 64GB for iPhone and iPad, Black/Silver, (SDIX30N-064G-GN6NN)"@en	COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	1
+COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	COL title VAL  "64GB SanDisk iXpand V2 USB Flash Drive for iPhone and iPad lightning"@en	1
+COL title VAL  "Apple Apple Watch Magnetic Charging 1m"@en	COL title VAL  "MX2E2ZM/A Apple Watch Magnetic Charger to USB Cable (1m)"@en	1
+COL title VAL  "Xiaomi Redmi Note 8T 4+64 GB Gris"@ro	COL title VAL  "Xiaomi Redmi Note 8T 64GB - Moonshadow Grey"@en	1
+COL title VAL  "Xiaomi Redmi Note 8T 64GB - Moonshadow Grey"@en	COL title VAL  "Xiaomi Redmi Note 8T Dual Sim 4GB RAM 64GB LTE (Grey) International Spec"@en	1
+COL title VAL  "XIAOMI Redmi Note 8T 6.3\" OC2GHz 64GB 4GB Gris"@de	COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	0
+COL title VAL  "Apple MagSafe 2 60W Power Adapter"@en	COL title VAL  "Apple MD565LL/A 60W MagSafe 2 Power Adapter"@en	1
+COL title VAL  "TELEFONO MOVIL XIAOMI REDMI NOTE 8T 4+64GB GREY.-"@vi	COL title VAL  "Xiaomi Redmi Note 8T 64GB 4GB RAM Gray"@ro	1
+COL title VAL  "Samsung 46" Public Display UH46F5"@tl	COL title VAL  "Samsung Smart Signage UH46F5 116,8cm(46") LED black"@tl	1
+COL title VAL  "TELEFONO MOVIL XIAOMI REDMI NOTE 8T 4+64GB GREY.-"@vi	COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	0
+COL title VAL  "Apple 60W MagSafe Power Adapter For MacBook and 13-inch MacBook Pro L-Tip Charger"@en	COL title VAL  "MagSafe 1 Replacement 60W Power Adapter Charger A1344 For Macbook"@en	1
+COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	1
+COL title VAL  "Genuine SanDiskiXpand Flash Drive 64GB - iPhone lightning connector"@en	COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	1
+COL title VAL  "Apple - 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina Display) - White"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter Macbook 60w Magsafe2 Power Adapter"@en	1
+COL title VAL  "MagSafe 1 Replacement 60W Power Adapter Charger A1344 For Macbook"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	1
+COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	1
+COL title VAL  "SanDisk iXpand Flash Drive 64GB USB for iPhone Lightning Connector"@en	COL title VAL  "SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive"@de	1
+COL title VAL  "TELEFONO MOVIL XIAOMI REDMI NOTE 8T 4+64GB GREY.-"@vi	COL title VAL  "Xiaomi Redmi Note 8T Dual Sim 4/64GBMoonshadow Grey"@en	1
+COL title VAL  "Apple Apple Lightning to VGA Adapter"@en	COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	0
+COL title VAL  "TELEFONO MOVIL XIAOMI REDMI NOTE 8T 4+64GB GREY.-"@vi	COL title VAL  "Xiaomi Redmi Note 8T 4+64 GB Gris"@ro	1
+COL title VAL  "Apple MagSafe 2 60W Power Adapter"@en	COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	0
+COL title VAL  "Apple 60W Magsafe 2 Power Adapter MD565LL/A B&H Photo Video"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter Macbook 60w Magsafe2 Power Adapter"@en	1
+COL title VAL  "XIAOMI Redmi Note 8T 6.3\" OC2GHz 64GB 4GB Gris"@de	COL title VAL  "Xiaomi Redmi Note 8T 64GB 4GB RAM Gray"@ro	1
+COL title VAL  "Xiaomi Redmi Note 8T Dual Sim 4/64GBMoonshadow Grey"@en	COL title VAL  "Xiaomi Redmi Note 8T 64GB - Moonshadow Grey"@en	1
+COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	COL title VAL  "Apple Apple Watch Magnetic Charging 1m"@en	0
+COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina display)"@en	1
+COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	COL title VAL  "Apple MagSafe 2 60W Power Adapter"@en	1
+COL title VAL  "Genuine SanDiskiXpand Flash Drive 64GB - iPhone lightning connector"@en	COL title VAL  "SanDisk iXpand Flash Drive 64GB USB for iPhone Lightning Connector"@en	1
+COL title VAL  "Apple MD565LL/A 60W MagSafe 2 Power Adapter"@en	COL title VAL  "Apple 60W Magsafe 2 Power Adapter MD565LL/A B&H Photo Video"@en	1
+COL title VAL  "SanDisk iXpand Flash Drive 64GB for iPhone and iPad, Black/Silver, (SDIX30N-064G-GN6NN)"@en	COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	1
+COL title VAL  "Apple - 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina Display) - White"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina display)"@en	1
+COL title VAL  "64GB SanDisk iXpand V2 USB Flash Drive for iPhone and iPad lightning"@en	COL title VAL  "SanDisk iXpand Flash Drive 64GB USB for iPhone Lightning Connector"@en	1
+COL title VAL  "Xiaomi Redmi Note 8T Dual Sim 4/64GBMoonshadow Grey"@en	COL title VAL  "XIAOMI Redmi Note 8T 6.3\" OC2GHz 64GB 4GB Gris"@de	1
+COL title VAL  "Apple MagSafe 2 60W Power Adapter"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter Macbook 60w Magsafe2 Power Adapter"@en	1
+COL title VAL  "Apple 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina display)"@en	COL title VAL  "Apple MD565LL/A 60W MagSafe 2 Power Adapter"@en	1
+COL title VAL  "Apple 60W MagSafe Power Adapter"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter Macbook 60w Magsafe2 Power Adapter"@en	0
+COL title VAL  "Apple MD565LL/A 60W MagSafe 2 Power Adapter"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	0
+COL title VAL  "Xiaomi Redmi Note 8T 4+64 GB Gris"@ro	COL title VAL  "XIAOMI Redmi Note 8T 6.3\" OC2GHz 64GB 4GB Gris"@de	1
+COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	1
+COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	COL title VAL  "Apple MagSafe - power adapter - 60 Watt"@en	1
+COL title VAL  "SanDisk iXpand Flash Drive 64GB for iPhone and iPad, Black/Silver, (SDIX30N-064G-GN6NN)"@en	COL title VAL  "SanDisk iXpand Flash Drive 64GB USB for iPhone Lightning Connector"@en	1
+COL title VAL  "SanDisk iXpand Flash Drive 64GB USB for iPhone Lightning Connector"@en	COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	1
+COL title VAL  "MagSafe 1 Replacement 60W Power Adapter Charger A1344 For Macbook"@en	COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	1
+COL title VAL  "Xiaomi Redmi Note 8T Dual Sim 4GB RAM 64GB LTE (Grey) International Spec"@en	COL title VAL  "Xiaomi Redmi Note 8T 64GB 4GB RAM Gray"@ro	1
+COL title VAL  "Apple - 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina Display) - White"@en	COL title VAL  "Apple 60W MagSafe Power Adapter For MacBook and 13-inch MacBook Pro L-Tip Charger"@en	0
+COL title VAL  "Apple MagSafe - power adapter - 60 Watt"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	1
+COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	COL title VAL  "SanDisk iXpand Flash Drive 64GB USB for iPhone Lightning Connector"@en	1
+COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	1
+COL title VAL  "Apple 60W MagSafe 2 Power Adapter Macbook 60w Magsafe2 Power Adapter"@en	COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	0
+COL title VAL  "Apple MagSafe 2 60W Power Adapter"@en	COL title VAL  "Apple - 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina Display) - White"@en	1
+COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	COL title VAL  "Apple Apple Lightning to VGA Adapter MD825ZM/A"@en	0
+COL title VAL  "Apple 60W MagSafe Power Adapter"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	1
+COL title VAL  "Apple MD565LL/A 60W MagSafe 2 Power Adapter"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter Macbook 60w Magsafe2 Power Adapter"@en	1
+COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter Macbook 60w Magsafe2 Power Adapter"@en	1
+COL title VAL  "Apple 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina display)"@en	COL title VAL  "Apple 60W MagSafe Power Adapter For MacBook and 13-inch MacBook Pro L-Tip Charger"@en	0
+COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina display)"@en	1
+COL title VAL  "Xiaomi Redmi Note 8T Dual Sim 4GB RAM 64GB LTE (Grey) International Spec"@en	COL title VAL  "Xiaomi Redmi Note 8T Dual Sim 4/64GBMoonshadow Grey"@en	1
+COL title VAL  "SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive"@de	COL title VAL  "Genuine SanDiskiXpand Flash Drive 64GB - iPhone lightning connector"@en	1
+COL title VAL  "Apple 60W MagSafe Power Adapter"@en	COL title VAL  "Apple Original Lightning to VGA Adapter"@en	0
+COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	COL title VAL  "Apple 60W MagSafe Power Adapter For MacBook and 13-inch MacBook Pro L-Tip Charger"@en	1
+COL title VAL  "Apple Apple Lightning to VGA Adapter MD825ZM/A"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	0
+COL title VAL  "Apple MagSafe - power adapter - 60 Watt"@en	COL title VAL  "Apple MagSafe 2 60W Power Adapter"@en	0
+COL title VAL  "Genuine SanDiskiXpand Flash Drive 64GB - iPhone lightning connector"@en	COL title VAL  "64GB SanDisk iXpand V2 USB Flash Drive for iPhone and iPad lightning"@en	1
+COL title VAL  "XIAOMI Redmi Note 8T 6.3\" OC2GHz 64GB 4GB Gris"@de	COL title VAL  "Xiaomi Redmi Note 8T 64GB - Moonshadow Grey"@en	1
+COL title VAL  "SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive"@de	COL title VAL  "SanDisk iXpand Flash Drive 64GB for iPhone and iPad, Black/Silver, (SDIX30N-064G-GN6NN)"@en	1
+COL title VAL  "Apple MD565LL/A 60W MagSafe 2 Power Adapter"@en	COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	1
+COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / New / Part Only / New"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Nuovo / Part Only / Nuovo"@en	1
+COL title VAL  "Apple MagSafe - power adapter - 60 Watt"@en	COL title VAL  "MagSafe 1 Replacement 60W Power Adapter Charger A1344 For Macbook"@en	1
+COL title VAL  "Apple 60W MagSafe Power Adapter For MacBook and 13-inch MacBook Pro L-Tip Charger"@en	COL title VAL  "Apple 60W MagSafe Power Adapter"@en	1
+COL title VAL  "Genuine SanDiskiXpand Flash Drive 64GB - iPhone lightning connector"@en	COL title VAL  "SanDisk iXpand Flash Drive 64GB for iPhone and iPad, Black/Silver, (SDIX30N-064G-GN6NN)"@en	1
+COL title VAL  "MagSafe 1 Replacement 60W Power Adapter Charger A1344 For Macbook"@en	COL title VAL  "Apple 60W MagSafe Power Adapter"@en	1
+COL title VAL  "Xiaomi Redmi Note 8T 64GB 4GB RAM Gray"@ro	COL title VAL  "Xiaomi Redmi Note 8T 4+64 GB Gris"@ro	1
+COL title VAL  "Apple Apple Lightning to VGA Adapter"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter Macbook 60w Magsafe2 Power Adapter"@en	0
+COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter Macbook 60w Magsafe2 Power Adapter"@en	1
+COL title VAL  "Apple 60W MagSafe Power Adapter For MacBook and 13-inch MacBook Pro L-Tip Charger"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	1
+COL title VAL  "Apple - 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina Display) - White"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	1
+COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	1
+COL title VAL  "Apple MX2E2ZM/A smartwatch accessory Charging cable White"@en	COL title VAL  "Apple Apple Lightning to VGA Adapter MD825ZM/A"@en	0
+COL title VAL  "Xiaomi Redmi Note 8T Dual Sim 4/64GBMoonshadow Grey"@en	COL title VAL  "Xiaomi Redmi Note 8T 64GB 4GB RAM Gray"@ro	1
+COL title VAL  "Apple 60W Magsafe 2 Power Adapter MD565LL/A B&H Photo Video"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	0
+COL title VAL  "Apple Apple Lightning to VGA Adapter"@en	COL title VAL  "Apple MagSafe 2 60W Power Adapter"@en	0
+COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	COL title VAL  "Apple 60W Magsafe 2 Power Adapter MD565LL/A B&H Photo Video"@en	1
+COL title VAL  "XIAOMI Redmi Note 8T 6.3\" OC2GHz 64GB 4GB Gris"@de	COL title VAL  "Xiaomi Redmi Note 8T Dual Sim 4GB RAM 64GB LTE (Grey) International Spec"@en	1
+COL title VAL  "Apple MX2E2ZM/A smartwatch accessory Charging cable White"@en	COL title VAL  "MX2E2ZM/A Apple Watch Magnetic Charger to USB Cable (1m)"@en	1
+COL title VAL  "Apple 60W Magsafe 2 Power Adapter MD565LL/A B&H Photo Video"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina display)"@en	1
+COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	COL title VAL  "MX2E2ZM/A Apple Watch Magnetic Charger to USB Cable (1m)"@en	0
+COL title VAL  "Samsung 46" Public Display UH46F5"@tl	COL title VAL  "Samsung LH46UHFCLBB - 116,8 cm (46\") - LED - 1920 x 1080 Pixel - 700 cd/m² - Full HD - 8 ms"@ca	1
+COL title VAL  "Xiaomi Redmi Note 8T 64GB - Moonshadow Grey"@en	COL title VAL  "Xiaomi Redmi Note 8T 64GB 4GB RAM Gray"@ro	1
+COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / New / Part Only / New"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Neuf / Part Only / Neuf"@en	1
+COL title VAL  "Apple Apple Lightning to VGA Adapter MD825ZM/A"@en	COL title VAL  "Apple 60W MagSafe Power Adapter"@en	0
+COL title VAL  "Apple Apple Lightning to VGA Adapter"@en	COL title VAL  "Apple Apple Lightning to VGA Adapter MD825ZM/A"@en	1
+COL title VAL  "64GB SanDisk iXpand V2 USB Flash Drive for iPhone and iPad lightning"@en	COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	1
+COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	0
+COL title VAL  "Apple 60W MagSafe Power Adapter"@en	COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	1
+COL title VAL  "Apple 60W MagSafe Power Adapter"@en	COL title VAL  "Apple MagSafe 2 60W Power Adapter"@en	0
+COL title VAL  "TELEFONO MOVIL XIAOMI REDMI NOTE 8T 4+64GB GREY.-"@vi	COL title VAL  "Xiaomi Redmi Note 8T Dual Sim 4GB RAM 64GB LTE (Grey) International Spec"@en	1
+COL title VAL  "Xiaomi Redmi Note 8T 4+64 GB Gris"@ro	COL title VAL  "Xiaomi Redmi Note 8T Dual Sim 4GB RAM 64GB LTE (Grey) International Spec"@en	1
+COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	COL title VAL  "SanDisk iXpand Flash Drive 64GB for iPhone and iPad, Black/Silver, (SDIX30N-064G-GN6NN)"@en	1
+COL title VAL  "TELEFONO MOVIL XIAOMI REDMI NOTE 8T 4+64GB GREY.-"@vi	COL title VAL  "XIAOMI Redmi Note 8T 6.3\" OC2GHz 64GB 4GB Gris"@de	1
+COL title VAL  "Samsung UH46F5 UHF5 Series - 46\" LED-display - Full HD"@de	COL title VAL  "Samsung 46" Public Display UH46F5"@tl	1
+COL title VAL  "Xiaomi Redmi Note 8T Dual Sim 4/64GBMoonshadow Grey"@en	COL title VAL  "Xiaomi Redmi Note 8T 4+64 GB Gris"@ro	1
+COL title VAL  "SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive"@de	COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	1
+COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Nuovo / Part Only / Nuovo"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Neuf / Part Only / Neuf"@en	1
+COL title VAL  "Apple Apple Lightning to VGA Adapter"@en	COL title VAL  "Apple Original Lightning to VGA Adapter"@en	1
+COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	COL title VAL  "Apple MagSafe 2 60W Power Adapter"@en	1
+COL title VAL  "MagSafe 1 Replacement 60W Power Adapter Charger A1344 For Macbook"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	0
+COL title VAL  "Apple MD565LL/A 60W MagSafe 2 Power Adapter"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	1
+COL title VAL  "Apple 60W MagSafe Power Adapter For MacBook and 13-inch MacBook Pro L-Tip Charger"@en	COL title VAL  "Apple MagSafe - power adapter - 60 Watt"@en	1
+COL title VAL  "64GB SanDisk iXpand V2 USB Flash Drive for iPhone and iPad lightning"@en	COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	1
+COL title VAL  "SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive"@de	COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	1
+COL title VAL  "Apple Apple Lightning to VGA Adapter MD825ZM/A"@en	COL title VAL  "Apple 60W Magsafe 2 Power Adapter MD565LL/A B&H Photo Video"@en	0
+COL title VAL  "Apple MD565LL/A 60W MagSafe 2 Power Adapter"@en	COL title VAL  "Apple - 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina Display) - White"@en	1
+COL title VAL  "Samsung LH46UHFCLBB - 116,8 cm (46\") - LED - 1920 x 1080 Pixel - 700 cd/m² - Full HD - 8 ms"@ca	COL title VAL  "Samsung Smart Signage UH46F5 116,8cm(46") LED black"@tl	1
+COL title VAL  "SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive"@de	COL title VAL  "64GB SanDisk iXpand V2 USB Flash Drive for iPhone and iPad lightning"@en	1
+COL title VAL  "Apple 60W MagSafe Power Adapter"@en	COL title VAL  "Apple MagSafe - power adapter - 60 Watt"@en	1
+COL title VAL  "Apple Apple Lightning to VGA Adapter"@en	COL title VAL  "Apple 60W MagSafe Power Adapter"@en	0
+COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	COL title VAL  "SanDisk iXpand Flash Drive 64GB USB for iPhone Lightning Connector"@en	1
+COL title VAL  "Apple Apple Lightning to VGA Adapter MD825ZM/A"@en	COL title VAL  "Apple MagSafe - power adapter - 60 Watt"@en	0
+COL title VAL  "Apple 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina display)"@en	COL title VAL  "Apple MagSafe 2 60W Power Adapter"@en	1
+COL title VAL  "Apple Original Lightning to VGA Adapter"@en	COL title VAL  "Apple Apple Lightning to VGA Adapter MD825ZM/A"@en	1
+COL title VAL  "Xiaomi Redmi Note 8T 64GB - Moonshadow Grey"@en	COL title VAL  "TELEFONO MOVIL XIAOMI REDMI NOTE 8T 4+64GB GREY.-"@vi	1
+COL title VAL  "Apple 60W Magsafe 2 Power Adapter MD565LL/A B&H Photo Video"@en	COL title VAL  "Apple MagSafe 2 60W Power Adapter"@en	1
+COL title VAL  "Apple 60W MagSafe Power Adapter For MacBook and 13-inch MacBook Pro L-Tip Charger"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter Macbook 60w Magsafe2 Power Adapter"@en	0
+COL title VAL  "Apple - 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina Display) - White"@en	COL title VAL  "Apple 60W Magsafe 2 Power Adapter MD565LL/A B&H Photo Video"@en	1
+COL title VAL  "Apple Apple Lightning to VGA Adapter MD825ZM/A"@en	COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	0
+COL title VAL  "Apple 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina display)"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter Macbook 60w Magsafe2 Power Adapter"@en	1
+COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	COL title VAL  "Genuine SanDiskiXpand Flash Drive 64GB - iPhone lightning connector"@en	1
+COL title VAL  "MagSafe 1 Replacement 60W Power Adapter Charger A1344 For Macbook"@en	COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	0
+COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	COL title VAL  "Apple - 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina Display) - White"@en	1
+COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	COL title VAL  "Xiaomi Redmi Note 8T 64GB - Moonshadow Grey"@en	0
+COL title VAL  "Samsung Smart Signage UH46F5 116,8cm(46") LED black"@tl	COL title VAL  "Samsung UH46F5 UHF5 Series - 46\" LED-display - Full HD"@de	1
+COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	0
+COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	COL title VAL  "Genuine SanDiskiXpand Flash Drive 64GB - iPhone lightning connector"@en	1

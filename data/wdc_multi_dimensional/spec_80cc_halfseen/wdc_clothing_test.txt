@@ -1,0 +1,31 @@
+COL title VAL  "Ray-Ban 3025 55 Gradient Aviator Sunglasses"@en	COL title VAL  "Ray-Ban Square RB1971 91493F Silver/Clear Gradient Blue"@en	0
+COL title VAL  "Ray Ban Grey Gradient Aviator Sunglasses RB3589 90548G 55 RB3589 90548G 55"@en	COL title VAL  "Ray-Ban Aviator RB3025 Gold 001/51 55mm"@en	0
+COL title VAL  "Ray-Ban Aviator RB3025 Gold 001/51 55mm"@en	COL title VAL  "Ray-Ban Original Aviator Sunglasses (RB3025) Gold Shiny/Pink Metal - Non-Polarized - 58mm"@en	0
+COL title VAL  "Ray-Ban 3025 55 Gradient Aviator Sunglasses"@en	COL title VAL  "Rayban Aviator 3025 001/3E 58 14"@en	0
+COL title VAL  "Ray-Ban 3025 55 Gradient Aviator Sunglasses"@en	COL title VAL  "Ray Ban N/a 4184 Sunglasses"@tl	0
+COL title VAL  "Ray-Ban Square RB1971 91493F Silver/Clear Gradient Blue"@en	COL title VAL  "Ray Ban Women Sunglass Square Gradient Blue(Silver)"@de	1
+COL title VAL  "Ray-Ban Sunglass - Round Style Light Havana Tortoise frame with Gradient Brown Lens - RB4184 710/83"@en	COL title VAL  "Ray Ban Women Sunglass Square Gradient Blue(Silver)"@de	0
+COL title VAL  "RAY BAN RB2168 901/31"@de	COL title VAL  "Ray-Ban Aviator RB3025 Gold 001/51 55mm"@en	0
+COL title VAL  "Ray Ban N/a 4184 Sunglasses"@tl	COL title VAL  "Ray Ban Grey Gradient Aviator Sunglasses RB3589 90548G 55 RB3589 90548G 55"@en	0
+COL title VAL  "Ray-Ban Original Aviator Sunglasses (RB3025) Gold Shiny/Pink Metal - Non-Polarized - 58mm"@en	COL title VAL  "Ray-Ban Phantos RB3589 Metal Sunglasses Top Gold on Black"@en	0
+COL title VAL  "Ray-Ban 3025 55 Gradient Aviator Sunglasses"@en	COL title VAL  "Ray Ban Grey Gradient Aviator Sunglasses RB3589 90548G 55 RB3589 90548G 55"@en	0
+COL title VAL  "RAY BAN RB2168 901/31"@de	COL title VAL  "Ray Ban Women Sunglass Square Gradient Blue(Silver)"@de	0
+COL title VAL  "RAY BAN RB2168 901/31"@de	COL title VAL  "Ray-Ban Unisex RB2168-954-3350 Meteor Classic 50mm Stripped Havana Sunglasses"@en	1
+COL title VAL  "Ray-Ban 3025 55 Gradient Aviator Sunglasses"@en	COL title VAL  "Ray-Ban Aviator RB3025 Gold 001/51 55mm"@en	1
+COL title VAL  "Ray Ban N/a 4184 Sunglasses"@tl	COL title VAL  "RAY BAN RB2168 901/31"@de	0
+COL title VAL  "Ray Ban Women Sunglass Square Gradient Blue(Silver)"@de	COL title VAL  "Ray Ban N/a 4184 Sunglasses"@tl	0
+COL title VAL  "Ray-Ban Sunglass - Round Style Light Havana Tortoise frame with Gradient Brown Lens - RB4184 710/83"@en	COL title VAL  "Ray Ban N/a 4184 Sunglasses"@tl	1
+COL title VAL  "Ray-Ban Phantos RB3589 Metal Sunglasses Top Gold on Black"@en	COL title VAL  "Ray Ban Grey Gradient Aviator Sunglasses RB3589 90548G 55 RB3589 90548G 55"@en	1
+COL title VAL  "Ray-Ban Square RB1971 91493F Silver/Clear Gradient Blue"@en	COL title VAL  "Ray Ban Grey Gradient Aviator Sunglasses RB3589 90548G 55 RB3589 90548G 55"@en	0
+COL title VAL  "Ray-Ban Original Aviator Sunglasses (RB3025) Gold Shiny/Pink Metal - Non-Polarized - 58mm"@en	COL title VAL  "RAY BAN RB2168 901/31"@de	0
+COL title VAL  "Ray Ban Women Sunglass Square Gradient Blue(Silver)"@de	COL title VAL  "Ray-Ban 3025 55 Gradient Aviator Sunglasses"@en	0
+COL title VAL  "Cap New Era NFL New Orleans Saints 9Fifty Cap"@en	COL title VAL  "Šilterica New Era NFL New Orleans Saints 9Fifty Cap"@en	1
+COL title VAL  "Ray Ban Women Sunglass Square Gradient Blue(Silver)"@de	COL title VAL  "Ray-Ban Unisex RB2168-954-3350 Meteor Classic 50mm Stripped Havana Sunglasses"@en	0
+COL title VAL  "Ray Ban Grey Gradient Aviator Sunglasses RB3589 90548G 55 RB3589 90548G 55"@en	COL title VAL  "Ray-Ban Original Aviator Sunglasses (RB3025) Gold Shiny/Pink Metal - Non-Polarized - 58mm"@en	0
+COL title VAL  "Ray Ban Women Sunglass Square Gradient Blue(Silver)"@de	COL title VAL  "Ray Ban Grey Gradient Aviator Sunglasses RB3589 90548G 55 RB3589 90548G 55"@en	0
+COL title VAL  "Ray-Ban Phantos RB3589 Metal Sunglasses Top Gold on Black"@en	COL title VAL  "Ray Ban N/a 4184 Sunglasses"@tl	0
+COL title VAL  "Ray Ban N/a 4184 Sunglasses"@tl	COL title VAL  "Ray-Ban Original Aviator Sunglasses (RB3025) Gold Shiny/Pink Metal - Non-Polarized - 58mm"@en	0
+COL title VAL  "Ray-Ban Sunglass - Round Style Light Havana Tortoise frame with Gradient Brown Lens - RB4184 710/83"@en	COL title VAL  "Ray-Ban 3025 55 Gradient Aviator Sunglasses"@en	0
+COL title VAL  "Ray-Ban Sunglass - Round Style Light Havana Tortoise frame with Gradient Brown Lens - RB4184 710/83"@en	COL title VAL  "Ray-Ban Unisex RB2168-954-3350 Meteor Classic 50mm Stripped Havana Sunglasses"@en	0
+COL title VAL  "Ray-Ban Original Aviator Sunglasses (RB3025) Gold Shiny/Pink Metal - Non-Polarized - 58mm"@en	COL title VAL  "Ray-Ban 3025 55 Gradient Aviator Sunglasses"@en	0
+COL title VAL  "Ray-Ban Original Aviator Sunglasses (RB3025) Gold Shiny/Pink Metal - Non-Polarized - 58mm"@en	COL title VAL  "Rayban Aviator 3025 001/3E 58 14"@en	1

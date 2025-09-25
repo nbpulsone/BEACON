@@ -1,0 +1,323 @@
+COL title VAL  "APC Smart-UPS 1000VA/640W, 1U, Line-Interactive, AVR, repl.batt., USB, COM, SmartSlot (SUA1000RMI1U)"@en	COL title VAL  "APC Replacement Battery Cartridge #17 UPS Battery"@en	0
+COL title VAL  "Aspire Nautilus AIO Replacement Pod"@fr	COL title VAL  "Aspire Cleito 120 Replacement Glass"@en	0
+COL title VAL  "Casti Audio-Technica ATH-M50xBT"@en	COL title VAL  "Casti JBL E45BT, Bluetooth, On-Ear, Microfon, negru"@en	0
+COL title VAL  "Netgear Prosafe Gigabit Plus GS108PE-300EUS"@de	COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	1
+COL title VAL  "4-Port Gigabit Midspan - PoE+ Injector - 802.3at/af"@en	COL title VAL  "CISCO SG500-52 52-PORT GIGABIT STACKABLE"@en	0
+COL title VAL  "Aspire Nautilus XS Replacement Coils"@fr	COL title VAL  "router inalambrico n gigabit (tl-wr1043nd)"@en	0
+COL title VAL  "CISCO1921-T1SEC/K9 Cisco 1921 Router (New)"@en	COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (Refurb)"@en	0
+COL title VAL  "Nautilus AIO Pod By Aspire"@en	COL title VAL  "Nautilus XS Coils by Aspire"@en	0
+COL title VAL  "Garmin STRIKER 4 Fishfinder Worldwide Version w/77/200kHz - 4-Pin Transducer w/Transom & Trolling Motor Mounts"@en	COL title VAL  "Garmin Fishfinder (echolood) Striker 4 Worldwide"@de	0
+COL title VAL  "Evolve 80 MS, Stereo, USB-C"@en	COL title VAL  "Jabra Evolve 20 MS mono - Headset - on-ear - wired - USB"@en	0
+COL title VAL  "Garmin STRIKER Plus 7sv with Transducer"@en	COL title VAL  "CISCO - Catalyst 3850 24 Port PoE IP Svcs"@en	0
+COL title VAL  "Cisco Catalyst 2960-XR | WS-C2960XR-24PS-I Catalyst 2960XR 24 port 10/100/1000 PoE+ 370W, 4 x 1G SFP, IP Lite"@en	COL title VAL  "WS-C3850-24XS-ECisco Catalyst 3850 24 Port 10G Fiber Switch IP Services"@en	0
+COL title VAL  "TP-Link Archer VR400 (867Mbps 5GHz + 300Mbps 2.4GHz) Kablosuz VDSL/ADSL Modem Router"@de	COL title VAL  "DJI DJI | Mavic Pro Battery Charging Hub Retail CP.PT.000563"@en	0
+COL title VAL  "Audio-Technica ATH-R70X Open Back Studio Headphones"@en	COL title VAL  "Casti Audio-Technica ATH-M50xBT"@en	0
+COL title VAL  "Catalyst 4500-X 16 Port 10G IP Base, Front-to-Back, No P/S"@en	COL title VAL  "WS-C3850-24XS-ECisco Catalyst 3850 24 Port 10G Fiber Switch IP Services"@en	0
+COL title VAL  "Belkin HDMI to VGA Adapter with Micro-USB Power"@en	COL title VAL  "Belkin Av10170bt Hdmi To Vga Adapter With 3.5 Audio & Micro-usb Ports"@en	1
+COL title VAL  "Aspire Cleito 120 Replacement Glass"@en	COL title VAL  "Cleito 120 4ml Glass | Smokey Joes Vapes Co"@en	1
+COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	COL title VAL  "Casti JBL E45BT, Bluetooth, On-Ear, Microfon, negru"@en	0
+COL title VAL  "WS-C3850-24P-E Cisco Catalyst 3850 Network Switch (Refurb)"@en	COL title VAL  "WS-C3850-24XS-ECisco Catalyst 3850 24 Port 10G Fiber Switch IP Services"@en	0
+COL title VAL  "Garmin Fishfinder (echolood) Striker 4 Worldwide"@de	COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	0
+COL title VAL  "Cisco Catalyst 4500-X - switch - 16 ports - rack-mountable"@en	COL title VAL  "HPE Smart Array E208i-p SR Gen10 Storage controller RAID"@en	0
+COL title VAL  "Striker 4 Fishfinder with Transducer - Standard"@de	COL title VAL  "Garmin ECHOMAP Plus 43cv with GT20 Transducer Fish Finder/Chartplotter Combo"@en	0
+COL title VAL  "DS-9632NI-I8 12MP 32 Channel 8 SATA NVR"@it	COL title VAL  "NVR Hikvision IP 8 canale DS-7608NI-K2"@en	0
+COL title VAL  "WS-C3650-8X24UQ-L - Cisco Catalyst 3650 Network Switch - Refurb'd"@en	COL title VAL  "WS-C3850-24P-E Cisco Catalyst 3850 Network Switch (Refurb)"@en	0
+COL title VAL  "Evolve 80 MS, Stereo, USB-C"@en	COL title VAL  "JABRA - EVOLVE 30 II UC STEREO USB HEADB NOISE CANCEL USB"@en	0
+COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	COL title VAL  "Striker Plus 5cv, Worldwide w/GT20"@de	0
+COL title VAL  "WS-C2960-8TC-L Cisco Catalyst 2960 Network Switch (Refurb)"@en	COL title VAL  "WS-C3650-48FQM-S Cisco Catalyst 3650 Network Switch (Refurb)"@en	0
+COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	0
+COL title VAL  "Hikvision Embedded 4K NVR DS-9632NI-I8 32Channel Network Video Recorde Up to 12 Megapixels resolution recording English Version Can Be Update"@en	COL title VAL  "Hikvision DS-7608NI-K2 Network Video Recorder 8-channels"@en	0
+COL title VAL  "IE-2000-4TS-G-B - Cisco Industrial Ethernet 2000 Switch - Refurb'd"@en	COL title VAL  "CISCO IE-3000-4TC Switch"@en	0
+COL title VAL  "APC Replacement Battery Cartridge #17 UPS Battery"@en	COL title VAL  "Apc Rbc17 Replacement Battery Cartridge #17"@en	1
+COL title VAL  "WS-C3850-24XS-E - 24 Port Switch"@en	COL title VAL  "WS-C3850-24P-E Cisco Catalyst 3850 Network Switch (Refurb)"@en	0
+COL title VAL  "Hikvision DS-7616NI-I2-16P 16 Channel Network Video Recorder"@en	COL title VAL  "DS-7604NI-K1-4P Hikvision 4 channel NVR 8MP 4 PoE"@en	0
+COL title VAL  "US-8-150WUbiquiti UniFi Switch, 8 ports, 150W"@en	COL title VAL  "Ubiquiti Unifi Switch (8-poorts, 150W PoE+)"@en	1
+COL title VAL  "Hikvision 24 Port POE Switch with 2 Combo Ports"@en	COL title VAL  "MikroTik RB260GSP, 5xGigabit, SFP, PoE out for four ports, SwOS"@en	0
+COL title VAL  "1 Port Gigabit PoE Injector - DPE-301GI"@en	COL title VAL  "StarTech.com 4 Port Gigabit PoE+ Injector"@en	0
+COL title VAL  "Aspire Cleito 120 Replacement Glass"@en	COL title VAL  "Aspire Nautilus XS Replacement Coils"@fr	0
+COL title VAL  "Ubiquiti Unifi Switch (8-poorts, 150W PoE+)"@en	COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	0
+COL title VAL  "router inalambrico n gigabit (tl-wr1043nd)"@en	COL title VAL  "N 300Mbps TP-LINK TL-WR841N Wireless Router (QHAB840RW0)"@en	1
+COL title VAL  "DS-7604NI-K1-4P Hikvision 4 channel NVR 8MP 4 PoE"@en	COL title VAL  "16 Channel Embedded Plug & Play NVR - I2"@en	0
+COL title VAL  "WS-C3850-24XS-ECisco Catalyst 3850 24 Port 10G Fiber Switch IP Services"@en	COL title VAL  "WS-C3850-48UW-S - CATALYST 3850 48PORT UPOE WITH 5 AP LICENSES IP BASE"@en	0
+COL title VAL  "24-Port 10/100 PoE+ Managed Switch with Gigabit Uplinks - SF300-24PP-K9-NA"@en	COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	0
+COL title VAL  "CISCO - Catalyst 3850 24 Port PoE IP Svcs"@en	COL title VAL  "WS-C3650-48FQ-S Cisco Catalyst 3650 48 Port Full PoE 4x10G Uplink IP Base10/100/1000Base-T"@en	0
+COL title VAL  "WS-C3850-48UW-S - CATALYST 3850 48PORT UPOE WITH 5 AP LICENSES IP BASE"@en	COL title VAL  "WS-C3850-24P-E Cisco Catalyst 3850 Network Switch (Refurb)"@en	0
+COL title VAL  "Catalyst 4500-X 16 Port 10G IP Base, Front-to-Back, No P/S"@en	COL title VAL  "Cisco WS-C3560X-48T-S Catalyst 3560X 48 Port Data IP Base Switch w/ 1x 350W PS"@en	0
+COL title VAL  "WS-C3650-48FQ-SCisco Catalyst 3650 48 Port Full PoE 4x10G Uplink IP Base"@en	COL title VAL  "WS-C3850-48UW-S - CATALYST 3850 48PORT UPOE WITH 5 AP LICENSES IP BASE"@en	0
+COL title VAL  "4-Port Gigabit Midspan - PoE+ Injector - 802.3at/af"@en	COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	0
+COL title VAL  "Evolve 80 MS, Stereo, USB-C"@en	COL title VAL  "Jabra Evolve 40 MS Stereo Headset"@en	0
+COL title VAL  "Cisco Small Business SF300-24PP - switch - 24 ports - managed - rack-mounta"@en	COL title VAL  "Cisco Catalyst 4500-X - switch - 16 ports - rack-mountable"@en	0
+COL title VAL  "Aspire Nautilus XS Replacement Coils"@fr	COL title VAL  "Apc Rbc17 Replacement Battery Cartridge #17"@en	0
+COL title VAL  "Aspire Nautilus XS Replacement Coils"@fr	COL title VAL  "Nautilus AIO Pod By Aspire"@en	0
+COL title VAL  "Jabra Evolve 40 MS Stereo Headset"@en	COL title VAL  "JABRA - EVOLVE 40 MS Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	1
+COL title VAL  "Ubiquiti Unifi Switch (8-poorts, 150W PoE+)"@en	COL title VAL  "Switch 9P 10/100 8P Poe"@en	0
+COL title VAL  "Catalyst 4500-X 16 Port 10G IP Base, Front-to-Back, No P/S"@en	COL title VAL  "Catalyst 2960-XR 24 GigE PoE 370W, 4 x 1G SFP, IP Lite"@en	0
+COL title VAL  "WS-C2960-8TC-L Cisco Catalyst 2960 8 10/100 + 1 T/SFP LAN Base Image. New Factory Sealed."@en	COL title VAL  "WS-C3650-48FQ-S Cisco Catalyst 3650 48 Port Full PoE 4x10G Uplink IP Base10/100/1000Base-T"@en	0
+COL title VAL  "Garmin Striker 4 010-01550-00 Black frequency = 50/77/20"@en	COL title VAL  "Garmin STRIKER 4 Fishfinder Worldwide Version w/77/200kHz - 4-Pin Transducer w/Transom & Trolling Motor Mounts"@en	0
+COL title VAL  "Nautilus XS Coils by Aspire"@en	COL title VAL  "Aspire Nautilus XS Replacement Coils"@fr	1
+COL title VAL  "Roteador Gigabit Vpn Dual Wan Safestream Tl-Er6020 Tp-Link"@en	COL title VAL  "ROTEADOR TP-LINK TL-WR941HP WIRELESS N 450MBPS - TPL0500"@en	1
+COL title VAL  "WS-C3650-48FQ-S Cisco Catalyst 3650 48 Port Full PoE 4x10G Uplink IP Base10/100/1000Base-T"@en	COL title VAL  "WS-C3850-48UW-S - CATALYST 3850 48PORT UPOE WITH 5 AP LICENSES IP BASE"@en	0
+COL title VAL  "StarTech.com 4 Port Gigabit PoE+ Injector"@en	COL title VAL  "MikroTik RB260GSP, 5xGigabit, SFP, PoE out for four ports, SwOS"@en	0
+COL title VAL  "MikroTik RB260GSP - Desktop PoE Switch with 5 Gb and 1 SFP Port"@en	COL title VAL  "MikroTik RB260GSP, 5xGigabit, SFP, PoE out for four ports, SwOS"@en	1
+COL title VAL  "APC Replacement Battery Cartridge #17 UPS Battery"@en	COL title VAL  "WS-C3850-48UW-S - CATALYST 3850 48PORT UPOE WITH 5 AP LICENSES IP BASE"@en	0
+COL title VAL  "D-Link 5-Port Gigabit Desktop Switch (DGS-1005A)"@af	COL title VAL  "D-Link DGS-1005A 5-Port Gigabit Desktop Switch"@de	1
+COL title VAL  "CISCO IE-3000-4TC Switch"@en	COL title VAL  "Cisco Catalyst 3650-48FQM-S Switch"@en	0
+COL title VAL  "Garmin STRIKER 4 Fishfinder Worldwide Version w/77/200kHz - 4-Pin Transducer w/Transom & Trolling Motor Mounts"@en	COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	1
+COL title VAL  "Striker Plus 5cv, Worldwide w/GT20"@de	COL title VAL  "Garmin Fishfinder (echolood) Striker 4 Worldwide"@de	0
+COL title VAL  "WS-C2960-8TC-L Cisco Catalyst 2960 Network Switch (Refurb)"@en	COL title VAL  "Cisco WS-C3560X-48T-S Catalyst 3560X 48 Port Data IP Base Switch w/ 1x 350W PS"@en	0
+COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	COL title VAL  "JABRA - EVOLVE 30 II UC STEREO USB HEADB NOISE CANCEL USB"@en	0
+COL title VAL  "MikroTik RB260GSP - Desktop PoE Switch with 5 Gb and 1 SFP Port"@en	COL title VAL  "1 Port Gigabit PoE Injector - DPE-301GI"@en	0
+COL title VAL  "APC Smart-UPS 1000VA/640W, 1U, Line-Interactive, AVR, repl.batt., USB, COM, SmartSlot (SUA1000RMI1U)"@en	COL title VAL  "APC Smart-UPS RM 1000VA USB & Serial - UPS - 640 Watt - 1000 VA"@de	1
+COL title VAL  "CISCO1921-T1SEC/K9 - Cisco 1921 Router - Refurb'd"@en	COL title VAL  "CISCO1921-T1SEC/K9 Cisco 1921 Router (New)"@en	1
+COL title VAL  "Aspire Aspire Nautilus BVC Coils"@fr	COL title VAL  "Nautilus XS Coils by Aspire"@en	0
+COL title VAL  "Audio-Technica ATH-R70X Open Back Studio Headphones"@en	COL title VAL  "Audio-Technica ATH-AD900X Headphones"@en	0
+COL title VAL  "Cisco WS-C3560X-48T-S Catalyst 3560X 48 Port Data IP Base Switch w/ 1x 350W PS"@en	COL title VAL  "Cisco Catalyst 3650-48FQM-S Switch"@en	0
+COL title VAL  "CISCO IE-3000-4TC Switch"@en	COL title VAL  "Cisco SG350-10SFP-K9 Switch"@en	0
+COL title VAL  "Aspire Aspire Nautilus BVC Coils"@fr	COL title VAL  "Aspire Nautilus XS Replacement Coils"@fr	0
+COL title VAL  "WS-C3650-48FQ-SCisco Catalyst 3650 48 Port Full PoE 4x10G Uplink IP Base"@en	COL title VAL  "Cisco Catalyst 3650-48FQM-S Switch"@en	0
+COL title VAL  "WS-C2960-8TC-L Cisco Catalyst 2960 Network Switch (Refurb)"@en	COL title VAL  "WS-C2960-8TC-L Cisco Catalyst 2960 8 10/100 + 1 T/SFP LAN Base Image. New Factory Sealed."@en	1
+COL title VAL  "SG350-10SFP 10-Port Gigabit Managed SFP Switch"@en	COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (Refurb)"@en	0
+COL title VAL  "HPE Smart Array E208i-p SR Gen10 Storage controller RAID"@en	COL title VAL  "804394-B21 HP SA E208i-p SR G10 Plug-in Controller"@en	1
+COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	COL title VAL  "Evolve 80 MS, Stereo, USB-C"@en	1
+COL title VAL  "Hikvision 24 Port POE Switch with 2 Combo Ports"@en	COL title VAL  "CISCO - Catalyst 3850 24 Port PoE IP Svcs"@en	0
+COL title VAL  "Audio-Technica ATH-AD900X Headphones"@en	COL title VAL  "Audio Technica Headphones ATH-R70X Black"@en	0
+COL title VAL  "Jabra Evolve 20 MS mono - Headset - on-ear - wired - USB"@en	COL title VAL  "Casti JBL E45BT, Bluetooth, On-Ear, Microfon, negru"@en	0
+COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	0
+COL title VAL  "Cleito 120 4ml Glass | Smokey Joes Vapes Co"@en	COL title VAL  "DJI DJI | Mavic Pro Battery Charging Hub Retail CP.PT.000563"@en	0
+COL title VAL  "24-Port 10/100 PoE+ Managed Switch with Gigabit Uplinks - SF300-24PP-K9-NA"@en	COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	0
+COL title VAL  "Casti Hi-Fi Audio-Technica ATH-AD900X"@it	COL title VAL  "Casti Audio-Technica ATH-M50xBT"@en	0
+COL title VAL  "NVR Hikvision IP 8 canale DS-7608NI-K2"@en	COL title VAL  "DS-7604NI-K1-4P Hikvision 4 channel NVR 8MP 4 PoE"@en	0
+COL title VAL  "TP-Link Archer VR400 (867Mbps 5GHz + 300Mbps 2.4GHz) Kablosuz VDSL/ADSL Modem Router"@de	COL title VAL  "ROTEADOR TP-LINK TL-WR941HP WIRELESS N 450MBPS - TPL0500"@en	0
+COL title VAL  "DJI CP.PT.000563 Mavic Pro Akkuladestation Hub schwarz"@en	COL title VAL  "DJI DJI | Mavic Pro Battery Charging Hub Retail CP.PT.000563"@en	1
+COL title VAL  "Garmin Fishfinder (echolood) Striker 4 Worldwide"@de	COL title VAL  "Garmin Striker 4 010-01550-00 Black frequency = 50/77/20"@en	0
+COL title VAL  "Cisco Small Business SF300-24PP - switch - 24 ports - managed - rack-mounta"@en	COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (Refurb)"@en	0
+COL title VAL  "CISCO - Catalyst 3850 24 Port PoE IP Svcs"@en	COL title VAL  "WS-C3850-24P-E Cisco Catalyst 3850 Network Switch (Refurb)"@en	1
+COL title VAL  "WS-C3850-48UW-S Cisco Catalyst 3850 Network Switch Bundle (Refurb)"@en	COL title VAL  "WS-C3650-8X24UQ-L - Cisco Catalyst 3650 Network Switch - Refurb'd"@en	0
+COL title VAL  "Garmin echoMAP(tm) Plus 43cv"@en	COL title VAL  "Garmin STRIKER Plus 7sv with Transducer"@en	0
+COL title VAL  "Cisco Catalyst 4500-X - switch - 16 ports - rack-mountable"@en	COL title VAL  "Catalyst 4500-X 16 Port 10G IP Base, Front-to-Back, No P/S"@en	1
+COL title VAL  "US-8-150WUbiquiti UniFi Switch, 8 ports, 150W"@en	COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	0
+COL title VAL  "Casti Audio-Technica ATH-M50xBT"@en	COL title VAL  "Audio-Technica ATH SR50BT #demo"@es	0
+COL title VAL  "Roteador Gigabit Vpn Dual Wan Safestream Tl-Er6020 Tp-Link"@en	COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	0
+COL title VAL  "Audio-Technica ATH SR50BT #demo"@es	COL title VAL  "Audio Technica Headphones ATH-R70X Black"@en	0
+COL title VAL  "JABRA - EVOLVE 40 MS Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	COL title VAL  "Jabra Evolve 20 MS mono - Headset - on-ear - wired - USB"@en	0
+COL title VAL  "TP-Link Archer-VR400 AC1200 VDSL/ADSL Modem Router"@de	COL title VAL  "N 300Mbps TP-LINK TL-WR841N Wireless Router (QHAB840RW0)"@en	0
+COL title VAL  "FNB-V134LI 2300 mAh High Capacity Battery"@en	COL title VAL  "Vertex -FNB-V134LI High Capacity Battery"@en	1
+COL title VAL  "Jabra Evolve 40 MS Stereo Headset"@en	COL title VAL  "Jabra Evolve 20 UC cuffia mono per Skype for Business"@en	0
+COL title VAL  "Garmin Fishfinder (echolood) Striker 4 Worldwide"@de	COL title VAL  "Striker 4 Fishfinder with Transducer - Standard"@de	1
+COL title VAL  "Cisco Catalyst 3650-48FQM-S Switch"@en	COL title VAL  "WS-C3650-8X24UQ-L - Cisco Catalyst 3650 Network Switch - Refurb'd"@en	0
+COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	COL title VAL  "SG350-10SFP 10-Port Gigabit Managed SFP Switch"@en	0
+COL title VAL  "Ie 16 10/100 2 Fe Sfp+2 T/sfp"@en	COL title VAL  "IE-2000-16TC-G-L Cisco Industrial Ethernet 2000 Switch (New)"@en	1
+COL title VAL  "StarTech.com 4 Port Gigabit PoE+ Injector"@en	COL title VAL  "Cleito 120 4ml Glass | Smokey Joes Vapes Co"@en	0
+COL title VAL  "WS-C3650-8X24UQ-L - Cisco Catalyst 3650 Network Switch - Refurb'd"@en	COL title VAL  "WS-C2960-8TC-L Cisco Catalyst 2960 Network Switch (Refurb)"@en	0
+COL title VAL  "Catalyst 2960-XR 24 GigE PoE 370W, 4 x 1G SFP, IP Lite"@en	COL title VAL  "Cisco Catalyst 2960-XR | WS-C2960XR-24PS-I Catalyst 2960XR 24 port 10/100/1000 PoE+ 370W, 4 x 1G SFP, IP Lite"@en	1
+COL title VAL  "WS-C3650-48FQ-SCisco Catalyst 3650 48 Port Full PoE 4x10G Uplink IP Base"@en	COL title VAL  "WS-C3650-48FQ-S Cisco Catalyst 3650 48 Port Full PoE 4x10G Uplink IP Base10/100/1000Base-T"@en	1
+COL title VAL  "WS-C3850-24XS-ECisco Catalyst 3850 24 Port 10G Fiber Switch IP Services"@en	COL title VAL  "Evolve 80 MS, Stereo, USB-C"@en	0
+COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	0
+COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	COL title VAL  "Jabra Evolve 20 MS mono - Headset - on-ear - wired - USB"@en	0
+COL title VAL  "WS-C3650-8X24UQ-L - Cisco Catalyst 3650 Network Switch - Refurb'd"@en	COL title VAL  "WS-C3650-8X24UQ-L - 3650 Switch"@en	1
+COL title VAL  "Cisco SF110-24 24-Port 10/100 Switch"@en	COL title VAL  "CISCO SG500-52 52-PORT GIGABIT STACKABLE"@en	0
+COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	0
+COL title VAL  "Garmin STRIKER Plus 7sv with Transducer"@en	COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	0
+COL title VAL  "Cisco SF110-24 24-Port 10/100 Switch"@en	COL title VAL  "SF110-24-NA - Cisco SF110-24 Unmanaged Small Business Switch, 24 Port 10/100 - Refurb'd"@en	1
+COL title VAL  "MikroTik RB260GSP - Desktop PoE Switch with 5 Gb and 1 SFP Port"@en	COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	0
+COL title VAL  "WS-C3650-48FQ-S Cisco Catalyst 3650 48 Port Full PoE 4x10G Uplink IP Base10/100/1000Base-T"@en	COL title VAL  "Cisco WS-C3560X-48T-S Catalyst 3560X 48 Port Data IP Base Switch w/ 1x 350W PS"@en	0
+COL title VAL  "Audio-Technica ATH-R70X Open Back Studio Headphones"@en	COL title VAL  "Audio Technica Headphones ATH-R70X Black"@en	1
+COL title VAL  "WS-C3850-24P-E Cisco Catalyst 3850 Network Switch (Refurb)"@en	COL title VAL  "Cisco Catalyst 4500-X - switch - 16 ports - rack-mountable"@en	0
+COL title VAL  "CISCO1921-T1SEC/K9 - Cisco 1921 Router - Refurb'd"@en	COL title VAL  "WS-C3650-8X24UQ-L - Cisco Catalyst 3650 Network Switch - Refurb'd"@en	0
+COL title VAL  "Audio-Technica ATH-R70X Open Back Studio Headphones"@en	COL title VAL  "Audio Technica ATH-SR50BT Wireless Headphones - Black"@en	0
+COL title VAL  "ROTEADOR TP-LINK TL-WR941HP WIRELESS N 450MBPS - TPL0500"@en	COL title VAL  "router inalambrico n gigabit (tl-wr1043nd)"@en	0
+COL title VAL  "JABRA - EVOLVE 30 II UC STEREO USB HEADB NOISE CANCEL USB"@en	COL title VAL  "Jabra EVOLVE 30 II Mono Headset - For Microsoft Lync"@en	0
+COL title VAL  "WS-C3850-24XS-ECisco Catalyst 3850 24 Port 10G Fiber Switch IP Services"@en	COL title VAL  "JABRA Evolve 30 II UC USB - Stereo"@en	0
+COL title VAL  "Ie 16 10/100 2 Fe Sfp+2 T/sfp"@en	COL title VAL  "Garmin STRIKER 4 Fishfinder Worldwide Version w/77/200kHz - 4-Pin Transducer w/Transom & Trolling Motor Mounts"@en	0
+COL title VAL  "Jabra Evolve 40 MS Stereo Headset"@en	COL title VAL  "Jabra Evolve 20 MS mono - Headset - on-ear - wired - USB"@en	0
+COL title VAL  "Aspire Aspire Nautilus BVC Coils"@fr	COL title VAL  "CISCO IE-3000-4TC Switch"@en	0
+COL title VAL  "Casti Audio-Technica ATH-M50xBT"@en	COL title VAL  "Audio Technica - ATH-M50XBT Wireless Over-the-Ear Headphones - Black"@en	1
+COL title VAL  "Casti Audio-Technica ATH-M50xBT"@en	COL title VAL  "Audio-Technica ATH-AD900X Headphones"@en	0
+COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	COL title VAL  "Hikvision 24 Port POE Switch with 2 Combo Ports"@en	0
+COL title VAL  "JABRA - EVOLVE 30 II UC STEREO USB HEADB NOISE CANCEL USB"@en	COL title VAL  "Hikvision DS-7608NI-K2 Network Video Recorder 8-channels"@en	0
+COL title VAL  "Switch 9P 10/100 8P Poe"@en	COL title VAL  "Cisco SF110-24 24-Port 10/100 Switch"@en	0
+COL title VAL  "SF110-24-NA - Cisco SF110-24 Unmanaged Small Business Switch, 24 Port 10/100 - Refurb'd"@en	COL title VAL  "Cisco Small Business SF300-24PP - switch - 24 ports - managed - rack-mounta"@en	0
+COL title VAL  "JABRA Evolve 30 II UC USB - Stereo"@en	COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	0
+COL title VAL  "Cisco Catalyst 3650-48FQM-S Switch"@en	COL title VAL  "WS-C3850-48UW-S Cisco Catalyst 3850 Network Switch Bundle (Refurb)"@en	0
+COL title VAL  "WS-C3850-48UW-S Cisco Catalyst 3850 Network Switch Bundle (Refurb)"@en	COL title VAL  "Casti Audio-Technica ATH-M50xBT"@en	0
+COL title VAL  "Switch 9P 10/100 8P Poe"@en	COL title VAL  "SF110-24-NA - Cisco SF110-24 Unmanaged Small Business Switch, 24 Port 10/100 - Refurb'd"@en	0
+COL title VAL  "WS-C3650-48FQM-S Cisco Catalyst 3650 Network Switch (Refurb)"@en	COL title VAL  "CISCO1921-T1SEC/K9 Cisco 1921 Router (New)"@en	0
+COL title VAL  "Garmin echoMAP(tm) Plus 43cv"@en	COL title VAL  "Netgear Prosafe Gigabit Plus GS108PE-300EUS"@de	0
+COL title VAL  "StarTech.com 4 Port Gigabit PoE+ Injector"@en	COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	0
+COL title VAL  "US-8-150WUbiquiti UniFi Switch, 8 ports, 150W"@en	COL title VAL  "Cisco SF110-24 24-Port 10/100 Switch"@en	0
+COL title VAL  "WS-C3650-8X24UQ-L - 3650 Switch"@en	COL title VAL  "WS-C2960-8TC-L Cisco Catalyst 2960 Network Switch (Refurb)"@en	0
+COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	COL title VAL  "JABRA - EVOLVE 30 II UC STEREO USB HEADB NOISE CANCEL USB"@en	0
+COL title VAL  "Aspire Nautilus XS Replacement Coils"@fr	COL title VAL  "Aspire Nautilus AIO Replacement Pod"@fr	0
+COL title VAL  "Jabra Evolve 40 MS Stereo Headset"@en	COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	0
+COL title VAL  "WS-C2960-8TC-L Cisco Catalyst 2960 Network Switch (Refurb)"@en	COL title VAL  "IE-2000-16TC-G-L Cisco Industrial Ethernet 2000 Switch (New)"@en	0
+COL title VAL  "CISCO IE-3000-4TC Switch"@en	COL title VAL  "IE-2000-16TC-G-L Cisco Industrial Ethernet 2000 Switch (New)"@en	0
+COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	COL title VAL  "Jabra Evolve 40 MS Stereo Headset"@en	0
+COL title VAL  "Jabra Evolve 40 MS Stereo Headset"@en	COL title VAL  "JABRA Evolve 30 II UC USB - Stereo"@en	0
+COL title VAL  "WS-C3650-8X24UQ-L - Cisco Catalyst 3650 Network Switch - Refurb'd"@en	COL title VAL  "IE-2000-16TC-G-L Cisco Industrial Ethernet 2000 Switch (New)"@en	0
+COL title VAL  "Catalyst 2960-XR 24 GigE PoE 370W, 4 x 1G SFP, IP Lite"@en	COL title VAL  "CISCO - Catalyst 3850 24 Port PoE IP Svcs"@en	0
+COL title VAL  "WS-C3650-48FQ-S Cisco Catalyst 3650 48 Port Full PoE 4x10G Uplink IP Base10/100/1000Base-T"@en	COL title VAL  "TP-Link Archer VR400 (867Mbps 5GHz + 300Mbps 2.4GHz) Kablosuz VDSL/ADSL Modem Router"@de	0
+COL title VAL  "Roteador Gigabit Vpn Dual Wan Safestream Tl-Er6020 Tp-Link"@en	COL title VAL  "N 300Mbps TP-LINK TL-WR841N Wireless Router (QHAB840RW0)"@en	0
+COL title VAL  "D-Link 5-Port Gigabit Desktop Switch (DGS-1005A)"@af	COL title VAL  "MikroTik RB260GSP - Desktop PoE Switch with 5 Gb and 1 SFP Port"@en	0
+COL title VAL  "Jabra EVOLVE 30 II Mono Headset - For Microsoft Lync"@en	COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	1
+COL title VAL  "Netgear Prosafe Gigabit Plus GS108PE-300EUS"@de	COL title VAL  "router inalambrico n gigabit (tl-wr1043nd)"@en	0
+COL title VAL  "Garmin STRIKER Plus 7sv with Transducer"@en	COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	0
+COL title VAL  "Garmin STRIKER 4 Fishfinder Worldwide Version w/77/200kHz - 4-Pin Transducer w/Transom & Trolling Motor Mounts"@en	COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	0
+COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	0
+COL title VAL  "Hikvision 24 Port POE Switch with 2 Combo Ports"@en	COL title VAL  "Hikvision Web-Managed PoE Switch:24x100M, 2x1000M Combo Port"@en	1
+COL title VAL  "WS-C3850-24P-E Cisco Catalyst 3850 Network Switch (Refurb)"@en	COL title VAL  "WS-C3850-48UW-S Cisco Catalyst 3850 Network Switch Bundle (Refurb)"@en	0
+COL title VAL  "Aspire Aspire Nautilus BVC Coils"@fr	COL title VAL  "Nautilus AIO Pod By Aspire"@en	0
+COL title VAL  "JABRA Evolve 30 II UC USB - Stereo"@en	COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	0
+COL title VAL  "TP-Link Archer VR400 (867Mbps 5GHz + 300Mbps 2.4GHz) Kablosuz VDSL/ADSL Modem Router"@de	COL title VAL  "TP-Link Archer-VR400 AC1200 VDSL/ADSL Modem Router"@de	1
+COL title VAL  "WS-C3850-24P-E Cisco Catalyst 3850 Network Switch (Refurb)"@en	COL title VAL  "WS-C2960-8TC-L Cisco Catalyst 2960 Network Switch (Refurb)"@en	0
+COL title VAL  "DS-7604NI-K1-4P Hikvision 4 channel NVR 8MP 4 PoE"@en	COL title VAL  "Hikvision Embedded 4K NVR DS-9632NI-I8 32Channel Network Video Recorde Up to 12 Megapixels resolution recording English Version Can Be Update"@en	0
+COL title VAL  "WS-C3850-24XS-ECisco Catalyst 3850 24 Port 10G Fiber Switch IP Services"@en	COL title VAL  "WS-C3850-48UW-S Cisco Catalyst 3850 Network Switch Bundle (Refurb)"@en	0
+COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (Refurb)"@en	COL title VAL  "IE-2000-4TS-G-B Cisco Industrial Ethernet 2000 Switch (Refurb)"@en	0
+COL title VAL  "Hikvision DS-7616NI-I2-16P 16 Channel Network Video Recorder"@en	COL title VAL  "HIKVISION DS-7604NI-K1-4P 8 MEGAPIXEL (8MP) IP-POE 4 CHANNEL NVR"@en	0
+COL title VAL  "DS-9632NI-I8 12MP 32 Channel 8 SATA NVR"@it	COL title VAL  "HIKVISION DS-7604NI-K1-4P 8 MEGAPIXEL (8MP) IP-POE 4 CHANNEL NVR"@en	0
+COL title VAL  "IE-2000-4TS-G-B - Cisco Industrial Ethernet 2000 Switch - Refurb'd"@en	COL title VAL  "IE-2000-4TS-G-B Cisco Industrial Ethernet 2000 Switch (Refurb)"@en	1
+COL title VAL  "GarminStriker Fishfinder w/Gps & Crirp Sonar"@de	COL title VAL  "Garmin STRIKER 4 Fishfinder Worldwide Version w/77/200kHz - 4-Pin Transducer w/Transom & Trolling Motor Mounts"@en	0
+COL title VAL  "JABRA - EVOLVE 40 MS Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	COL title VAL  "JABRA - EVOLVE 30 II UC STEREO USB HEADB NOISE CANCEL USB"@en	0
+COL title VAL  "Garmin Striker 4 010-01550-00 Black frequency = 50/77/20"@en	COL title VAL  "GarminStriker Fishfinder w/Gps & Crirp Sonar"@de	1
+COL title VAL  "Audio Technica ATH-SR50BT Wireless Headphones - Black"@en	COL title VAL  "Audio Technica Headphones ATH-R70X Black"@en	0
+COL title VAL  "IE-2000-16TC-G-L Cisco Industrial Ethernet 2000 Switch (New)"@en	COL title VAL  "CISCO1921-T1SEC/K9 Cisco 1921 Router (New)"@en	0
+COL title VAL  "WS-C3650-48FQM-S Cisco Catalyst 3650 Network Switch (Refurb)"@en	COL title VAL  "WS-C3850-48UW-S Cisco Catalyst 3850 Network Switch Bundle (Refurb)"@en	0
+COL title VAL  "Garmin Striker 4 010-01550-00 Black frequency = 50/77/20"@en	COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	0
+COL title VAL  "Cisco SF110-24 24-Port 10/100 Switch"@en	COL title VAL  "WS-C3850-24XS-E - 24 Port Switch"@en	0
+COL title VAL  "Cisco Catalyst 2960-XR | WS-C2960XR-24PS-I Catalyst 2960XR 24 port 10/100/1000 PoE+ 370W, 4 x 1G SFP, IP Lite"@en	COL title VAL  "WS-C3650-48FQ-S Cisco Catalyst 3650 48 Port Full PoE 4x10G Uplink IP Base10/100/1000Base-T"@en	0
+COL title VAL  "WS-C3850-24XS-E - 24 Port Switch"@en	COL title VAL  "WS-C3850-24XS-ECisco Catalyst 3850 24 Port 10G Fiber Switch IP Services"@en	1
+COL title VAL  "WS-C3650-8X24UQ-L - Cisco Catalyst 3650 Network Switch - Refurb'd"@en	COL title VAL  "WS-C3850-24XS-ECisco Catalyst 3850 24 Port 10G Fiber Switch IP Services"@en	0
+COL title VAL  "Catalyst 2960-XR 24 GigE PoE 370W, 4 x 1G SFP, IP Lite"@en	COL title VAL  "WS-C3850-24XS-ECisco Catalyst 3850 24 Port 10G Fiber Switch IP Services"@en	0
+COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	COL title VAL  "Jabra Evolve 20 UC cuffia mono per Skype for Business"@en	0
+COL title VAL  "Cisco Catalyst 3650-48FQM-S Switch"@en	COL title VAL  "WS-C3650-48FQM-S Cisco Catalyst 3650 Network Switch (Refurb)"@en	1
+COL title VAL  "TP-Link Archer VR400 (867Mbps 5GHz + 300Mbps 2.4GHz) Kablosuz VDSL/ADSL Modem Router"@de	COL title VAL  "N 300Mbps TP-LINK TL-WR841N Wireless Router (QHAB840RW0)"@en	0
+COL title VAL  "D-Link DGS-1005A 5-Port Gigabit Desktop Switch"@de	COL title VAL  "SG350-10SFP 10-Port Gigabit Managed SFP Switch"@en	0
+COL title VAL  "Cisco WS-C3560X-48T-S Catalyst 3560X 48 Port Data IP Base Switch w/ 1x 350W PS"@en	COL title VAL  "WS-C3650-48FQ-SCisco Catalyst 3650 48 Port Full PoE 4x10G Uplink IP Base"@en	0
+COL title VAL  "NVR Hikvision IP 8 canale DS-7608NI-K2"@en	COL title VAL  "HIKVISION DS-7604NI-K1-4P 8 MEGAPIXEL (8MP) IP-POE 4 CHANNEL NVR"@en	0
+COL title VAL  "WS-C3850-48UW-S Cisco Catalyst 3850 Network Switch Bundle (Refurb)"@en	COL title VAL  "WS-C3850-48UW-S - CATALYST 3850 48PORT UPOE WITH 5 AP LICENSES IP BASE"@en	1
+COL title VAL  "Cisco WS-C3560X-48T-S Catalyst 3560X 48 Port Data IP Base Switch w/ 1x 350W PS"@en	COL title VAL  "WS-C3850-48UW-S - CATALYST 3850 48PORT UPOE WITH 5 AP LICENSES IP BASE"@en	0
+COL title VAL  "IE-2000-16TC-G-L Cisco Industrial Ethernet 2000 Switch (New)"@en	COL title VAL  "Hikvision DS-7616NI-I2-16P 16 Channel Network Video Recorder"@en	0
+COL title VAL  "Jabra Evolve 20 UC cuffia mono per Skype for Business"@en	COL title VAL  "Jabra Evolve 20 MS mono - Headset - on-ear - wired - USB"@en	1
+COL title VAL  "24-Port 10/100 PoE+ Managed Switch with Gigabit Uplinks - SF300-24PP-K9-NA"@en	COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (Refurb)"@en	0
+COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	COL title VAL  "CISCO SG500-52 52-PORT GIGABIT STACKABLE"@en	0
+COL title VAL  "SG350-10SFP 10-Port Gigabit Managed SFP Switch"@en	COL title VAL  "D-Link 5-Port Gigabit Desktop Switch (DGS-1005A)"@af	0
+COL title VAL  "NVR Hikvision IP 8 canale DS-7608NI-K2"@en	COL title VAL  "Hikvision DS-7608NI-K2 Network Video Recorder 8-channels"@en	1
+COL title VAL  "Cisco SG350-10SFP-K9 Switch"@en	COL title VAL  "SG350-10SFP 10-Port Gigabit Managed SFP Switch"@en	1
+COL title VAL  "24-Port 10/100 PoE+ Managed Switch with Gigabit Uplinks - SF300-24PP-K9-NA"@en	COL title VAL  "Cisco SF110-24 24-Port 10/100 Switch"@en	0
+COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (Refurb)"@en	COL title VAL  "CISCO SG500-52 52-PORT GIGABIT STACKABLE"@en	1
+COL title VAL  "Audio-Technica ATH-AD900X Headphones"@en	COL title VAL  "Audio Technica ATH-SR50BT Wireless Headphones - Black"@en	0
+COL title VAL  "CISCO - Catalyst 3850 24 Port PoE IP Svcs"@en	COL title VAL  "Cisco Catalyst 3650-48FQM-S Switch"@en	0
+COL title VAL  "Langsdom Mijiaer JM21 In ear Earphones For Phone iPhone Huawei Xiaomi Headsets Wired Earphone Earbuds Earpiece fone de ouvido"@en	COL title VAL  "Langsdom JM21 In-ear Earphone Colorful Headset Hifi Earbuds Bass Earphones for Phone Ear Phones fone de ouvido Dropshipping"@en	1
+COL title VAL  "Casti Hi-Fi Audio-Technica ATH-AD900X"@it	COL title VAL  "Audio-Technica ATH-AD900X Headphones"@en	1
+COL title VAL  "StarTech.com 4 Port Gigabit PoE+ Injector"@en	COL title VAL  "Hikvision Web-Managed PoE Switch:24x100M, 2x1000M Combo Port"@en	0
+COL title VAL  "2s 0.7 Mesh Nautilus GT"@en	COL title VAL  "Aspire Nautilus XS Replacement Coils"@fr	0
+COL title VAL  "Audio Technica - ATH-M50XBT Wireless Over-the-Ear Headphones - Black"@en	COL title VAL  "Audio-Technica ATH-AD900X Headphones"@en	0
+COL title VAL  "Jabra Evolve 20 UC cuffia mono per Skype for Business"@en	COL title VAL  "Catalyst 4500-X 16 Port 10G IP Base, Front-to-Back, No P/S"@en	0
+COL title VAL  "16 Channel Embedded Plug & Play NVR - I2"@en	COL title VAL  "Hikvision DS-7616NI-I2-16P 16 Channel Network Video Recorder"@en	1
+COL title VAL  "Hikvision 24 Port POE Switch with 2 Combo Ports"@en	COL title VAL  "WS-C3850-24XS-E - 24 Port Switch"@en	0
+COL title VAL  "Cisco SG350-10SFP-K9 Switch"@en	COL title VAL  "Cisco Industrial Ethernet 3000 Series"@en	0
+COL title VAL  "Aspire Nautilus AIO Replacement Pod"@fr	COL title VAL  "Aspire Aspire Nautilus BVC Coils"@fr	0
+COL title VAL  "Hikvision DS-7608NI-K2 Network Video Recorder 8-channels"@en	COL title VAL  "Hikvision DS-7616NI-I2-16P 16 Channel Network Video Recorder"@en	0
+COL title VAL  "DS-7604NI-K1-4P Hikvision 4 channel NVR 8MP 4 PoE"@en	COL title VAL  "DS-9632NI-I8 12MP 32 Channel 8 SATA NVR"@it	0
+COL title VAL  "Casti Hi-Fi Audio-Technica ATH-AD900X"@it	COL title VAL  "Audio Technica Headphones ATH-R70X Black"@en	0
+COL title VAL  "SMOK TFV12 Prince Dual Mesh Coil (3-Pack)"@en	COL title VAL  "Smok TFV12 Prince Dual Mesh Coil"@en	1
+COL title VAL  "DS-7604NI-K1-4P Hikvision 4 channel NVR 8MP 4 PoE"@en	COL title VAL  "HIKVISION DS-7604NI-K1-4P 8 MEGAPIXEL (8MP) IP-POE 4 CHANNEL NVR"@en	1
+COL title VAL  "Hikvision Embedded 4K NVR DS-9632NI-I8 32Channel Network Video Recorde Up to 12 Megapixels resolution recording English Version Can Be Update"@en	COL title VAL  "Hikvision DS-7616NI-I2-16P 16 Channel Network Video Recorder"@en	0
+COL title VAL  "WS-C3850-24XS-ECisco Catalyst 3850 24 Port 10G Fiber Switch IP Services"@en	COL title VAL  "CISCO - Catalyst 3850 24 Port PoE IP Svcs"@en	0
+COL title VAL  "DS-9632NI-I8 12MP 32 Channel 8 SATA NVR"@it	COL title VAL  "Hikvision Embedded 4K NVR DS-9632NI-I8 32Channel Network Video Recorde Up to 12 Megapixels resolution recording English Version Can Be Update"@en	1
+COL title VAL  "Switch 9P 10/100 8P Poe"@en	COL title VAL  "Tenda TEF1109P-8-63W Fast Ethernet (10/100) Black Power over Ethernet (PoE)"@en	1
+COL title VAL  "24-Port 10/100 PoE+ Managed Switch with Gigabit Uplinks - SF300-24PP-K9-NA"@en	COL title VAL  "Switch 9P 10/100 8P Poe"@en	0
+COL title VAL  "Smok TFV12 Prince Dual Mesh Coil"@en	COL title VAL  "2s 0.7 Mesh Nautilus GT"@en	0
+COL title VAL  "2s 0.7 Mesh Nautilus GT"@en	COL title VAL  "Aspire Aspire Nautilus BVC Coils"@fr	1
+COL title VAL  "Nautilus XS Coils by Aspire"@en	COL title VAL  "Aspire Nautilus AIO Replacement Pod"@fr	0
+COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	COL title VAL  "ROTEADOR TP-LINK TL-WR941HP WIRELESS N 450MBPS - TPL0500"@en	0
+COL title VAL  "Audio-Technica ATH SR50BT #demo"@es	COL title VAL  "Casti Hi-Fi Audio-Technica ATH-AD900X"@it	0
+COL title VAL  "Hikvision 24 Port POE Switch with 2 Combo Ports"@en	COL title VAL  "MikroTik RB260GSP - Desktop PoE Switch with 5 Gb and 1 SFP Port"@en	0
+COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	COL title VAL  "APC Smart-UPS RM 1000VA USB & Serial - UPS - 640 Watt - 1000 VA"@de	0
+COL title VAL  "StarTech.com 4 Port Gigabit PoE+ Injector"@en	COL title VAL  "4-Port Gigabit Midspan - PoE+ Injector - 802.3at/af"@en	1
+COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	COL title VAL  "Switch 9P 10/100 8P Poe"@en	0
+COL title VAL  "CISCO1921-T1SEC/K9 - Cisco 1921 Router - Refurb'd"@en	COL title VAL  "IE-2000-4TS-G-B - Cisco Industrial Ethernet 2000 Switch - Refurb'd"@en	0
+COL title VAL  "Jabra Evolve 20 MS mono - Headset - on-ear - wired - USB"@en	COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	0
+COL title VAL  "Cisco SF110-24 24-Port 10/100 Switch"@en	COL title VAL  "Tenda TEF1109P-8-63W Fast Ethernet (10/100) Black Power over Ethernet (PoE)"@en	0
+COL title VAL  "JABRA Evolve 30 II UC USB - Stereo"@en	COL title VAL  "JABRA - EVOLVE 30 II UC STEREO USB HEADB NOISE CANCEL USB"@en	1
+COL title VAL  "Langsdom Mijiaer JM21 In ear Earphones For Phone iPhone Huawei Xiaomi Headsets Wired Earphone Earbuds Earpiece fone de ouvido"@en	COL title VAL  "Audio-Technica ATH-R70X Open Back Studio Headphones"@en	0
+COL title VAL  "IE-2000-16TC-G-L Cisco Industrial Ethernet 2000 Switch (New)"@en	COL title VAL  "IE-2000-4TS-G-B - Cisco Industrial Ethernet 2000 Switch - Refurb'd"@en	0
+COL title VAL  "Striker 4 Fishfinder with Transducer - Standard"@de	COL title VAL  "Garmin STRIKER Plus 7sv with Transducer"@en	0
+COL title VAL  "Cisco WS-C3560X-48T-S Catalyst 3560X 48 Port Data IP Base Switch w/ 1x 350W PS"@en	COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	0
+COL title VAL  "Garmin echoMAP(tm) Plus 43cv"@en	COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	0
+COL title VAL  "Cisco SG350-10SFP-K9 Switch"@en	COL title VAL  "CISCO1921-T1SEC/K9 - Cisco 1921 Router - Refurb'd"@en	0
+COL title VAL  "WS-C3650-8X24UQ-L - Cisco Catalyst 3650 Network Switch - Refurb'd"@en	COL title VAL  "WS-C3650-48FQ-S Cisco Catalyst 3650 48 Port Full PoE 4x10G Uplink IP Base10/100/1000Base-T"@en	0
+COL title VAL  "Garmin STRIKER Plus 7sv with Transducer"@en	COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	1
+COL title VAL  "Casti Audio-Technica ATH-M50xBT"@en	COL title VAL  "Audio Technica Headphones ATH-R70X Black"@en	0
+COL title VAL  "Striker 4 Fishfinder with Transducer - Standard"@de	COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	0
+COL title VAL  "Jabra EVOLVE 30 II Mono Headset - For Microsoft Lync"@en	COL title VAL  "Langsdom JM21 In-ear Earphone Colorful Headset Hifi Earbuds Bass Earphones for Phone Ear Phones fone de ouvido Dropshipping"@en	0
+COL title VAL  "WS-C2960-8TC-L Cisco Catalyst 2960 8 10/100 + 1 T/SFP LAN Base Image. New Factory Sealed."@en	COL title VAL  "Cisco Catalyst 2960-XR | WS-C2960XR-24PS-I Catalyst 2960XR 24 port 10/100/1000 PoE+ 370W, 4 x 1G SFP, IP Lite"@en	0
+COL title VAL  "Audio Technica ATH-SR50BT Wireless Headphones - Black"@en	COL title VAL  "Audio-Technica ATH SR50BT #demo"@es	1
+COL title VAL  "24-Port 10/100 PoE+ Managed Switch with Gigabit Uplinks - SF300-24PP-K9-NA"@en	COL title VAL  "SF110-24-NA - Cisco SF110-24 Unmanaged Small Business Switch, 24 Port 10/100 - Refurb'd"@en	0
+COL title VAL  "Garmin echoMAP(tm) Plus 43cv"@en	COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	0
+COL title VAL  "Evolve 80 MS, Stereo, USB-C"@en	COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	0
+COL title VAL  "Jabra Evolve 20 MS mono - Headset - on-ear - wired - USB"@en	COL title VAL  "Jabra EVOLVE 30 II Mono Headset - For Microsoft Lync"@en	0
+COL title VAL  "JABRA Evolve 30 II UC USB - Stereo"@en	COL title VAL  "Jabra Evolve 20 UC cuffia mono per Skype for Business"@en	0
+COL title VAL  "IE-2000-16TC-G-L Cisco Industrial Ethernet 2000 Switch (New)"@en	COL title VAL  "IE-2000-4TS-G-B Cisco Industrial Ethernet 2000 Switch (Refurb)"@en	0
+COL title VAL  "IE-2000-4TS-G-B Cisco Industrial Ethernet 2000 Switch (Refurb)"@en	COL title VAL  "CISCO IE-3000-4TC Switch"@en	0
+COL title VAL  "Garmin STRIKER 4 Fishfinder Worldwide Version w/77/200kHz - 4-Pin Transducer w/Transom & Trolling Motor Mounts"@en	COL title VAL  "Striker 4 Fishfinder with Transducer - Standard"@de	0
+COL title VAL  "Nautilus AIO Pod By Aspire"@en	COL title VAL  "Aspire Nautilus AIO Replacement Pod"@fr	1
+COL title VAL  "WS-C3850-24P-E Cisco Catalyst 3850 Network Switch (Refurb)"@en	COL title VAL  "WS-C3650-48FQM-S Cisco Catalyst 3650 Network Switch (Refurb)"@en	0
+COL title VAL  "StarTech.com 4 Port Gigabit PoE+ Injector"@en	COL title VAL  "2s 0.7 Mesh Nautilus GT"@en	0
+COL title VAL  "TP-Link Archer-VR400 AC1200 VDSL/ADSL Modem Router"@de	COL title VAL  "ROTEADOR TP-LINK TL-WR941HP WIRELESS N 450MBPS - TPL0500"@en	0
+COL title VAL  "Switch 9P 10/100 8P Poe"@en	COL title VAL  "US-8-150WUbiquiti UniFi Switch, 8 ports, 150W"@en	0
+COL title VAL  "Jabra Evolve 40 MS Stereo Headset"@en	COL title VAL  "JABRA - EVOLVE 30 II UC STEREO USB HEADB NOISE CANCEL USB"@en	0
+COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	COL title VAL  "Striker Plus 5cv, Worldwide w/GT20"@de	1
+COL title VAL  "Cisco Industrial Ethernet 3000 Series"@en	COL title VAL  "CISCO IE-3000-4TC Switch"@en	1
+COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	COL title VAL  "WS-C3850-24XS-E - 24 Port Switch"@en	0
+COL title VAL  "APC Smart-UPS RM 1000VA USB & Serial - UPS - 640 Watt - 1000 VA"@de	COL title VAL  "GarminStriker Fishfinder w/Gps & Crirp Sonar"@de	0
+COL title VAL  "4-Port Gigabit Midspan - PoE+ Injector - 802.3at/af"@en	COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	0
+COL title VAL  "DS-9632NI-I8 12MP 32 Channel 8 SATA NVR"@it	COL title VAL  "16 Channel Embedded Plug & Play NVR - I2"@en	0
+COL title VAL  "WS-C3650-48FQ-SCisco Catalyst 3650 48 Port Full PoE 4x10G Uplink IP Base"@en	COL title VAL  "WS-C3850-24XS-ECisco Catalyst 3850 24 Port 10G Fiber Switch IP Services"@en	0
+COL title VAL  "Cisco Catalyst 4500-X - switch - 16 ports - rack-mountable"@en	COL title VAL  "WS-C2960-8TC-L Cisco Catalyst 2960 Network Switch (Refurb)"@en	0
+COL title VAL  "SG350-10SFP 10-Port Gigabit Managed SFP Switch"@en	COL title VAL  "24-Port 10/100 PoE+ Managed Switch with Gigabit Uplinks - SF300-24PP-K9-NA"@en	0
+COL title VAL  "IE-2000-4TS-G-B Cisco Industrial Ethernet 2000 Switch (Refurb)"@en	COL title VAL  "Cisco Industrial Ethernet 3000 Series"@en	0
+COL title VAL  "WS-C3650-8X24UQ-L - Cisco Catalyst 3650 Network Switch - Refurb'd"@en	COL title VAL  "IE-2000-4TS-G-B - Cisco Industrial Ethernet 2000 Switch - Refurb'd"@en	0
+COL title VAL  "Cisco Catalyst 2960-XR | WS-C2960XR-24PS-I Catalyst 2960XR 24 port 10/100/1000 PoE+ 370W, 4 x 1G SFP, IP Lite"@en	COL title VAL  "CISCO - Catalyst 3850 24 Port PoE IP Svcs"@en	0
+COL title VAL  "Cisco Industrial Ethernet 3000 Series"@en	COL title VAL  "IE-2000-16TC-G-L Cisco Industrial Ethernet 2000 Switch (New)"@en	0
+COL title VAL  "WS-C3650-8X24UQ-L - 3650 Switch"@en	COL title VAL  "WS-C3650-48FQM-S Cisco Catalyst 3650 Network Switch (Refurb)"@en	0
+COL title VAL  "MikroTik RB260GSP, 5xGigabit, SFP, PoE out for four ports, SwOS"@en	COL title VAL  "Catalyst 4500-X 16 Port 10G IP Base, Front-to-Back, No P/S"@en	0
+COL title VAL  "WS-C2960-8TC-L Cisco Catalyst 2960 Network Switch (Refurb)"@en	COL title VAL  "WS-C3850-48UW-S Cisco Catalyst 3850 Network Switch Bundle (Refurb)"@en	0
+COL title VAL  "Audio Technica Headphones ATH-R70X Black"@en	COL title VAL  "Audio Technica - ATH-M50XBT Wireless Over-the-Ear Headphones - Black"@en	0
+COL title VAL  "IE-2000-16TC-G-L Cisco Industrial Ethernet 2000 Switch (New)"@en	COL title VAL  "Cisco SG350-10SFP-K9 Switch"@en	0
+COL title VAL  "JBL E45Bt On-Ear Black"@en	COL title VAL  "Casti JBL E45BT, Bluetooth, On-Ear, Microfon, negru"@en	1
+COL title VAL  "Audio-Technica ATH-AD900X Headphones"@en	COL title VAL  "Audio-Technica ATH SR50BT #demo"@es	0
+COL title VAL  "Hikvision DS-7608NI-K2 Network Video Recorder 8-channels"@en	COL title VAL  "DS-9632NI-I8 12MP 32 Channel 8 SATA NVR"@it	0
+COL title VAL  "JABRA - EVOLVE 40 MS Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	0
+COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	COL title VAL  "D-Link DGS-1005A 5-Port Gigabit Desktop Switch"@de	0
+COL title VAL  "Jabra Evolve 20 UC cuffia mono per Skype for Business"@en	COL title VAL  "Jabra EVOLVE 30 II Mono Headset - For Microsoft Lync"@en	0
+COL title VAL  "Cisco Catalyst 4500-X - switch - 16 ports - rack-mountable"@en	COL title VAL  "CISCO SG500-52 52-PORT GIGABIT STACKABLE"@en	0
+COL title VAL  "Casti Audio-Technica ATH-M50xBT"@en	COL title VAL  "Audio Technica ATH-SR50BT Wireless Headphones - Black"@en	0
+COL title VAL  "24-Port 10/100 PoE+ Managed Switch with Gigabit Uplinks - SF300-24PP-K9-NA"@en	COL title VAL  "Cisco Small Business SF300-24PP - switch - 24 ports - managed - rack-mounta"@en	1
+COL title VAL  "Garmin echoMAP(tm) Plus 43cv"@en	COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	0
+COL title VAL  "Garmin echoMAP(tm) Plus 43cv"@en	COL title VAL  "Garmin ECHOMAP Plus 43cv with GT20 Transducer Fish Finder/Chartplotter Combo"@en	1
+COL title VAL  "WS-C2960-8TC-L Cisco Catalyst 2960 8 10/100 + 1 T/SFP LAN Base Image. New Factory Sealed."@en	COL title VAL  "Ie 16 10/100 2 Fe Sfp+2 T/sfp"@en	0
+COL title VAL  "Catalyst 4500-X 16 Port 10G IP Base, Front-to-Back, No P/S"@en	COL title VAL  "WS-C3850-48UW-S - CATALYST 3850 48PORT UPOE WITH 5 AP LICENSES IP BASE"@en	0
+COL title VAL  "D-Link DGS-1005A 5-Port Gigabit Desktop Switch"@de	COL title VAL  "1 Port Gigabit PoE Injector - DPE-301GI"@en	0
+COL title VAL  "MikroTik RB260GSP - Desktop PoE Switch with 5 Gb and 1 SFP Port"@en	COL title VAL  "D-Link DGS-1005A 5-Port Gigabit Desktop Switch"@de	0
+COL title VAL  "Hikvision Web-Managed PoE Switch:24x100M, 2x1000M Combo Port"@en	COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	0
+COL title VAL  "CISCO - Catalyst 3850 24 Port PoE IP Svcs"@en	COL title VAL  "WS-C3650-48FQ-SCisco Catalyst 3650 48 Port Full PoE 4x10G Uplink IP Base"@en	0
+COL title VAL  "APC Replacement Battery Cartridge #17 UPS Battery"@en	COL title VAL  "APC Smart-UPS RM 1000VA USB & Serial - UPS - 640 Watt - 1000 VA"@de	0
+COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	COL title VAL  "Garmin ECHOMAP Plus 43cv with GT20 Transducer Fish Finder/Chartplotter Combo"@en	0
+COL title VAL  "StarTech.com 4 Port Gigabit PoE+ Injector"@en	COL title VAL  "CISCO SG500-52 52-PORT GIGABIT STACKABLE"@en	0
+COL title VAL  "IE-2000-4TS-G-B - Cisco Industrial Ethernet 2000 Switch - Refurb'd"@en	COL title VAL  "WS-C3650-48FQM-S Cisco Catalyst 3650 Network Switch (Refurb)"@en	0
+COL title VAL  "Cisco WS-C3560X-48T-S Catalyst 3560X 48 Port Data IP Base Switch w/ 1x 350W PS"@en	COL title VAL  "WS-C3560X-48T-S For Sale | Low Price | New In Box"@en	1
+COL title VAL  "HIKVISION DS-7604NI-K1-4P 8 MEGAPIXEL (8MP) IP-POE 4 CHANNEL NVR"@en	COL title VAL  "Hikvision DS-7608NI-K2 Network Video Recorder 8-channels"@en	0
+COL title VAL  "1 Port Gigabit PoE Injector - DPE-301GI"@en	COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	1
+COL title VAL  "CISCO1921-T1SEC/K9 Cisco 1921 Router (New)"@en	COL title VAL  "Cisco SG350-10SFP-K9 Switch"@en	0
+COL title VAL  "WS-C3650-48FQM-S Cisco Catalyst 3650 Network Switch (Refurb)"@en	COL title VAL  "WS-C3650-48FQ-S Cisco Catalyst 3650 48 Port Full PoE 4x10G Uplink IP Base10/100/1000Base-T"@en	0
+COL title VAL  "Casti Hi-Fi Audio-Technica ATH-AD900X"@it	COL title VAL  "Garmin ECHOMAP Plus 43cv with GT20 Transducer Fish Finder/Chartplotter Combo"@en	0
+COL title VAL  "Audio Technica - ATH-M50XBT Wireless Over-the-Ear Headphones - Black"@en	COL title VAL  "Audio Technica ATH-SR50BT Wireless Headphones - Black"@en	0
+COL title VAL  "D-Link 5-Port Gigabit Desktop Switch (DGS-1005A)"@af	COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	0
+COL title VAL  "Cisco Catalyst 3650-48FQM-S Switch"@en	COL title VAL  "Cisco Catalyst 4500-X - switch - 16 ports - rack-mountable"@en	0
+COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (Refurb)"@en	COL title VAL  "Cisco SG350-10SFP-K9 Switch"@en	0
+COL title VAL  "Garmin STRIKER Plus 7sv with Transducer"@en	COL title VAL  "Garmin STRIKER 4 Fishfinder Worldwide Version w/77/200kHz - 4-Pin Transducer w/Transom & Trolling Motor Mounts"@en	0
+COL title VAL  "Hikvision 24 Port POE Switch with 2 Combo Ports"@en	COL title VAL  "24-Port 10/100 PoE+ Managed Switch with Gigabit Uplinks - SF300-24PP-K9-NA"@en	0
+COL title VAL  "Cisco SG350-10SFP-K9 Switch"@en	COL title VAL  "Cisco Catalyst 3650-48FQM-S Switch"@en	0
+COL title VAL  "Hikvision 24 Port POE Switch with 2 Combo Ports"@en	COL title VAL  "Cisco SF110-24 24-Port 10/100 Switch"@en	0
+COL title VAL  "N 300Mbps TP-LINK TL-WR841N Wireless Router (QHAB840RW0)"@en	COL title VAL  "ROTEADOR TP-LINK TL-WR941HP WIRELESS N 450MBPS - TPL0500"@en	0
+COL title VAL  "WS-C3650-8X24UQ-L - Cisco Catalyst 3650 Network Switch - Refurb'd"@en	COL title VAL  "WS-C3650-48FQM-S Cisco Catalyst 3650 Network Switch (Refurb)"@en	0

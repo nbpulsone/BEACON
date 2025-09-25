@@ -1,0 +1,184 @@
+COL title VAL  "Sony E 30mm f/3.5 Macro Lens"@en	COL title VAL  "Canon BG-E11 Battery Grip for EOS 5D Mark III, 5DS, & 5DS R"@en	0
+COL title VAL  "Full Frame E-Mount FE400mm F2.8 G Master OSS Lens"@de	COL title VAL  "Sony FE 400mm F2.8 GM OSS objective"@en	1
+COL title VAL  "Sony E-Mount Zeiss 35mm f2.8 FE"@de	COL title VAL  "Sony FE 50mm F1.8"@en	0
+COL title VAL  "Canon EOS RP Mirrorless Digital Camera with 24-240mm Lens"@en	COL title VAL  "Nikon D750 Body with 24-120mm VR lens"@en	0
+COL title VAL  "Sony SEL85F18 85mm F/1.8-22 Medium-Telephoto Fixed Prime Camera Lens, Black"@en	COL title VAL  "Sony SEL 28mm 2.0 FE E-Mount"@en	0
+COL title VAL  "GoPro Dual Battery Charger with Battery for HERO4"@en	COL title VAL  "GoPro Dual Battery Charger (for HERO3+/HERO3) Price in Pakistan"@en	1
+COL title VAL  "Nikon Af-s Nikkor 20mm F/1.8g Ed Lens"@da	COL title VAL  "Nikon AF-S NIKKOR 50MM F1.8G"@de	0
+COL title VAL  "Sony SEL FE 50mm f/1.8 E-Mount Lens"@en	COL title VAL  "Sony SEL35F28Z Lens - 35 mm - f/2.8 Sonnar T* FE ZA - Sony E-mount"@en	0
+COL title VAL  "Nikon D750 + 24-120mm f/4 ED VR | 2 Years Warranty"@en	COL title VAL  "Nikon AF-S NIKKOR 24-120mm f/4G ED VR Lens"@de	0
+COL title VAL  "AF-S NIKKOR 20mm f/1.8G ED"@de	COL title VAL  "Nikon Af-s Nikkor 20mm F/1.8g Ed Lens"@da	1
+COL title VAL  "Canon EF 100mm f/2.8L IS USM Macro Lens for Canon Digital SLR Cameras"@en	COL title VAL  "Nikon AF-S Nikkor 50mm f/1.8G Camera Lens"@da	1
+COL title VAL  "1 Fujifilm Instax Square Film white frame"@en	COL title VAL  "Fujifilm Instax Square Instant Film - 10 Photos"@en	1
+COL title VAL  "Full Frame E-Mount FE 35mm F1.8 Wide-angle Prime Lens"@en	COL title VAL  "FE 85mm F1.8 Full-frame E-mount Fast Prime Lens - SEL85F18"@fr	0
+COL title VAL  "Hikvision MP Outdoor IR DS-2DE5225IW-AE"@en	COL title VAL  "DS-1273ZJ-140 Outdoor Indoor Wall Mount Bracket for Hikvision Dome Camera"@en	0
+COL title VAL  "Canon EF 100mm f/2.8L IS USM Macro Lens for Canon Digital SLR Cameras"@en	COL title VAL  "Nikon 50mm AF-S f1.8G Nikkor Lens"@da	1
+COL title VAL  "Sony FE 50mm f/1.8 Standard Prime Lens"@en	COL title VAL  "Sony FE 35mm f/1.8 Lens"@en	0
+COL title VAL  "Nikon D750 Body with 24-120mm VR lens"@en	COL title VAL  "Nikon Z 6 with 24-70mm f/4 S Lens"@en	0
+COL title VAL  "Sony FE 85mm F1.8"@en	COL title VAL  "Sony SEL35F18F NEX FF lens 35mm F1.8"@da	0
+COL title VAL  "SONY Sony Lens FE 85mm F1.8 II"@en	COL title VAL  "Sony FE 50mm F1.8"@en	0
+COL title VAL  "SEL85F18 85Mm F/1.8-22 Medium-Telephoto Fixed Prime Camera Lens, Black"@en	COL title VAL  "Sony FE 85mm F1.8 Lens"@en	1
+COL title VAL  "Nikon D3500 DX DSLR Camera with 18-55mm VR Lens"@en	COL title VAL  "Nikon D3500 Digital Camera with 18-55mm Lens"@en	1
+COL title VAL  "Sony FE 50mm F1.8"@en	COL title VAL  "Fujifilm XF 8-16mm F2.8 R LM WR schwarz"@de	0
+COL title VAL  "Nikon AF-S Nikkor 50mm f/1.8G Camera Lens"@da	COL title VAL  "Canon EF100mm f/2.8L Macro IS USM"@it	1
+COL title VAL  "Nikon AF-S Nikkor 50mm f/1.8G Camera Lens"@da	COL title VAL  "Nikon 50mm f1.8G AF-S NIKKOR Lens"@de	1
+COL title VAL  "Sony SEL 28mm 2.0 FE E-Mount"@en	COL title VAL  "Sony SEL FE 85mm f/1.8 E-Mount Lens"@en	0
+COL title VAL  "Full Frame E-Mount FE 24-240mm F3.5-6.3 OSS Lens"@de	COL title VAL  "SONY FE 24-240mm F3.5-6.3 OSS Lens - SEL24240"@de	1
+COL title VAL  "Canon EF 100mm f/2.8L Macro IS USM Lens"@it	COL title VAL  "Nikon AF-S Nikkor 50mm f/1.8G Camera Lens"@da	1
+COL title VAL  "1 Fujifilm Instax Square Film Black Frame"@sv	COL title VAL  "Instax Mini Rainbow Film 10 Pack"@en	0
+COL title VAL  "AF-S 20MM F1.8G ED"@de	COL title VAL  "Nikon AF-S NIKKOR 50MM F1.8G"@de	0
+COL title VAL  "Nikon AF-S NIKKOR 20mm f/1.8G ED"@de	COL title VAL  "Nikon 50mm f1.8G AF-S NIKKOR Lens"@de	0
+COL title VAL  "Canon EF 400mm f/2.8L IS III USM"@en	COL title VAL  "EF 200mm f/2.8L II USM, CANON AUTHORIZED USA DEALER WARRANTY INCLUDED"@en	0
+COL title VAL  "Canon EF 70-200mm f/4L IS USM Telephoto Zoom Lens"@en	COL title VAL  "Canon EF-M 11-22mm f/4-5.6 IS STM Lens"@en	0
+COL title VAL  "DJI Inspire 2 | Matrice 200 | DJI Matrice 210 Charging Hub | Spare Part 8"@en	COL title VAL  "Sony FE 85mm F1.8 | 2 Years Warranty"@en	0
+COL title VAL  "Fujifilm - Instax Square SQ10 Refill Film - White (Pack of 10)"@en	COL title VAL  "Fujifilm Instax mini Rainbow film 10 pack"@en	0
+COL title VAL  "Hikvision DS-1273ZJ-140 Wall Mount Bracket"@en	COL title VAL  "Hikvision DS-1273ZJ-140 Bracket"@en	1
+COL title VAL  "Instax Mini Rainbow Film 10 Pack"@en	COL title VAL  "Fuji Instax Mini Monochrome BLACK AND WHITE Instant Film - 10 Shot Pack"@de	0
+COL title VAL  "Canon EF 100mm f/2.8L Macro IS USM Lens"@it	COL title VAL  "Nikon AF-S NIKKOR 50MM F1.8G"@de	1
+COL title VAL  "Sonnar T* Full Frame E-Mount FE 35mm F2.8 Zeiss Lens"@de	COL title VAL  "FE 85MM F/1.8 TELEPHOTO PRIME LENS FOR E-MOUNT CAMERAS"@en	0
+COL title VAL  "Canon EF 28 f/2,8 IS USM"@en	COL title VAL  "Canon 28mm f2.8 IS USM EF Lens"@en	1
+COL title VAL  "Canon EF 100mm F2.8 L IS USM Macro"@en	COL title VAL  "Fujifilm XF 8-16mm F2.8 R LM WR schwarz"@de	0
+COL title VAL  "Canon EF 28 mm/2,8 IS USM"@en	COL title VAL  "Canon EF 28mm f/2.8 IS USM"@en	1
+COL title VAL  "Nikon EN-EL12 LI-ION BATTERY"@tl	COL title VAL  "Nikon EN-EL23 Rechargeable Li-ion Battery for P600/610 and P900"@en	0
+COL title VAL  "Canon PP201 A4 Paper 20 Sheets"@en	COL title VAL  "Canon Pro Platinum Photo Paper 20Sh"@en	0
+COL title VAL  "Nikon AF-S Nikkor 400mm f2.8 E FL ED VR | 2 Years Warranty"@no	COL title VAL  "Nikon AF-S 24-70mm f2.8E ED VR"@et	0
+COL title VAL  "Canon Photo Paper Pro Platinum -100 x 150 mm - 300 g/m2 - 20 sheet(s)"@en	COL title VAL  "Canon PT-101 Photo Paper 10x15cm 20 sheets"@en	1
+COL title VAL  "Instax SQUARE Film 20 shot pack, white border"@en	COL title VAL  "Fujifilm Instax Mini Mono Black & White (10 sheets) Film"@en	0
+COL title VAL  "Sony E 30mm f/3.5 Macro Lens"@en	COL title VAL  "Nikon Af-s Nikkor 20mm F/1.8g Ed Lens"@da	0
+COL title VAL  "Nikon AF-S Nikkor 70-200mm f/2.8E FL ED VR Telephoto Lens"@no	COL title VAL  "Nikon AF-S NIKKOR 24-120mm f/4G ED VR Lens"@de	0
+COL title VAL  "Sony 600mm F4 G-Master OSS Full Frame E-Mount Lens"@en	COL title VAL  "RF 24-105mm F4-7.1 IS STM Standard Zoom Lens for RF Mount Cameras 4111C002"@en	0
+COL title VAL  "Canon EF 100mm f/2.8L Macro IS USM Lens"@it	COL title VAL  "Nikon AF-S 50mm f1.8GLens"@da	1
+COL title VAL  "SEL85F18 85Mm F/1.8-22 Medium-Telephoto Fixed Prime Camera Lens, Black"@en	COL title VAL  "Sony SEL FE 85mm f/1.8 E-Mount Lens"@en	1
+COL title VAL  "Canon PT-101 Photo Paper 10x15cm 20 sheets"@en	COL title VAL  "Canon Photo Paper Pro Platinum - photo paper - 20 sheet(s)"@en	1
+COL title VAL  "AF-S Nikkor 50mm F/1.8G Lens"@da	COL title VAL  "Nikon NIKKOR AF-S 20MM F/1.8G ED"@de	0
+COL title VAL  "Sony - FE 50mm F1.8 Standard Lens (SEL50F18F)"@en	COL title VAL  "FE 50MM F/1.8 STANDARD PRIME LENS FOR E-MOUNT CAMERAS"@en	1
+COL title VAL  "SONY FE 24-240mm F3.5-6.3 OSS Lens - SEL24240"@de	COL title VAL  "Canon Papir Photo+ Glossy II PP-201 A4 20-Ark 275g"@en	0
+COL title VAL  "FE 24-240MM F/3.5-6.3 OSS FULL-FRAME E-MOUNT TELEPHOTO ZOOM LENS - BLACK"@en	COL title VAL  "Sony SEL FE 24-240mm F3.5-6.3 OSS Buy Online"@en	1
+COL title VAL  "Nikon D7500 DSLR Camera with 18-140mm Lens"@en	COL title VAL  "Nikon Z 6 with 24-70mm f/4 S Lens"@en	0
+COL title VAL  "135mm f/2.0L USM Telephoto Lens for Canon SLR Cameras 2520A004"@en	COL title VAL  "Canon EF 70-200mm f/4L IS USM Telephoto Zoom Lens"@en	0
+COL title VAL  "DJI Inspire 2 | Matrice 200 | DJI Matrice 210 Charging Hub | Spare Part 8"@en	COL title VAL  "DJI Inspire 2 Battery Charging Hub - Part 8"@en	1
+COL title VAL  "Canon PT-101 4"X6" Photo Paper Pro Platinum (20 sheets)"@en	COL title VAL  "Canon 2311B019 Gloss Photo Paper A4 20 Sheets"@en	0
+COL title VAL  "Nikon NIKKOR AF-S 20MM F/1.8G ED"@de	COL title VAL  "Nikon Nikon D3500 DSLR Camera with AF-P DX Nikkor 18-55 f/3.5-5.6G VR Kit"@de	0
+COL title VAL  "Canon Pro Platinum Photo Paper 20Sh"@en	COL title VAL  "Canon Photo Paper Pro Platinum - photo paper - 20 sheet(s)"@en	1
+COL title VAL  "Canon RF 24-240mm F4-6.3 IS USM Lens"@en	COL title VAL  "Sony SEL-24240 FE 24-240mm F3.5-6.3 OSS Lens"@en	0
+COL title VAL  "Canon EF 100mm f/2.8L Macro IS USM Lens"@it	COL title VAL  "Canon EF 100mm f/2.8L IS USM Macro Lens for Canon Digital SLR Cameras"@en	1
+COL title VAL  "1 Fujifilm Instax Square Film Black Frame"@sv	COL title VAL  "Fuji Fuji Instax Square Film 1-Pack"@sq	0
+COL title VAL  "Manfrotto 055 KIT with Ball Head and 200 plate"@en	COL title VAL  "Manfrotto 055 XPRO Aluminium Stativ (3 Segmente) + XPRO Magnesium Kugelkopf 200PL - MK055XPRO3-BHQ2"@it	1
+COL title VAL  "Canon Photo Paper Plus II PP-201 Glossy photo paper"@en	COL title VAL  "Canon Photo Paper Pro Platinum - Photo paper - 100 x 150 mm"@en	0
+COL title VAL  "Canon EF 28 mm/2,8 IS USM"@en	COL title VAL  "Canon EF 28mm 2.8 IS USM"@en	1
+COL title VAL  "Nikon AF-S NIKKOR 20mm f/1.8G ED"@de	COL title VAL  "AF-S 20MM F1.8G ED"@de	1
+COL title VAL  "Nikon AF-S VR Micro NIKKOR 105mm F2.8G Lens"@de	COL title VAL  "Nikon AF-S 24-70mm f2.8E ED VR"@et	0
+COL title VAL  "Sony 600mm F4 G-Master OSS Full Frame E-Mount Lens"@en	COL title VAL  "Sony FE 600mm f/4.0 GM OSS"@en	1
+COL title VAL  "Used Sony FE 24-240mm F3.5-6.3 OSS Lens (#S011852534E)"@en	COL title VAL  "Sony SEL FE 24-240mm F3.5-6.3 OSS Buy Online"@en	1
+COL title VAL  "Canon EF 28mm 2.8 IS USM"@en	COL title VAL  "0000006490| Canon EF 28mm f/2.8 IS USM Lens"@en	1
+COL title VAL  "Canon 2311B019 Gloss Photo Paper A4 20 Sheets"@en	COL title VAL  "Canon Photo Paper Plus II PP-201 Glossy photo paper"@en	1
+COL title VAL  "Nikon AF-S 24-120mm f4G IF ED VR"@de	COL title VAL  "Nikon AF-S NIKKOR 24-120mm f/4G ED VR Lens"@de	1
+COL title VAL  "Canon RF 24-240mm f/4-6.3 IS USM Lens"@en	COL title VAL  "Used Sony FE 24-240mm F3.5-6.3 OSS Lens (#S011852534E)"@en	0
+COL title VAL  "Canon EF-M 11-22mm f/4-5.6 IS STM Lens"@en	COL title VAL  "Canon EF-S 18-55mm f/3.5-5.6 IS II SLR Lens White Box"@en	0
+COL title VAL  "Sony FE 50mm f1.8 Lens"@en	COL title VAL  "EF 24-105mm f/3.5-5.6 IS STM"@da	0
+COL title VAL  "Nikon AF-S NIKKOR 50MM F1.8G"@de	COL title VAL  "Nikon AF-S NIKKOR FX 50mm F1.8G Lens"@de	1
+COL title VAL  "Fujifilm Instax Black Square Film (10 Pack)"@en	COL title VAL  "FujiFilm Instax Square (20 sheets) Film Pack"@en	0
+COL title VAL  "FujiFilm Instax Square (20 sheets) Film Pack"@en	COL title VAL  "Instax SQUARE Film 20 shot pack, white border"@en	1
+COL title VAL  "Canon PT-101 Pro Platinum Photo Paper 4x6" - 20 Sheets"@en	COL title VAL  "Canon Photo Paper Pro Platinum - photo paper - 20 sheet(s)"@en	1
+COL title VAL  "Nikon D5600 DSLR Camera with 18-140mm Lens"@en	COL title VAL  "Nikon D750 Body with 24-120mm VR lens"@en	0
+COL title VAL  "Sony FE 50mm F1.8"@en	COL title VAL  "Sony 85mm f1.8 FE Lens (SEL85F18)"@en	0
+COL title VAL  "Canon Photo Paper Pro Platinum -100 x 150 mm - 300 g/m2 - 20 sheet(s)"@en	COL title VAL  "Canon PP201 A4 Paper 20 Sheets"@en	0
+COL title VAL  "Nikon 20mm f/1.8G ED AF-S NIKKOR - Obiectiv foto DSLR"@en	COL title VAL  "Nikon AF-S Nikkor 50mm f/1.8G Camera Lens"@da	0
+COL title VAL  "Sony SEL FE 35mm f/2.8 ZA Sonnar T* E-Mount Lens"@en	COL title VAL  "Sony SEL 35mm/F2.8 FE Full Frame"@en	1
+COL title VAL  "FE 85mm F1.8 Full-frame E-mount Fast Prime Lens - SEL85F18"@fr	COL title VAL  "Sony FE 85mm F1.8 | 2 Years Warranty"@en	1
+COL title VAL  "Sony SEL FE 85mm f/1.8 E-Mount Lens"@en	COL title VAL  "FE 85mm F1.8 Full-frame E-mount Fast Prime Lens - SEL85F18"@fr	1
+COL title VAL  "Fuji Fuji Instax Square Film 1-Pack"@sq	COL title VAL  "Fuji Instax Mini Monochrome BLACK AND WHITE Instant Film - 10 Shot Pack"@de	0
+COL title VAL  "Nikon Nikon D7500 DX-format Digital SLR w/ 18-140mm VR Lens (Black)"@de	COL title VAL  "Nikon D5600 DSLR Camera with 18-140mm Lens"@en	0
+COL title VAL  "Fujifilm Instax Square Film - 20 Sheets"@en	COL title VAL  "Fujifilm - Instax Square SQ10 Refill Film - White (Pack of 10)"@en	1
+COL title VAL  "Canon EF 400mm f/2.8L IS III USM Lens"@fr	COL title VAL  "Canon EF 70-200mm f/2.8L USM Lens"@fr	0
+COL title VAL  "Canon EF 100mm F2.8L Macro IS USM + BONUS"@it	COL title VAL  "Canon EF100mm f/2.8L Macro IS USM"@it	1
+COL title VAL  "Manfrotto MK190X Aluminum 3 Section Kit 3w Head"@en	COL title VAL  "Manfrotto 055 KIT with Ball Head and 200 plate"@en	0
+COL title VAL  "Nikon AF-S Nikkor 50mm f/1.8G Camera Lens"@da	COL title VAL  "Nikon D3500 Digital Camera with 18-55mm Lens"@en	0
+COL title VAL  "Fujifilm Instax Square Film (Plain 10's)"@fr	COL title VAL  "Fujifilm Instax Square Instant Film - 10 Exposures"@fr	1
+COL title VAL  "Fujifilm Instax Square Instant Film - Plain White (10 Shots)"@en	COL title VAL  "Fujifilm Instax Square Film Twin Pack 20 Shots"@en	0
+COL title VAL  "Full Frame E-Mount FE400mm F2.8 G Master OSS Lens"@de	COL title VAL  "Canon EF 400mm f/2.8L IS III USM Lens"@fr	0
+COL title VAL  "SONY FE 24-240mm F3.5-6.3 OSS Lens - SEL24240"@de	COL title VAL  "0000005990| Sony E 30mm F3.5 Macro Lens"@en	0
+COL title VAL  "Fujifilm Instax Mini Film Rainbow"@de	COL title VAL  "Fujifilm Instax Square Instant Film - Plain White (10 Shots)"@en	0
+COL title VAL  "Canon RF 24-240mm F4-6.3 IS USM Lens"@en	COL title VAL  "Canon RF 24-240mm f/4-6.3 IS USM Lens"@en	1
+COL title VAL  "Instax Square film Black Frame"@en	COL title VAL  "Fujifilm Instax Black Square Film (10 Pack)"@en	1
+COL title VAL  "Canon Pro Platinum Photo Paper 20Sh"@en	COL title VAL  "Canon PT-101 Pro Platinum Photo Paper 4x6" - 20 Sheets"@en	1
+COL title VAL  "GoPro Dual Battery Charger (for HERO4)"@en	COL title VAL  "CANON BG-E11 Battery Grip for 5D Mark III Camera"@en	0
+COL title VAL  "Sony FE 28mm F/2"@en	COL title VAL  "DJI Inspire 2 - Ladehub (PART8)"@de	0
+COL title VAL  "Sonnar T* Full Frame E-Mount FE 35mm F2.8 Zeiss Lens"@de	COL title VAL  "Sony E-Mount Zeiss 35mm f2.8 FE"@de	1
+COL title VAL  "Canon Photo Paper Pro Platinum - photo paper - 20 sheet(s)"@en	COL title VAL  "Canon Photo Paper Pro Platinum -100 x 150 mm - 300 g/m2 - 20 sheet(s)"@en	1
+COL title VAL  "Sony SEL24240 - zoom lens - 24 mm - 240 mm"@nl	COL title VAL  "SONY FE 24-240mm F3.5-6.3 OSS Lens - SEL24240"@de	1
+COL title VAL  "instax square film 10pk black"@sv	COL title VAL  "Fujifilm Instax Square Film (10 Pack)"@en	0
+COL title VAL  "GoPro Dual Battery Charger (for HERO3+/HERO3) Price in Pakistan"@en	COL title VAL  "GoPro Dual Battery Charger + Battery (for HERO4 Black/HERO4 Silver) Price in Pakistan"@en	1
+COL title VAL  "FujiFilm Instax Square (20 sheets) Film Pack"@en	COL title VAL  "Fujifilm Instax Square Film Black Frame 10 Shots"@en	0
+COL title VAL  "Nikon AF-S 50mm f1.8GLens"@da	COL title VAL  "Nikon 50mm AF-S f1.8G Nikkor Lens"@da	1
+COL title VAL  "SONY Sony Lens FE 85mm F1.8 II"@en	COL title VAL  "SEL85F18 85Mm F/1.8-22 Medium-Telephoto Fixed Prime Camera Lens, Black"@en	1
+COL title VAL  "Sony SEL FE 85mm f/1.8 E-Mount Lens"@en	COL title VAL  "Sony SEL 30mm 3.5 Makro E-Mount"@en	0
+COL title VAL  "FE 24-240MM F/3.5-6.3 OSS FULL-FRAME E-MOUNT TELEPHOTO ZOOM LENS - BLACK"@en	COL title VAL  "SONY FE 24-240mm F3.5-6.3 OSS Lens - SEL24240"@de	1
+COL title VAL  "Nikon AF-S FX 50mm f/1.8 G-Series Nikkor Reflex Lens"@de	COL title VAL  "Canon EF 100mm f/2.8L Macro IS USM Lens"@it	1
+COL title VAL  "Fujifilm XF 8-16mm F2.8 R LM WR schwarz"@de	COL title VAL  "Sony E-Mount Zeiss 35mm f2.8 FE"@de	0
+COL title VAL  "DJI Inspire 2 - Ladehub (PART8)"@de	COL title VAL  "DJI Inspire 2 / Matrice 200 Series TB50/TB55 - Ladehub (PART 8)"@en	1
+COL title VAL  "FE 50MM F/1.8 STANDARD PRIME LENS FOR E-MOUNT CAMERAS"@en	COL title VAL  "FE 85MM F/1.8 TELEPHOTO PRIME LENS FOR E-MOUNT CAMERAS"@en	0
+COL title VAL  "Sony 600mm F4 G-Master OSS Full Frame E-Mount Lens"@en	COL title VAL  "Sony E PZ 18-200mm f/3.5-6.3 OSS Telephoto Lens"@en	0
+COL title VAL  "Nikon NIKKOR AF-S 20MM F/1.8G ED"@de	COL title VAL  "Sony Alpha SEL50F18F FE 50mm f/1.8"@en	0
+COL title VAL  "Sony Sony SEL 35mm f/2.8 FE Full Frame"@en	COL title VAL  "Sony FE 28mm F/2"@en	0
+COL title VAL  "1 Fujifilm Instax Square Film Black Frame"@sv	COL title VAL  "Fujifilm Instax Square Instant Film - Plain White (10 Shots)"@en	0
+COL title VAL  "Canon Photo Paper Pro Platinum - Photo paper - 100 x 150 mm"@en	COL title VAL  "Canon PT-101 4"X6" Photo Paper Pro Platinum (20 sheets)"@en	1
+COL title VAL  "Fujifilm Instax Square Film for SQ10 Hybrid Cameras 20 Shot Pack"@en	COL title VAL  "Fujifilm Instax Square Instant Film - 10 Photos"@en	1
+COL title VAL  "Nikon AF-S NIKKOR 24-120mm f/4G ED VR Lens"@de	COL title VAL  "Nikon Z 6 with 24-70mm f/4 S Lens"@en	0
+COL title VAL  "Nikon AF-S FX 50mm f/1.8 G-Series Nikkor Reflex Lens"@de	COL title VAL  "Nikon 50mm AF-S f1.8G Nikkor Lens"@da	1
+COL title VAL  "Canon EF 100mm F2.8 L IS USM Macro"@en	COL title VAL  "Canon EF 100mm f/2.8L Macro IS USM Lens"@it	0
+COL title VAL  "Fujifilm Instax Square Film - 20 Sheets"@en	COL title VAL  "Fujifilm Instax Square Film (Plain 10's)"@fr	1
+COL title VAL  "Sony FE 85mm F1.8 | 2 Years Warranty"@en	COL title VAL  "Sony FE 28mm F/2"@en	0
+COL title VAL  "Sony FE 24-240 mm f/3.5-6.3 OSS | 2 Years Warranty"@en	COL title VAL  "Sony SEL FE 24-240mm F3.5-6.3 OSS Buy Online"@en	1
+COL title VAL  "Fujifilm - Instax Square SQ10 Refill Film - White (Pack of 10)"@en	COL title VAL  "FUJI FUJI INSTAX SQUARE FILM 10 PACK"@en	1
+COL title VAL  "Sony 30mm f/3.5 Macro Lens"@en	COL title VAL  "SONY Sony FE 28mm f/2 Lens"@en	0
+COL title VAL  "Canon BGE11 Battery Grip for EOS 5DS 5DR"@en	COL title VAL  "GoPro Dual Battery Charger + Battery (for HERO4 Black/HERO4 Silver) Price in Pakistan"@en	0
+COL title VAL  "Sony E PZ 18-200mm f/3.5-6.3 OSS Telephoto Lens"@en	COL title VAL  "Canon EF-S 18-55mm f/3.5-5.6 IS II SLR Lens White Box"@en	0
+COL title VAL  "Sony FE 85mm F1.8 | 2 Years Warranty"@en	COL title VAL  "Sony SEL85F18 85mm F/1.8-22 Medium-Telephoto Fixed Prime Camera Lens, Black"@en	1
+COL title VAL  "Sony FE 50mm f/1.8 Lens E-Mount Lens/Full-Frame Format, Aperture Range: f/1.8 to f/22"@en	COL title VAL  "Sony Sony SEL 35mm f/2.8 FE Full Frame"@en	0
+COL title VAL  "Sony SEL FE 50mm f/1.8 E-Mount Lens"@en	COL title VAL  "Sony 50mm f/1.8 Standard Prime Lens"@en	1
+COL title VAL  "Sony FE 85mm f/1.8 Lens (SEL85F18/2)"@en	COL title VAL  "Sony FE 28mm f/2 Lens"@en	0
+COL title VAL  "Sony FE 35mm f/1.8 Lens"@en	COL title VAL  "Sony FE 28mm f2 Lens"@en	0
+COL title VAL  "Canon EF 28 f/2,8 IS USM"@en	COL title VAL  "Sony FE 28mm f/2 Lens"@en	0
+COL title VAL  "Sony SEL 30mm 3.5 Makro E-Mount"@en	COL title VAL  "Sony E30mm F3.5 Lens SEL30M35//C SYX"@en	1
+COL title VAL  "FUJI FUJI INSTAX SQUARE FILM 10 PACK"@en	COL title VAL  "Fujifilm Instax Square Instant Film - 10 Photos"@en	1
+COL title VAL  "GoPro Dual Battery Charger (for HERO3+/HERO3) Price in Pakistan"@en	COL title VAL  "GoPro Dual Battery Charger For HD4"@en	1
+COL title VAL  "1 Fujifilm Instax Square Film white frame"@en	COL title VAL  "Fujifilm Instax Square Film - 20 Sheets"@en	1
+COL title VAL  "Sony E-Mount Zeiss 35mm f2.8 FE"@de	COL title VAL  "Sony Sony SEL 35mm f/2.8 FE Full Frame"@en	1
+COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	COL title VAL  "290 LIGHT ALU BEFREE LIVE FLUID VIDEO HE"@vi	0
+COL title VAL  "Sony E 30mm f/3.5 Macro Lens"@en	COL title VAL  "Sony SEL30M35 Macro lens - 30 mm - f/3.5 - Sony E-mount"@en	1
+COL title VAL  "Canon PP201 A4 Paper 20 Sheets"@en	COL title VAL  "Canon Photo Paper Plus Glossy II A4"@en	1
+COL title VAL  "Sony FE 85mm f/1.8 Lens (SEL85F18/2)"@en	COL title VAL  "Sony FE 50mm f1.8 Lens"@en	0
+COL title VAL  "Sony 85mm f1.8 FE Lens (SEL85F18)"@en	COL title VAL  "Sony FE 85mm f/1.8 Lens"@en	1
+COL title VAL  "Sony E 30mm f/3.5 Macro Lens"@en	COL title VAL  "APS-C E-Mount30mm F3.5 Macro Lens"@en	1
+COL title VAL  "Sony SEL 18-200mm f/3.5-6.3 OSS Power Zoom E-Mount Lens"@en	COL title VAL  "Canon EF-M 11-22mm f/4-5.6 IS STM Lens"@en	0
+COL title VAL  "Sony FE 85mm f/1.8 Lens"@en	COL title VAL  "Sony FE 35mm f/1.8 Lens"@en	0
+COL title VAL  "EF 24-105mm f/4L IS II USM"@en	COL title VAL  "EF-M 11-22mm f/4-5.6 IS STM"@da	0
+COL title VAL  "Hikvision DS-1273ZJ-140 Wall Mount Bracket"@en	COL title VAL  "HIK WALL BRACKET FOR DS-2CD2365G1-1 IP TURRET"@de	1
+COL title VAL  "SONY Sony Lens FE 85mm F1.8 II"@en	COL title VAL  "SONY Sony FE 28mm f/2 Lens"@en	0
+COL title VAL  "Nikon Z6 + Nikkor Z 24-70mm f/4 S | 2 Years Warranty"@no	COL title VAL  "Nikon Z 6 with 24-70mm f/4 S Lens"@en	1
+COL title VAL  "Nikon 50mm f1.8G AF-S NIKKOR Lens"@de	COL title VAL  "Canon EF 100mm f/2.8L Macro IS USM Lens"@it	1
+COL title VAL  "Canon 28mm f2.8 IS USM EF Lens"@en	COL title VAL  "EF 100mm f/2.8L Macro IS USM"@en	0
+COL title VAL  "Sony E-Mount 24-240mm F3.5-6.3 FE OSS Zoom"@en	COL title VAL  "Sony SEL-24240 FE 24-240mm F3.5-6.3 OSS Lens"@en	1
+COL title VAL  "Sony FE 85mm f/1.8 Lens"@en	COL title VAL  "FE 85MM F/1.8 TELEPHOTO PRIME LENS FOR E-MOUNT CAMERAS"@en	1
+COL title VAL  "Sony E 30mm F3.5 Macro Lens"@en	COL title VAL  "Sony FE 35mm f/1.8 Lens"@en	0
+COL title VAL  "Sony 85mm f1.8 FE Lens (SEL85F18)"@en	COL title VAL  "Sony E 30mm f/3.5 Macro Lens"@en	0
+COL title VAL  "SONY Sony FE 28mm f/2 Lens"@en	COL title VAL  "Sony FE 24-240mm f/3.5-6.3 OSS Lens"@en	0
+COL title VAL  "SONY Sony Lens FE 85mm F1.8 II"@en	COL title VAL  "Canon EF 100mm F2.8 L IS USM Macro"@en	0
+COL title VAL  "Nikon AF-S Nikkor 50mm f/1.8G Camera Lens"@da	COL title VAL  "SEL85F18 85Mm F/1.8-22 Medium-Telephoto Fixed Prime Camera Lens, Black"@en	0
+COL title VAL  "APS-C E-Mount30mm F3.5 Macro Lens"@en	COL title VAL  "Sony SEL30M35 Macro lens - 30 mm - f/3.5 - Sony E-mount"@en	1
+COL title VAL  "Sony FE 35mm F1.8 Lens"@en	COL title VAL  "Sony - FE 50mm F1.8 Standard Lens (SEL50F18F)"@en	0
+COL title VAL  "Sony 30mm f/3.5 Macro Lens"@en	COL title VAL  "Sony FE 35mm f/1.8 Lens"@en	0
+COL title VAL  "Nikon AF-S VR Micro NIKKOR 105mm F2.8G Lens"@de	COL title VAL  "D5600 18-140mm VR Lens Kit (Refurbished)"@de	0
+COL title VAL  "Sony FE 35mm f/2.8 Sonnar T* ZA Lens"@en	COL title VAL  "FUJIFILM XF 8-16mm f/2.8 R LM WR Lens"@de	0
+COL title VAL  "Fujifilm Instax Square Film (10 Pack)"@en	COL title VAL  "Fujifilm Instax mini Rainbow film 10 pack"@en	0
+COL title VAL  "0000006690| Canon EF 24-105mm f/3.5-5.6 IS STM Zoom Lens"@en	COL title VAL  "Canon EF 24-105 mm/3,5-5,6 IS STM"@en	1
+COL title VAL  "DJI Inspire 2 | Matrice 200 | DJI Matrice 210 Charging Hub | Spare Part 8"@en	COL title VAL  "Canon EF 28mm 2.8 IS USM"@en	0
+COL title VAL  "Canon PP201 A4 Paper 20 Sheets"@en	COL title VAL  "Canon PT-101 - Pro Platinum Photo 10x15cm, 20 sheets"@en	0
+COL title VAL  "DJI Inspire 2 - Ladehub (PART8)"@de	COL title VAL  "DJI Inspire 2 Intelligent Flight Battery Charging Hub"@en	1
+COL title VAL  "Canon EF 28mm 2.8 IS USM"@en	COL title VAL  "Sony 10-18mm f/4.0 OSS SEL Lens"@en	0
+COL title VAL  "Sony FE 35mm f/2.8 Sonnar T* ZA Lens"@en	COL title VAL  "Sony E-Mount Zeiss 35mm f2.8 FE"@de	1
+COL title VAL  "Sony FE 50mm F1.8"@en	COL title VAL  "SONY 50mm f1,8 - E-mount Full Frame Cod.Sony SEL50F18F"@en	1
+COL title VAL  "Fujifilm Instax Mini Rainbow (10 sheets) Film"@en	COL title VAL  "Fujifilm Instax Mini Mono Black & White (10 sheets) Film"@en	0
+COL title VAL  "FE 24-240MM F/3.5-6.3 OSS FULL-FRAME E-MOUNT TELEPHOTO ZOOM LENS - BLACK"@en	COL title VAL  "Sony SEL24240 FE 24-240mm f/3.5-6.3 OSS Zoom Lens for Mirrorless Cameras"@en	1
+COL title VAL  "Fujifilm Instax Mini Rainbow (10 sheets) Film"@en	COL title VAL  "Fujifilm Instax mini Rainbow film 10 pack"@en	1

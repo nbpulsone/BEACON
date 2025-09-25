@@ -1,0 +1,40 @@
+COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Warm White"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Blanco Frio"@en	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Cool White"@en	COL title VAL  "PHILIPS Trubice 35W/830 MASTER HE TL5"@en	0
+COL title VAL  "Neff B57CR22N0B Slide & Hide Pyrolytic Single Oven"@en	COL title VAL  "NEFF B57CR22N0B Single Pyrolytic Oven"@en	1
+COL title VAL  "Neff T26DS49N0 60cm Gas Hob"@en	COL title VAL  "Neff T26DS49N0 4 Burner Gas Hob"@de	1
+COL title VAL  "Neff T26DS49N0 60cm Gas Hob"@en	COL title VAL  "F&P 90cm Gas Cooktop (CG905DWNGFCX3)"@nl	0
+COL title VAL  "Whirlpool WOD51EC0HS 30\" Stainless Steel Electric Double Wall Oven"@en	COL title VAL  "Samsung RS8000 RS68N8220S9 American Fridge Freezer with SpaceMax"@en	0
+COL title VAL  "AEG 8kg Front Load Dyer"@en	COL title VAL  "AEG T9DBA866C 8kg Heat Pump Dryer"@en	0
+COL title VAL  "Neff B57CR22N0B Single Built In Electric Oven"@en	COL title VAL  "Neff B47CR32N0B Built In Oven"@en	0
+COL title VAL  "Bosch Tall Frost Free Fridge Freezer KGN34NWEAG"@de	COL title VAL  "Bosch KGN34NWEAG 60cm Frost Free Fridge Freezer"@de	1
+COL title VAL  "AEG 8kg Front Load Dyer"@en	COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	0
+COL title VAL  "Whirlpool WOD51EC0HS 30\" Stainless Steel Electric Double Wall Oven"@en	COL title VAL  "Whirlpool WGG745S0FS 30 Inch Freestanding Gas Range"@en	0
+COL title VAL  "NEFF 600mm Pyrolytic Slide & Hide Oven"@da	COL title VAL  "Neff B57CR22N0B Slide & Hide Pyrolytic Single Oven"@en	1
+COL title VAL  "MASTER TL5 HE 35W 840 G5"@de	COL title VAL  "F&P 90cm Gas Cooktop (CG905DWNGFCX3)"@nl	0
+COL title VAL  "SIGN 3556-20 Premium vriezer"@sk	COL title VAL  "Liebherr SIGN3556 178cm Integrated In Column Frost Free Freezer"@de	1
+COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	COL title VAL  "MASTER TL5 HE 35W 840 G5"@de	1
+COL title VAL  "30\" Double Wall Oven with Touch Screen and Frozen Bake Technology - Stainless Steel"@en	COL title VAL  "KitchenAid 48\" 6-Burner Commercial-Style Gas Rangetop with Griddle in Stainless Steel KCGC558JSS"@en	0
+COL title VAL  "Fisher & Paykel WH8060J3 8kg Front Load Washing Machine"@en	COL title VAL  "Samsung BRB260130WW Built In Fridge Freezer"@de	0
+COL title VAL  "Neff B57CR22N0B Slide & Hide N70 Pyrolytic Single Oven - STAINLESS STEEL"@en	COL title VAL  "Neff B47CR32N0B Slide & Hide N70 Multifunction Single Oven - STAINLESS STEEL"@en	0
+COL title VAL  "9000 Series 8kg Heat Pump Dryer"@en	COL title VAL  "AEG 8kg Front Load Dyer"@en	0
+COL title VAL  "FLUORESCENTE T5 35w/830 145cm 3000k"@pl	COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	0
+COL title VAL  "WHIRLPOOL 6.7 Cu. Ft. Gas Double Oven Range (WGG745S0FS)"@de	COL title VAL  "Whirlpool WOD51EC0HS 30\" Stainless Steel Electric Double Wall Oven"@en	0
+COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Warm White"@en	0
+COL title VAL  "Bosch Serie 6 PCH6A5B90 4 Burner Gas Hob"@de	COL title VAL  "Bosch PCH6A5B90 60cm Serie 6 4 Burner FlameSelect Gas Hob - STAINLESS STEEL"@de	1
+COL title VAL  "Bosch Serie 2 KGN34NWEAG Frost Free Fridge Freezer | White"@de	COL title VAL  "Liebherr 213L Premium Frost Free Integrated Freezer - White | SIGN3556"@de	0
+COL title VAL  "Fisher & Paykel WH8060J3 8kg Front Load Washing Machine"@en	COL title VAL  "7kg Simpson Top Load Washing Machine"@en	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Blanco Frio"@en	COL title VAL  "MASTER TL5 HE 14W/865 1SL"@en	0
+COL title VAL  "7kg Simpson Top Load Washing Machine"@en	COL title VAL  "Simpson SWT7055LMWA 7KG Top Load Washing Machine"@en	1
+COL title VAL  "Bosch PCH6A5B90 60cm Serie 6 4 Burner FlameSelect Gas Hob - STAINLESS STEEL"@de	COL title VAL  "Neff T26DS49N0 60cm Gas Hob"@en	0
+COL title VAL  "Bosch KGN34NWEAG 60cm Frost Free Fridge Freezer"@de	COL title VAL  "Bosch Serie 2 KGN34NWEAG Frost Free Fridge Freezer | White"@de	1
+COL title VAL  "Philips TL-lamp type MASTER TL-D Secura 18W/840"@en	COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	0
+COL title VAL  "CH-31320-24-BL-GG 24 High Backless Blue Metal Indoor-Outdoor Counter Height Stool with Square Seat by Flash Furniture"@en	COL title VAL  "24'' High Backless Blue Metal Restaurant Indoor-Outdoor Counter Height Stool with Square Seat"@en	1
+COL title VAL  "Whirlpool WOD51EC0HS 30\" Stainless Steel Electric Double Wall Oven"@en	COL title VAL  "Samsung NV51K6650SS 30 Inch Wall Oven with Steam Cook and Convection"@en	0
+COL title VAL  "Samsung BRB260130WW Built In Fridge Freezer"@de	COL title VAL  "Neff K1514X7GB Built-in Single Door Fridge"@de	0
+COL title VAL  "Bosch Tall Frost Free Fridge Freezer KGN34NWEAG"@de	COL title VAL  "Liebherr SIGN3556 Integrated Freezer Frost free"@de	0
+COL title VAL  "Samsung NV51K6650SS 30 Inch Wall Oven with Steam Cook and Convection"@en	COL title VAL  "Whirlpool WGG745S0FS 30 Inch Freestanding Gas Range"@en	0
+COL title VAL  "Samsung RS8000 RS68N8220S9 American Fridge Freezer with SpaceMax"@en	COL title VAL  "Samsung NV51K6650SS 30 Inch Wall Oven with Steam Cook and Convection"@en	0
+COL title VAL  "Neff B47CR32N0B Built In Oven"@en	COL title VAL  "Neff B57CR22N0B Pyrolytic Slide and Hide Single Electric Oven in Stainless Steel"@en	0
+COL title VAL  "Liebherr 213L Premium Frost Free Integrated Freezer - White | SIGN3556"@de	COL title VAL  "Liebherr SIGN3556 Integrated Freezer Frost free"@de	1
+COL title VAL  "9000 Series 8kg Heat Pump Dryer"@en	COL title VAL  "8000 Series 8kg Heat Pump Dryer"@en	0
+COL title VAL  "Bosch Serie 6 PCH6A5B90 4 Burner Gas Hob"@de	COL title VAL  "Neff T26DS49N0 4 Burner Gas Hob"@de	0

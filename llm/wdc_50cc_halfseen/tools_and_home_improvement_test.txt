@@ -1,0 +1,25 @@
+COL title VAL  "APC SUA48RMXLBP3U Smart-UPS XL 48V RM 3U Battery Pack"@en	COL title VAL  "APC Smart-UPS XL 48V Battery Pack - battery enclosure - Lead Acid"@en	1
+COL title VAL  "PARK TOOL SEALED BOTTOM BRACKET REMOVER TOOL BBT-22"@en	COL title VAL  "PARK TOOL BBT-22, Bottom bracket tool, Cartridge type, For 1/2'' drive ratchet"@en	1
+COL title VAL  "PARK TOOL SEALED BOTTOM BRACKET REMOVER TOOL BBT-22"@en	COL title VAL  "Park Tool Park Tool, CT-5, Portable chain Tool"@en	0
+COL title VAL  "Park Tool Handle Hex Wrench Set PH-12"@en	COL title VAL  "PH-1.2 P-handle hex wrench set 2-10mm"@en	1
+COL title VAL  "APC Smart-UPS XL 48V Battery Pack - battery enclosure - Lead Acid"@en	COL title VAL  "APC Smart-UPS XL 48V Battery Pack Tower/Rack Convertible (SUA48XLBP)"@en	0
+COL title VAL  "APC Smart-UPS XL 48V Battery Pack Tower/Rack Convertible (SUA48XLBP)"@en	COL title VAL  "APC Smart-UPS XL 48V Battery Pack - Battery enclosure - 48 V - 2 x Lead Acid- 5U"@en	1
+COL title VAL  "Park Tool Handle Hex Wrench Set PH-12"@en	COL title VAL  "Park Tool Park Tool TWS-2 Folding Torx Wrench Set"@en	0
+COL title VAL  "Park Tool Park Tool, TWS-2, Clés Torx repliables, T7, T9, T10, T15, T20, T25, T27, T30 et T40"@en	COL title VAL  "PARK TOOL BBT-22, Bottom bracket tool, Cartridge type, For 1/2'' drive ratchet"@en	0
+COL title VAL  "Park Tool Park Tool, CT-5, Portable chain Tool"@en	COL title VAL  "Park Tool Handle Hex Wrench Set PH-12"@en	0
+COL title VAL  "APC Smart-UPS XL 48V Battery Pack - Battery enclosure - 48 V - 2 x Lead Acid- 5U"@en	COL title VAL  "APC SUA48RMXLBP3U Smart-UPS XL 48V RM 3U Battery Pack"@en	0
+COL title VAL  "APC By Schneider Electric Smart-upsExternal Battery Pack Rack"@en	COL title VAL  "SMX120RMBP2UAPC Smart-UPS X 120V External Battery Pack Rack/Tower"@en	1
+COL title VAL  "APC Smart-UPS XL 48V Battery Pack Tower/Rack Convertible (SUA48XLBP)"@en	COL title VAL  "APC By Schneider Electric Smart-upsExternal Battery Pack Rack"@en	0
+COL title VAL  "APC Smart-UPS XL 48V Battery Pack - Battery enclosure - 48 V - 2 x Lead Acid- 5U"@en	COL title VAL  "SMX120RMBP2UAPC Smart-UPS X 120V External Battery Pack Rack/Tower"@en	0
+COL title VAL  "APC Smart-UPS XL 48V Battery Pack Tower/Rack Convertible (SUA48XLBP)"@en	COL title VAL  "SMX120RMBP2UAPC Smart-UPS X 120V External Battery Pack Rack/Tower"@en	0
+COL title VAL  "PH-1.2 P-handle hex wrench set 2-10mm"@en	COL title VAL  "Park Tool Park Tool TWS-2 Folding Torx Wrench Set"@en	0
+COL title VAL  "APC By Schneider Electric Smart-upsExternal Battery Pack Rack"@en	COL title VAL  "APC SUA48RMXLBP3U Smart-UPS XL 48V RM 3U Battery Pack"@en	0
+COL title VAL  "Park Tool Park Tool, TWS-2, Clés Torx repliables, T7, T9, T10, T15, T20, T25, T27, T30 et T40"@en	COL title VAL  "Park Tool Park Tool TWS-2 Folding Torx Wrench Set"@en	1
+COL title VAL  "Park Tool CT-5, Portable chain Tool"@en	COL title VAL  "Park Tool Park Tool TWS-2 Folding Torx Wrench Set"@en	0
+COL title VAL  "APC Smart-UPS XL 48V Battery Pack Tower/Rack Convertible (SUA48XLBP)"@en	COL title VAL  "APC SUA48RMXLBP3U Smart-UPS XL 48V RM 3U Battery Pack"@en	0
+COL title VAL  "Park Tool Handle Hex Wrench Set PH-12"@en	COL title VAL  "PARK TOOL SEALED BOTTOM BRACKET REMOVER TOOL BBT-22"@en	0
+COL title VAL  "PARK TOOL BBT-22, Bottom bracket tool, Cartridge type, For 1/2'' drive ratchet"@en	COL title VAL  "Park Tool Park Tool TWS-2 Folding Torx Wrench Set"@en	0
+COL title VAL  "Park Tool Park Tool, CT-5, Portable chain Tool"@en	COL title VAL  "Park Tool Park Tool, TWS-2, Clés Torx repliables, T7, T9, T10, T15, T20, T25, T27, T30 et T40"@en	0
+COL title VAL  "Park Tool Park Tool, CT-5, Portable chain Tool"@en	COL title VAL  "Park Tool CT-5, Portable chain Tool"@en	1
+COL title VAL  "Park Tool CT-5, Portable chain Tool"@en	COL title VAL  "Park Tool Handle Hex Wrench Set PH-12"@en	0
+COL title VAL  "APC Smart-UPS XL 48V Battery Pack - Battery enclosure - 48 V - 2 x Lead Acid- 5U"@en	COL title VAL  "APC Smart-UPS XL 48V Battery Pack - battery enclosure - Lead Acid"@en	0

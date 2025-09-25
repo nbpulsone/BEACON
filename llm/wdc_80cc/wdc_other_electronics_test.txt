@@ -1,0 +1,234 @@
+COL title VAL  "Cleito 120 Glass By Aspire"@en	COL title VAL  "WS-C3650-8X24UQ-L - Cisco Catalyst 3650 Network Switch - Refurb'd"@en	0
+COL title VAL  "DJI Drone CP.MA.00000033.01 Mavic 2 Zoom + Smart Controller Bundle Retail"@en	COL title VAL  "DJI Mavic 2 Enterprise Zoom Drone with Smart Controller"@en	0
+COL title VAL  "JABRA - EVOLVE 40 MS Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	COL title VAL  "Jabra Jabra Evolve 20 MS mono USB headset - MS Teams - Skype for Business"@en	0
+COL title VAL  "Nautilus XS Coils by Aspire"@en	COL title VAL  "Nautilus AIO Pod By Aspire"@en	0
+COL title VAL  "Striker Plus 5cv, Worldwide w/GT20"@de	COL title VAL  "STRIKER™ Plus 5cv With GT20-TM transducer"@en	1
+COL title VAL  "ASPIRE ASPIRE NAUTILUS AIO REPLACEMENT POD"@pt	COL title VAL  "Coil ASPIRE 0,7 Ohm Mesh Nautilus XS"@en	0
+COL title VAL  "APC Smart-UPS 1500VA LCD Tower UPS"@en	COL title VAL  "APC Smart-UPS USV Stromversorgung, 640W, 230V"@de	0
+COL title VAL  "DJI DJI | Mavic 2 Enterprise Dual - with Enterprise Shield Basic CP.EN.00000107.01"@en	COL title VAL  "DJI Mavic 2 Enterprise Zoom Drone with Smart Controller"@en	0
+COL title VAL  "Garmin 010-01874-00 Striker Plus 7SV with CV52HW-TM transducer, 7 inches"@en	COL title VAL  "Garmin ECHOMAP Plus 43cv with Transducer"@en	0
+COL title VAL  "Bluetooth In-Ear Earphones with Microphone"@en	COL title VAL  "Colorful Headset Hi-Fi Earbuds Bass Earpieces Earphone"@en	0
+COL title VAL  "MikroTik RB260GSP, 5xGigabit, SFP, PoE out for four ports, SwOS"@en	COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	0
+COL title VAL  "CISCO - CATALYST 2960-XR 24 GIGE POE 370W 4 X 1G SFP IP LITE IN"@pl	COL title VAL  "WS-C3650-8X24UQ-LCisco Catalyst 3650 24 Port mGig, 4x10G Uplink, LAN Base"@en	0
+COL title VAL  "Wireless Sweatproof Mini Earphones with Microphone"@en	COL title VAL  "Wireless Bluetooth 5.0 Earphones with Case"@en	0
+COL title VAL  "Jabra EVOLVE 30 II Mono Headset - For Microsoft Lync"@en	COL title VAL  "Jabra Jabra Evolve 20 MS mono USB headset - MS Teams - Skype for Business"@en	0
+COL title VAL  "GarminStriker Fishfinder w/Gps & Crirp Sonar"@de	COL title VAL  "Garmin ECHOMAP Plus 43cv with Transducer"@en	0
+COL title VAL  "Ubiquiti UniFi Indoor, 2.4GHz/5GHz,"@it	COL title VAL  "Ubiquiti Networks UAP-AC-LITE Access point - Wit"@en	1
+COL title VAL  "ASPIRE ASPIRE NAUTILUS AIO REPLACEMENT POD"@pt	COL title VAL  "Xiaomi Redmi Airdots S In Ear TWS Bluetooth5.0Earphone Bass Stereo Wireless Cancellation With Mic Handsfree Earbuds AI Control"@en	0
+COL title VAL  "Jabra Jabra Evolve 20 MS mono USB headset - MS Teams - Skype for Business"@en	COL title VAL  "Jabra Evolve 40 MS Stereo Headset"@en	0
+COL title VAL  "Jabra EVOLVE 30 II UC Stereo headset"@en	COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	0
+COL title VAL  "GARMIN Garmin Striker 4 FishfinderQuickdraw Contour"@de	COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	0
+COL title VAL  "Garmin 010-01874-00 Striker Plus 7SV with CV52HW-TM transducer, 7 inches"@en	COL title VAL  "Garmin STRIKER 4 Fishfinder Worldwide Version w/77/200kHz - 4-Pin Transducer w/Transom & Trolling Motor Mounts"@en	0
+COL title VAL  "Ubiquiti UniFi AP AC SHD Wave 2 Access Point with Security and BLE (5 Pack)"@en	COL title VAL  "Ubiquiti Networks UAP-AC-LITE Access point - Wit"@en	0
+COL title VAL  "TP-Link Archer VR400-AC1200 Wireless Gigabit VDSL/ADSL Modem Router(Black)."@de	COL title VAL  "DJI Mavic 2 Enterprise (Zoom) w/ Smart Controller and DJI Enterprise Shield Basic"@en	0
+COL title VAL  "Nautilus AIO Pod By Aspire"@en	COL title VAL  "Nautilus 2s Coils by Aspire (5Pack)"@en	0
+COL title VAL  "Jabra Evolve 40 MS Stereo Headset"@en	COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	0
+COL title VAL  "CISCO - CATALYST 2960-XR 24 GIGE POE 370W 4 X 1G SFP IP LITE IN"@pl	COL title VAL  "MikroTik RB260GSP, 5xGigabit, SFP, PoE out for four ports, SwOS"@en	0
+COL title VAL  "SF11024 24 Port 10 100 Switch"@en	COL title VAL  "Ie 16 10/100 2 Fe Sfp+2 T/sfp"@en	0
+COL title VAL  "Ubiquiti UniFi Indoor, 2.4GHz/5GHz,"@it	COL title VAL  "Ubiquiti UniFi AP-SHD Access Point 5 Pack"@fr	0
+COL title VAL  "Baseus S09 Bluetooth Wireless Earbuds"@en	COL title VAL  "Bluetooth In-Ear Earphones with Microphone"@en	1
+COL title VAL  "ASPIRE ASPIRE NAUTILUS AIO REPLACEMENT POD"@pt	COL title VAL  "Nautilus AIO Pod By Aspire"@en	1
+COL title VAL  "Garmin 010-01874-00 Striker Plus 7SV with CV52HW-TM transducer, 7 inches"@en	COL title VAL  "GARMIN Garmin Striker 4 FishfinderQuickdraw Contour"@de	0
+COL title VAL  "DJI Drone CP.MA.00000033.01 Mavic 2 Zoom + Smart Controller Bundle Retail"@en	COL title VAL  "Garmin STRIKER 4 Fishfinder Worldwide Version w/77/200kHz - 4-Pin Transducer w/Transom & Trolling Motor Mounts"@en	0
+COL title VAL  "Garmin 010-01885-05 ECHOMAP Plus"@de	COL title VAL  "Garmin 010-01874-00 Striker Plus 7SV with CV52HW-TM transducer, 7 inches"@en	0
+COL title VAL  "Ubiquiti Unifi Ap-AC Lite - Wireless Access Point - 802.11 B/A/G/n/AC (UAPACLITEUS)"@fr	COL title VAL  "Wireless-ac/n Dual Radio Access"@en	0
+COL title VAL  "BlueSolar PWM-Pro Charge Controller 12/24V-20A"@en	COL title VAL  "BLUE SOLAR PWM-PRO 12/24V 10A"@de	0
+COL title VAL  "GarminStriker Fishfinder w/Gps & Crirp Sonar"@de	COL title VAL  "Evolve 80 MS, Stereo, USB-C"@en	0
+COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	COL title VAL  "1 Port Gigabit PoE Injector - DPE-301GI"@en	0
+COL title VAL  "DJI DJI | Mavic 2 Enterprise Dual - with Enterprise Shield Basic CP.EN.00000107.01"@en	COL title VAL  "DJI Mavic 2 Enterprise Dual"@en	0
+COL title VAL  "Ubiquiti Unifi Ap-AC Lite - Wireless Access Point - 802.11 B/A/G/n/AC (UAPACLITEUS)"@fr	COL title VAL  "Ubiquiti UniFi AP-SHD Access Point 5 Pack"@fr	0
+COL title VAL  "Colorful Headset Hi-Fi Earbuds Bass Earpieces Earphone"@en	COL title VAL  "Xiaomi Redmi Airdots S In Ear TWS Bluetooth5.0Earphone Bass Stereo Wireless Cancellation With Mic Handsfree Earbuds AI Control"@en	0
+COL title VAL  "Xiaomi Redmi Airdots S In Ear TWS Bluetooth5.0Earphone Bass Stereo Wireless Cancellation With Mic Handsfree Earbuds AI Control"@en	COL title VAL  "Bluetooth In-Ear Earphones with Microphone"@en	0
+COL title VAL  "Anker Soundcore Liberty Neo TWS True Wireless Earphones With Bluetooth 5.0, Sports Sweatproof, and Noise Isolation,2019 Upgraded"@en	COL title VAL  "Bluetooth In-Ear Earphones with Microphone"@en	0
+COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	COL title VAL  "GARMIN Garmin Striker 4 FishfinderQuickdraw Contour"@de	0
+COL title VAL  "Garmin 010-01874-00 Striker Plus 7SV with CV52HW-TM transducer, 7 inches"@en	COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	0
+COL title VAL  "WS-C3650-8X24UQ-L - Cisco Catalyst 3650 Network Switch - Refurb'd"@en	COL title VAL  "Catalyst 3560X 48 Port Data IP Base"@en	0
+COL title VAL  "1500VA Power Backup UPS - Refurbished - SUA1500RM2U w AP9630"@en	COL title VAL  "APC Smart-UPS 1500VA LCD Tower UPS"@en	0
+COL title VAL  "Coil ASPIRE 0,7 Ohm Mesh Nautilus XS"@en	COL title VAL  "ASPIRE NAUTILUS 2S 0.7 OHM MESH COIL"@de	0
+COL title VAL  "D-Link DPE-301GI - PoE injector - 30 Watt"@en	COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	0
+COL title VAL  "Wireless-ac/n Dual Radio Access"@en	COL title VAL  "Striker Plus 5cv, Worldwide w/GT20"@de	0
+COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	0
+COL title VAL  "Mavic 2 Enterprise（DUAL) Universal Edition (US & Canada) (SP)"@en	COL title VAL  "DJI Mavic 2 Enterprise Dual"@en	0
+COL title VAL  "TP-Link Archer-VR400 AC1200 VDSL/ADSL Modem Router"@de	COL title VAL  "D-Link DPE-301GI - PoE injector - 30 Watt"@en	0
+COL title VAL  "DJI Mavic 2 Enterprise (Zoom) w/ Smart Controller and DJI Enterprise Shield Basic"@en	COL title VAL  "Mavic 2 Enterprise（DUAL) Universal Edition (US & Canada) (SP)"@en	0
+COL title VAL  "Bluetooth In-Ear Earphones with Microphone"@en	COL title VAL  "Wireless Bluetooth 5.0 Earphones with Case"@en	0
+COL title VAL  "Nautilus 2s Coils by Aspire (5Pack)"@en	COL title VAL  "BlueSolar PWM-Pro Charge Controller 12/24V-5A"@en	0
+COL title VAL  "Switch CISCO WS-C2960XR-24PS-I"@en	COL title VAL  "SF110-24-NA - Cisco SF110-24 Unmanaged Small Business Switch, 24 Port 10/100 - Refurb'd"@en	0
+COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	COL title VAL  "Ubiquiti Unifi Ap-AC Lite - Wireless Access Point - 802.11 B/A/G/n/AC (UAPACLITEUS)"@fr	0
+COL title VAL  "Mavic 2 Zoom with Smart Controller 16GB"@en	COL title VAL  "DJI Mavic 2 Enterprise Zoom Drone with Smart Controller"@en	0
+COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (Refurb)"@en	COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	0
+COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	COL title VAL  "Jabra Evolve 30 II UC Stereo USB/3.5mm Headset"@en	0
+COL title VAL  "WS-C3560X-48T-S For Sale | Low Price | New In Box"@en	COL title VAL  "Switch CISCO WS-C2960XR-24PS-I"@en	0
+COL title VAL  "Garmin 010-01885-05 ECHOMAP Plus"@de	COL title VAL  "Everpure Water Filter Cartridge - 2CB5-S"@de	0
+COL title VAL  "SF11024 24 Port 10 100 Switch"@en	COL title VAL  "Catalyst 3560X 48 Port Data IP Base"@en	0
+COL title VAL  "APC - Schneider SMART-UPS 1500VA LCD 230V"@de	COL title VAL  "APC Smart-UPS USV Stromversorgung, 640W, 230V"@de	0
+COL title VAL  "Jabra EVOLVE 30 II UC Stereo headset"@en	COL title VAL  "Jabra Evolve 30 II UC Stereo USB/3.5mm Headset"@en	1
+COL title VAL  "Victron Energy BlueSolar PWM Pro Charge Controller 12/24V 5A - SCC010005010"@en	COL title VAL  "DJI DJI | Mavic 2 Enterprise Dual - with Enterprise Shield Basic CP.EN.00000107.01"@en	0
+COL title VAL  "Ubiquiti UniFi Indoor, 2.4GHz/5GHz,"@it	COL title VAL  "Ubiquiti Unifi Ap-AC Lite - Wireless Access Point - 802.11 B/A/G/n/AC (UAPACLITEUS)"@fr	0
+COL title VAL  "Netgear Business 2x2 DualBand Wls-AC Access Point"@en	COL title VAL  "ProSafe 1PT 2X2 11AC PROSAFE AP"@en	1
+COL title VAL  "D-Link DPE-301GI - PoE injector - 30 Watt"@en	COL title VAL  "1 Port Gigabit PoE Injector - DPE-301GI"@en	1
+COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	COL title VAL  "Evolve 80 MS, Stereo, USB-C"@en	1
+COL title VAL  "DJI Mavic 2 Enterprise Zoom Drone with Smart Controller"@en	COL title VAL  "DJI Mavic 2 Enterprise Dual"@en	0
+COL title VAL  "Ubiquiti UniFi AP-SHD Access Point 5 Pack"@fr	COL title VAL  "Ubiquiti UniFi AP AC SHD Wave 2 Access Point with Security and BLE (5 Pack)"@en	1
+COL title VAL  "SF110-24-NA - Cisco SF110-24 Unmanaged Small Business Switch, 24 Port 10/100 - Refurb'd"@en	COL title VAL  "SF11024 24 Port 10 100 Switch"@en	1
+COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	COL title VAL  "STRIKER™ Plus 5cv With GT20-TM transducer"@en	0
+COL title VAL  "ASPIRE ASPIRE NAUTILUS AIO REPLACEMENT POD"@pt	COL title VAL  "ASPIRE NAUTILUS 2S 0.7 OHM MESH COIL"@de	0
+COL title VAL  "Go Professional Cases DJI Mavic 2 Pro/Zoom Hard Case"@en	COL title VAL  "Go Professional - DJI Mavic 2 Pro/Zoom w/ Smart Controller"@en	1
+COL title VAL  "Ie 16 10/100 2 Fe Sfp+2 T/sfp"@en	COL title VAL  "Cisco IE-2000-16TC-G-L Industrial Ethernet 2000 Series 16-port Managed Switch with 2x Gigabit SFP"@en	1
+COL title VAL  "UbiQuiti Unfi UAP-AC-Lite Drahtlose Basisstation"@it	COL title VAL  "Ubiquiti UniFi AP AC SHD Wave 2 Access Point with Security and BLE (5 Pack)"@en	0
+COL title VAL  "DJI Mavic 2 Enterprise (Zoom) w/ Smart Controller and DJI Enterprise Shield Basic"@en	COL title VAL  "DJI Mavic 2 Enterprise Zoom Drone with Smart Controller"@en	1
+COL title VAL  "S11 Dual ear LED B"@en	COL title VAL  "The Latest Touch - Controlled Wireless Earbuds Of 2020 ( FREE SHIPPING )"@en	1
+COL title VAL  "Switch CISCO WS-C2960XR-24PS-I"@en	COL title VAL  "CISCO - CATALYST 2960-XR 24 GIGE POE 370W 4 X 1G SFP IP LITE IN"@pl	1
+COL title VAL  "JBL JBL Flip 5 Speaker - Black"@en	COL title VAL  "Flip 5 Waterproof Portable BT Speaker - Black"@en	1
+COL title VAL  "Wireless-ac/n Dual Radio Access"@en	COL title VAL  "Ubiquiti UniFi AP AC SHD Wave 2 Access Point with Security and BLE (5 Pack)"@en	0
+COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	COL title VAL  "Jabra EVOLVE 30 II UC Stereo headset"@en	0
+COL title VAL  "Wireless Bluetooth 5.0 Earphones with Case"@en	COL title VAL  "Xiaomi Redmi Airdots S In Ear TWS Bluetooth5.0Earphone Bass Stereo Wireless Cancellation With Mic Handsfree Earbuds AI Control"@en	1
+COL title VAL  "Catalyst 3560X 48 Port Data IP Base"@en	COL title VAL  "WS-C3560X-48T-S For Sale | Low Price | New In Box"@en	1
+COL title VAL  "Coil ASPIRE 0,7 Ohm Mesh Nautilus XS"@en	COL title VAL  "Nautilus 2s Coils by Aspire (5Pack)"@en	0
+COL title VAL  "Jabra EVOLVE 30 II Mono Headset - For Microsoft Lync"@en	COL title VAL  "Jabra Evolve 30 II UC Stereo USB/3.5mm Headset"@en	0
+COL title VAL  "ASPIRE ASPIRE NAUTILUS AIO REPLACEMENT POD"@pt	COL title VAL  "Nautilus XS Coils by Aspire"@en	0
+COL title VAL  "SF110-24-NA - Cisco SF110-24 Unmanaged Small Business Switch, 24 Port 10/100 - Refurb'd"@en	COL title VAL  "WS-C3650-8X24UQ-L - Cisco Catalyst 3650 Network Switch - Refurb'd"@en	0
+COL title VAL  "Jabra Evolve 40 MS Stereo Headset"@en	COL title VAL  "JABRA EVOLVE 20 MS MONO NC MON"@pt	0
+COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (Refurb)"@en	COL title VAL  "Cisco SG500 52P Gigabit SG500-52-K9-NA"@de	1
+COL title VAL  "JABRA EVOLVE 20 MS MONO NC MON"@pt	COL title VAL  "SF110-24-NA - Cisco SF110-24 Unmanaged Small Business Switch, 24 Port 10/100 - Refurb'd"@en	0
+COL title VAL  "Anker Soundcore Liberty Neo TWS True Wireless Earphones With Bluetooth 5.0, Sports Sweatproof, and Noise Isolation,2019 Upgraded"@en	COL title VAL  "Wireless Sweatproof Mini Earphones with Microphone"@en	1
+COL title VAL  "Hikvision DS-7608NI-K2 Network Video Recorder 8-channels"@en	COL title VAL  "HIKVISION Embedded 4K NVR - 8 Channel (DS-7608NI-K2)"@en	1
+COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	COL title VAL  "MikroTik RB260GSP - Desktop PoE Switch with 5 Gb and 1 SFP Port"@en	0
+COL title VAL  "Go Professional - DJI Mavic 2 Pro/Zoom w/ Smart Controller"@en	COL title VAL  "DJI Drone CP.MA.00000033.01 Mavic 2 Zoom + Smart Controller Bundle Retail"@en	0
+COL title VAL  "Bluetooth In-Ear Earphones with Microphone"@en	COL title VAL  "Wireless Sweatproof Mini Earphones with Microphone"@en	0
+COL title VAL  "DJI DJI | Mavic 2 Enterprise Dual - with Enterprise Shield Basic CP.EN.00000107.01"@en	COL title VAL  "DJI Mavic 2 Enterprise (Zoom) w/ Smart Controller and DJI Enterprise Shield Basic"@en	0
+COL title VAL  "Nautilus XS Coils by Aspire"@en	COL title VAL  "Nautilus 2s Coils by Aspire (5Pack)"@en	0
+COL title VAL  "APC By Schneider Electric Replacement Battery For Bk250b& More"@en	COL title VAL  "APC - Replacement Battery Cartridge #2"@en	1
+COL title VAL  "WS-C3650-8X24UQ-L - Cisco Catalyst 3650 Network Switch - Refurb'd"@en	COL title VAL  "WS-C3650-8X24UQ-LCisco Catalyst 3650 24 Port mGig, 4x10G Uplink, LAN Base"@en	1
+COL title VAL  "Jabra Evolve 40 MS Stereo Headset"@en	COL title VAL  "JABRA - EVOLVE 40 MS Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	1
+COL title VAL  "Cisco SG500 52P Gigabit SG500-52-K9-NA"@de	COL title VAL  "Switch CISCO WS-C2960XR-24PS-I"@en	0
+COL title VAL  "DJI Drone CP.MA.00000033.01 Mavic 2 Zoom + Smart Controller Bundle Retail"@en	COL title VAL  "DJI Mavic 2 Enterprise Dual"@en	0
+COL title VAL  "Jabra Jabra Evolve 20 MS mono USB headset - MS Teams - Skype for Business"@en	COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	0
+COL title VAL  "S11 Dual ear LED B"@en	COL title VAL  "SF110-24-NA - Cisco SF110-24 Unmanaged Small Business Switch, 24 Port 10/100 - Refurb'd"@en	0
+COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	COL title VAL  "Garmin ECHOMAP Plus 43cv with Transducer"@en	0
+COL title VAL  "Ubiquiti UniFi AP-SHD Access Point 5 Pack"@fr	COL title VAL  "Ubiquiti Networks UAP-AC-LITE Access point - Wit"@en	0
+COL title VAL  "Cisco WiFi AP Dual Radi 802.11acWAP150-E-K9-EU"@en	COL title VAL  "Ubiquiti Unifi Ap-AC Lite - Wireless Access Point - 802.11 B/A/G/n/AC (UAPACLITEUS)"@fr	0
+COL title VAL  "APC - Schneider SMART-UPS 1500VA LCD 230V"@de	COL title VAL  "Ubiquiti UniFi Indoor, 2.4GHz/5GHz,"@it	0
+COL title VAL  "DJI »Mavic 2 Enterprise Universal Edition Dual« drone"@en	COL title VAL  "Mavic 2 Enterprise（DUAL) Universal Edition (US & Canada) (SP)"@en	0
+COL title VAL  "Baseus S09 Bluetooth Wireless Earbuds"@en	COL title VAL  "Go Professional Cases DJI Mavic 2 Pro/Zoom Hard Case"@en	0
+COL title VAL  "Nautilus XS Coils by Aspire"@en	COL title VAL  "Coil ASPIRE 0,7 Ohm Mesh Nautilus XS"@en	1
+COL title VAL  "Victron Energy BlueSolar PWM Pro - Solar Charge Controllers"@en	COL title VAL  "BlueSolar PWM-Pro Charge Controller 12/24V-5A"@en	0
+COL title VAL  "WS-C3650-8X24UQ-L - Cisco Catalyst 3650 Network Switch - Refurb'd"@en	COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (Refurb)"@en	0
+COL title VAL  "Go Professional Cases DJI Mavic 2 Pro/Zoom Hard Case"@en	COL title VAL  "DJI Mavic 2 Enterprise Zoom Drone with Smart Controller"@en	0
+COL title VAL  "APC Smart-UPS USV Stromversorgung, 640W, 230V"@de	COL title VAL  "APC Smart-UPS RM 1000VA USB & Serial - UPS - 640 Watt - 1000 VA"@de	1
+COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	COL title VAL  "Netgear GS108PE Géré Gigabit Ethernet (10/100/1000) Noir Connexion Ethernet, supportant l'alimentation via ce port (PoE)"@fr	1
+COL title VAL  "UbiQuiti Unfi UAP-AC-Lite Drahtlose Basisstation"@it	COL title VAL  "Ubiquiti Unifi Ap-AC Lite - Wireless Access Point - 802.11 B/A/G/n/AC (UAPACLITEUS)"@fr	1
+COL title VAL  "Wireless Bluetooth 5.0 Earphones with Case"@en	COL title VAL  "Baseus S09 Bluetooth Wireless Earbuds"@en	0
+COL title VAL  "Baseus S09 Bluetooth Wireless Earbuds"@en	COL title VAL  "The Latest Touch - Controlled Wireless Earbuds Of 2020 ( FREE SHIPPING )"@en	0
+COL title VAL  "Jabra EVOLVE 30 II UC Stereo headset"@en	COL title VAL  "Jabra Evolve 40 MS Stereo Headset"@en	0
+COL title VAL  "ProSafe 1PT 2X2 11AC PROSAFE AP"@en	COL title VAL  "APC - Replacement Battery Cartridge #2"@en	0
+COL title VAL  "JABRA EVOLVE 20 MS MONO NC MON"@pt	COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	0
+COL title VAL  "UbiQuiti Unfi UAP-AC-Lite Drahtlose Basisstation"@it	COL title VAL  "Ubiquiti UniFi Indoor, 2.4GHz/5GHz,"@it	0
+COL title VAL  "1 Port Gigabit PoE Injector - DPE-301GI"@en	COL title VAL  "MikroTik RB260GSP - Desktop PoE Switch with 5 Gb and 1 SFP Port"@en	0
+COL title VAL  "APC Smart-UPS 1500VA LCD Tower UPS"@en	COL title VAL  "APC Smart-UPS RM 1000VA USB & Serial - UPS - 640 Watt - 1000 VA"@de	0
+COL title VAL  "BlueSolar PWM-Pro Charge Controller 12/24V-20A"@en	COL title VAL  "Victron Energy BlueSolar PWM Pro Charge Controller 12/24V 5A - SCC010005010"@en	0
+COL title VAL  "Ubiquiti Networks UAP-AC-LITE Access point - Wit"@en	COL title VAL  "Anker Soundcore Liberty Neo TWS True Wireless Earphones With Bluetooth 5.0, Sports Sweatproof, and Noise Isolation,2019 Upgraded"@en	0
+COL title VAL  "Garmin 010-01885-05 ECHOMAP Plus"@de	COL title VAL  "Garmin ECHOMAP Plus 43cv with Transducer"@en	1
+COL title VAL  "Garmin STRIKER 4 Fishfinder Worldwide Version w/77/200kHz - 4-Pin Transducer w/Transom & Trolling Motor Mounts"@en	COL title VAL  "GarminStriker Fishfinder w/Gps & Crirp Sonar"@de	0
+COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (Refurb)"@en	COL title VAL  "Cisco IE-2000-16TC-G-L Industrial Ethernet 2000 Series 16-port Managed Switch with 2x Gigabit SFP"@en	0
+COL title VAL  "Victron Energy BlueSolar PWM Pro Charge Controller 12/24V 5A - SCC010005010"@en	COL title VAL  "Victron Energy BlueSolar PWM Pro - Solar Charge Controllers"@en	0
+COL title VAL  "Ubiquiti Networks UAP-AC-LITE Access point - Wit"@en	COL title VAL  "UbiQuiti Unfi UAP-AC-Lite Drahtlose Basisstation"@it	0
+COL title VAL  "APC - Schneider SMART-UPS 1500VA LCD 230V"@de	COL title VAL  "APC Smart-UPS 1500VA LCD Tower UPS"@en	1
+COL title VAL  "DJI Mavic 2 Enterprise Zoom Drone with Smart Controller"@en	COL title VAL  "Go Professional - DJI Mavic 2 Pro/Zoom w/ Smart Controller"@en	0
+COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (Refurb)"@en	COL title VAL  "SF110-24-NA - Cisco SF110-24 Unmanaged Small Business Switch, 24 Port 10/100 - Refurb'd"@en	0
+COL title VAL  "Garmin STRIKER 4 Fishfinder Worldwide Version w/77/200kHz - 4-Pin Transducer w/Transom & Trolling Motor Mounts"@en	COL title VAL  "GARMIN Garmin Striker 4 FishfinderQuickdraw Contour"@de	0
+COL title VAL  "Ubiquiti Unifi Ap-AC Lite - Wireless Access Point - 802.11 B/A/G/n/AC (UAPACLITEUS)"@fr	COL title VAL  "Netgear Business 2x2 DualBand Wls-AC Access Point"@en	0
+COL title VAL  "Cleito 120 Glass By Aspire"@en	COL title VAL  "Aspire Cleito 120 4ML Replacement Pyrex"@fr	1
+COL title VAL  "Victron Energy BlueSolar PWM Pro Charge Controller 12/24V 5A - SCC010005010"@en	COL title VAL  "BlueSolar PWM-Pro Charge Controller 12/24V-5A"@en	1
+COL title VAL  "Everpure Water Filter Cartridge - 2CB5-S"@de	COL title VAL  "FILTER, 2CB5-S, OCS, T&O/PARTICULATE/SCALE REDUCTION CARTRIDGE, 5 MICRON"@en	1
+COL title VAL  "Go Professional - DJI Mavic 2 Pro/Zoom w/ Smart Controller"@en	COL title VAL  "DJI Mavic 2 Enterprise (Zoom) w/ Smart Controller and DJI Enterprise Shield Basic"@en	0
+COL title VAL  "S11 Dual ear LED B"@en	COL title VAL  "SF11024 24 Port 10 100 Switch"@en	0
+COL title VAL  "Langsdom Mijiaer JM21 In ear Earphones For Phone iPhone Huawei Xiaomi Headsets Wired Earphone Earbuds Earpiece fone de ouvido"@en	COL title VAL  "Colorful Headset Hi-Fi Earbuds Bass Earpieces Earphone"@en	1
+COL title VAL  "WS-C3560X-48T-S For Sale | Low Price | New In Box"@en	COL title VAL  "Langsdom Mijiaer JM21 In ear Earphones For Phone iPhone Huawei Xiaomi Headsets Wired Earphone Earbuds Earpiece fone de ouvido"@en	0
+COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	COL title VAL  "Jabra Evolve 40 MS Stereo Headset"@en	0
+COL title VAL  "Netgear Business 2x2 DualBand Wls-AC Access Point"@en	COL title VAL  "Ubiquiti UniFi AP-SHD Access Point 5 Pack"@fr	0
+COL title VAL  "Mavic 2 Enterprise（DUAL) Universal Edition (US & Canada) (SP)"@en	COL title VAL  "DJI DJI | Mavic 2 Enterprise Dual - with Enterprise Shield Basic CP.EN.00000107.01"@en	1
+COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	COL title VAL  "Cisco IE-2000-16TC-G-L Industrial Ethernet 2000 Series 16-port Managed Switch with 2x Gigabit SFP"@en	0
+COL title VAL  "S11 Dual ear LED B"@en	COL title VAL  "DJI Mavic 2 Enterprise Dual"@en	0
+COL title VAL  "Netgear Business 2x2 DualBand Wls-AC Access Point"@en	COL title VAL  "Wireless-ac/n Dual Radio Access"@en	0
+COL title VAL  "Hikvision DS-7608NI-K2 Network Video Recorder 8-channels"@en	COL title VAL  "TP-Link Archer VR400-AC1200 Wireless Gigabit VDSL/ADSL Modem Router(Black)."@de	0
+COL title VAL  "Cisco WiFi AP Dual Radi 802.11acWAP150-E-K9-EU"@en	COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (Refurb)"@en	0
+COL title VAL  "Victron Energy BlueSolar PWM Pro Charge Controller 12/24V 5A - SCC010005010"@en	COL title VAL  "Victron Energy BlueSolar PWM Pro Charge Controller 12/24V 20A - SCC010020110"@en	0
+COL title VAL  "DJI Mavic 2 Enterprise (Zoom) w/ Smart Controller and DJI Enterprise Shield Basic"@en	COL title VAL  "DJI Mavic 2 Enterprise Dual"@en	0
+COL title VAL  "JABRA - EVOLVE 40 MS Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	0
+COL title VAL  "S11 Dual ear LED B"@en	COL title VAL  "Wireless-ac/n Dual Radio Access"@en	0
+COL title VAL  "Jabra Evolve 30 II UC Stereo USB/3.5mm Headset"@en	COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	0
+COL title VAL  "Ubiquiti Unifi Ap-AC Lite - Wireless Access Point - 802.11 B/A/G/n/AC (UAPACLITEUS)"@fr	COL title VAL  "Ubiquiti UniFi AP AC SHD Wave 2 Access Point with Security and BLE (5 Pack)"@en	0
+COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	COL title VAL  "STRIKER™ Plus 5cv With GT20-TM transducer"@en	0
+COL title VAL  "BLUE SOLAR PWM-PRO 12/24V 10A"@de	COL title VAL  "BlueSolar PWM-Pro Charge Controller 12/24V-5A"@en	0
+COL title VAL  "1 Port Gigabit PoE Injector - DPE-301GI"@en	COL title VAL  "Netgear GS108PE Géré Gigabit Ethernet (10/100/1000) Noir Connexion Ethernet, supportant l'alimentation via ce port (PoE)"@fr	0
+COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	COL title VAL  "Garmin 010-01874-00 Striker Plus 7SV with CV52HW-TM transducer, 7 inches"@en	1
+COL title VAL  "BlueSolar PWM-Pro Charge Controller 12/24V-20A"@en	COL title VAL  "Victron Energy BlueSolar PWM Pro Charge Controller 12/24V 20A - SCC010020110"@en	1
+COL title VAL  "APC - Replacement Battery Cartridge #2"@en	COL title VAL  "Everpure Water Filter Cartridge - 2CB5-S"@de	0
+COL title VAL  "Cleito 120 Glass By Aspire"@en	COL title VAL  "Nautilus XS Coils by Aspire"@en	0
+COL title VAL  "APC By Schneider Electric APC Smart-ups 1500va Lcd Rm 2u 120v"@ca	COL title VAL  "APC - Schneider SMART-UPS 1500VA LCD 230V"@de	0
+COL title VAL  "APC By Schneider Electric APC Smart-ups 1500va Lcd Rm 2u 120v"@ca	COL title VAL  "APC Smart-UPS 1500VA LCD Tower UPS"@en	0
+COL title VAL  "Evolve 80 MS, Stereo, USB-C"@en	COL title VAL  "Jabra Evolve 40 MS Stereo Headset"@en	0
+COL title VAL  "Striker Plus 5cv, Worldwide w/GT20"@de	COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	0
+COL title VAL  "DJI Mavic 2 Enterprise Dual"@en	COL title VAL  "Go Professional Cases DJI Mavic 2 Pro/Zoom Hard Case"@en	0
+COL title VAL  "SF11024 24 Port 10 100 Switch"@en	COL title VAL  "WS-C3650-8X24UQ-LCisco Catalyst 3650 24 Port mGig, 4x10G Uplink, LAN Base"@en	0
+COL title VAL  "Aspire Cleito 120 4ML Replacement Pyrex"@fr	COL title VAL  "ASPIRE ASPIRE NAUTILUS AIO REPLACEMENT POD"@pt	0
+COL title VAL  "Go Professional - DJI Mavic 2 Pro/Zoom w/ Smart Controller"@en	COL title VAL  "DJI Mavic 2 Enterprise Dual"@en	0
+COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	COL title VAL  "JABRA - EVOLVE 40 MS Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	0
+COL title VAL  "WS-C3650-8X24UQ-LCisco Catalyst 3650 24 Port mGig, 4x10G Uplink, LAN Base"@en	COL title VAL  "Catalyst 3560X 48 Port Data IP Base"@en	0
+COL title VAL  "Langsdom Mijiaer JM21 In ear Earphones For Phone iPhone Huawei Xiaomi Headsets Wired Earphone Earbuds Earpiece fone de ouvido"@en	COL title VAL  "Wireless Bluetooth 5.0 Earphones with Case"@en	0
+COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	COL title VAL  "Striker Plus 5cv, Worldwide w/GT20"@de	0
+COL title VAL  "1 Port Gigabit PoE Injector - DPE-301GI"@en	COL title VAL  "Cisco IE-2000-16TC-G-L Industrial Ethernet 2000 Series 16-port Managed Switch with 2x Gigabit SFP"@en	0
+COL title VAL  "Langsdom Mijiaer JM21 In ear Earphones For Phone iPhone Huawei Xiaomi Headsets Wired Earphone Earbuds Earpiece fone de ouvido"@en	COL title VAL  "Bluetooth In-Ear Earphones with Microphone"@en	0
+COL title VAL  "DJI »Mavic 2 Enterprise Universal Edition Dual« drone"@en	COL title VAL  "DJI Mavic 2 Enterprise Zoom Drone with Smart Controller"@en	0
+COL title VAL  "Jabra Jabra Evolve 20 MS mono USB headset - MS Teams - Skype for Business"@en	COL title VAL  "JABRA EVOLVE 20 MS MONO NC MON"@pt	1
+COL title VAL  "Wireless Sweatproof Mini Earphones with Microphone"@en	COL title VAL  "Xiaomi Redmi Airdots S In Ear TWS Bluetooth5.0Earphone Bass Stereo Wireless Cancellation With Mic Handsfree Earbuds AI Control"@en	0
+COL title VAL  "Nautilus 2s Coils by Aspire (5Pack)"@en	COL title VAL  "Cleito 120 Glass By Aspire"@en	0
+COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (Refurb)"@en	COL title VAL  "Switch CISCO WS-C2960XR-24PS-I"@en	0
+COL title VAL  "Ubiquiti Networks UAP-AC-LITE Access point - Wit"@en	COL title VAL  "Netgear Business 2x2 DualBand Wls-AC Access Point"@en	0
+COL title VAL  "Nautilus XS Coils by Aspire"@en	COL title VAL  "ASPIRE NAUTILUS 2S 0.7 OHM MESH COIL"@de	0
+COL title VAL  "Switch CISCO WS-C2960XR-24PS-I"@en	COL title VAL  "WS-C3650-8X24UQ-L - Cisco Catalyst 3650 Network Switch - Refurb'd"@en	0
+COL title VAL  "DJI Mavic 2 Enterprise Dual"@en	COL title VAL  "DJI »Mavic 2 Enterprise Universal Edition Dual« drone"@en	1
+COL title VAL  "Jabra Evolve 30 II UC Stereo USB/3.5mm Headset"@en	COL title VAL  "Jabra Evolve 40 MS Stereo Headset"@en	0
+COL title VAL  "Striker Plus 5cv, Worldwide w/GT20"@de	COL title VAL  "GARMIN Garmin Striker 4 FishfinderQuickdraw Contour"@de	0
+COL title VAL  "Garmin STRIKER 4 Fishfinder Worldwide Version w/77/200kHz - 4-Pin Transducer w/Transom & Trolling Motor Mounts"@en	COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	1
+COL title VAL  "WS-C3650-8X24UQ-L - Cisco Catalyst 3650 Network Switch - Refurb'd"@en	COL title VAL  "Jabra Evolve 40 MS Stereo Headset"@en	0
+COL title VAL  "BlueSolar PWM-Pro Charge Controller 12/24V-5A"@en	COL title VAL  "BlueSolar PWM-Pro Charge Controller 12/24V-20A"@en	0
+COL title VAL  "Ubiquiti Networks UAP-AC-LITE Access point - Wit"@en	COL title VAL  "Ubiquiti Unifi Ap-AC Lite - Wireless Access Point - 802.11 B/A/G/n/AC (UAPACLITEUS)"@fr	0
+COL title VAL  "Cisco WiFi AP Dual Radi 802.11acWAP150-E-K9-EU"@en	COL title VAL  "Wireless-ac/n Dual Radio Access"@en	1
+COL title VAL  "Victron Energy BlueSolar PWM Pro - Solar Charge Controllers"@en	COL title VAL  "Victron Energy BlueSolar PWM Pro Charge Controller 12/24V 20A - SCC010020110"@en	0
+COL title VAL  "APC By Schneider Electric APC Smart-ups 1500va Lcd Rm 2u 120v"@ca	COL title VAL  "APC By Schneider Electric Replacement Battery For Bk250b& More"@en	0
+COL title VAL  "Mavic 2 Zoom with Smart Controller 16GB"@en	COL title VAL  "DJI Drone CP.MA.00000033.01 Mavic 2 Zoom + Smart Controller Bundle Retail"@en	1
+COL title VAL  "Cisco SG500 52P Gigabit SG500-52-K9-NA"@de	COL title VAL  "SF110-24-NA - Cisco SF110-24 Unmanaged Small Business Switch, 24 Port 10/100 - Refurb'd"@en	0
+COL title VAL  "Nautilus 2s Coils by Aspire (5Pack)"@en	COL title VAL  "ASPIRE NAUTILUS 2S 0.7 OHM MESH COIL"@de	1
+COL title VAL  "ACER - PROJECTOREN LAMP FOR P1623 ACCS"@de	COL title VAL  "Acer Projector Lamp MR.JNC11.002"@en	1
+COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	COL title VAL  "Garmin 010-01885-05 ECHOMAP Plus"@de	0
+COL title VAL  "Cisco IE-2000-16TC-G-L Industrial Ethernet 2000 Series 16-port Managed Switch with 2x Gigabit SFP"@en	COL title VAL  "Netgear GS108PE Géré Gigabit Ethernet (10/100/1000) Noir Connexion Ethernet, supportant l'alimentation via ce port (PoE)"@fr	0
+COL title VAL  "MikroTik RB260GSP, 5xGigabit, SFP, PoE out for four ports, SwOS"@en	COL title VAL  "MikroTik RB260GSP - Desktop PoE Switch with 5 Gb and 1 SFP Port"@en	1
+COL title VAL  "Langsdom Mijiaer JM21 In ear Earphones For Phone iPhone Huawei Xiaomi Headsets Wired Earphone Earbuds Earpiece fone de ouvido"@en	COL title VAL  "Xiaomi Redmi Airdots S In Ear TWS Bluetooth5.0Earphone Bass Stereo Wireless Cancellation With Mic Handsfree Earbuds AI Control"@en	0
+COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	COL title VAL  "JABRA EVOLVE 20 MS MONO NC MON"@pt	0
+COL title VAL  "STRIKER™ Plus 5cv With GT20-TM transducer"@en	COL title VAL  "Garmin ECHOMAP Plus 43cv with Transducer"@en	0
+COL title VAL  "Wireless-ac/n Dual Radio Access"@en	COL title VAL  "UbiQuiti Unfi UAP-AC-Lite Drahtlose Basisstation"@it	0
+COL title VAL  "Ubiquiti Networks UAP-AC-LITE Access point - Wit"@en	COL title VAL  "Wireless-ac/n Dual Radio Access"@en	0
+COL title VAL  "Victron Energy BlueSolar PWM Pro Charge Controller 12/24V 20A - SCC010020110"@en	COL title VAL  "BlueSolar PWM-Pro Charge Controller 12/24V-5A"@en	0
+COL title VAL  "SF11024 24 Port 10 100 Switch"@en	COL title VAL  "Netgear GS108PE Géré Gigabit Ethernet (10/100/1000) Noir Connexion Ethernet, supportant l'alimentation via ce port (PoE)"@fr	0
+COL title VAL  "TP-Link Archer VR400-AC1200 Wireless Gigabit VDSL/ADSL Modem Router(Black)."@de	COL title VAL  "TP-Link Archer-VR400 AC1200 VDSL/ADSL Modem Router"@de	1
+COL title VAL  "GARMIN Garmin Striker 4 FishfinderQuickdraw Contour"@de	COL title VAL  "GarminStriker Fishfinder w/Gps & Crirp Sonar"@de	1
+COL title VAL  "Everpure Water Filter Cartridge - 2CB5-S"@de	COL title VAL  "Mavic 2 Enterprise（DUAL) Universal Edition (US & Canada) (SP)"@en	0
+COL title VAL  "1500VA Power Backup UPS - Refurbished - SUA1500RM2U w AP9630"@en	COL title VAL  "APC By Schneider Electric APC Smart-ups 1500va Lcd Rm 2u 120v"@ca	1
+COL title VAL  "Garmin ECHOMAP Plus 43cv with Transducer"@en	COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	0
+COL title VAL  "BLUE SOLAR PWM-PRO 12/24V 10A"@de	COL title VAL  "Victron Energy BlueSolar PWM Pro - Solar Charge Controllers"@en	1
+COL title VAL  "Jabra EVOLVE 30 II UC Stereo headset"@en	COL title VAL  "Jabra EVOLVE 30 II Mono Headset - For Microsoft Lync"@en	0
+COL title VAL  "Mavic 2 Zoom with Smart Controller 16GB"@en	COL title VAL  "Go Professional - DJI Mavic 2 Pro/Zoom w/ Smart Controller"@en	0
+COL title VAL  "Cisco WiFi AP Dual Radi 802.11acWAP150-E-K9-EU"@en	COL title VAL  "Cisco SG500 52P Gigabit SG500-52-K9-NA"@de	0
+COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	COL title VAL  "Jabra EVOLVE 30 II Mono Headset - For Microsoft Lync"@en	1
+COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	0
+COL title VAL  "Jabra EVOLVE 30 II Mono Headset - For Microsoft Lync"@en	COL title VAL  "Jabra Evolve 40 MS Stereo Headset"@en	0
+COL title VAL  "DJI DJI | Mavic 2 Enterprise Dual - with Enterprise Shield Basic CP.EN.00000107.01"@en	COL title VAL  "Mavic 2 Zoom with Smart Controller 16GB"@en	0
+COL title VAL  "Ubiquiti UniFi Indoor, 2.4GHz/5GHz,"@it	COL title VAL  "Ubiquiti UniFi AP AC SHD Wave 2 Access Point with Security and BLE (5 Pack)"@en	0
+COL title VAL  "APC - Replacement Battery Cartridge #2"@en	COL title VAL  "Aspire Cleito 120 4ML Replacement Pyrex"@fr	0
+COL title VAL  "Wireless Bluetooth 5.0 Earphones with Case"@en	COL title VAL  "Anker Soundcore Liberty Neo TWS True Wireless Earphones With Bluetooth 5.0, Sports Sweatproof, and Noise Isolation,2019 Upgraded"@en	0
+COL title VAL  "MikroTik RB260GSP - Desktop PoE Switch with 5 Gb and 1 SFP Port"@en	COL title VAL  "Cisco IE-2000-16TC-G-L Industrial Ethernet 2000 Series 16-port Managed Switch with 2x Gigabit SFP"@en	0
+COL title VAL  "ASPIRE ASPIRE NAUTILUS AIO REPLACEMENT POD"@pt	COL title VAL  "Nautilus 2s Coils by Aspire (5Pack)"@en	0
+COL title VAL  "DJI Drone CP.MA.00000033.01 Mavic 2 Zoom + Smart Controller Bundle Retail"@en	COL title VAL  "DJI DJI | Mavic 2 Enterprise Dual - with Enterprise Shield Basic CP.EN.00000107.01"@en	0
+COL title VAL  "Catalyst 3560X 48 Port Data IP Base"@en	COL title VAL  "CISCO - CATALYST 2960-XR 24 GIGE POE 370W 4 X 1G SFP IP LITE IN"@pl	0

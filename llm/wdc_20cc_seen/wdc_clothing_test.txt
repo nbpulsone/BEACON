@@ -1,0 +1,30 @@
+COL title VAL  "Hat New Era Oakland Raiders HM Knitted Cap"@en	COL title VAL  "Kappen New Era Oakland Raiders HM Knitted Cap"@en	1
+COL title VAL  "Šiltovka New Era Clean Trucker Chicago Bulls Cap"@en	COL title VAL  "Šilterica New Era Clean Trucker 2 NY Yankees Cap"@en	0
+COL title VAL  "Šiltovka New Era Clean Trucker Chicago Bulls Cap"@en	COL title VAL  "Casquette New Era Clean Trucker Chicago Bulls Cap"@en	1
+COL title VAL  "Šilterica New Era NFL New Orleans Saints 9Fifty Cap"@en	COL title VAL  "Gorra New Era NY Yankees MLB 9Fifty Cap"@en	0
+COL title VAL  "Kappe New Era NY Yankees MLB 9Fifty Cap"@en	COL title VAL  "Šilterica New Era Clean Trucker 2 NY Yankees Cap"@en	0
+COL title VAL  "Kappe New Era NY Yankees MLB 9Fifty Cap"@en	COL title VAL  "Sapca New Era NY Yankees 9Forty Cap"@en	0
+COL title VAL  "New Era New York Yankees Clean A Frame Trucker Baseball Cap Grey"@en	COL title VAL  "Czapka z daszkiem New Era 39THIRTY MLB New York Yankees - 10298279"@pl	0
+COL title VAL  "Gorra New Era NY Yankees MLB 9Fifty Cap"@en	COL title VAL  "Sapca New Era NY Yankees 9Forty Cap"@en	0
+COL title VAL  "New Era New York Yankees Clean A Frame Trucker Baseball Cap Grey"@en	COL title VAL  "New Era 9FORTY New York Yankees Baseball Cap - MLB League Basic - Navy Blue"@en	0
+COL title VAL  "Gorra New Era NY Yankees MLB 9Fifty Cap"@en	COL title VAL  "Šilterica New Era NY Yankees 39Thirty Cap"@en	0
+COL title VAL  "Šiltovka New Era NFL New Orleans Saints 9Fifty Cap"@en	COL title VAL  "Hat New Era Oakland Raiders HM Knitted Cap"@en	0
+COL title VAL  "New Era 9FORTY New York Yankees Baseball Cap - MLB League Basic - Navy Blue"@en	COL title VAL  "Sapca New Era NY Yankees 9Forty Cap"@en	1
+COL title VAL  "Gorra New Era NY Yankees MLB 9Fifty Cap"@en	COL title VAL  "Czapka z daszkiem New Era 39THIRTY MLB New York Yankees - 10298279"@pl	0
+COL title VAL  "Czapka z daszkiem New Era 39THIRTY MLB New York Yankees - 10298279"@pl	COL title VAL  "Šilterica New Era NY Yankees 39Thirty Cap"@en	1
+COL title VAL  "Gorra New Era NY Yankees MLB 9Fifty Cap"@en	COL title VAL  "Šiltovka New Era NFL New Orleans Saints 9Fifty Cap"@en	0
+COL title VAL  "Šilterica New Era NFL New Orleans Saints 9Fifty Cap"@en	COL title VAL  "Šilterica New Era NY Yankees 39Thirty Cap"@en	0
+COL title VAL  "Sapca New Era NY Yankees 9Forty Cap"@en	COL title VAL  "Šilterica New Era NY Yankees 39Thirty Cap"@en	0
+COL title VAL  "Šilterica New Era Clean Trucker 2 NY Yankees Cap"@en	COL title VAL  "Sapca New Era NY Yankees 9Forty Cap"@en	0
+COL title VAL  "Šilterica New Era Clean Trucker 2 NY Yankees Cap"@en	COL title VAL  "Casquette New Era Clean Trucker Chicago Bulls Cap"@en	0
+COL title VAL  "Šilterica New Era NY Yankees 39Thirty Cap"@en	COL title VAL  "Kappen New Era Oakland Raiders HM Knitted Cap"@en	0
+COL title VAL  "Šilterica New Era NFL New Orleans Saints 9Fifty Cap"@en	COL title VAL  "Šiltovka New Era NFL New Orleans Saints 9Fifty Cap"@en	1
+COL title VAL  "Šilterica New Era NY Yankees 39Thirty Cap"@en	COL title VAL  "Kappe New Era NY Yankees MLB 9Fifty Cap"@en	0
+COL title VAL  "New Era New York Yankees Clean A Frame Trucker Baseball Cap Grey"@en	COL title VAL  "Casquette New Era Clean Trucker Chicago Bulls Cap"@en	0
+COL title VAL  "Gorra New Era NY Yankees MLB 9Fifty Cap"@en	COL title VAL  "Kappe New Era NY Yankees MLB 9Fifty Cap"@en	1
+COL title VAL  "Czapka z daszkiem New Era 39THIRTY MLB New York Yankees - 10298279"@pl	COL title VAL  "New Era 9FORTY New York Yankees Baseball Cap - MLB League Basic - Navy Blue"@en	0
+COL title VAL  "Gorra New Era NY Yankees MLB 9Fifty Cap"@en	COL title VAL  "New Era 9FORTY New York Yankees Baseball Cap - MLB League Basic - Navy Blue"@en	0
+COL title VAL  "Šiltovka New Era NFL New Orleans Saints 9Fifty Cap"@en	COL title VAL  "Šiltovka New Era Clean Trucker Chicago Bulls Cap"@en	0
+COL title VAL  "Šilterica New Era Clean Trucker 2 NY Yankees Cap"@en	COL title VAL  "New Era New York Yankees Clean A Frame Trucker Baseball Cap Grey"@en	1
+COL title VAL  "Šilterica New Era Clean Trucker 2 NY Yankees Cap"@en	COL title VAL  "Gorra New Era NY Yankees MLB 9Fifty Cap"@en	0
+COL title VAL  "Šilterica New Era NY Yankees 39Thirty Cap"@en	COL title VAL  "Šilterica New Era Clean Trucker 2 NY Yankees Cap"@en	0

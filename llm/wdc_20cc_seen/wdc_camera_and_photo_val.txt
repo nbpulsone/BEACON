@@ -1,0 +1,145 @@
+COL title VAL  "EF 24-105mm f/3.5-5.6 IS STM"@da	COL title VAL  "RF 24-240mm f/4-6.3 IS USM"@da	0
+COL title VAL  "Canon Photo Paper Pro Platinum - Photo paper - 100 x 150 mm"@en	COL title VAL  "Canon PT-101 4"X6" Photo Paper Pro Platinum (20 sheets)"@en	1
+COL title VAL  "CANON BG-E11 Battery Grip for 5D Mark III Camera"@en	COL title VAL  "Sony E 30mm f/3.5 Macro (APS-C, E-Mount)"@en	0
+COL title VAL  "Sony FE 50mm f1.8 Lens"@en	COL title VAL  "AF-S FX 50MM F1.8G"@de	0
+COL title VAL  "Sony FE 85mm f/1.8 Lens (SEL85F18/2)"@en	COL title VAL  "Sony 35mm f2.8 Sonnar T* FE ZA Lens (SEL35F28Z)"@en	0
+COL title VAL  "1 Fujifilm Instax Square Film Black Frame"@sv	COL title VAL  "Fuji Fuji Instax Square Film 1-Pack"@sq	0
+COL title VAL  "Sony FE 50mm f1.8 Lens"@en	COL title VAL  "EF 24-105mm f/3.5-5.6 IS STM"@da	0
+COL title VAL  "1 Fujifilm Instax Square Film Black Frame"@sv	COL title VAL  "Instax Mini Rainbow Film 10 Pack"@en	0
+COL title VAL  "AF-S Nikkor 50mm F/1.8G Lens"@da	COL title VAL  "Nikon NIKKOR AF-S 20MM F/1.8G ED"@de	0
+COL title VAL  "Canon 28mm f2.8 IS USM EF Lens"@en	COL title VAL  "Canon EF 100mm F2.8 L IS USM Macro Lens"@it	0
+COL title VAL  "EF 24-105mm f/3.5-5.6 IS STM"@da	COL title VAL  "EF 100mm f/2.8L Macro IS USM"@en	0
+COL title VAL  "AF-S FX 50MM F1.8G"@de	COL title VAL  "Nikon 20mm F1.8G AF-S NIKKOR ED Lens"@de	0
+COL title VAL  "[Fujifilm]100 Sheet Fujifilm Instax Square Plain White Instant Polaroid Film for SQ 10 Camera | SP3 Printer"@en	COL title VAL  "1 Fujifilm Instax Square Film Black Frame"@sv	0
+COL title VAL  "Hikvision Dome Wall mount Bracket - DS-1273ZJ-140"@en	COL title VAL  "Hikvision DS-1273ZJ-140 Bracket BLACK"@de	1
+COL title VAL  "Sony FE 24-240mm f3.5-6.3 OSS Lens"@en	COL title VAL  "Sony FE 28mm f/2 Lens"@en	0
+COL title VAL  "Nikon NIKKOR AF-S 20MM F/1.8G ED"@de	COL title VAL  "Nikon Nikon D3500 DSLR Camera with AF-P DX Nikkor 18-55 f/3.5-5.6G VR Kit"@de	0
+COL title VAL  "Canon EF 28 f/2,8 IS USM"@en	COL title VAL  "RF 24-240mm f/4-6.3 IS USM Lens"@da	0
+COL title VAL  "Fujifilm Instax Square Film Twin Pack 20 Shots"@en	COL title VAL  "Fuji Fuji Instax Square Film 1-Pack"@sq	0
+COL title VAL  "RF 24-240mm f/4-6.3 IS USM Lens"@da	COL title VAL  "EF 24-105mm f/3.5-5.6 IS STM"@da	0
+COL title VAL  "DJI Inspire 2 Battery Charging Hub"@en	COL title VAL  "Dual Battery Charger + Battery (for Hero4)"@en	0
+COL title VAL  "Sony FE 85mm f/1.8 Lens (SEL85F18/2)"@en	COL title VAL  "Sony FE 28mm f/2 Lens"@en	0
+COL title VAL  "Fuji Fuji Instax Square Film 1-Pack"@sq	COL title VAL  "Fuji Instax Mini Monochrome BLACK AND WHITE Instant Film - 10 Shot Pack"@de	0
+COL title VAL  "AF-S Nikkor 50mm F/1.8G Lens"@da	COL title VAL  "Nikon Nikon D3500 Black DX-format D-SLR w/ AF-P DX NIKKOR 18-55MM F/3.5- 5.6G VR"@de	0
+COL title VAL  "Sony FE 85mm f/1.8 Lens (SEL85F18/2)"@en	COL title VAL  "Fujifilm XF 8-16mm f/2.8 R LM WR Zoom Lens"@de	0
+COL title VAL  "Instax Mini Film Monochrome (10 Exposures)"@en	COL title VAL  "Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)"@de	0
+COL title VAL  "Instax Mini Film Monochrome (10 Exposures)"@en	COL title VAL  "Instax Mini Rainbow Film 10 Pack"@en	0
+COL title VAL  "EF 24-105mm f/3.5-5.6 IS STM"@da	COL title VAL  "EF 24-105 mm f/3,5-5,6 IS STM"@da	1
+COL title VAL  "Sony Alpha SEL50F18F FE 50mm f/1.8"@en	COL title VAL  "Sony FE 28mm f/2 Lens"@en	0
+COL title VAL  "PGI-9PB Original Canon Photo Black Ink Cartridge"@en	COL title VAL  "Canon BJ CRG PGI-9 Photo Black Ink CartridgeCO35717"@en	1
+COL title VAL  "Fujifilm Instax Mini Film Rainbow"@de	COL title VAL  "1 Fujifilm Instax Square Film Black Frame"@sv	0
+COL title VAL  "Sony FE 28mm f/2 Lens"@en	COL title VAL  "Sony FE 24-240mm F/3.5-6.3 OSS Lens Sony"@en	0
+COL title VAL  "EF 24-105mm f/3.5-5.6 IS STM"@da	COL title VAL  "Nikon Nikon D3500 Black DX-format D-SLR w/ AF-P DX NIKKOR 18-55MM F/3.5- 5.6G VR"@de	0
+COL title VAL  "Sony FE 85mm f/1.8 Lens (SEL85F18/2)"@en	COL title VAL  "Sony SEL FE 35mm f/1.8 E-Mount Lens"@en	0
+COL title VAL  "Canon Photo Paper Plus II PP-201 Glossy photo paper"@en	COL title VAL  "Canon Photo Paper Pro Platinum - Photo paper - 100 x 150 mm"@en	0
+COL title VAL  "Sony FE 50mm f1.8 Lens"@en	COL title VAL  "Sony FE 85mm F1.8"@en	0
+COL title VAL  "Nikon Nikon D3500 Black DX-format D-SLR w/ AF-P DX NIKKOR 18-55MM F/3.5- 5.6G VR"@de	COL title VAL  "Nikon Nikon D3500 DSLR Camera with AF-P DX Nikkor 18-55 f/3.5-5.6G VR Kit"@de	1
+COL title VAL  "Sony FE 85mm f/1.8 Lens (SEL85F18/2)"@en	COL title VAL  "Sony FE 50mm f1.8 Lens"@en	0
+COL title VAL  "PGI-9PB Original Canon Photo Black Ink Cartridge"@en	COL title VAL  "Canon Photo Paper Pro Platinum - Photo paper - 100 x 150 mm"@en	0
+COL title VAL  "Fujifilm Instax Mini Film Rainbow"@de	COL title VAL  "Instax Mini Film Monochrome (10 Exposures)"@en	0
+COL title VAL  "[Fujifilm]100 Sheet Fujifilm Instax Square Plain White Instant Polaroid Film for SQ 10 Camera | SP3 Printer"@en	COL title VAL  "Fuji Instax Mini Monochrome BLACK AND WHITE Instant Film - 10 Shot Pack"@de	0
+COL title VAL  "Nikon Nikon D3500 DSLR Camera with AF-P DX Nikkor 18-55 f/3.5-5.6G VR Kit"@de	COL title VAL  "AF-S Nikkor 50mm F/1.8G Lens"@da	0
+COL title VAL  "AF-S Nikkor 50mm F/1.8G Lens"@da	COL title VAL  "Nikon 20mm F1.8G AF-S NIKKOR ED Lens"@de	0
+COL title VAL  "AF-S FX 50MM F1.8G"@de	COL title VAL  "AF-S Nikkor 50mm F/1.8G Lens"@da	1
+COL title VAL  "Sony SEL35F18F NEX FF lens 35mm F1.8"@da	COL title VAL  "Sony 35mm f2.8 Sonnar T* FE ZA Lens (SEL35F28Z)"@en	0
+COL title VAL  "Sony FE 28mm f/2 Lens"@en	COL title VAL  "Canon 28mm f2.8 IS USM EF Lens"@en	0
+COL title VAL  "Sony FE 85mm F1.8"@en	COL title VAL  "AF-S FX 50MM F1.8G"@de	0
+COL title VAL  "SONY A9 MARK II, BODY ONLY"@en	COL title VAL  "Sony FE 85mm F1.8"@en	0
+COL title VAL  "Canon EF 28 f/2,8 IS USM"@en	COL title VAL  "Canon EF 100mm F2.8 L IS USM Macro Lens"@it	0
+COL title VAL  "Sony FE 24-240mm F/3.5-6.3 OSS Lens Sony"@en	COL title VAL  "EF 24-105 mm f/3,5-5,6 IS STM"@da	0
+COL title VAL  "Nikon 20mm F1.8G AF-S NIKKOR ED Lens"@de	COL title VAL  "Nikon NIKKOR AF-S 20MM F/1.8G ED"@de	1
+COL title VAL  "Fuji Instax Mini Monochrome BLACK AND WHITE Instant Film - 10 Shot Pack"@de	COL title VAL  "Fujifilm Instax Square Film Twin Pack 20 Shots"@en	0
+COL title VAL  "Sony Full Frame E-Mount SEL28F20 Lens,Black"@en	COL title VAL  "Sony 30mm F3.5 Macro E-Mount Lens"@en	0
+COL title VAL  "EF 24-105mm f/3.5-5.6 IS STM"@da	COL title VAL  "Sony FE 24-240mm F/3.5-6.3 OSS Lens Sony"@en	0
+COL title VAL  "Fujifilm Instax Mini Film Rainbow"@de	COL title VAL  "Fujifilm Instax Square Instant Film - Plain White (10 Shots)"@en	0
+COL title VAL  "Sony FE 85mm f/1.8 Lens (SEL85F18/2)"@en	COL title VAL  "Canon EF 28 f/2,8 IS USM"@en	0
+COL title VAL  "GoPro Dual Battery Charger (for HERO4)"@en	COL title VAL  "CANON BG-E11 Battery Grip for 5D Mark III Camera"@en	0
+COL title VAL  "Sony FE 85mm f/1.8 Lens (SEL85F18/2)"@en	COL title VAL  "Sony Alpha SEL50F18F FE 50mm f/1.8"@en	0
+COL title VAL  "Fujifilm Instax Mini Film Rainbow"@de	COL title VAL  "Fujifilm Instax Square Film Twin Pack 20 Shots"@en	0
+COL title VAL  "Sony 35mm f2.8 Sonnar T* FE ZA Lens (SEL35F28Z)"@en	COL title VAL  "Sony SEL FE 35mm f/1.8 E-Mount Lens"@en	0
+COL title VAL  "Canon Battery Grip BG-E11"@en	COL title VAL  "CANON BG-E11 Battery Grip for 5D Mark III Camera"@en	1
+COL title VAL  "Sony FE 28mm f/2 Lens"@en	COL title VAL  "Fujifilm XF 8-16mm f/2.8 R LM WR Zoom Lens"@de	0
+COL title VAL  "Sony SEL35F18F NEX FF lens 35mm F1.8"@da	COL title VAL  "Sony FE 50mm f1.8 Lens"@en	0
+COL title VAL  "Sony FE 50mm f1.8 Lens"@en	COL title VAL  "AF-S Nikkor 50mm F/1.8G Lens"@da	0
+COL title VAL  "Sony SEL FE 35mm f/1.8 E-Mount Lens"@en	COL title VAL  "Sony Sonnar T* FE 35mm f/2.8 ZA Lens"@en	0
+COL title VAL  "Sony Alpha SEL50F18F FE 50mm f/1.8"@en	COL title VAL  "Sony SEL FE 35mm f/1.8 E-Mount Lens"@en	0
+COL title VAL  "Canon EF 28 f/2,8 IS USM"@en	COL title VAL  "Canon 28mm f2.8 IS USM EF Lens"@en	1
+COL title VAL  "[Fujifilm]100 Sheet Fujifilm Instax Square Plain White Instant Polaroid Film for SQ 10 Camera | SP3 Printer"@en	COL title VAL  "Fujifilm Instax Square Instant Film - Plain White (10 Shots)"@en	0
+COL title VAL  "Canon PT-101 4"X6" Photo Paper Pro Platinum (20 sheets)"@en	COL title VAL  "Canon 2311B019 Gloss Photo Paper A4 20 Sheets"@en	0
+COL title VAL  "Sony FE 50mm f1.8 Lens"@en	COL title VAL  "Sony Sonnar T* FE 35mm f/2.8 ZA Lens"@en	0
+COL title VAL  "Fujifilm Instax Square Film Twin Pack 20 Shots"@en	COL title VAL  "[Fujifilm]100 Sheet Fujifilm Instax Square Plain White Instant Polaroid Film for SQ 10 Camera | SP3 Printer"@en	1
+COL title VAL  "Canon EF 28 f/2,8 IS USM"@en	COL title VAL  "Sony FE 28mm f/2 Lens"@en	0
+COL title VAL  "2MP 25X Network IR PTZ Camera"@en	COL title VAL  "ALPHA A9 II MIRRORLESS CAMERA (BODY ONLY)"@hu	0
+COL title VAL  "Nikon Nikon D3500 Black DX-format D-SLR w/ AF-P DX NIKKOR 18-55MM F/3.5- 5.6G VR"@de	COL title VAL  "Nikon NIKKOR AF-S 20MM F/1.8G ED"@de	0
+COL title VAL  "Fuji Instax Mini Monochrome BLACK AND WHITE Instant Film - 10 Shot Pack"@de	COL title VAL  "Fujifilm Instax Square Instant Film - Plain White (10 Shots)"@en	0
+COL title VAL  "Instax Mini Rainbow Film 10 Pack"@en	COL title VAL  "Fujifilm Instax Square Film Twin Pack 20 Shots"@en	0
+COL title VAL  "EF 24-105mm f/3.5-5.6 IS STM"@da	COL title VAL  "Sony FE 85mm F1.8"@en	0
+COL title VAL  "Sony Sonnar T* FE 35mm f/2.8 ZA Lens"@en	COL title VAL  "Sony FE 28mm f/2 Lens"@en	0
+COL title VAL  "Sony FE 24-240mm F/3.5-6.3 OSS Lens Sony"@en	COL title VAL  "RF 24-240mm f/4-6.3 IS USM Lens"@da	0
+COL title VAL  "Instax Mini Rainbow Film 10 Pack"@en	COL title VAL  "Fuji Fuji Instax Square Film 1-Pack"@sq	0
+COL title VAL  "Fujifilm Instax Square Instant Film - Plain White (10 Shots)"@en	COL title VAL  "Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)"@de	0
+COL title VAL  "AF-S Nikkor 50mm F/1.8G Lens"@da	COL title VAL  "Sony FE 85mm f/1.8 Lens (SEL85F18/2)"@en	0
+COL title VAL  "Dual Battery Charger + Battery (for Hero4)"@en	COL title VAL  "CANON BG-E11 Battery Grip for 5D Mark III Camera"@en	0
+COL title VAL  "Fuji Instax Mini Monochrome BLACK AND WHITE Instant Film - 10 Shot Pack"@de	COL title VAL  "Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)"@de	0
+COL title VAL  "Sony FE 24-240mm F/3.5-6.3 OSS Lens Sony"@en	COL title VAL  "RF 24-240mm f/4-6.3 IS USM"@da	0
+COL title VAL  "Sony FE 50mm f1.8 Lens"@en	COL title VAL  "Sony Alpha SEL50F18F FE 50mm f/1.8"@en	1
+COL title VAL  "Sony SEL35F18F NEX FF lens 35mm F1.8"@da	COL title VAL  "Sony SEL FE 35mm f/1.8 E-Mount Lens"@en	1
+COL title VAL  "Canon 2311B019 Gloss Photo Paper A4 20 Sheets"@en	COL title VAL  "Canon Photo Paper Plus II PP-201 Glossy photo paper"@en	1
+COL title VAL  "Sony 35mm f2.8 Sonnar T* FE ZA Lens (SEL35F28Z)"@en	COL title VAL  "Sony Sonnar T* FE 35mm f/2.8 ZA Lens"@en	1
+COL title VAL  "Sony FE 85mm f/1.8 Lens (SEL85F18/2)"@en	COL title VAL  "Sony FE 85mm F1.8"@en	1
+COL title VAL  "Sony FE 24-240mm f3.5-6.3 OSS Lens"@en	COL title VAL  "Sony 30mm F3.5 Macro E-Mount Lens"@en	0
+COL title VAL  "Instax Mini Film Monochrome (10 Exposures)"@en	COL title VAL  "Fujifilm Instax Square Instant Film - Plain White (10 Shots)"@en	0
+COL title VAL  "Sony FE 85mm F1.8"@en	COL title VAL  "Sony SEL35F18F NEX FF lens 35mm F1.8"@da	0
+COL title VAL  "Fuji Fuji Instax Square Film 1-Pack"@sq	COL title VAL  "Canon Photo Paper Pro Platinum - Photo paper - 100 x 150 mm"@en	0
+COL title VAL  "Sony SEL FE 35mm f/1.8 E-Mount Lens"@en	COL title VAL  "Sony FE 28mm f/2 Lens"@en	0
+COL title VAL  "SONY A9 MARK II, BODY ONLY"@en	COL title VAL  "ALPHA A9 II MIRRORLESS CAMERA (BODY ONLY)"@hu	1
+COL title VAL  "Sony FE 24-240mm f3.5-6.3 OSS Lens"@en	COL title VAL  "RF 24-240mm f/4-6.3 IS USM Lens"@da	0
+COL title VAL  "Canon 28mm f2.8 IS USM EF Lens"@en	COL title VAL  "EF 100mm f/2.8L Macro IS USM"@en	0
+COL title VAL  "1 Fujifilm Instax Square Film Black Frame"@sv	COL title VAL  "Fujifilm Instax Square Instant Film - Plain White (10 Shots)"@en	0
+COL title VAL  "Fujifilm Instax Square Instant Film - Plain White (10 Shots)"@en	COL title VAL  "Fujifilm Instax Square Film Twin Pack 20 Shots"@en	0
+COL title VAL  "1 Fujifilm Instax Square Film Black Frame"@sv	COL title VAL  "Fujifilm Instax Square Film Twin Pack 20 Shots"@en	0
+COL title VAL  "Canon EF 100mm F2.8 L IS USM Macro Lens"@it	COL title VAL  "Sony 35mm f2.8 Sonnar T* FE ZA Lens (SEL35F28Z)"@en	0
+COL title VAL  "2MP 25X Network IR PTZ Camera"@en	COL title VAL  "Hikvision DS-2DE5225IW-AE 2MP PTZ Hi-PoE"@en	1
+COL title VAL  "Canon 28mm f2.8 IS USM EF Lens"@en	COL title VAL  "RF 24-240mm f/4-6.3 IS USM Lens"@da	0
+COL title VAL  "Nikon 20mm F1.8G AF-S NIKKOR ED Lens"@de	COL title VAL  "Sony FE 50mm f1.8 Lens"@en	0
+COL title VAL  "Sony Sonnar T* FE 35mm f/2.8 ZA Lens"@en	COL title VAL  "Sony FE 85mm f/1.8 Lens (SEL85F18/2)"@en	0
+COL title VAL  "Sony FE 28mm f/2 Lens"@en	COL title VAL  "Sony Full Frame E-Mount SEL28F20 Lens,Black"@en	1
+COL title VAL  "Nikon NIKKOR AF-S 20MM F/1.8G ED"@de	COL title VAL  "Sony Alpha SEL50F18F FE 50mm f/1.8"@en	0
+COL title VAL  "Sony FE 24-240mm f3.5-6.3 OSS Lens"@en	COL title VAL  "Sony FE 24-240mm F/3.5-6.3 OSS Lens Sony"@en	1
+COL title VAL  "Sony E 30mm f/3.5 Macro (APS-C, E-Mount)"@en	COL title VAL  "Sony 30mm F3.5 Macro E-Mount Lens"@en	1
+COL title VAL  "Canon 2311B019 Gloss Photo Paper A4 20 Sheets"@en	COL title VAL  "PGI-9PB Original Canon Photo Black Ink Cartridge"@en	0
+COL title VAL  "Fuji Fuji Instax Square Film 1-Pack"@sq	COL title VAL  "Fuji Fujinon XF 8-16mm F2.8 R WR"@sw	0
+COL title VAL  "Fuji Fuji Instax Square Film 1-Pack"@sq	COL title VAL  "Fujifilm Instax Square Instant Film - Plain White (10 Shots)"@en	1
+COL title VAL  "Fuji Fujinon XF 8-16mm F2.8 R WR"@sw	COL title VAL  "Fujifilm XF 8-16mm f/2.8 R LM WR Zoom Lens"@de	1
+COL title VAL  "Fujifilm Instax Mini Film Rainbow"@de	COL title VAL  "[Fujifilm]100 Sheet Fujifilm Instax Square Plain White Instant Polaroid Film for SQ 10 Camera | SP3 Printer"@en	0
+COL title VAL  "Sony Alpha SEL50F18F FE 50mm f/1.8"@en	COL title VAL  "Sony Sonnar T* FE 35mm f/2.8 ZA Lens"@en	0
+COL title VAL  "Sony SEL FE 35mm f/1.8 E-Mount Lens"@en	COL title VAL  "AF-S Nikkor 50mm F/1.8G Lens"@da	0
+COL title VAL  "Fujifilm Instax Mini Film Rainbow"@de	COL title VAL  "Instax Mini Rainbow Film 10 Pack"@en	1
+COL title VAL  "EF 100mm f/2.8L Macro IS USM"@en	COL title VAL  "RF 24-240mm f/4-6.3 IS USM"@da	0
+COL title VAL  "GoPro Dual Battery Charger (for HERO4)"@en	COL title VAL  "Dual Battery Charger + Battery (for Hero4)"@en	1
+COL title VAL  "Nikon 20mm F1.8G AF-S NIKKOR ED Lens"@de	COL title VAL  "Nikon Nikon D3500 DSLR Camera with AF-P DX Nikkor 18-55 f/3.5-5.6G VR Kit"@de	0
+COL title VAL  "EF 24-105 mm f/3,5-5,6 IS STM"@da	COL title VAL  "RF 24-240mm f/4-6.3 IS USM"@da	0
+COL title VAL  "Fujifilm Instax Mini Film Rainbow"@de	COL title VAL  "Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)"@de	0
+COL title VAL  "Sony 35mm f2.8 Sonnar T* FE ZA Lens (SEL35F28Z)"@en	COL title VAL  "Sony FE 50mm f1.8 Lens"@en	0
+COL title VAL  "Sony FE 50mm f1.8 Lens"@en	COL title VAL  "Sony FE 28mm f/2 Lens"@en	0
+COL title VAL  "Sony SEL FE 35mm f/1.8 E-Mount Lens"@en	COL title VAL  "Sony Full Frame E-Mount SEL28F20 Lens,Black"@en	0
+COL title VAL  "Instax Mini Rainbow Film 10 Pack"@en	COL title VAL  "Fuji Instax Mini Monochrome BLACK AND WHITE Instant Film - 10 Shot Pack"@de	0
+COL title VAL  "[Fujifilm]100 Sheet Fujifilm Instax Square Plain White Instant Polaroid Film for SQ 10 Camera | SP3 Printer"@en	COL title VAL  "Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)"@de	0
+COL title VAL  "Sony FE 24-240mm F/3.5-6.3 OSS Lens Sony"@en	COL title VAL  "Sony FE 85mm f/1.8 Lens (SEL85F18/2)"@en	0
+COL title VAL  "Fuji Fuji Instax Square Film 1-Pack"@sq	COL title VAL  "Fujifilm Instax Mini Film Rainbow"@de	0
+COL title VAL  "RF 24-240mm f/4-6.3 IS USM Lens"@da	COL title VAL  "RF 24-240mm f/4-6.3 IS USM"@da	1
+COL title VAL  "Canon 2311B019 Gloss Photo Paper A4 20 Sheets"@en	COL title VAL  "Canon Photo Paper Pro Platinum - Photo paper - 100 x 150 mm"@en	0
+COL title VAL  "Sony FE 85mm F1.8"@en	COL title VAL  "Sony Sonnar T* FE 35mm f/2.8 ZA Lens"@en	0
+COL title VAL  "EF 100mm f/2.8L Macro IS USM"@en	COL title VAL  "Canon EF 28 f/2,8 IS USM"@en	0
+COL title VAL  "EF 100mm f/2.8L Macro IS USM"@en	COL title VAL  "Canon EF 100mm F2.8 L IS USM Macro Lens"@it	1
+COL title VAL  "Instax Mini Film Monochrome (10 Exposures)"@en	COL title VAL  "Fuji Instax Mini Monochrome BLACK AND WHITE Instant Film - 10 Shot Pack"@de	1
+COL title VAL  "1 Fujifilm Instax Square Film Black Frame"@sv	COL title VAL  "Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)"@de	1
+COL title VAL  "Canon Battery Grip BG-E11"@en	COL title VAL  "DJI Inspire 2 Battery Charging Hub"@en	0
+COL title VAL  "Canon EF 100mm F2.8 L IS USM Macro Lens"@it	COL title VAL  "Sony FE 85mm f/1.8 Lens (SEL85F18/2)"@en	0
+COL title VAL  "RF 24-240mm f/4-6.3 IS USM"@da	COL title VAL  "Canon EF 28 f/2,8 IS USM"@en	0
+COL title VAL  "Sony E 30mm f/3.5 Macro (APS-C, E-Mount)"@en	COL title VAL  "Sony FE 24-240mm F/3.5-6.3 OSS Lens Sony"@en	0
+COL title VAL  "Sony FE 24-240mm f3.5-6.3 OSS Lens"@en	COL title VAL  "EF 24-105mm f/3.5-5.6 IS STM"@da	0
+COL title VAL  "Sony Alpha SEL50F18F FE 50mm f/1.8"@en	COL title VAL  "Sony FE 85mm F1.8"@en	0
+COL title VAL  "Sony SEL FE 35mm f/1.8 E-Mount Lens"@en	COL title VAL  "Sony FE 85mm F1.8"@en	0
+COL title VAL  "DJI Inspire 2 Intelligent Charging Hub"@de	COL title VAL  "DJI Inspire 2 Battery Charging Hub"@en	1
+COL title VAL  "Sony SEL FE 35mm f/1.8 E-Mount Lens"@en	COL title VAL  "Sony 30mm F3.5 Macro E-Mount Lens"@en	0

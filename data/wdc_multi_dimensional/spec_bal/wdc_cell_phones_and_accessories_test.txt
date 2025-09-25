@@ -1,0 +1,68 @@
+COL title VAL  "Samsung A315 Galaxy A31 Dual Sim (blue) - 64 GB - EU"@tl	COL title VAL  "Galaxy A51 Dual SIM (4/128GB, schwarz) - EU Modell"@de	0
+COL title VAL  "SanDisk iXpand Flash Drive 64GB for iPhone and iPad, Black/Silver, (SDIX30N-064G-GN6NN)"@en	COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	1
+COL title VAL  "Apple USB-C Power Adapter - 30W (for MacBook)"@en	COL title VAL  "Apple zasilacz 30W USB-C do MacBook 12''/iPhone/iPad"@pl	1
+COL title VAL  "Apple MagSafe 2 - power adapter - 60 Watt"@en	COL title VAL  "Apple 60W Magsafe 2 Power Adapter MD565LL/A B&H Photo Video"@en	1
+COL title VAL  "Apple 60W MagSafe 2 Power Adapter Macbook 60w Magsafe2 Power Adapter"@en	COL title VAL  "Apple USB-C 96W Power Adapter"@en	0
+COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Neuf / Part Only / Neuf"@en	COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Yeni / Part and Adhesive / Yeni"@en	0
+COL title VAL  "Apple 60W MagSafe Power Adapter For MacBook and 13-inch MacBook Pro L-Tip Charger"@en	COL title VAL  "Apple 60W MagSafe Power Adapter (for MacBook and 13-inch MacBook Pro)"@en	1
+COL title VAL  "iPhone 6s Screen - New / Fix Kit / Black / Yeni / New / Fix Kit / White / Yeni / New / Part Only / Black / Yeni / New / Part Only / White / Yeni"@en	COL title VAL  "iPhone 4S Screen - New / Fix Kit / Black / 新品 / New / Fix Kit / White / 新品 / New / Part Only / Black / 新品 / New / Part Only / White / 新品"@en	0
+COL title VAL  "iPhone XR Screen - Fix Kit / New / Part Only / New"@en	COL title VAL  "iPhone 6s Screen - New / Fix Kit / Black / 新品 / New / Fix Kit / White / 新品 / New / Part Only / Black / 新品 / New / Part Only / White / 新品"@en	0
+COL title VAL  "Apple 30W USB-C adapter MR2A2ZM/A RETAIL PACK"@en	COL title VAL  "Apple APPLE 60W MAGSAFE 2 POWER ADAPTER (MACBOOK PRO WITH RETINA)"@en	0
+COL title VAL  "Apple MD565LL/A 60W MagSafe 2 Power Adapter"@en	COL title VAL  "Apple MagSafe 2 - power adapter - 60 Watt"@en	1
+COL title VAL  "SanDisk iXpand Flash-Laufwerk für iPhone und iPad 64GB"@de	COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	1
+COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	COL title VAL  "Apple MagSafe 2 60W Power Adapter"@en	0
+COL title VAL  "Apple APPLE 60W MAGSAFE POWER ADPATER (EARLIER MACBOOK PRO)"@en	COL title VAL  "Adaptér na MacBook 30W Apple USB-C Power"@pl	0
+COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	COL title VAL  "SanDisk iXpand 64GB USB 3.0"@sv	1
+COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Nuovo / Part and Adhesive / Nuovo"@en	COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Nuovo / Part and Adhesive / Nuovo"@en	0
+COL title VAL  "XIAOMI Redmi Note 8T 6.3\" OC2GHz 64GB 4GB Gris"@de	COL title VAL  "Xiaomi Redmi Note 8T 64GB - Moonshadow Grey"@en	1
+COL title VAL  "XIAOMI NOTE 9S 64GB-(4GB Ram, 6.67\" Display, Factory Unlock, Global)"@en	COL title VAL  "SMARTPHONE XIAOMI REDMI NOTE 9S 4GB 64GB AURORA BLUE 6,67\""@de	1
+COL title VAL  "Smartfon Samsung Galaxy A51 czarny, 6.5", Super AMOLED, 1080 x 2400, Exynos, 9611, Internal RAM 4GB, 128GB, microSD, Dual SIM"@en	COL title VAL  "Smartphone Samsung Galaxy A51 4GB 128GB Preto"@en	0
+COL title VAL  "Apple - 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina Display) - White"@en	COL title VAL  "Apple 60W MagSafe Power Adapter For MacBook and 13-inch MacBook Pro L-Tip Charger"@en	0
+COL title VAL  "iPhone 7 Plus Lightning Connector Assembly - Gray / New / Fix Kit / Nieuw / White / New / Fix Kit / Nieuw / Black / New / Fix Kit / Nieuw / Gray / New / Part Only / Nieuw / White / New / Part Only / Nieuw / Black / New / Part Only / Nieuw"@en	COL title VAL  "Belkin Lightning to USB Cable - 3m - White"@en	0
+COL title VAL  "Apple 60W Magsafe 2 Power Adapter MD565LL/A B&H Photo Video"@en	COL title VAL  "Apple 60W MagSafe Power Adapter"@en	0
+COL title VAL  "Apple 30W USB-C adapter MR2A2ZM/A RETAIL PACK"@en	COL title VAL  "Apple USB-C Power Adapter - 30W (for MacBook)"@en	1
+COL title VAL  "SanDisk iXpand Flash Drive 64GB for iPhone and iPad, Black/Silver, (SDIX30N-064G-GN6NN)"@en	COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	1
+COL title VAL  "Samsung UH46F5 UHF5 Series - 46\" LED-display - Full HD"@de	COL title VAL  "Samsung 46\" LH46UHFCLBB Full HD Slim Videowall Display"@de	1
+COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	COL title VAL  "SanDisk iXpand Flash-Laufwerk für iPhone und iPad 64GB"@de	1
+COL title VAL  "iFixit iPhone 5s Replacement Battery Kit"@en	COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / 신상 / Part and Adhesive / 신상"@en	0
+COL title VAL  "Apple 60W MagSafe 2 Power Adapter Macbook 60w Magsafe2 Power Adapter"@en	COL title VAL  "Apple - 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina Display) - White"@en	1
+COL title VAL  "SanDisk iXpand Flash-Laufwerk für iPhone und iPad 64GB"@de	COL title VAL  "SanDisk iXpand 64GB USB 3.0"@sv	1
+COL title VAL  "Smartphone Xiaomi Redmi Note 9 Pro 6GB 64GB 6.67'' verde tropical"@it	COL title VAL  "XIAOMI NOTE 9S 64GB-(4GB Ram, 6.67\" Display, Factory Unlock, Global)"@en	0
+COL title VAL  "Samsung LH46UHFCLBB - 116,8 cm (46\") - LED - 1920 x 1080 Pixel - 700 cd/m² - Full HD - 8 ms"@ca	COL title VAL  "Samsung 46\" LH46UHFCLBB Full HD Slim Videowall Display"@de	1
+COL title VAL  "APPLE - WATCH MAGNETIC CHARGING CABLE 1 M ACCS"@en	COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	0
+COL title VAL  "Samsung Smart Signage UH46F5 116,8cm(46") LED black"@tl	COL title VAL  "Samsung LH46UHFCLBB - 116,8 cm (46\") - LED - 1920 x 1080 Pixel - 700 cd/m² - Full HD - 8 ms"@ca	1
+COL title VAL  "Samsung A515 Galaxy A51 Dual Sim (black) -128 GB - EU"@tl	COL title VAL  "Smartphone Samsung Galaxy A31 64GB 4GB RAM Dual SIM Prism Crush Blue"@en	0
+COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / 신상 / Part and Adhesive / 신상"@en	COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Nuovo / Part and Adhesive / Nuovo"@en	1
+COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Yeni / Part Only / Yeni"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / 신상 / Part Only / 신상"@en	1
+COL title VAL  "APPLE - iPad Smart Cover Surf Blue-Zml"@en	COL title VAL  "Apple iPad Air 10,5\" Smart Cover, surfblau"@en	1
+COL title VAL  "Smartphone Samsung Galaxy A31 64GB 4GB RAM Dual SIM Prism Crush Blue"@en	COL title VAL  "Smartphone Samsung Galaxy A51 Double SIM 128 Go Bleu"@en	0
+COL title VAL  "XIAOMI Redmi Note 8T 6.3\" OC2GHz 64GB 4GB Gris"@de	COL title VAL  "Xiaomi Redmi Note 8T 64 GB Dual-SIM moonshadow grey"@en	1
+COL title VAL  "Redmi Note 8T 4GB RAM 64GB ROM Global Version Grey"@de	COL title VAL  "Xiaomi Redmi Note 8T 64GB 4GB RAM Gray"@ro	1
+COL title VAL  "Apple 60W MagSafe Power Adapter"@en	COL title VAL  "Apple 60W MagSafe Power Adapter For MacBook and 13-inch MacBook Pro L-Tip Charger"@en	1
+COL title VAL  "Apple 60W MagSafe Power Adapter"@en	COL title VAL  "Apple MD565LL/A 60W MagSafe 2 Power Adapter"@en	0
+COL title VAL  "Charger Apple 30W USB-C Power Adapter (Macbook) MR2A2"@en	COL title VAL  "Apple 30W USB-C adapter MR2A2ZM/A RETAIL PACK"@en	1
+COL title VAL  "Apple 30W USB Type-C Power Adapter"@en	COL title VAL  "APPLE - 96W USB-C POWER ADAPTER . ACCS"@en	0
+COL title VAL  "APPLE USB-C Power Adapter 87W"@en	COL title VAL  "Apple zasilacz 30W USB-C do MacBook 12''/iPhone/iPad"@pl	0
+COL title VAL  "iPhone 7 Plus Lightning Connector Assembly, New, Fix Kit - Grey"@en	COL title VAL  "iPhone SE Screen - Fix Kit / Black / New / Fix Kit / White / New / Part Only / Black / New / Part Only / White / New"@en	0
+COL title VAL  "iPhone XR Screen - Fix Kit / New / Part Only / New"@en	COL title VAL  "iPhone 7 Plus Lightning Connector Assembly, New, Fix Kit - Grey"@en	0
+COL title VAL  "Smartphone Samsung Galaxy A51 Double SIM 128 Go Bleu"@en	COL title VAL  "Smartphone Samsung Galaxy A51 4GB 128GB Preto"@en	0
+COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	COL title VAL  "Xiaomi Redmi Note 8T Dual Sim 4GB RAM 64GB LTE (Grey) International Spec"@en	0
+COL title VAL  "Apple 60W MagSafe Power Adapter"@en	COL title VAL  "Apple 60W MagSafe Power Adapter (for MacBook and 13-inch MacBook Pro)"@en	1
+COL title VAL  "iPhone XR Screen - Fix Kit / новое / Part Only / новое"@en	COL title VAL  "iPhone 4S Screen - New / Fix Kit / Black / 新品 / New / Fix Kit / White / 新品 / New / Part Only / Black / 新品 / New / Part Only / White / 新品"@en	0
+COL title VAL  "Xiaomi Redmi Note 8T Dual Sim 4GB RAM 64GB LTE (Grey) International Spec"@en	COL title VAL  "Redmi Note 8T 4GB RAM 64GB ROM Global Version Grey"@de	1
+COL title VAL  "Apple Apple Lightning to VGA Adapter"@en	COL title VAL  "Apple Original Lightning to VGA Adapter"@en	1
+COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Nuovo / Part and Adhesive / Nuovo"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Nuevo / Part Only / Nuevo"@en	0
+COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Neu / Part and Adhesive / Neu"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Nuevo / Part Only / Nuevo"@en	0
+COL title VAL  "Apple 60W MagSafe Power Adapter"@en	COL title VAL  "New Genuine Apple MacBook Pro A1278 A1280 MagSafe 1 AC Adapter Charger L Tip 60W"@en	1
+COL title VAL  "Xiaomi Redmi Note 8T 64GB 4GB RAM Gray"@ro	COL title VAL  "Xiaomi Redmi Note 8T 64 GB Dual-SIM moonshadow grey"@en	1
+COL title VAL  "Smartfon Samsung Galaxy A51 czarny, 6.5", Super AMOLED, 1080 x 2400, Exynos, 9611, Internal RAM 4GB, 128GB, microSD, Dual SIM"@en	COL title VAL  "Smartphone Samsung Galaxy A31 64GB 4GB RAM Dual SIM Prism Crush Blue"@en	0
+COL title VAL  "Samsung Galaxy A51 4GB 128GB 6.5″ Azul"@tl	COL title VAL  "Smartphone Samsung Galaxy A51 4GB 128GB Preto"@en	0
+COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	1
+COL title VAL  "Galaxy A51 Dual SIM (4/128GB, schwarz) - EU Modell"@de	COL title VAL  "Smartphone Samsung Galaxy A31 64GB 4GB RAM Dual SIM Prism Crush Blue"@en	0
+COL title VAL  "Xiaomi Redmi Note 9 3GB+64GB polar white"@en	COL title VAL  "SMARTPHONE XIAOMI REDMI NOTE 9S 4GB 64GB AURORA BLUE 6,67\""@de	0
+COL title VAL  "iPhone XR Screen - Fix Kit / новое / Part Only / новое"@en	COL title VAL  "iPhone 6s Screen - New / Fix Kit / Black / 新品 / New / Fix Kit / White / 新品 / New / Part Only / Black / 新品 / New / Part Only / White / 新品"@en	0
+COL title VAL  "APPLE APPLE 60W MAGSAFE 2 POWER ADAPTER"@en	COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	1
+COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / 全新 / Part and Adhesive / 全新"@en	COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Neu / Part and Adhesive / Neu"@en	0
+COL title VAL  "Apple 60W Magsafe 2 Power Adapter MD565LL/A B&H Photo Video"@en	COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	1
+COL title VAL  "XIAOMI Redmi Note 8T 6.3\" OC2GHz 64GB 4GB Gris"@de	COL title VAL  "Xiaomi Redmi Note 8T Dual Sim 4GB RAM 64GB LTE (Grey) International Spec"@en	1
+COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / 全新 / Part and Adhesive / 全新"@en	COL title VAL  "Xiaomi Redmi Note 8T Dual Sim 4GB RAM 64GB LTE (Grey) International Spec"@en	0

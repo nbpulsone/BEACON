@@ -1,0 +1,19 @@
+COL title VAL  "Autel Robotics - EVO 2 8k Gimbal Camera"@ca	COL title VAL  "Autel Robotics EVO II Hard Rugged Case"@en	0
+COL title VAL  "Autel Robotics - EVO 2 8k Gimbal Camera"@ca	COL title VAL  "Autel EVO II 8K Gimbal/Camera Only"@en	1
+COL title VAL  "Autel Robotics - EVO 2 - Battery Charging Hub"@en	COL title VAL  "Autel Robotics EVO II Hard Rugged Case"@en	0
+COL title VAL  "Autel Robotics - EVO 2 8k Gimbal Camera"@ca	COL title VAL  "Autel Robotics EVO II Battery"@en	0
+COL title VAL  "EVO II Multi-Charging Hub"@en	COL title VAL  "Autel Robotics - EVO 2 - Battery Charging Hub"@en	1
+COL title VAL  "Autel EVO II Hard Rugged Case by GPC"@en	COL title VAL  "Autel Robotics EVO II Hard Rugged Case"@en	1
+COL title VAL  "Autel EVO II 8K Gimbal/Camera Only"@en	COL title VAL  "Autel Robotics EVO II Battery"@en	0
+COL title VAL  "EVO II Multi-Charging Hub"@en	COL title VAL  "Autel EVO II 8K Gimbal/Camera Only"@en	0
+COL title VAL  "Autel Robotics - EVO 2 8k Gimbal Camera"@ca	COL title VAL  "Autel Robotics - EVO 2 - Battery Charging Hub"@en	0
+COL title VAL  "Autel Robotics EVO II Hard Rugged Case"@en	COL title VAL  "Autel Robotics EVO II Battery"@en	0
+COL title VAL  "Autel Robotics EVO II Battery"@en	COL title VAL  "EVO II Multi-Charging Hub"@en	0
+COL title VAL  "Autel Robotics - EVO 2 - Battery Charging Hub"@en	COL title VAL  "Autel Robotics EVO II Battery"@en	0
+COL title VAL  "Autel Robotics - EVO 2 8k Gimbal Camera"@ca	COL title VAL  "Autel Robotics - EVO 2 - Battery"@en	0
+COL title VAL  "Autel Robotics - EVO 2 - Battery"@en	COL title VAL  "Autel EVO II 8K Gimbal/Camera Only"@en	0
+COL title VAL  "Autel EVO II 8K Gimbal/Camera Only"@en	COL title VAL  "Autel EVO II Hard Rugged Case by GPC"@en	0
+COL title VAL  "Autel EVO II Hard Rugged Case by GPC"@en	COL title VAL  "Autel Robotics EVO II Battery"@en	0
+COL title VAL  "Autel Robotics - EVO 2 - Battery Charging Hub"@en	COL title VAL  "Autel Robotics - EVO 2 - Battery"@en	0
+COL title VAL  "Autel Robotics EVO II Hard Rugged Case"@en	COL title VAL  "Autel Robotics - EVO 2 - Battery"@en	0
+COL title VAL  "Autel Robotics EVO II Battery"@en	COL title VAL  "Autel Robotics - EVO 2 - Battery"@en	1

@@ -1,0 +1,13 @@
+COL title VAL  "Apple® Lightning® to VGA Adapter"@en	COL title VAL  "Apple Lightning To VGA Adaptor White"@en	1
+COL title VAL  "Apple APPLE 60W MAGSAFE POWER ADPATER (EARLIER MACBOOK PRO)"@en	COL title VAL  "Apple APPLE 60W MAGSAFE 2 POWER ADAPTER (MACBOOK PRO WITH RETINA)"@en	0
+COL title VAL  "Samsung 46\" LH46UHFCLBB Full HD Slim Videowall Display"@de	COL title VAL  "Samsung UH46F5 46\" D-LED DID LFD monitor"@tl	1
+COL title VAL  "TELEFONO MOVIL SMARTPHONE XIAOMI REDMI NOTE 8T GREY - 6.3PULGADAS - 64GB ROM - 4GB RAM - 48+8+2+2"@en	COL title VAL  "Xiaomi Redmi Note 8T (64GB/4GB) Gris Dual SIM"@ro	1
+COL title VAL  "New Genuine Apple MacBook Pro A1278 A1280 MagSafe 1 AC Adapter Charger L Tip 60W"@en	COL title VAL  "Apple Watch Magnetic Charging Cable (1 m)"@en	0
+COL title VAL  "iFixit iPhone 4 Replacement Battery, New - Fix Kit"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Yeni / Part Only / Yeni"@en	1
+COL title VAL  "Apple Apple 60W MagSafe 2 Power Adapter MD565LL/A"@en	COL title VAL  "Apple APPLE 60W MAGSAFE 2 POWER ADAPTER (MACBOOK PRO WITH RETINA)"@en	1
+COL title VAL  "SanDisk iXpand 64GB USB 3.0"@sv	COL title VAL  "SanDisk iXpand Flash-Laufwerk für iPhone und iPad 64GB"@de	1
+COL title VAL  "Apple APPLE 60W MAGSAFE POWER ADPATER (EARLIER MACBOOK PRO)"@en	COL title VAL  "Apple Apple 60W MagSafe 2 Power Adapter MD565LL/A"@en	0
+COL title VAL  "New Genuine Apple MacBook Pro A1278 A1280 MagSafe 1 AC Adapter Charger L Tip 60W"@en	COL title VAL  "Apple APPLE 60W MAGSAFE POWER ADPATER (EARLIER MACBOOK PRO)"@en	1
+COL title VAL  "APPLE - WATCH MAGNETIC CHARGING CABLE 1 M ACCS"@en	COL title VAL  "Apple Watch Magnetic Charging Cable (1 m)"@en	1
+COL title VAL  "Apple APPLE 60W MAGSAFE 2 POWER ADAPTER (MACBOOK PRO WITH RETINA)"@en	COL title VAL  "New Genuine Apple MacBook Pro A1278 A1280 MagSafe 1 AC Adapter Charger L Tip 60W"@en	0
+COL title VAL  "Apple Lightning To VGA Adaptor White"@en	COL title VAL  "Apple APPLE 60W MAGSAFE 2 POWER ADAPTER (MACBOOK PRO WITH RETINA)"@en	0

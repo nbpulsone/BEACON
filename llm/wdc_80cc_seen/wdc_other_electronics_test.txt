@@ -1,0 +1,468 @@
+COL title VAL  "DVR 8 canale HIKVISION Turbo HD DS-7208HQHI-K1 TurboHD 3.0 H.265+, 1xSATA"@en	COL title VAL  "Hikvision DVR 16 CH fino a 8Mpx Turbo 3.0 DS-7216HUHI-K2"@en	0
+COL title VAL  "Ubiquiti UniFi Protect Video Security"@fr	COL title VAL  "Ubiquiti UniFi Video G3 Infrared Range Extender"@it	0
+COL title VAL  "UVC-G3-Micro Ubiquiti Latest G3 Video Camera In Micro Version"@it	COL title VAL  "Ubiquiti UniFi Video Camera G3 Bullet (3 Pack)"@it	0
+COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	COL title VAL  "Jabra BIZ 2300 USB MS Mono Wired Headset"@en	0
+COL title VAL  "Ubiquiti UniFi AC In-Wall 5-pack UAP-AC-IW-5 Ubiquiti"@fr	COL title VAL  "UBIQUITI UNIFI UAP-AC-PRO-5 (5-Pack)"@en	0
+COL title VAL  "Jabra BIZ 2400 II DQ Duo NC WB Corded Headset"@en	COL title VAL  "Jabra Biz 2300 USB Duo Headset"@hr	0
+COL title VAL  "APC Smart-UPS 1000 LCD"@de	COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	0
+COL title VAL  "APC SMART-UPS 1000VA 2U Uninterruptable Power Supply"@en	COL title VAL  "APC Smart-UPS 1000VA LCD 230V SMT1000I - SMT1000I"@en	0
+COL title VAL  "Apple Airpod Pro Wireless Bluetooth IPX4 In-Ear Headphones with Wireless Charging Case - White"@en	COL title VAL  "AirPods 2 with Wireless Charging Case"@en	0
+COL title VAL  "Audio-technica ATH-M50XWH Pro Closed-back Headphone, Full, White"@en	COL title VAL  "Slušalke Audio-Technica ATH-PRO7x"@hr	0
+COL title VAL  "BỘ LƯU ĐIỆN APC SRT3000RMXLI 3000VA rackmount"@vi	COL title VAL  "APC Replacement Battery Cartridge #110"@en	0
+COL title VAL  "APC Smart-UPS RT 192V RM Battery Pack Battery enclosure"@en	COL title VAL  "APC Smart-UPS RT RM battery pack, Extended-Run, 192V bus voltage, Rack 6U, compatible with Smart-UPS RT RM 15 -20kVA, Black (SURT192RMXLBP2)"@en	1
+COL title VAL  "Jabra BIZ 2400 II Mono 3-1 - Mic. 82 NC, Wideband"@en	COL title VAL  "APC APCRBC133 Sealed Lead Acid (VRLA)"@en	0
+COL title VAL  "Switch DGS-1210-24P 24 porturi"@en	COL title VAL  "WS-C2960X-24PD-L - 24 Port Switch"@en	0
+COL title VAL  "Audio Technica ATH-AD500X Headphones, 3.5mm (1/8 inch), Over-ear, Noice canceling, Black"@en	COL title VAL  "Audio-Technica ATH-M50x Professional Monitor Closed Over-Ear Headphones - Black"@en	0
+COL title VAL  "TP-LINK EAP115 300Mbit/s Power over Ethernet (PoE) WLAN toegangspunt"@en	COL title VAL  "TP-LINK T1700G-28TQ Managed L2+ Gigabit Ethernet (10/100/1000) Zwart"@en	0
+COL title VAL  "ADAPTADOR WIRELESS USB DB ARCHER T2U AC600 TP-LINK"@en	COL title VAL  "TP-Link TL-WN781ND PCI Express Wireless Adapter"@en	0
+COL title VAL  "D-Link DGS-1210-24"@de	COL title VAL  "Switch DGS-1210-24P 24 porturi"@en	0
+COL title VAL  "TP-LINK 450Mbps Wireless N Access Point / Range Extender"@en	COL title VAL  "TP-Link TL-WN781ND PCI Express Wireless Adapter"@en	0
+COL title VAL  "Jabra Evolve 65 Headset UC Mono"@pt	COL title VAL  "JABRA EVOLVE 65 UC MONO c/w LINK 360"@pl	1
+COL title VAL  "ADAPTADOR WIRELESS USB DB ARCHER T2U AC600 TP-LINK"@en	COL title VAL  "Cle Usb Wifi Tp-Link N300 Tl-Wn821n"@en	0
+COL title VAL  "UniFi Video Camera G3-MICRO"@it	COL title VAL  "Ubiquiti UniFi Video Camera G3 Bullet (3 Pack)"@it	0
+COL title VAL  "Apple APPLE AIRPODS PRO (2019)"@en	COL title VAL  "Apple - AirPods with Charging Case (Latest Model) - White"@en	0
+COL title VAL  "Audio-Technica Headphones - ATH-AD500X"@en	COL title VAL  "Audio-Technica Consumer ATH-PRO7X Professional On-Ear DJ Monitor Headphones"@en	0
+COL title VAL  "ACCESS POINT TP-LINK WIRELESS N 300MBPS EAP115"@de	COL title VAL  "Omada EAP225 Outdoor, Access Point"@pt	0
+COL title VAL  "APC RT 20000 VA RM 230V Smart-UPS"@de	COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	0
+COL title VAL  "TP-LINK 450Mbps Wireless N Access Point / Range Extender"@en	COL title VAL  "ACCESS POINT TP-LINK WIRELESS N 300MBPS EAP115"@de	0
+COL title VAL  "Ubiquiti UAP-AC-PRO-5 Wi-Fi, 802.11 a/b/g/n/ac, 2.4/5.0 GHz, 2, Web-based management, 1.3 Gbit/s, Power over Ethernet (PoE), 10,"@en	COL title VAL  "UBIQUITI UNIFI UAP-AC-PRO-5 (5-Pack)"@en	1
+COL title VAL  "Jabra BIZ 2300 USB MS Duo - headset"@en	COL title VAL  "Jabra BIZ 2300 USB Mono, Type: 82 E-STD"@es	0
+COL title VAL  "APC RBC117 Replacement Battery Cartridge"@en	COL title VAL  "APC Smart-UPS RT 192V RM Battery Pack Battery enclosure"@en	0
+COL title VAL  "APC SMART-UPS 1000VA 2U Uninterruptable Power Supply"@en	COL title VAL  "TP-LINK jetstream - switch - 24 x 10/100/1000 - montabile su rack"@en	0
+COL title VAL  "Jabra Evolve 65 Headset UC Mono"@pt	COL title VAL  "Jabra Evolve 20 UC Mono Corded USB Headset"@en	0
+COL title VAL  "APC APCRBC133 Replacement Battery Cartridge #133"@en	COL title VAL  "APC APCRBC133 Sealed Lead Acid (VRLA)"@en	1
+COL title VAL  "Apple AirPods wWireless Charging Case"@en	COL title VAL  "Apple Airpods 2019, MRXJ2ZM/A"@en	0
+COL title VAL  "Akumulator APC Replacement battery cartridge #140"@en	COL title VAL  "APC Smart-UPS RT 192V RM Battery Pack Battery enclosure"@en	0
+COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10kVA 230V"@de	COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	0
+COL title VAL  "Jabra Evolve Over The Head Supra Aural 40 Wired Mono Headset"@en	COL title VAL  "Jabra Evolve 65 Headset UC Mono"@pt	0
+COL title VAL  "DVR 8 canale HIKVISION Turbo HD DS-7208HQHI-K1 TurboHD 3.0 H.265+, 1xSATA"@en	COL title VAL  "HK DVR TURBOHD 32ch DS-7332HQHI-K4"@vi	0
+COL title VAL  "Jabra BIZ 2400 IP Mono headset 3 in 1, type: 82 E-STD"@en	COL title VAL  "Jabra BIZ 2300 USB Mono, Type: 82 E-STD"@es	0
+COL title VAL  "Ubiquiti UniFi AC High Density 5-pack UAP-AC-HD-5 Ubiquiti"@fr	COL title VAL  "Punct de acces Pachet 5 Bucati UAP-AC UniFi Alb"@ro	0
+COL title VAL  "Jabra BIZ 2300 USB Mono, Type: 82 E-STD"@es	COL title VAL  "APC SMART UPS (SMT), 1000VA, 230V, LCD, RM 2U WITH SMART CONNECT - 3YR WTY"@en	0
+COL title VAL  "Hikvision H.265+ TURBO HD 8CH DVR 4K HDMI supports 5MP TVI/ 2MP AHD & CVI/ 6MP IP CAM (HDD not included)"@en	COL title VAL  "DVR 8 canale HIKVISION Turbo HD DS-7208HQHI-K1 TurboHD 3.0 H.265+, 1xSATA"@en	0
+COL title VAL  "Bộ lưu điện UPS APC SRT6KRMXLI 6000VA Rackmount"@vi	COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	0
+COL title VAL  "TP-Link Archer T9UH AC1900 High Gain Wireless Dual Band USB Network Adapter 1900Mbps (600Mpbs @ 2.4GHz & 1300Mbps @ 5GHz) USB3.0 Omni Directional Ant."@en	COL title VAL  "WIRELESS AC600 DUAL BAND TP-LINK ARCHER T2U NANO USB2.0 150MBPS A 2.4GHZ + 433MBPS A 5GHZ 802.11AC/A/B/G/N"@en	0
+COL title VAL  "WIRELESS AC600 DUAL BAND TP-LINK ARCHER T2U NANO USB2.0 150MBPS A 2.4GHZ + 433MBPS A 5GHZ 802.11AC/A/B/G/N"@en	COL title VAL  "TP-Link Archer-T9UH AC1900 USB 3.0 Adaptr"@de	0
+COL title VAL  "APC Replacement Battery Cartridge #110"@en	COL title VAL  "APC APCRBC133 Replacement Battery Cartridge #133"@en	0
+COL title VAL  "APC Replacement Battery Cartridge #110"@en	COL title VAL  "APC Battery Unit - 120 V DC - Sealed Lead Acid - Spill-proof/Maintenance-free - 3 Year Minimum Battery Life - 5 Year Maximum Battery Life"@en	0
+COL title VAL  "5 Pack: UniFi AC Outdoor AP Mesh Pro Dual-omni ant no PoE adapers (UAP-AC-M-PRO-5)"@en	COL title VAL  "Punct de acces Pachet 5 Bucati UAP-AC UniFi Alb"@ro	1
+COL title VAL  "BỘ LƯU ĐIỆN APC SRT3000RMXLI 3000VA rackmount"@vi	COL title VAL  "BỘ LƯU ĐIỆN UPS APC SURT20KRMXLI 20KVA"@vi	0
+COL title VAL  "Ubiquiti UniFi video Camera G3 IR Range Extender"@it	COL title VAL  "Ubiquiti UniFi Video Camera G3-Bullet Infrared IR 1080P HD Video- 802.3af is embedded"@en	0
+COL title VAL  "8ch, PoC, Hikvision DVR, up to 4MP TVI camera supported"@en	COL title VAL  "8CH HIKVISION 8MP DVR 4K TURBO AOC AUDIO OVER COAX- DS-7208HUHI-K1 (S)"@de	0
+COL title VAL  "Audio-Technica Consumer ATH-PRO7X Professional On-Ear DJ Monitor Headphones"@en	COL title VAL  "Slušalke Audio-Technica ATH-PRO7x"@hr	1
+COL title VAL  "TP-Link Archer C60 AC1350 Wireless Dual Band Router"@en	COL title VAL  "ADAPTADOR WIRELESS USB DB ARCHER T2U AC600 TP-LINK"@en	0
+COL title VAL  "5 Pack: UniFi AC Outdoor AP Mesh Pro Dual-omni ant no PoE adapers (UAP-AC-M-PRO-5)"@en	COL title VAL  "ADAPTADOR WIRELESS USB DB ARCHER T2U AC600 TP-LINK"@en	0
+COL title VAL  "D-Link Switch 24 Puertos 10/100/1Gbit w/4 Combo 1000BaseT/SFP - Red"@en	COL title VAL  "TP-LINK jetstream - switch - 24 x 10/100/1000 - montabile su rack"@en	0
+COL title VAL  "APC Replacement Battery Cartridge #110"@en	COL title VAL  "APC RBC117 Replacement Battery Cartridge"@en	0
+COL title VAL  "CISCO - Catalyst 2960 Plus 48 10/100 + 2 T/SFP L"@en	COL title VAL  "Ubiquiti UniFi Video Camera G3 Bullet (3 Pack)"@it	0
+COL title VAL  "DS-7204HQHI-K1 Hikvision 4 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "DVR 8 canale HIKVISION Turbo HD DS-7208HQHI-K1 TurboHD 3.0 H.265+, 1xSATA"@en	0
+COL title VAL  "8ch, PoC, Hikvision DVR, up to 8MP(8fps) TVI cameras supported"@en	COL title VAL  "8CH HIKVISION 8MP DVR 4K TURBO AOC AUDIO OVER COAX- DS-7208HUHI-K1 (S)"@de	0
+COL title VAL  "ADATTATORE USB2.0 WIRELESS N 150M LAN 802.11BGN 1T1R 2.4GHZ-NANO SIZE-PROVIDE USB2.0 INTERF.-WPS-SUPP. XP/VISTA/7"@en	COL title VAL  "tp-link TP-Link N150 Wireless Wi-Fi Nano USB Adapter"@en	1
+COL title VAL  "ACCESS POINT TP-LINK WIRELESS N 300MBPS EAP115"@de	COL title VAL  "ADAPTADOR WIRELESS USB DB ARCHER T2U AC600 TP-LINK"@en	0
+COL title VAL  "Apple APPLE AIRPODS (2ND GEN) WIRELESS HEADPHONES WITH WIRELESS CHARGING CASE"@en	COL title VAL  "Apple AirPods wWireless Charging Case"@en	1
+COL title VAL  "Atomos Pro Video Coiled HDMI Cable - Full HDMI to Full HDMI"@es	COL title VAL  "Ubiquiti UniFi 2MP 1080p Wide-angle Full HD Camera - 3 Pack"@it	0
+COL title VAL  "Audio-Technica Headphones - ATH-AD500X"@en	COL title VAL  "Audio-technica ATH-M50XWH Pro Closed-back Headphone, Full, White"@en	0
+COL title VAL  "Jabra BIZ 2300 USB MS Mono Wired Headset"@en	COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	0
+COL title VAL  "TP-LINK 450Mbps Wireless N Access Point / Range Extender"@en	COL title VAL  "Omada EAP225 Outdoor, Access Point"@pt	0
+COL title VAL  "Apple APPLE AIRPODS (2ND GEN) WIRELESS HEADPHONES WITH WIRELESS CHARGING CASE"@en	COL title VAL  "AirPods 2 with Wireless Charging Case"@en	0
+COL title VAL  "Jabra BIZ 2300 USB MS Mono Wired Headset"@en	COL title VAL  "Jabra Biz 2300 USB Duo Headset"@hr	0
+COL title VAL  "Jabra Evolve 65 Headset UC Mono"@pt	COL title VAL  "Jabra Evolve 20SE MS Mono Headset Head-band Black"@en	0
+COL title VAL  "D-Link Switch 24 Puertos 10/100/1Gbit w/4 Combo 1000BaseT/SFP - Red"@en	COL title VAL  "D-Link DGS-1210-24"@de	1
+COL title VAL  "TP-LINK - 300Mbps Access Point"@en	COL title VAL  "ACCESS POINT TP-LINK WIRELESS N 300MBPS EAP115"@de	0
+COL title VAL  "UniFi Video Camera G3-MICRO"@it	COL title VAL  "UVC-G3-Micro Ubiquiti Latest G3 Video Camera In Micro Version"@it	1
+COL title VAL  "Omada EAP225 Outdoor, Access Point"@pt	COL title VAL  "TP-LINK EAP225-Outdoor Omada AC1200 Wireless Access Point u2013 Waterproof, Dustproof, Lightening Protection, Seamless Roaming, Gigabit, PoE Powered, Free PoE Injector, Free Managing Software"@en	1
+COL title VAL  "Jabra Evolve 65 Headset UC Mono"@pt	COL title VAL  "JABRA EVOLVE 20 MS STEREO NC BIN"@de	0
+COL title VAL  "CISCO - Catalyst 2960 Plus 48 10/100 + 2 T/SFP L"@en	COL title VAL  "WS-C2960-48TC-L Cisco Catalyst 2960 Network Switch (New)"@en	1
+COL title VAL  "Audio Technica ATH-AD500X Headphones, 3.5mm (1/8 inch), Over-ear, Noice canceling, Black"@en	COL title VAL  "JABRA Biz 2300 Noise Canceling - Stereo"@en	0
+COL title VAL  "Jabra Evolve 40 UC Mono Bedrade Usb A Office Headset"@pt	COL title VAL  "Jabra Evolve 20 SE Mono MS USB Corded PC Headset"@en	0
+COL title VAL  "Ubiquiti UniFi 2MP 1080p Wide-angle Full HD Camera - 3 Pack"@it	COL title VAL  "Ubiquiti UniFi Video Camera G3 Bullet (3 Pack)"@it	0
+COL title VAL  "DLINK - DGS-1210-28P - 28 Port Gigabit Smart Managed POE Switch"@en	COL title VAL  "D-LINK/NET/24X1GB POE SWITCH /+ 4 SFP/L2/RM"@de	1
+COL title VAL  "Audio-Technica Headphones - ATH-AD500X"@en	COL title VAL  "Audio-Technica ATH-M50x Professional Monitor Closed Over-Ear Headphones - Black"@en	0
+COL title VAL  "Jabra BIZ 2300 USB MS Mono Wired Headset"@en	COL title VAL  "Jabra Evolve Over The Head Supra Aural 40 Wired Mono Headset"@en	0
+COL title VAL  "Ubiquiti UniFi Video Camera G3 Bullet (3 Pack)"@it	COL title VAL  "Ubiquiti UniFi Video G3 Infrared Range Extender"@it	0
+COL title VAL  "Ubiquiti UniFi Video Camera G3 Bullet (3 Pack)"@it	COL title VAL  "Ubiquiti UniFi AC In-Wall 5-pack UAP-AC-IW-5 Ubiquiti"@fr	0
+COL title VAL  "Cisco Catalyst 2960-X - [WS-C2960X-24PD-L]"@ca	COL title VAL  "WS-C2960-24TT-L Cisco Catalyst 2960 Network Switch (New)"@en	0
+COL title VAL  "APC APCrbc124 Replacement Battery Cartridge #124"@en	COL title VAL  "Acumulator UPS APC, 230V, BR1200GI, BR1500GI, APCRBC124"@ro	1
+COL title VAL  "Ubiquiti Networks UAP-AC-IW 5-pack WLAN toegangspunt 1000 Mbit/s Power over Ethernet (PoE) Wit"@en	COL title VAL  "Ubiquiti Networks UniFi AC HD 1700Mbit/s Power over Ethernet (PoE) Wit WLAN toegangspunt"@en	0
+COL title VAL  "HIKVISION DS-7216HQHI-K1 2 MEGAPIXEL (2MP) HYBRID 16 CHANNEL DVR"@de	COL title VAL  "DVR Standalone HIKVISION DS-7204HQHI-K1"@de	0
+COL title VAL  "TP-Link Archer T9UH AC1900 High Gain Wireless Dual Band USB Network Adapter 1900Mbps (600Mpbs @ 2.4GHz & 1300Mbps @ 5GHz) USB3.0 Omni Directional Ant."@en	COL title VAL  "TP-Link Archer-T9UH AC1900 USB 3.0 Adaptr"@de	1
+COL title VAL  "TP-Link TL-SG1024DE 24port Gigabit Desktop Switch"@en	COL title VAL  "Cle Usb Wifi Tp-Link N300 Tl-Wn821n"@en	0
+COL title VAL  "JABRA Biz 2300 Noise Canceling - Stereo"@en	COL title VAL  "JABRA EVOLVE 20 MS STEREO NC BIN"@de	0
+COL title VAL  "Battery replacement kit for BE550G-RS, BR550GI, BR650CI-RS (APCRBC110)"@en	COL title VAL  "Akumulator APC Replacement battery cartridge #140"@en	0
+COL title VAL  "Apple AirPods (2nd Gen) with Charging Case"@en	COL title VAL  "Apple APPLE AIRPODS (2ND GEN) WIRELESS HEADPHONES WITH WIRELESS CHARGING CASE"@en	0
+COL title VAL  "JABRA EVOLVE 20 MS STEREO NC BIN"@de	COL title VAL  "Jabra BIZ 2400 II binaural NC (FreeSpin)"@en	0
+COL title VAL  "Cisco Catalyst 2960-X - [WS-C2960X-24PD-L]"@ca	COL title VAL  "WS-C2960L-16TS-LL Cisco Catalyst 2960L Network Switch (Refurb)"@en	0
+COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	COL title VAL  "JABRA EVOLVE 20 MS STEREO NC BIN"@de	1
+COL title VAL  "DS-7204HQHI-K1 Hikvision 4 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	0
+COL title VAL  "Ubiquiti UniFi video Camera G3 IR Range Extender"@it	COL title VAL  "Ubiquiti UniFi UVC-G4-PRO Network IP 4K Video Surveillance Camera"@en	0
+COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	COL title VAL  "DVR Standalone HIKVISION DS-7204HQHI-K1"@de	0
+COL title VAL  "APC APCRBC133 Replacement Battery Cartridge #133"@en	COL title VAL  "Akumulator APC Replacement battery cartridge #140"@en	0
+COL title VAL  "Audio-Technica Headphones - ATH-AD500X"@en	COL title VAL  "Audio Technica ATHM50X Professional Monitor Headphones"@en	0
+COL title VAL  "Audio Technica ATH-M40 XAuricular"@ro	COL title VAL  "Audio Technica ATH-M40X Flat Response Studio Headphones"@en	1
+COL title VAL  "Hikvision DVR 16 CH fino a 8Mpx Turbo 3.0 DS-7216HUHI-K2"@en	COL title VAL  "DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	0
+COL title VAL  "Apple - AirPods with Charging Case (Latest Model) - White"@en	COL title VAL  "CISCO - Catalyst 2960 Plus 48 10/100 + 2 T/SFP L"@en	0
+COL title VAL  "ADAPTADOR WIRELESS USB DB ARCHER T2U AC600 TP-LINK"@en	COL title VAL  "WIRELESS AC600 DUAL BAND TP-LINK ARCHER T2U NANO USB2.0 150MBPS A 2.4GHZ + 433MBPS A 5GHZ 802.11AC/A/B/G/N"@en	1
+COL title VAL  "Hikvision 32-Channel 1080P HD-TVI Turbo DVR - DS-7332HQHI-K4"@en	COL title VAL  "HK DVR TURBOHD 32ch DS-7332HQHI-K4"@vi	1
+COL title VAL  "Ubiquiti UniFi UVC-G4-PRO Network IP 4K Video Surveillance Camera"@en	COL title VAL  "Jabra Evolve 20 SE Mono MS USB Corded PC Headset"@en	0
+COL title VAL  "D-LINK/NET/24X1GB POE SWITCH /+ 4 SFP/L2/RM"@de	COL title VAL  "D-Link Switch 24 Puertos 10/100/1Gbit w/4 Combo 1000BaseT/SFP - Red"@en	0
+COL title VAL  "Jabra Evolve 20 UC Mono Corded USB Headset"@en	COL title VAL  "Jabra Evolve 40 UC Mono Bedrade Usb A Office Headset"@pt	0
+COL title VAL  "DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "Hikvision 32-Channel 1080P HD-TVI Turbo DVR - DS-7332HQHI-K4"@en	0
+COL title VAL  "Jabra EVOLVE 20 UC MONO Headset 4993-829-209 -For use on computers"@en	COL title VAL  "Jabra Evolve 40 UC Mono Bedrade Usb A Office Headset"@pt	0
+COL title VAL  "JABRA Biz 2300 Noise Canceling - Stereo"@en	COL title VAL  "Jabra BIZ 2300 USB MS Duo - headset"@en	0
+COL title VAL  "WS-C2960-48TC-L Cisco Catalyst 2960 Network Switch (New)"@en	COL title VAL  "WS-C2960X-24PD-L - 24 Port Switch"@en	0
+COL title VAL  "Apple APPLE AIRPODS PRO (2019)"@en	COL title VAL  "Apple AirPods (2nd Gen) with Charging Case"@en	0
+COL title VAL  "APC RBC117 Replacement Battery Cartridge"@en	COL title VAL  "APC Battery Unit - 120 V DC - Sealed Lead Acid - Spill-proof/Maintenance-free - 3 Year Minimum Battery Life - 5 Year Maximum Battery Life"@en	0
+COL title VAL  "TP-Link Archer-T9UH AC1900 USB 3.0 Adaptr"@de	COL title VAL  "5 Pack: UniFi AC Outdoor AP Mesh Pro Dual-omni ant no PoE adapers (UAP-AC-M-PRO-5)"@en	0
+COL title VAL  "Router TP-LINK Archer C60 - 2,4/5 GHz - 867 Mbit/s - 5x RJ-45 - 5 Antenas"@de	COL title VAL  "WIRELESS AC600 DUAL BAND TP-LINK ARCHER T2U NANO USB2.0 150MBPS A 2.4GHZ + 433MBPS A 5GHZ 802.11AC/A/B/G/N"@en	0
+COL title VAL  "Cisco Catalyst 2960-X - [WS-C2960X-24PD-L]"@ca	COL title VAL  "CISCO - Catalyst 2960 Plus 48 10/100 + 2 T/SFP L"@en	0
+COL title VAL  "TP-Link TL-WN781ND PCI Express Wireless Adapter"@en	COL title VAL  "Cle Usb Wifi Tp-Link N300 Tl-Wn821n"@en	0
+COL title VAL  "tp-link TP-Link N150 Wireless Wi-Fi Nano USB Adapter"@en	COL title VAL  "NIC TP-Link TL-WN821N, USB 2.0 Adapter, 2,4GHz Wireless N 300Mbps, Internal Antenna QCA(Atheros), 2T2R"@en	0
+COL title VAL  "Apple AirPods (2nd Gen) with Charging Case"@en	COL title VAL  "AirPods 2 with Wireless Charging Case"@en	0
+COL title VAL  "Ubiquiti UniFi AC High Density 5-pack UAP-AC-HD-5 Ubiquiti"@fr	COL title VAL  "UBIQUITI UNIFI UAP-AC-PRO-5 (5-Pack)"@en	0
+COL title VAL  "TP-LINK jetstream - switch - 24 x 10/100/1000 - montabile su rack"@en	COL title VAL  "APC Replacement Battery Cartridge #110"@en	0
+COL title VAL  "Jabra Evolve 20SE MS Mono Headset Head-band Black"@en	COL title VAL  "JABRA 2406-820-205 BIZ 2400 II Headset"@en	0
+COL title VAL  "Catalyst 2960 24 10/100 + 2 1000BT LAN Base Image"@en	COL title VAL  "TP-LINK T1700G-28TQ Managed L2+ Gigabit Ethernet (10/100/1000) Zwart"@en	0
+COL title VAL  "APC APCRBC133 Sealed Lead Acid (VRLA)"@en	COL title VAL  "APC RBC117 Replacement Battery Cartridge"@en	0
+COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10000VA Tower 230V"@de	COL title VAL  "Bộ lưu điện UPS APC SRT6KRMXLI 6000VA Rackmount"@vi	0
+COL title VAL  "TP-Link Archer T9UH AC1900 High Gain Wireless Dual Band USB Network Adapter 1900Mbps (600Mpbs @ 2.4GHz & 1300Mbps @ 5GHz) USB3.0 Omni Directional Ant."@en	COL title VAL  "NIC TP-Link TL-WN821N, USB 2.0 Adapter, 2,4GHz Wireless N 300Mbps, Internal Antenna QCA(Atheros), 2T2R"@en	0
+COL title VAL  "TP-LINK - 300Mbps Access Point"@en	COL title VAL  "ACCESS POINT DE ESCRITORIO TP-LINK/N450/3 ANT/5dBi//TL-WA901ND"@en	0
+COL title VAL  "Catalyst 2960L 16 port GigE, 2 x 1G SFP, LAN Lite"@ca	COL title VAL  "Catalyst 2960-X 24 GigE, 2 x 10G SFP+, LAN Base"@en	0
+COL title VAL  "Ubiquiti UniFi Video Camera G3-Bullet Infrared IR 1080P HD Video- 802.3af is embedded"@en	COL title VAL  "Ubiquiti UniFi 2MP 1080p Wide-angle Full HD Camera - 3 Pack"@it	0
+COL title VAL  "Audio Technica ATH-AD500X Headphones, 3.5mm (1/8 inch), Over-ear, Noice canceling, Black"@en	COL title VAL  "APC APCRBC133 Sealed Lead Acid (VRLA)"@en	0
+COL title VAL  "TP-Link Omada EAP225-Outdoor"@et	COL title VAL  "TP-LINK EAP225-Outdoor Omada AC1200 Wireless Access Point u2013 Waterproof, Dustproof, Lightening Protection, Seamless Roaming, Gigabit, PoE Powered, Free PoE Injector, Free Managing Software"@en	0
+COL title VAL  "Catalyst 2960 24 10/100 + 2 1000BT LAN Base Image"@en	COL title VAL  "Cisco Catalyst WS-C2960X-24TD-L network switch Managed L2 Gigabit Ethernet (10/100/1000) Black"@en	0
+COL title VAL  "UBIQUITI UNIFI UAP-AC-PRO-5 (5-Pack)"@en	COL title VAL  "Punct de acces Pachet 5 Bucati UAP-AC UniFi Alb"@ro	0
+COL title VAL  "Catalyst 2960-X 24 GigE, 2 x 10G SFP+, LAN Base"@en	COL title VAL  "Cisco Catalyst WS-C2960X-24TD-L network switch Managed L2 Gigabit Ethernet (10/100/1000) Black"@en	1
+COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10000VA Tower 230V"@de	0
+COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10kVA 230V"@de	COL title VAL  "APC - Schneider APC Smart-UPS SRT 6000VA RM 230V"@de	0
+COL title VAL  "Ubiquiti UAP-AC-PRO-5 Wi-Fi, 802.11 a/b/g/n/ac, 2.4/5.0 GHz, 2, Web-based management, 1.3 Gbit/s, Power over Ethernet (PoE), 10,"@en	COL title VAL  "Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable."@ca	0
+COL title VAL  "Omada EAP225 Outdoor, Access Point"@pt	COL title VAL  "TP-Link Omada EAP225-Outdoor"@et	0
+COL title VAL  "APCRBC117APC Replacement Battery Cartridge #117"@en	COL title VAL  "Battery replacement kit for BE550G-RS, BR550GI, BR650CI-RS (APCRBC110)"@en	0
+COL title VAL  "TP-Link T1700G-28TQ JetStream 24-Port Gigabit Stack Smart Switch + 4 10GE SFP+"@en	COL title VAL  "TP-LINK T1700G-28TQ Managed L2+ Gigabit Ethernet (10/100/1000) Zwart"@en	1
+COL title VAL  "Audio Technica ATH-AD500X Headphones, 3.5mm (1/8 inch), Over-ear, Noice canceling, Black"@en	COL title VAL  "Audio-Technica Consumer ATH-PRO7X Professional On-Ear DJ Monitor Headphones"@en	0
+COL title VAL  "WIRELESS AC600 DUAL BAND TP-LINK ARCHER T2U NANO USB2.0 150MBPS A 2.4GHZ + 433MBPS A 5GHZ 802.11AC/A/B/G/N"@en	COL title VAL  "Ubiquiti UAP-AC-PRO-5 Wi-Fi, 802.11 a/b/g/n/ac, 2.4/5.0 GHz, 2, Web-based management, 1.3 Gbit/s, Power over Ethernet (PoE), 10,"@en	0
+COL title VAL  "APC APCRBC133 Sealed Lead Acid (VRLA)"@en	COL title VAL  "APC Battery Unit - 120 V DC - Sealed Lead Acid - Spill-proof/Maintenance-free - 3 Year Minimum Battery Life - 5 Year Maximum Battery Life"@en	0
+COL title VAL  "Slušalke Audio-Technica ATH-PRO7x"@hr	COL title VAL  "Audio-Technica Headphones - ATH-AD500X"@en	0
+COL title VAL  "D-link DGS-1210-24P best price"@en	COL title VAL  "D-Link DGS-1210-24"@de	0
+COL title VAL  "UBIQUITI UNIFI UAP-AC-PRO-5 (5-Pack)"@en	COL title VAL  "Ubiquiti Networks UAP-AC-IW 5-pack WLAN toegangspunt 1000 Mbit/s Power over Ethernet (PoE) Wit"@en	0
+COL title VAL  "Audio Technica ATH-M40X Flat Response Studio Headphones"@en	COL title VAL  "Slušalke Audio-Technica ATH-PRO7x"@hr	0
+COL title VAL  "Catalyst 2960L 16 port GigE, 2 x 1G SFP, LAN Lite"@ca	COL title VAL  "Jabra Evolve 40 UC Mono Bedrade Usb A Office Headset"@pt	0
+COL title VAL  "APCRBC117APC Replacement Battery Cartridge #117"@en	COL title VAL  "Atomos Pro Video Coiled HDMI Cable - Full HDMI to Full HDMI"@es	0
+COL title VAL  "Apple APPLE AIRPODS (2ND GEN) WIRELESS HEADPHONES WITH CHARGING CASE"@en	COL title VAL  "Apple - AirPods with Charging Case (Latest Model) - White"@en	1
+COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	0
+COL title VAL  "TP-Link Omada EAP225-Outdoor"@et	COL title VAL  "ACCESS POINT TP-LINK WIRELESS N 300MBPS EAP115"@de	0
+COL title VAL  "Apple APPLE AIRPODS (2ND GEN) WIRELESS HEADPHONES WITH CHARGING CASE"@en	COL title VAL  "AirPods 2 with Wireless Charging Case"@en	0
+COL title VAL  "Jabra BIZ 2400 II DQ Duo NC WB Corded Headset"@en	COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	0
+COL title VAL  "Ubiquiti UniFi Video G3 Infrared Range Extender"@it	COL title VAL  "Ubiquiti UniFi UCK-G2-PLUS Cloud Key Gen2 PLUS"@fr	0
+COL title VAL  "Jabra Evolve 20 UC Mono Corded USB Headset"@en	COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	0
+COL title VAL  "Ubiquiti UniFi Protect Video Security"@fr	COL title VAL  "Ubiquiti UniFi UCK-G2-PLUS Cloud Key Gen2 PLUS"@fr	1
+COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10kVA 230V"@de	COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10000VA Tower 230V"@de	1
+COL title VAL  "TP-Link EAP110 300Mbps Wireless N300 Ceiling Mount Access Point 1x1Gbps RJ45 PoE 1x Console Port 2x4dBi Omni Internal Antenna"@en	COL title VAL  "ACCESS POINT TP-LINK WIRELESS N 300MBPS EAP115"@de	0
+COL title VAL  "DS-7204HQHI-K1 Hikvision 4 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "Hikvision 32-Channel 1080P HD-TVI Turbo DVR - DS-7332HQHI-K4"@en	0
+COL title VAL  "BỘ LƯU ĐIỆN APC SRT3000RMXLI 3000VA rackmount"@vi	COL title VAL  "Bộ lưu điện UPS APC SRT6KRMXLI 6000VA Rackmount"@vi	0
+COL title VAL  "Jabra BIZ 2300 USB MS Mono Wired Headset"@en	COL title VAL  "Jabra BIZ 2300 USB Mono, Type: 82 E-STD"@es	1
+COL title VAL  "tp-link TP-Link N150 Wireless Wi-Fi Nano USB Adapter"@en	COL title VAL  "ACCESS POINT TP-LINK WIRELESS N 300MBPS EAP115"@de	0
+COL title VAL  "WS-C2960-24TT-L Cisco Catalyst 2960 Network Switch (New)"@en	COL title VAL  "WS-C2960-48TC-L Cisco Catalyst 2960 Network Switch (New)"@en	0
+COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	0
+COL title VAL  "TP-LINK EAP115 300Mbit/s Power over Ethernet (PoE) WLAN toegangspunt"@en	COL title VAL  "Ubiquiti Networks UniFi AC HD 1700Mbit/s Power over Ethernet (PoE) Wit WLAN toegangspunt"@en	0
+COL title VAL  "Hikvision 32-Channel 1080P HD-TVI Turbo DVR - DS-7332HQHI-K4"@en	COL title VAL  "DVR 8 canale HIKVISION Turbo HD DS-7208HQHI-K1 TurboHD 3.0 H.265+, 1xSATA"@en	0
+COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	COL title VAL  "Hikvision 32-Channel 1080P HD-TVI Turbo DVR - DS-7332HQHI-K4"@en	0
+COL title VAL  "APC SMART-UPS 1000VA 2U Uninterruptable Power Supply"@en	COL title VAL  "APC SMART UPS (SMT), 1000VA, 230V, LCD, RM 2U WITH SMART CONNECT - 3YR WTY"@en	1
+COL title VAL  "Apple APPLE AIRPODS (2ND GEN) WIRELESS HEADPHONES WITH CHARGING CASE"@en	COL title VAL  "Apple AirPods (2nd Gen) with Charging Case"@en	0
+COL title VAL  "WS-C2960L-16TS-LL Cisco Catalyst 2960L Network Switch (Refurb)"@en	COL title VAL  "Catalyst 2960L 16 port GigE, 2 x 1G SFP, LAN Lite"@ca	1
+COL title VAL  "Ubiquiti Networks UAP-AC-IW 5-pack WLAN toegangspunt 1000 Mbit/s Power over Ethernet (PoE) Wit"@en	COL title VAL  "TP-LINK EAP115 300Mbit/s Power over Ethernet (PoE) WLAN toegangspunt"@en	0
+COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	COL title VAL  "Jabra BIZ 2300 USB MS Duo - headset"@en	0
+COL title VAL  "Ubiquiti UniFi AC High Density 5-pack UAP-AC-HD-5 Ubiquiti"@fr	COL title VAL  "Ubiquiti UniFi 2MP 1080p Wide-angle Full HD Camera - 3 Pack"@it	0
+COL title VAL  "DVR Standalone HIKVISION DS-7204HQHI-K1"@de	COL title VAL  "HK DVR TURBOHD 32ch DS-7332HQHI-K4"@vi	0
+COL title VAL  "8ch, PoC, Hikvision DVR, up to 8MP(8fps) TVI cameras supported"@en	COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	0
+COL title VAL  "Jabra Evolve 80 MS stereo - headset"@en	COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	0
+COL title VAL  "APC RBC117 Replacement Battery Cartridge"@en	COL title VAL  "Akumulator APC Replacement battery cartridge #140"@en	0
+COL title VAL  "Ubiquiti UniFi UVC-G4-PRO Network IP 4K Video Surveillance Camera"@en	COL title VAL  "DJI Mavic Pro 2 Drone with 4K 20MP Hasselblad Camera"@en	0
+COL title VAL  "Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable."@ca	COL title VAL  "JABRA 2406-820-205 BIZ 2400 II Headset"@en	0
+COL title VAL  "TP-LINK EAP225-Outdoor Omada AC1200 Wireless Access Point u2013 Waterproof, Dustproof, Lightening Protection, Seamless Roaming, Gigabit, PoE Powered, Free PoE Injector, Free Managing Software"@en	COL title VAL  "ACCESS POINT TP-LINK WIRELESS N 300MBPS EAP115"@de	0
+COL title VAL  "APC Battery Unit - 120 V DC - Sealed Lead Acid - Spill-proof/Maintenance-free - 3 Year Minimum Battery Life - 5 Year Maximum Battery Life"@en	COL title VAL  "Akumulator APC Replacement battery cartridge #140"@en	1
+COL title VAL  "UVC-G3-FLEX-3Ubiquiti UniFi Video Camera, G3, Flex 3 pack"@ca	COL title VAL  "UniFi Video Camera G3-MICRO"@it	0
+COL title VAL  "TP-LINK 450Mbps Wireless N Access Point / Range Extender"@en	COL title VAL  "TP-LINK - 300Mbps Access Point"@en	0
+COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	COL title VAL  "DVR 8 canale HIKVISION Turbo HD DS-7208HQHI-K1 TurboHD 3.0 H.265+, 1xSATA"@en	1
+COL title VAL  "Ubiquiti UniFi Video Camera G3-Bullet Infrared IR 1080P HD Video- 802.3af is embedded"@en	COL title VAL  "Ubiquiti UVC-G3-Bullet - Camara IP UniFi Interior/Exterior HD IR"@it	1
+COL title VAL  "Jabra Evolve 20 SE Mono MS USB Corded PC Headset"@en	COL title VAL  "Jabra Evolve 80 MS stereo - headset"@en	0
+COL title VAL  "Ubiquiti UniFi 2MP 1080p Wide-angle Full HD Camera - 3 Pack"@it	COL title VAL  "Ubiquiti UniFi video Camera G3 IR Range Extender"@it	0
+COL title VAL  "APC - Schneider APC Smart-UPS SRT 6000VA RM 230V"@de	COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	0
+COL title VAL  "NIC TP-Link TL-WN821N, USB 2.0 Adapter, 2,4GHz Wireless N 300Mbps, Internal Antenna QCA(Atheros), 2T2R"@en	COL title VAL  "ADATTATORE USB2.0 WIRELESS N 150M LAN 802.11BGN 1T1R 2.4GHZ-NANO SIZE-PROVIDE USB2.0 INTERF.-WPS-SUPP. XP/VISTA/7"@en	0
+COL title VAL  "Ubiquiti UAP-AC-PRO-5 Wi-Fi, 802.11 a/b/g/n/ac, 2.4/5.0 GHz, 2, Web-based management, 1.3 Gbit/s, Power over Ethernet (PoE), 10,"@en	COL title VAL  "Cisco Catalyst 2960-X - [WS-C2960X-24PD-L]"@ca	0
+COL title VAL  "UVC-G3-FLEX-3Ubiquiti UniFi Video Camera, G3, Flex 3 pack"@ca	COL title VAL  "Ubiquiti UniFi 2MP 1080p Wide-angle Full HD Camera - 3 Pack"@it	1
+COL title VAL  "APC Smart-UPS RT RM battery pack, Extended-Run, 192V bus voltage, Rack 6U, compatible with Smart-UPS RT RM 15 -20kVA, Black (SURT192RMXLBP2)"@en	COL title VAL  "APC SMART UPS (SMT), 1000VA, 230V, LCD, RM 2U WITH SMART CONNECT - 3YR WTY"@en	0
+COL title VAL  "Atomos Atomos coiled full HDMI to full HDMI cable (30-45cm)"@es	COL title VAL  "Atomos Pro Video Coiled HDMI Cable - Full HDMI to Full HDMI"@es	1
+COL title VAL  "8ch, PoC, Hikvision DVR, up to 4MP TVI camera supported"@en	COL title VAL  "TP-Link Archer C60 AC1350 Wireless Dual Band Router"@en	0
+COL title VAL  "Jabra BIZ 2300 USB MS Mono Wired Headset"@en	COL title VAL  "BIZ 2300 USB DuoMicrosoft optimized"@en	0
+COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	COL title VAL  "Hikvision DVR 16 CH fino a 8Mpx Turbo 3.0 DS-7216HUHI-K2"@en	0
+COL title VAL  "Audio-Technica Consumer ATH-PRO7X Professional On-Ear DJ Monitor Headphones"@en	COL title VAL  "Audio-Technica ATH-M50x Professional Monitor Closed Over-Ear Headphones - Black"@en	0
+COL title VAL  "Jabra BIZ 2400 II DQ Duo NC WB Corded Headset"@en	COL title VAL  "JABRA 2406-820-205 BIZ 2400 II Headset"@en	0
+COL title VAL  "Apple Airpod Pro Wireless Bluetooth IPX4 In-Ear Headphones with Wireless Charging Case - White"@en	COL title VAL  "Apple APPLE AIRPODS (2ND GEN) WIRELESS HEADPHONES WITH CHARGING CASE"@en	0
+COL title VAL  "Apple AirPods wWireless Charging Case"@en	COL title VAL  "APPLE - AirPods (2019) white DE"@en	0
+COL title VAL  "NIC TP-Link TL-WN821N, USB 2.0 Adapter, 2,4GHz Wireless N 300Mbps, Internal Antenna QCA(Atheros), 2T2R"@en	COL title VAL  "TP-Link TL-WN781ND PCI Express Wireless Adapter"@en	0
+COL title VAL  "APC APCrbc124 Replacement Battery Cartridge #124"@en	COL title VAL  "APC APCRBC133 Sealed Lead Acid (VRLA)"@en	0
+COL title VAL  "APC APCRBC133 Replacement Battery Cartridge #133"@en	COL title VAL  "DJI Mavic Pro 2 Drone with 4K 20MP Hasselblad Camera"@en	0
+COL title VAL  "Jabra BIZ 2400 II DQ Duo NC WB Corded Headset"@en	COL title VAL  "Jabra BIZ 2400 II binaural NC (FreeSpin)"@en	1
+COL title VAL  "Audio Technica ATH-M40X Flat Response Studio Headphones"@en	COL title VAL  "JABRA EVOLVE 65 UC MONO c/w LINK 360"@pl	0
+COL title VAL  "Ubiquiti Networks UniFi AC HD 1700Mbit/s Power over Ethernet (PoE) Wit WLAN toegangspunt"@en	COL title VAL  "Ubiquiti UniFi AC High Density 5-pack UAP-AC-HD-5 Ubiquiti"@fr	1
+COL title VAL  "Hikvision DVR 16 CH fino a 8Mpx Turbo 3.0 DS-7216HUHI-K2"@en	COL title VAL  "Hikvision DVR Turbo HD, 1920x1080P, Ref: DS-7216HUHI-K2"@en	1
+COL title VAL  "TP-LINK T1700G-28TQ Managed L2+ Gigabit Ethernet (10/100/1000) Zwart"@en	COL title VAL  "TP-LINK jetstream - switch - 24 x 10/100/1000 - montabile su rack"@en	0
+COL title VAL  "Ubiquiti UniFi video Camera G3 IR Range Extender"@it	COL title VAL  "UVC-G3-Micro Ubiquiti Latest G3 Video Camera In Micro Version"@it	0
+COL title VAL  "Switch DGS-1210-24P 24 porturi"@en	COL title VAL  "TP-LINK - 300Mbps Access Point"@en	0
+COL title VAL  "8ch, PoC, Hikvision DVR, up to 8MP(8fps) TVI cameras supported"@en	COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	1
+COL title VAL  "APPLE - AirPods (2019) white DE"@en	COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10kVA 230V"@de	0
+COL title VAL  "NIC TP-Link TL-WN821N, USB 2.0 Adapter, 2,4GHz Wireless N 300Mbps, Internal Antenna QCA(Atheros), 2T2R"@en	COL title VAL  "Audio Technica ATH-AD500X Headphones, 3.5mm (1/8 inch), Over-ear, Noice canceling, Black"@en	0
+COL title VAL  "TP-Link EAP225-Outdoor Wireless-AC1200 MU-MIMO Gigabit Indoor/Outdoor Access Point (Warranty 3years with TPLink SG)"@en	COL title VAL  "D-Link DGS-1210-24"@de	0
+COL title VAL  "ACCESS POINT TP-LINK WIRELESS N 300MBPS EAP115"@de	COL title VAL  "UVC-G4-PROUbiquiti Professional Indoor/Outdoor, 4K Video, 3x Optical Zoom, and POE support"@en	0
+COL title VAL  "TP-Link Archer-T9UH AC1900 USB 3.0 Adaptr"@de	COL title VAL  "Cle Usb Wifi Tp-Link N300 Tl-Wn821n"@en	0
+COL title VAL  "Ubiquiti UniFi video Camera G3 IR Range Extender"@it	COL title VAL  "UniFi Video Camera G3-MICRO"@it	0
+COL title VAL  "Jabra BIZ 2300 USB MS Duo - headset"@en	COL title VAL  "Jabra BIZ 2300 USB MS Mono Wired Headset"@en	0
+COL title VAL  "APC Smart-UPS 1000VA LCD 230V SMT1000I - SMT1000I"@en	COL title VAL  "APC Smart-UPS 1000 LCD"@de	1
+COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	COL title VAL  "Jabra BIZ 2400 IP Mono headset 3 in 1, type: 82 E-STD"@en	0
+COL title VAL  "Catalyst 2960-X 24 GigE, 2 x 10G SFP+, LAN Base"@en	COL title VAL  "TP-Link T1700G-28TQ JetStream 24-Port Gigabit Stack Smart Switch + 4 10GE SFP+"@en	0
+COL title VAL  "Jabra Evolve 40 UC Mono Bedrade Usb A Office Headset"@pt	COL title VAL  "Jabra Evolve Over The Head Supra Aural 40 Wired Mono Headset"@en	1
+COL title VAL  "Cisco Catalyst 2960-X - [WS-C2960X-24PD-L]"@ca	COL title VAL  "Catalyst 2960 24 10/100 + 2 1000BT LAN Base Image"@en	0
+COL title VAL  "TP-Link TL-SG1024DE 24port Gigabit Desktop Switch"@en	COL title VAL  "Switch DGS-1210-24P 24 porturi"@en	0
+COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10kVA 230V"@de	COL title VAL  "BỘ LƯU ĐIỆN UPS APC SURT20KRMXLI 20KVA"@vi	0
+COL title VAL  "Apple APPLE AIRPODS PRO (2019)"@en	COL title VAL  "Apple Airpod Pro Wireless Bluetooth IPX4 In-Ear Headphones with Wireless Charging Case - White"@en	1
+COL title VAL  "Jabra Evolve 20 SE Mono MS USB Corded PC Headset"@en	COL title VAL  "Jabra BIZ 2300 USB MS Mono Wired Headset"@en	0
+COL title VAL  "APC Smart-UPS 1000VA LCD 230V SMT1000I - SMT1000I"@en	COL title VAL  "Acumulator UPS APC, 230V, BR1200GI, BR1500GI, APCRBC124"@ro	0
+COL title VAL  "JABRA Biz 2300 Noise Canceling - Stereo"@en	COL title VAL  "Jabra BIZ 2400 II binaural NC (FreeSpin)"@en	0
+COL title VAL  "Apple Airpod Pro Wireless Bluetooth IPX4 In-Ear Headphones with Wireless Charging Case - White"@en	COL title VAL  "HIKVISION DS-7216HQHI-K1 2 MEGAPIXEL (2MP) HYBRID 16 CHANNEL DVR"@de	0
+COL title VAL  "TP-LINK 450Mbps Wireless N Access Point / Range Extender"@en	COL title VAL  "tp-link TP-Link N150 Wireless Wi-Fi Nano USB Adapter"@en	0
+COL title VAL  "Ubiquiti Networks UAP-AC-IW 5-pack WLAN toegangspunt 1000 Mbit/s Power over Ethernet (PoE) Wit"@en	COL title VAL  "Punct de acces Pachet 5 Bucati UAP-AC UniFi Alb"@ro	0
+COL title VAL  "Bộ lưu điện UPS APC SRT6KRMXLI 6000VA Rackmount"@vi	COL title VAL  "BỘ LƯU ĐIỆN UPS APC SURT20KRMXLI 20KVA"@vi	0
+COL title VAL  "Jabra BIZ 2400 II binaural NC (FreeSpin)"@en	COL title VAL  "Jabra BIZ 2400 II Mono 3-1 - Mic. 82 NC, Wideband"@en	0
+COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	COL title VAL  "JABRA Biz 2300 Noise Canceling - Stereo"@en	0
+COL title VAL  "Apple - AirPods with Charging Case (Latest Model) - White"@en	COL title VAL  "Apple AirPods wWireless Charging Case"@en	0
+COL title VAL  "UVC-G4-PROUbiquiti Professional Indoor/Outdoor, 4K Video, 3x Optical Zoom, and POE support"@en	COL title VAL  "Ubiquiti UniFi UVC-G4-PRO Network IP 4K Video Surveillance Camera"@en	1
+COL title VAL  "TP-LINK - 300Mbps Access Point"@en	COL title VAL  "Omada EAP225 Outdoor, Access Point"@pt	0
+COL title VAL  "APC APCRBC133 Replacement Battery Cartridge #133"@en	COL title VAL  "APC RBC117 Replacement Battery Cartridge"@en	0
+COL title VAL  "TP-Link Archer C60 AC1350 Wireless Dual Band Router"@en	COL title VAL  "TP-Link TL-WN781ND PCI Express Wireless Adapter"@en	0
+COL title VAL  "Battery replacement kit for BE550G-RS, BR550GI, BR650CI-RS (APCRBC110)"@en	COL title VAL  "APC Replacement Battery Cartridge #110"@en	1
+COL title VAL  "tp-link TP-Link N150 Wireless Wi-Fi Nano USB Adapter"@en	COL title VAL  "ADAPTADOR WIRELESS USB DB ARCHER T2U AC600 TP-LINK"@en	0
+COL title VAL  "TP-Link TL-WN781ND PCI Express Wireless Adapter"@en	COL title VAL  "ACCESS POINT TP-LINK WIRELESS N 300MBPS EAP115"@de	0
+COL title VAL  "Ubiquiti UniFi AC In-Wall 5-pack UAP-AC-IW-5 Ubiquiti"@fr	COL title VAL  "Punct de acces Pachet 5 Bucati UAP-AC UniFi Alb"@ro	0
+COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10000VA Tower 230V"@de	COL title VAL  "APC - Schneider APC Smart-UPS SRT 6000VA RM 230V"@de	0
+COL title VAL  "TP-LINK 450Mbps Wireless N Access Point / Range Extender"@en	COL title VAL  "Atomos Atomos coiled full HDMI to full HDMI cable (30-45cm)"@es	0
+COL title VAL  "ACCESS POINT TP-LINK WIRELESS N 300MBPS EAP115"@de	COL title VAL  "TP-LINK EAP115 300Mbit/s Power over Ethernet (PoE) WLAN toegangspunt"@en	1
+COL title VAL  "APC SMART UPS (SMT), 1000VA, 230V, LCD, RM 2U WITH SMART CONNECT - 3YR WTY"@en	COL title VAL  "APC Smart-UPS 1000VA LCD 230V SMT1000I - SMT1000I"@en	0
+COL title VAL  "HIKVISION DS-7216HQHI-K1 2 MEGAPIXEL (2MP) HYBRID 16 CHANNEL DVR"@de	COL title VAL  "DS-7204HQHI-K1 Hikvision 4 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	0
+COL title VAL  "Jabra Evolve 20SE MS Mono Headset Head-band Black"@en	COL title VAL  "Jabra Evolve 20 SE Mono MS USB Corded PC Headset"@en	1
+COL title VAL  "Mikrotik CCR1036-12G-4S-EM - A carrier grade router and 36 core Tilera CPU."@en	COL title VAL  "MikroTik RouterBoard Cloud Core Router Firewall VPN 16GB RAM 36 Core CCR1036-12G-4S-EM (RouterOS L6)"@en	1
+COL title VAL  "D-link DGS-1210-24P best price"@en	COL title VAL  "D-LINK/NET/24X1GB POE SWITCH /+ 4 SFP/L2/RM"@de	0
+COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10000VA Tower 230V"@de	COL title VAL  "APC Smart-UPS 1000VA LCD 230V SMT1000I - SMT1000I"@en	0
+COL title VAL  "APC Smart-UPS 1000 LCD"@de	COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10kVA 230V"@de	0
+COL title VAL  "D-link DGS-1210-24P best price"@en	COL title VAL  "DLINK - DGS-1210-28P - 28 Port Gigabit Smart Managed POE Switch"@en	0
+COL title VAL  "UBIQUITI UNIFI UAP-AC-PRO-5 (5-Pack)"@en	COL title VAL  "Ubiquiti Networks UniFi AC HD 1700Mbit/s Power over Ethernet (PoE) Wit WLAN toegangspunt"@en	0
+COL title VAL  "APC RBC117 Replacement Battery Cartridge"@en	COL title VAL  "BỘ LƯU ĐIỆN APC SRT3000RMXLI 3000VA rackmount"@vi	0
+COL title VAL  "BỘ LƯU ĐIỆN UPS APC SURT20KRMXLI 20KVA"@vi	COL title VAL  "APC RT 20000 VA RM 230V Smart-UPS"@de	1
+COL title VAL  "Audio Technica ATH-M50X Monitor Headphones with Disconnectable Cables - White"@en	COL title VAL  "Audio-technica ATH-M50XWH Pro Closed-back Headphone, Full, White"@en	1
+COL title VAL  "Ubiquiti Networks UniFi AC HD 1700Mbit/s Power over Ethernet (PoE) Wit WLAN toegangspunt"@en	COL title VAL  "Ubiquiti UAP-AC-PRO-5 Wi-Fi, 802.11 a/b/g/n/ac, 2.4/5.0 GHz, 2, Web-based management, 1.3 Gbit/s, Power over Ethernet (PoE), 10,"@en	0
+COL title VAL  "Ubiquiti UniFi Video Camera G3 Bullet (3 Pack)"@it	COL title VAL  "UVC-G3-FLEX-3Ubiquiti UniFi Video Camera, G3, Flex 3 pack"@ca	0
+COL title VAL  "WS-C2960L-16TS-LL Cisco Catalyst 2960L Network Switch (Refurb)"@en	COL title VAL  "WS-C2960-48TC-L Cisco Catalyst 2960 Network Switch (New)"@en	0
+COL title VAL  "Catalyst 2960-X 24 GigE, 2 x 10G SFP+, LAN Base"@en	COL title VAL  "WS-C2960-48TC-L Cisco Catalyst 2960 Network Switch (New)"@en	0
+COL title VAL  "Akumulator APC Replacement battery cartridge #140"@en	COL title VAL  "APC Replacement Battery Cartridge #110"@en	0
+COL title VAL  "Atomos Pro Video Coiled HDMI Cable - Full HDMI to Full HDMI"@es	COL title VAL  "Akumulator APC Replacement battery cartridge #140"@en	0
+COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	COL title VAL  "Jabra Biz 2300 USB Duo Headset"@hr	0
+COL title VAL  "ACCESS POINT TP-LINK WIRELESS N 300MBPS EAP115"@de	COL title VAL  "ACCESS POINT DE ESCRITORIO TP-LINK/N450/3 ANT/5dBi//TL-WA901ND"@en	0
+COL title VAL  "Hikvision 32-Channel 1080P HD-TVI Turbo DVR - DS-7332HQHI-K4"@en	COL title VAL  "Hikvision DVR 16 CH fino a 8Mpx Turbo 3.0 DS-7216HUHI-K2"@en	0
+COL title VAL  "UVC-G3-FLEX-3Ubiquiti UniFi Video Camera, G3, Flex 3 pack"@ca	COL title VAL  "UVC-G3-Micro Ubiquiti Latest G3 Video Camera In Micro Version"@it	0
+COL title VAL  "TP-LINK T1700G-28TQ Managed L2+ Gigabit Ethernet (10/100/1000) Zwart"@en	COL title VAL  "Cisco Catalyst WS-C2960X-24TD-L network switch Managed L2 Gigabit Ethernet (10/100/1000) Black"@en	0
+COL title VAL  "TP-LINK EAP225-Outdoor Omada AC1200 Wireless Access Point u2013 Waterproof, Dustproof, Lightening Protection, Seamless Roaming, Gigabit, PoE Powered, Free PoE Injector, Free Managing Software"@en	COL title VAL  "TP-Link EAP225-Outdoor Wireless-AC1200 MU-MIMO Gigabit Indoor/Outdoor Access Point (Warranty 3years with TPLink SG)"@en	0
+COL title VAL  "DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "HIKVISION DS-7216HQHI-K1 2 MEGAPIXEL (2MP) HYBRID 16 CHANNEL DVR"@de	1
+COL title VAL  "UVC-G3-FLEX-3Ubiquiti UniFi Video Camera, G3, Flex 3 pack"@ca	COL title VAL  "Ubiquiti UniFi video Camera G3 IR Range Extender"@it	0
+COL title VAL  "TP-Link T1700G-28TQ JetStream 24-Port Gigabit Stack Smart Switch + 4 10GE SFP+"@en	COL title VAL  "DLINK - DGS-1210-28P - 28 Port Gigabit Smart Managed POE Switch"@en	0
+COL title VAL  "Audio Technica ATHM50X Professional Monitor Headphones"@en	COL title VAL  "Audio-Technica ATH-M50x Professional Monitor Closed Over-Ear Headphones - Black"@en	1
+COL title VAL  "DVR 8 canale HIKVISION Turbo HD DS-7208HQHI-K1 TurboHD 3.0 H.265+, 1xSATA"@en	COL title VAL  "Hikvision DVR Turbo HD, 1920x1080P, Ref: DS-7216HUHI-K2"@en	0
+COL title VAL  "Jabra BIZ 2300 USB Mono, Type: 82 E-STD"@es	COL title VAL  "Jabra Evolve 20 UC Mono Corded USB Headset"@en	0
+COL title VAL  "Audio Technica ATH-AD500X Headphones, 3.5mm (1/8 inch), Over-ear, Noice canceling, Black"@en	COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	0
+COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	COL title VAL  "8CH HIKVISION 8MP DVR 4K TURBO AOC AUDIO OVER COAX- DS-7208HUHI-K1 (S)"@de	0
+COL title VAL  "WS-C2960-24TT-L Cisco Catalyst 2960 Network Switch (New)"@en	COL title VAL  "Catalyst 2960 24 10/100 + 2 1000BT LAN Base Image"@en	1
+COL title VAL  "Ubiquiti UVC-G3-Bullet - Camara IP UniFi Interior/Exterior HD IR"@it	COL title VAL  "Ubiquiti UniFi UVC-G4-PRO Network IP 4K Video Surveillance Camera"@en	0
+COL title VAL  "TP-Link Archer C60 AC1350 Wireless Dual Band Router"@en	COL title VAL  "Router TP-LINK Archer C60 - 2,4/5 GHz - 867 Mbit/s - 5x RJ-45 - 5 Antenas"@de	1
+COL title VAL  "Jabra Evolve 80 MS stereo - headset"@en	COL title VAL  "Jabra EVOLVE 80 MS Stereo"@de	1
+COL title VAL  "Jabra BIZ 2300 USB MS Duo - headset"@en	COL title VAL  "Jabra Biz 2300 USB Duo Headset"@hr	0
+COL title VAL  "D-link DGS-1210-24P best price"@en	COL title VAL  "Switch DGS-1210-24P 24 porturi"@en	1
+COL title VAL  "D-Link Switch 24 Puertos 10/100/1Gbit w/4 Combo 1000BaseT/SFP - Red"@en	COL title VAL  "TP-Link T1700G-28TQ JetStream 24-Port Gigabit Stack Smart Switch + 4 10GE SFP+"@en	0
+COL title VAL  "Jabra Evolve 20 SE Mono MS USB Corded PC Headset"@en	COL title VAL  "Jabra Evolve 20 UC Mono Corded USB Headset"@en	0
+COL title VAL  "Jabra Evolve 20 UC Mono Corded USB Headset"@en	COL title VAL  "JABRA EVOLVE 65 UC MONO c/w LINK 360"@pl	0
+COL title VAL  "Jabra Evolve 65 Headset UC Mono"@pt	COL title VAL  "Jabra Evolve 80 MS stereo - headset"@en	0
+COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	COL title VAL  "HIKVISION DS-7216HQHI-K1 2 MEGAPIXEL (2MP) HYBRID 16 CHANNEL DVR"@de	0
+COL title VAL  "Cisco Catalyst WS-C2960X-24TD-L network switch Managed L2 Gigabit Ethernet (10/100/1000) Black"@en	COL title VAL  "Cisco Catalyst 2960-X - [WS-C2960X-24PD-L]"@ca	0
+COL title VAL  "TP-LINK jetstream - switch - 24 x 10/100/1000 - montabile su rack"@en	COL title VAL  "TP-Link TL-SG1024DE 24port Gigabit Desktop Switch"@en	1
+COL title VAL  "Audio-Technica Headphones - ATH-AD500X"@en	COL title VAL  "Audio Technica ATH-M50X Monitor Headphones with Disconnectable Cables - White"@en	0
+COL title VAL  "8CH HIKVISION 8MP DVR 4K TURBO AOC AUDIO OVER COAX- DS-7208HUHI-K1 (S)"@de	COL title VAL  "Hikvision H.265+ TURBO HD 8CH DVR 4K HDMI supports 5MP TVI/ 2MP AHD & CVI/ 6MP IP CAM (HDD not included)"@en	1
+COL title VAL  "Apple Airpod Pro Wireless Bluetooth IPX4 In-Ear Headphones with Wireless Charging Case - White"@en	COL title VAL  "Apple APPLE AIRPODS (2ND GEN) WIRELESS HEADPHONES WITH WIRELESS CHARGING CASE"@en	0
+COL title VAL  "5 Pack: UniFi AC Outdoor AP Mesh Pro Dual-omni ant no PoE adapers (UAP-AC-M-PRO-5)"@en	COL title VAL  "UBIQUITI UNIFI UAP-AC-PRO-5 (5-Pack)"@en	0
+COL title VAL  "DJI Mavic Mini Combo - Drone FlyCam Quadcopter UAV with 2.7K Camera 3-Axis Gimbal GPS 30min Flight Time, less than 0.55lbs, Gray"@en	COL title VAL  "Mavic Mini Fly More Combo"@en	1
+COL title VAL  "Jabra EVOLVE 20 UC MONO Headset 4993-829-209 -For use on computers"@en	COL title VAL  "Jabra Evolve 20 UC Mono Corded USB Headset"@en	1
+COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10kVA 230V"@de	COL title VAL  "Acumulator UPS APC, 230V, BR1200GI, BR1500GI, APCRBC124"@ro	0
+COL title VAL  "Catalyst 2960 24 10/100 + 2 1000BT LAN Base Image"@en	COL title VAL  "WS-C2960-48TC-L Cisco Catalyst 2960 Network Switch (New)"@en	0
+COL title VAL  "Apple AirPods (2nd Gen) with Charging Case"@en	COL title VAL  "Apple - AirPods with Charging Case (Latest Model) - White"@en	0
+COL title VAL  "Audio Technica ATH-M50X Monitor Headphones with Disconnectable Cables - White"@en	COL title VAL  "Audio-Technica Consumer ATH-PRO7X Professional On-Ear DJ Monitor Headphones"@en	0
+COL title VAL  "Ubiquiti UAP-AC-PRO-5 Wi-Fi, 802.11 a/b/g/n/ac, 2.4/5.0 GHz, 2, Web-based management, 1.3 Gbit/s, Power over Ethernet (PoE), 10,"@en	COL title VAL  "Ubiquiti Networks UAP-AC-IW 5-pack WLAN toegangspunt 1000 Mbit/s Power over Ethernet (PoE) Wit"@en	0
+COL title VAL  "NIC TP-Link TL-WN821N, USB 2.0 Adapter, 2,4GHz Wireless N 300Mbps, Internal Antenna QCA(Atheros), 2T2R"@en	COL title VAL  "WIRELESS AC600 DUAL BAND TP-LINK ARCHER T2U NANO USB2.0 150MBPS A 2.4GHZ + 433MBPS A 5GHZ 802.11AC/A/B/G/N"@en	0
+COL title VAL  "Audio Technica ATH-M40X Flat Response Studio Headphones"@en	COL title VAL  "Audio-Technica Consumer ATH-PRO7X Professional On-Ear DJ Monitor Headphones"@en	0
+COL title VAL  "TP-Link EAP225-Outdoor Wireless-AC1200 MU-MIMO Gigabit Indoor/Outdoor Access Point (Warranty 3years with TPLink SG)"@en	COL title VAL  "ACCESS POINT TP-LINK WIRELESS N 300MBPS EAP115"@de	0
+COL title VAL  "Jabra BIZ 2300 USB MS Duo - headset"@en	COL title VAL  "BIZ 2300 USB DuoMicrosoft optimized"@en	1
+COL title VAL  "Ubiquiti Networks UniFi AC HD 1700Mbit/s Power over Ethernet (PoE) Wit WLAN toegangspunt"@en	COL title VAL  "Ubiquiti UniFi Protect Video Security"@fr	0
+COL title VAL  "Apple AirPods wWireless Charging Case"@en	COL title VAL  "Apple APPLE AIRPODS PRO (2019)"@en	0
+COL title VAL  "DJI Mavic Pro 2 Drone with 4K 20MP Hasselblad Camera"@en	COL title VAL  "Dron dji mavic 2 pro rc camara portable quadcopter (cp.ma.00000019.01)"@ca	1
+COL title VAL  "Apple APPLE AIRPODS PRO (2019)"@en	COL title VAL  "APPLE - AirPods (2019) white DE"@en	0
+COL title VAL  "BỘ LƯU ĐIỆN UPS APC SURT20KRMXLI 20KVA"@vi	COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10000VA Tower 230V"@de	0
+COL title VAL  "TP-Link Archer C60 AC1350 Wireless Dual Band Router"@en	COL title VAL  "WIRELESS AC600 DUAL BAND TP-LINK ARCHER T2U NANO USB2.0 150MBPS A 2.4GHZ + 433MBPS A 5GHZ 802.11AC/A/B/G/N"@en	0
+COL title VAL  "APC APCRBC133 Sealed Lead Acid (VRLA)"@en	COL title VAL  "APC Replacement Battery Cartridge #110"@en	0
+COL title VAL  "Ubiquiti UVC-G3-Bullet - Camara IP UniFi Interior/Exterior HD IR"@it	COL title VAL  "Ubiquiti UVC-G3-BULLET 3 pack"@fr	0
+COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10kVA 230V"@de	COL title VAL  "APC Smart-UPS 1000VA LCD 230V SMT1000I - SMT1000I"@en	0
+COL title VAL  "Jabra EVOLVE 20 UC MONO Headset 4993-829-209 -For use on computers"@en	COL title VAL  "Jabra Evolve 65 Headset UC Mono"@pt	0
+COL title VAL  "JABRA EVOLVE 20 MS STEREO NC BIN"@de	COL title VAL  "Jabra Evolve 20 SE Mono MS USB Corded PC Headset"@en	0
+COL title VAL  "TP-Link TL-SG1024DE 24port Gigabit Desktop Switch"@en	COL title VAL  "TP-Link TL-WN781ND PCI Express Wireless Adapter"@en	0
+COL title VAL  "Audio Technica ATH-AD500X Headphones, 3.5mm (1/8 inch), Over-ear, Noice canceling, Black"@en	COL title VAL  "Audio-Technica Headphones - ATH-AD500X"@en	1
+COL title VAL  "Jabra Evolve 20 SE Mono MS USB Corded PC Headset"@en	COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	0
+COL title VAL  "Hikvision DS-7208HQHI-K2/P 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	0
+COL title VAL  "Ubiquiti Networks UAP-AC-IW 5-pack WLAN toegangspunt 1000 Mbit/s Power over Ethernet (PoE) Wit"@en	COL title VAL  "Ubiquiti UniFi AC High Density 5-pack UAP-AC-HD-5 Ubiquiti"@fr	0
+COL title VAL  "Audio Technica ATH-M40 XAuricular"@ro	COL title VAL  "Audio-Technica Headphones - ATH-AD500X"@en	0
+COL title VAL  "Catalyst 2960 24 10/100 + 2 1000BT LAN Base Image"@en	COL title VAL  "Catalyst 2960-X 24 GigE, 2 x 10G SFP+, LAN Base"@en	0
+COL title VAL  "ACCESS POINT DE ESCRITORIO TP-LINK/N450/3 ANT/5dBi//TL-WA901ND"@en	COL title VAL  "TP-LINK 450Mbps Wireless N Access Point / Range Extender"@en	1
+COL title VAL  "Battery replacement kit for BE550G-RS, BR550GI, BR650CI-RS (APCRBC110)"@en	COL title VAL  "APC RBC117 Replacement Battery Cartridge"@en	0
+COL title VAL  "WS-C2960X-24PD-L - 24 Port Switch"@en	COL title VAL  "Cisco Catalyst 2960-X - [WS-C2960X-24PD-L]"@ca	1
+COL title VAL  "TP-Link TL-WN781ND PCI Express Wireless Adapter"@en	COL title VAL  "tp-link TP-Link N150 Wireless Wi-Fi Nano USB Adapter"@en	0
+COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	COL title VAL  "Jabra Evolve 65 Headset UC Mono"@pt	0
+COL title VAL  "ACCESS POINT TP-LINK WIRELESS N 300MBPS EAP115"@de	COL title VAL  "5 Pack: UniFi AC Outdoor AP Mesh Pro Dual-omni ant no PoE adapers (UAP-AC-M-PRO-5)"@en	0
+COL title VAL  "WS-C2960L-16TS-LL Cisco Catalyst 2960L Network Switch (Refurb)"@en	COL title VAL  "WS-C2960X-24PD-L - 24 Port Switch"@en	0
+COL title VAL  "Switch DGS-1210-24P 24 porturi"@en	COL title VAL  "DLINK - DGS-1210-28P - 28 Port Gigabit Smart Managed POE Switch"@en	0
+COL title VAL  "Apple AirPods wWireless Charging Case"@en	COL title VAL  "Apple AirPods (2nd Gen) with Charging Case"@en	0
+COL title VAL  "Audio Technica ATHM50X Professional Monitor Headphones"@en	COL title VAL  "Audio Technica ATH-M50X Monitor Headphones with Disconnectable Cables - White"@en	0
+COL title VAL  "D-LINK/NET/24X1GB POE SWITCH /+ 4 SFP/L2/RM"@de	COL title VAL  "D-Link DGS-1210-24"@de	0
+COL title VAL  "APC RT 20000 VA RM 230V Smart-UPS"@de	COL title VAL  "APC - Schneider APC Smart-UPS SRT 6000VA RM 230V"@de	0
+COL title VAL  "APC Smart-UPS RT 192V RM Battery Pack Battery enclosure"@en	COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	0
+COL title VAL  "DLINK - DGS-1210-28P - 28 Port Gigabit Smart Managed POE Switch"@en	COL title VAL  "WS-C2960X-24PD-L - 24 Port Switch"@en	0
+COL title VAL  "APC APCRBC133 Replacement Battery Cartridge #133"@en	COL title VAL  "Apple APPLE AIRPODS PRO (2019)"@en	0
+COL title VAL  "WS-C2960X-24PD-L - 24 Port Switch"@en	COL title VAL  "D-LINK/NET/24X1GB POE SWITCH /+ 4 SFP/L2/RM"@de	0
+COL title VAL  "Ubiquiti UniFi Video Camera G3 Bullet (3 Pack)"@it	COL title VAL  "Ubiquiti UniFi video Camera G3 IR Range Extender"@it	0
+COL title VAL  "Jabra BIZ 2300 USB Mono, Type: 82 E-STD"@es	COL title VAL  "Jabra Biz 2300 USB Duo Headset"@hr	0
+COL title VAL  "Jabra BIZ 2400 II Mono 3-1 - Mic. 82 NC, Wideband"@en	COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	0
+COL title VAL  "Ubiquiti UniFi Video Camera G3 Bullet (3 Pack)"@it	COL title VAL  "Ubiquiti UVC-G3-Bullet - Camara IP UniFi Interior/Exterior HD IR"@it	0
+COL title VAL  "Hikvision 32-Channel 1080P HD-TVI Turbo DVR - DS-7332HQHI-K4"@en	COL title VAL  "8ch, PoC, Hikvision DVR, up to 4MP TVI camera supported"@en	0
+COL title VAL  "APC RT 20000 VA RM 230V Smart-UPS"@de	COL title VAL  "APC Smart-UPS RT 192V RM Battery Pack Battery enclosure"@en	0
+COL title VAL  "Jabra EVOLVE 80 MS Stereo"@de	COL title VAL  "JABRA EVOLVE 20 MS STEREO NC BIN"@de	0
+COL title VAL  "WS-C2960-48TC-L Cisco Catalyst 2960 Network Switch (New)"@en	COL title VAL  "Cisco Catalyst WS-C2960X-24TD-L network switch Managed L2 Gigabit Ethernet (10/100/1000) Black"@en	0
+COL title VAL  "APC Replacement Battery Cartridge #110"@en	COL title VAL  "D-Link DGS-1210-24"@de	0
+COL title VAL  "TP-LINK - 300Mbps Access Point"@en	COL title VAL  "TP-Link EAP110 300Mbps Wireless N300 Ceiling Mount Access Point 1x1Gbps RJ45 PoE 1x Console Port 2x4dBi Omni Internal Antenna"@en	1
+COL title VAL  "WS-C2960X-24PD-L - 24 Port Switch"@en	COL title VAL  "Cisco Catalyst WS-C2960X-24TD-L network switch Managed L2 Gigabit Ethernet (10/100/1000) Black"@en	0
+COL title VAL  "Jabra BIZ 2300 USB MS Duo - headset"@en	COL title VAL  "JABRA EVOLVE 20 MS STEREO NC BIN"@de	0
+COL title VAL  "DS-7204HQHI-K1 Hikvision 4 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	0
+COL title VAL  "D-Link Switch 24 Puertos 10/100/1Gbit w/4 Combo 1000BaseT/SFP - Red"@en	COL title VAL  "Ubiquiti Networks UniFi AC HD 1700Mbit/s Power over Ethernet (PoE) Wit WLAN toegangspunt"@en	0
+COL title VAL  "DVR Standalone HIKVISION DS-7204HQHI-K1"@de	COL title VAL  "8CH HIKVISION 8MP DVR 4K TURBO AOC AUDIO OVER COAX- DS-7208HUHI-K1 (S)"@de	0
+COL title VAL  "Ubiquiti UniFi AC High Density 5-pack UAP-AC-HD-5 Ubiquiti"@fr	COL title VAL  "Ubiquiti UniFi AC In-Wall 5-pack UAP-AC-IW-5 Ubiquiti"@fr	0
+COL title VAL  "Hikvision 32-Channel 1080P HD-TVI Turbo DVR - DS-7332HQHI-K4"@en	COL title VAL  "Hikvision DVR Turbo HD, 1920x1080P, Ref: DS-7216HUHI-K2"@en	0
+COL title VAL  "Ubiquiti Networks UAP-AC-IW 5-pack WLAN toegangspunt 1000 Mbit/s Power over Ethernet (PoE) Wit"@en	COL title VAL  "Ubiquiti UniFi AC In-Wall 5-pack UAP-AC-IW-5 Ubiquiti"@fr	1
+COL title VAL  "APC APCrbc124 Replacement Battery Cartridge #124"@en	COL title VAL  "APC Replacement Battery Cartridge #110"@en	0
+COL title VAL  "CISCO - Catalyst 2960 Plus 48 10/100 + 2 T/SFP L"@en	COL title VAL  "Catalyst 2960 24 10/100 + 2 1000BT LAN Base Image"@en	0
+COL title VAL  "APC - Schneider APC Smart-UPS SRT 6000VA RM 230V"@de	COL title VAL  "Bộ lưu điện UPS APC SRT6KRMXLI 6000VA Rackmount"@vi	1
+COL title VAL  "Ubiquiti UniFi AC High Density 5-pack UAP-AC-HD-5 Ubiquiti"@fr	COL title VAL  "Ubiquiti UniFi Video Camera G3 Bullet (3 Pack)"@it	0
+COL title VAL  "Audio Technica ATH-M40X Flat Response Studio Headphones"@en	COL title VAL  "Audio Technica ATHM50X Professional Monitor Headphones"@en	0
+COL title VAL  "Jabra EVOLVE 20 UC MONO Headset 4993-829-209 -For use on computers"@en	COL title VAL  "Apple APPLE AIRPODS PRO (2019)"@en	0
+COL title VAL  "DS-7204HQHI-K1 Hikvision 4 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "Hikvision H.265+ TURBO HD 8CH DVR 4K HDMI supports 5MP TVI/ 2MP AHD & CVI/ 6MP IP CAM (HDD not included)"@en	0
+COL title VAL  "Audio Technica ATH-M50X Monitor Headphones with Disconnectable Cables - White"@en	COL title VAL  "Audio-Technica ATH-M50x Professional Monitor Closed Over-Ear Headphones - Black"@en	0
+COL title VAL  "Apple APPLE AIRPODS PRO (2019)"@en	COL title VAL  "Apple Airpods 2019, MRXJ2ZM/A"@en	0
+COL title VAL  "Omada EAP225 Outdoor, Access Point"@pt	COL title VAL  "TP-Link EAP225-Outdoor Wireless-AC1200 MU-MIMO Gigabit Indoor/Outdoor Access Point (Warranty 3years with TPLink SG)"@en	0
+COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	COL title VAL  "Jabra EVOLVE 20 UC MONO Headset 4993-829-209 -For use on computers"@en	0
+COL title VAL  "Apple Airpods 2019, MRXJ2ZM/A"@en	COL title VAL  "APPLE - AirPods (2019) white DE"@en	0
+COL title VAL  "JABRA EVOLVE 20 MS STEREO NC BIN"@de	COL title VAL  "Jabra Evolve 80 MS stereo - headset"@en	0
+COL title VAL  "ACCESS POINT TP-LINK WIRELESS N 300MBPS EAP115"@de	COL title VAL  "NIC TP-Link TL-WN821N, USB 2.0 Adapter, 2,4GHz Wireless N 300Mbps, Internal Antenna QCA(Atheros), 2T2R"@en	0
+COL title VAL  "WS-C2960-48TC-L Cisco Catalyst 2960 Network Switch (New)"@en	COL title VAL  "Switch DGS-1210-24P 24 porturi"@en	0
+COL title VAL  "UVC-G4-PROUbiquiti Professional Indoor/Outdoor, 4K Video, 3x Optical Zoom, and POE support"@en	COL title VAL  "UVC-G3-FLEX-3Ubiquiti UniFi Video Camera, G3, Flex 3 pack"@ca	0
+COL title VAL  "TP-Link T1700G-28TQ JetStream 24-Port Gigabit Stack Smart Switch + 4 10GE SFP+"@en	COL title VAL  "TP-LINK jetstream - switch - 24 x 10/100/1000 - montabile su rack"@en	0
+COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	COL title VAL  "Jabra Evolve 40 UC Mono Bedrade Usb A Office Headset"@pt	0
+COL title VAL  "Jabra BIZ 2300 USB Mono, Type: 82 E-STD"@es	COL title VAL  "Jabra BIZ 2400 II Mono 3-1 - Mic. 82 NC, Wideband"@en	0
+COL title VAL  "APC APCrbc124 Replacement Battery Cartridge #124"@en	COL title VAL  "APC Battery Unit - 120 V DC - Sealed Lead Acid - Spill-proof/Maintenance-free - 3 Year Minimum Battery Life - 5 Year Maximum Battery Life"@en	0
+COL title VAL  "TP-Link TL-WN781ND PCI Express Wireless Adapter"@en	COL title VAL  "Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable."@ca	1
+COL title VAL  "TP-LINK 450Mbps Wireless N Access Point / Range Extender"@en	COL title VAL  "TP-Link EAP110 300Mbps Wireless N300 Ceiling Mount Access Point 1x1Gbps RJ45 PoE 1x Console Port 2x4dBi Omni Internal Antenna"@en	0
+COL title VAL  "TP-LINK 450Mbps Wireless N Access Point / Range Extender"@en	COL title VAL  "TP-Link EAP225-Outdoor Wireless-AC1200 MU-MIMO Gigabit Indoor/Outdoor Access Point (Warranty 3years with TPLink SG)"@en	0
+COL title VAL  "TP-Link Archer-T9UH AC1900 USB 3.0 Adaptr"@de	COL title VAL  "ADAPTADOR WIRELESS USB DB ARCHER T2U AC600 TP-LINK"@en	0
+COL title VAL  "TP-Link Archer C60 AC1350 Wireless Dual Band Router"@en	COL title VAL  "TP-Link Archer T9UH AC1900 High Gain Wireless Dual Band USB Network Adapter 1900Mbps (600Mpbs @ 2.4GHz & 1300Mbps @ 5GHz) USB3.0 Omni Directional Ant."@en	0
+COL title VAL  "Ubiquiti UniFi Protect Video Security"@fr	COL title VAL  "Ubiquiti UniFi Video Camera G3 Bullet (3 Pack)"@it	0
+COL title VAL  "DVR 8 canale HIKVISION Turbo HD DS-7208HQHI-K1 TurboHD 3.0 H.265+, 1xSATA"@en	COL title VAL  "DVR Standalone HIKVISION DS-7204HQHI-K1"@de	0
+COL title VAL  "Jabra EVOLVE 80 MS Stereo"@de	COL title VAL  "Jabra Evolve 20SE MS Mono Headset Head-band Black"@en	0
+COL title VAL  "Audio Technica ATH-M40X Flat Response Studio Headphones"@en	COL title VAL  "Audio-technica ATH-M50XWH Pro Closed-back Headphone, Full, White"@en	0
+COL title VAL  "DVR 8 canale HIKVISION Turbo HD DS-7208HQHI-K1 TurboHD 3.0 H.265+, 1xSATA"@en	COL title VAL  "DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	0
+COL title VAL  "TP-Link EAP225-Outdoor Wireless-AC1200 MU-MIMO Gigabit Indoor/Outdoor Access Point (Warranty 3years with TPLink SG)"@en	COL title VAL  "ACCESS POINT DE ESCRITORIO TP-LINK/N450/3 ANT/5dBi//TL-WA901ND"@en	0
+COL title VAL  "NIC TP-Link TL-WN821N, USB 2.0 Adapter, 2,4GHz Wireless N 300Mbps, Internal Antenna QCA(Atheros), 2T2R"@en	COL title VAL  "TP-Link EAP110 300Mbps Wireless N300 Ceiling Mount Access Point 1x1Gbps RJ45 PoE 1x Console Port 2x4dBi Omni Internal Antenna"@en	0
+COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "Hikvision DS-7208HQHI-K2/P 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	0
+COL title VAL  "HK DVR TURBOHD 32ch DS-7332HQHI-K4"@vi	COL title VAL  "Hikvision DVR Turbo HD, 1920x1080P, Ref: DS-7216HUHI-K2"@en	0
+COL title VAL  "APPLE - AirPods (2019) white DE"@en	COL title VAL  "Apple AirPods (2nd Gen) with Charging Case"@en	1
+COL title VAL  "BỘ LƯU ĐIỆN APC SRT3000RMXLI 3000VA rackmount"@vi	COL title VAL  "Audio-Technica Consumer ATH-PRO7X Professional On-Ear DJ Monitor Headphones"@en	0
+COL title VAL  "AirPods 2 with Wireless Charging Case"@en	COL title VAL  "Apple Airpods 2019, MRXJ2ZM/A"@en	1
+COL title VAL  "WIRELESS AC600 DUAL BAND TP-LINK ARCHER T2U NANO USB2.0 150MBPS A 2.4GHZ + 433MBPS A 5GHZ 802.11AC/A/B/G/N"@en	COL title VAL  "TP-LINK 450Mbps Wireless N Access Point / Range Extender"@en	0
+COL title VAL  "APC RT 20000 VA RM 230V Smart-UPS"@de	COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10kVA 230V"@de	0
+COL title VAL  "Apple APPLE AIRPODS (2ND GEN) WIRELESS HEADPHONES WITH WIRELESS CHARGING CASE"@en	COL title VAL  "Apple APPLE AIRPODS (2ND GEN) WIRELESS HEADPHONES WITH CHARGING CASE"@en	0
+COL title VAL  "DJI Mavic Mini Combo - Drone FlyCam Quadcopter UAV with 2.7K Camera 3-Axis Gimbal GPS 30min Flight Time, less than 0.55lbs, Gray"@en	COL title VAL  "DJI Mavic Pro 2 Drone with 4K 20MP Hasselblad Camera"@en	0
+COL title VAL  "Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable."@ca	COL title VAL  "APC Replacement Battery Cartridge #110"@en	0
+COL title VAL  "Jabra BIZ 2400 II binaural NC (FreeSpin)"@en	COL title VAL  "JABRA 2406-820-205 BIZ 2400 II Headset"@en	0
+COL title VAL  "Jabra Biz 2300 USB Duo Headset"@hr	COL title VAL  "BIZ 2300 USB DuoMicrosoft optimized"@en	0
+COL title VAL  "Ubiquiti UniFi Video Camera G3-Bullet Infrared IR 1080P HD Video- 802.3af is embedded"@en	COL title VAL  "Ubiquiti UniFi Video Camera G3 Bullet (3 Pack)"@it	0
+COL title VAL  "Jabra Evolve 40 UC Mono Bedrade Usb A Office Headset"@pt	COL title VAL  "Jabra Evolve 65 Headset UC Mono"@pt	0
+COL title VAL  "ADATTATORE USB2.0 WIRELESS N 150M LAN 802.11BGN 1T1R 2.4GHZ-NANO SIZE-PROVIDE USB2.0 INTERF.-WPS-SUPP. XP/VISTA/7"@en	COL title VAL  "Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable."@ca	0
+COL title VAL  "APC APCrbc124 Replacement Battery Cartridge #124"@en	COL title VAL  "APC Smart-UPS RT 192V RM Battery Pack Battery enclosure"@en	0
+COL title VAL  "Jabra Evolve 80 MS stereo - headset"@en	COL title VAL  "Jabra Evolve 20SE MS Mono Headset Head-band Black"@en	0
+COL title VAL  "Ubiquiti UniFi Video Camera G3 Bullet (3 Pack)"@it	COL title VAL  "Ubiquiti UVC-G3-BULLET 3 pack"@fr	1
+COL title VAL  "Hikvision H.265+ TURBO HD 8CH DVR 4K HDMI supports 5MP TVI/ 2MP AHD & CVI/ 6MP IP CAM (HDD not included)"@en	COL title VAL  "Hikvision 32-Channel 1080P HD-TVI Turbo DVR - DS-7332HQHI-K4"@en	0
+COL title VAL  "5 Pack: UniFi AC Outdoor AP Mesh Pro Dual-omni ant no PoE adapers (UAP-AC-M-PRO-5)"@en	COL title VAL  "Ubiquiti UniFi AC High Density 5-pack UAP-AC-HD-5 Ubiquiti"@fr	0
+COL title VAL  "Apple - AirPods with Charging Case (Latest Model) - White"@en	COL title VAL  "Apple APPLE AIRPODS (2ND GEN) WIRELESS HEADPHONES WITH WIRELESS CHARGING CASE"@en	0
+COL title VAL  "UniFi Video Camera G3-MICRO"@it	COL title VAL  "Ubiquiti UniFi Video G3 Infrared Range Extender"@it	0
+COL title VAL  "TP-Link EAP225-Outdoor Wireless-AC1200 MU-MIMO Gigabit Indoor/Outdoor Access Point (Warranty 3years with TPLink SG)"@en	COL title VAL  "TP-Link Omada EAP225-Outdoor"@et	1
+COL title VAL  "Jabra BIZ 2400 II binaural NC (FreeSpin)"@en	COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	0
+COL title VAL  "Audio Technica ATH-M50X Monitor Headphones with Disconnectable Cables - White"@en	COL title VAL  "Audio Technica ATH-M40 XAuricular"@ro	0
+COL title VAL  "D-LINK/NET/24X1GB POE SWITCH /+ 4 SFP/L2/RM"@de	COL title VAL  "TP-Link T1700G-28TQ JetStream 24-Port Gigabit Stack Smart Switch + 4 10GE SFP+"@en	0
+COL title VAL  "Jabra Biz 2300 USB Duo Headset"@hr	COL title VAL  "JABRA Biz 2300 Noise Canceling - Stereo"@en	1
+COL title VAL  "Apple APPLE AIRPODS (2ND GEN) WIRELESS HEADPHONES WITH CHARGING CASE"@en	COL title VAL  "Cisco Catalyst WS-C2960X-24TD-L network switch Managed L2 Gigabit Ethernet (10/100/1000) Black"@en	0
+COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	COL title VAL  "Hikvision DVR Turbo HD, 1920x1080P, Ref: DS-7216HUHI-K2"@en	0
+COL title VAL  "Jabra BIZ 2400 II Mono 3-1 - Mic. 82 NC, Wideband"@en	COL title VAL  "Jabra BIZ 2400 IP Mono headset 3 in 1, type: 82 E-STD"@en	1
+COL title VAL  "BỘ LƯU ĐIỆN UPS APC SURT20KRMXLI 20KVA"@vi	COL title VAL  "APC Smart-UPS RT RM battery pack, Extended-Run, 192V bus voltage, Rack 6U, compatible with Smart-UPS RT RM 15 -20kVA, Black (SURT192RMXLBP2)"@en	0
+COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	COL title VAL  "BIZ 2300 USB DuoMicrosoft optimized"@en	0
+COL title VAL  "Apple AirPods (2nd Gen) with Charging Case"@en	COL title VAL  "Cisco Catalyst WS-C2960X-24TD-L network switch Managed L2 Gigabit Ethernet (10/100/1000) Black"@en	0
+COL title VAL  "Audio-Technica Consumer ATH-PRO7X Professional On-Ear DJ Monitor Headphones"@en	COL title VAL  "Audio Technica ATHM50X Professional Monitor Headphones"@en	0
+COL title VAL  "WS-C2960-48TC-L Cisco Catalyst 2960 Network Switch (New)"@en	COL title VAL  "Cisco Catalyst 2960-X - [WS-C2960X-24PD-L]"@ca	0
+COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	COL title VAL  "JABRA 2406-820-205 BIZ 2400 II Headset"@en	1
+COL title VAL  "Audio-Technica Headphones - ATH-AD500X"@en	COL title VAL  "Audio Technica ATH-M40X Flat Response Studio Headphones"@en	0
+COL title VAL  "TP-LINK jetstream - switch - 24 x 10/100/1000 - montabile su rack"@en	COL title VAL  "D-Link DGS-1210-24"@de	0
+COL title VAL  "WS-C2960L-16TS-LL Cisco Catalyst 2960L Network Switch (Refurb)"@en	COL title VAL  "WS-C2960-24TT-L Cisco Catalyst 2960 Network Switch (New)"@en	0
+COL title VAL  "AirPods 2 with Wireless Charging Case"@en	COL title VAL  "Apple AirPods wWireless Charging Case"@en	0
+COL title VAL  "UBIQUITI UNIFI UAP-AC-PRO-5 (5-Pack)"@en	COL title VAL  "Ubiquiti UniFi UCK-G2-PLUS Cloud Key Gen2 PLUS"@fr	0
+COL title VAL  "APC Smart-UPS 1000VA LCD 230V SMT1000I - SMT1000I"@en	COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	0
+COL title VAL  "Apple APPLE AIRPODS PRO (2019)"@en	COL title VAL  "Apple APPLE AIRPODS (2ND GEN) WIRELESS HEADPHONES WITH WIRELESS CHARGING CASE"@en	0
+COL title VAL  "TP-Link Omada EAP225-Outdoor"@et	COL title VAL  "TP-LINK - 300Mbps Access Point"@en	0
+COL title VAL  "APPLE - AirPods (2019) white DE"@en	COL title VAL  "Apple - AirPods with Charging Case (Latest Model) - White"@en	0
+COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10000VA Tower 230V"@de	COL title VAL  "APC SMART-UPS 1000VA 2U Uninterruptable Power Supply"@en	0
+COL title VAL  "Apple APPLE AIRPODS (2ND GEN) WIRELESS HEADPHONES WITH CHARGING CASE"@en	COL title VAL  "Apple AirPods wWireless Charging Case"@en	0
+COL title VAL  "APC APCRBC133 Replacement Battery Cartridge #133"@en	COL title VAL  "APCRBC117APC Replacement Battery Cartridge #117"@en	0
+COL title VAL  "APC Smart-UPS 1000 LCD"@de	COL title VAL  "APC SMART UPS (SMT), 1000VA, 230V, LCD, RM 2U WITH SMART CONNECT - 3YR WTY"@en	0
+COL title VAL  "Cle Usb Wifi Tp-Link N300 Tl-Wn821n"@en	COL title VAL  "NIC TP-Link TL-WN821N, USB 2.0 Adapter, 2,4GHz Wireless N 300Mbps, Internal Antenna QCA(Atheros), 2T2R"@en	1
+COL title VAL  "8ch, PoC, Hikvision DVR, up to 4MP TVI camera supported"@en	COL title VAL  "Hikvision DS-7208HQHI-K2/P 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	1
+COL title VAL  "DVR Standalone HIKVISION DS-7204HQHI-K1"@de	COL title VAL  "Hikvision 32-Channel 1080P HD-TVI Turbo DVR - DS-7332HQHI-K4"@en	0
+COL title VAL  "APCRBC117APC Replacement Battery Cartridge #117"@en	COL title VAL  "APC Replacement Battery Cartridge #110"@en	0
+COL title VAL  "Jabra Evolve Over The Head Supra Aural 40 Wired Mono Headset"@en	COL title VAL  "Jabra Evolve 20SE MS Mono Headset Head-band Black"@en	0
+COL title VAL  "Ubiquiti UVC-G3-BULLET 3 pack"@fr	COL title VAL  "UVC-G3-FLEX-3Ubiquiti UniFi Video Camera, G3, Flex 3 pack"@ca	0
+COL title VAL  "Cisco Catalyst WS-C2960X-24TD-L network switch Managed L2 Gigabit Ethernet (10/100/1000) Black"@en	COL title VAL  "WS-C2960-24TT-L Cisco Catalyst 2960 Network Switch (New)"@en	0
+COL title VAL  "APC SMART UPS (SMT), 1000VA, 230V, LCD, RM 2U WITH SMART CONNECT - 3YR WTY"@en	COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	0
+COL title VAL  "APC RBC117 Replacement Battery Cartridge"@en	COL title VAL  "APCRBC117APC Replacement Battery Cartridge #117"@en	1
+COL title VAL  "WIRELESS AC600 DUAL BAND TP-LINK ARCHER T2U NANO USB2.0 150MBPS A 2.4GHZ + 433MBPS A 5GHZ 802.11AC/A/B/G/N"@en	COL title VAL  "ADATTATORE USB2.0 WIRELESS N 150M LAN 802.11BGN 1T1R 2.4GHZ-NANO SIZE-PROVIDE USB2.0 INTERF.-WPS-SUPP. XP/VISTA/7"@en	0
+COL title VAL  "Jabra Biz 2300 USB Duo Headset"@hr	COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	0
+COL title VAL  "APC Smart-UPS RT RM battery pack, Extended-Run, 192V bus voltage, Rack 6U, compatible with Smart-UPS RT RM 15 -20kVA, Black (SURT192RMXLBP2)"@en	COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	0
+COL title VAL  "Cisco Catalyst WS-C2960X-24TD-L network switch Managed L2 Gigabit Ethernet (10/100/1000) Black"@en	COL title VAL  "Apple APPLE AIRPODS (2ND GEN) WIRELESS HEADPHONES WITH WIRELESS CHARGING CASE"@en	0
+COL title VAL  "8ch, PoC, Hikvision DVR, up to 8MP(8fps) TVI cameras supported"@en	COL title VAL  "8ch, PoC, Hikvision DVR, up to 4MP TVI camera supported"@en	0
+COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	COL title VAL  "JABRA EVOLVE 65 UC MONO c/w LINK 360"@pl	0
+COL title VAL  "Hikvision DVR Turbo HD, 1920x1080P, Ref: DS-7216HUHI-K2"@en	COL title VAL  "DVR Standalone HIKVISION DS-7204HQHI-K1"@de	0
+COL title VAL  "Ubiquiti UniFi video Camera G3 IR Range Extender"@it	COL title VAL  "Ubiquiti UVC-G3-Bullet - Camara IP UniFi Interior/Exterior HD IR"@it	0
+COL title VAL  "Audio-technica ATH-M50XWH Pro Closed-back Headphone, Full, White"@en	COL title VAL  "Audio-Technica ATH-M50x Professional Monitor Closed Over-Ear Headphones - Black"@en	0
+COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	COL title VAL  "BỘ LƯU ĐIỆN APC SRT3000RMXLI 3000VA rackmount"@vi	1
+COL title VAL  "Jabra Evolve 20 SE Mono MS USB Corded PC Headset"@en	COL title VAL  "APC - Schneider APC Smart-UPS SRT 6000VA RM 230V"@de	0
+COL title VAL  "Slušalke Audio-Technica ATH-PRO7x"@hr	COL title VAL  "Audio Technica ATH-M40 XAuricular"@ro	0
+COL title VAL  "Akumulator APC Replacement battery cartridge #140"@en	COL title VAL  "APC APCrbc124 Replacement Battery Cartridge #124"@en	0
+COL title VAL  "Ubiquiti UniFi Video G3 Infrared Range Extender"@it	COL title VAL  "Ubiquiti UniFi video Camera G3 IR Range Extender"@it	1
+COL title VAL  "DVR Standalone HIKVISION DS-7204HQHI-K1"@de	COL title VAL  "DS-7204HQHI-K1 Hikvision 4 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	1
+COL title VAL  "ACCESS POINT TP-LINK WIRELESS N 300MBPS EAP115"@de	COL title VAL  "TP-Link Archer C60 AC1350 Wireless Dual Band Router"@en	0
+COL title VAL  "APC APCrbc124 Replacement Battery Cartridge #124"@en	COL title VAL  "APC RBC117 Replacement Battery Cartridge"@en	0

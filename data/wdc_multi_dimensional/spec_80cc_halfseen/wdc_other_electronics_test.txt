@@ -1,0 +1,421 @@
+COL title VAL  "8CH HIKVISION 8MP DVR 4K TURBO AOC AUDIO OVER COAX- DS-7208HUHI-K1 (S)"@de	COL title VAL  "8CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7208HQHI-K1"@de	0
+COL title VAL  "Jabra BIZ 2300 Duo USB MS Lync Headset"@en	COL title VAL  "Jabra Biz 2300 USB UC Duo Binaural Headset2399-823-109"@de	1
+COL title VAL  "APC - Schneider SMART-UPS 1500VA LCD 230V"@de	COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	0
+COL title VAL  "DJI Mavic 2 Zoom Drone with Smart Controller"@en	COL title VAL  "D-Link DGS-1210-28P Gigabit PoE Smart Switch"@en	0
+COL title VAL  "TP LINK JetStream 24-Port Gigabit Stackable Smart Switch"@en	COL title VAL  "Switch TP-Link 24p TL-SG1024DE Rack"@en	0
+COL title VAL  "Jabra Evolve 80 MS Stereo New"@en	COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	0
+COL title VAL  "Cle Usb Wifi Tp-Link N300 Tl-Wn821n"@en	COL title VAL  "TP Link Archer T2U Nano AC600 Wireless USB WiFi Adapter"@de	0
+COL title VAL  "Jabra Evolve 80 MS stereo - headset"@en	COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	0
+COL title VAL  "D-LINK DPE-301GI 30W Gigabit PoE+ Injector 802.3at & 802.3af"@en	COL title VAL  "D-Link DGS-1210-24P 24 Port Gigabit Smart Switch"@de	0
+COL title VAL  "STRIKER™ Plus 5cv With GT20-TM transducer"@en	COL title VAL  "Garmin echoMAP(tm) Plus 43cv"@en	0
+COL title VAL  "Jabra BIZ 2300 USB MS Headset Mono"@en	COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	0
+COL title VAL  "Jabra Evolve 40 MS Duo PC Headset 52653"@nl	COL title VAL  "Jabra Evolve 80 MS stereo - headset"@en	0
+COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	COL title VAL  "Jabra Evolve 20 UC cuffia mono per Skype for Business"@en	0
+COL title VAL  "D-LINK DPE-301GI 30W Gigabit PoE+ Injector 802.3at & 802.3af"@en	COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	1
+COL title VAL  "Jabra Evolve 30 II MS Mono Corded Headset"@en	COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	0
+COL title VAL  "TP-Link AC1900 Dual Band High Gain Wireless USB Adapter/Archer T9UH"@en	COL title VAL  "TP-LINK Archer C60 draadloze router Dual-band (2.4 GHz / 5 GHz) Fast Ethernet Wit"@de	0
+COL title VAL  "Hikvision DS-7608NI-K2 Network Video Recorder 8-channels"@en	COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	0
+COL title VAL  "2s 0.7 Mesh Nautilus GT"@en	COL title VAL  "Nautilus 2s Coils by Aspire (5Pack)"@en	1
+COL title VAL  "Unifi Video Camera Micro G3"@it	COL title VAL  "UVC-G3-FLEX-3Ubiquiti UniFi Video Camera, G3, Flex 3 pack"@ca	0
+COL title VAL  "D-Link DGS-1210-28P Gigabit PoE Smart Switch"@en	COL title VAL  "D-LINK/NET/24X1GB POE SWITCH /+ 4 SFP/L2/RM"@de	1
+COL title VAL  "SF11024 24 Port 10 100 Switch"@en	COL title VAL  "Switch D-LinkDGS-1210-24"@de	0
+COL title VAL  "APC - Schneider APC Smart-UPS SRT 6000VA RM 230V"@de	COL title VAL  "APC - SMART-UPS 1000VA LCD RM 2U 230V WITH SMARTCONNECT IN"@de	0
+COL title VAL  "Ubiquiti UVC-G3-FLEX-3 UniFi Protect G3 FLEX Camera 3-Pack"@ca	COL title VAL  "Ubiquiti UVC-G3-FLEX UniFI IP Dome Camera"@it	0
+COL title VAL  "Jabra Evolve 80 MS stereo - headset"@en	COL title VAL  "Jabra Evolve 20 MS mono - Headset - on-ear - wired - USB"@en	0
+COL title VAL  "Baseus S09 Bluetooth Wireless Earbuds"@en	COL title VAL  "Bluetooth In-Ear Earphones with Microphone"@en	1
+COL title VAL  "Jabra BIZ 2300 USB UC Duo"@id	COL title VAL  "BIZ 2400 II Duo IP Flex"@en	0
+COL title VAL  "APC Smart-UPS 1000VA|670W, Line-Interactive, LCD, Out: 220-240V 8xC13 (4-Switched), (#SMT1000I)"@en	COL title VAL  "Switch D-Link DGS-1210-24 20 p 10 / 100 / 1000 Mbps 4 x SFP"@en	0
+COL title VAL  "DJI Mavic 2 Zoom Drone with Smart Controller"@en	COL title VAL  "DJI Mavic 2 Enterprise Zoom Drone with Smart Controller"@en	0
+COL title VAL  "BIZ 2400 II Duo IP Flex"@en	COL title VAL  "Ubiquiti UVC-G3-FLEX UniFI IP Dome Camera"@it	0
+COL title VAL  "APC - Schneider SMART-UPS 1500VA LCD 230V"@de	COL title VAL  "3500mAh LED Bluetooth Wireless Earphones"@en	0
+COL title VAL  "Garmin Striker 4 010-01550-00 Black frequency = 50/77/20"@en	COL title VAL  "Garmin STRIKER 4 Fishfinder Worldwide Version w/77/200kHz - 4-Pin Transducer w/Transom & Trolling Motor Mounts"@en	0
+COL title VAL  "TP-Link T1700G-28TQ JetStream 24-Port Gigabit Smart Switch"@en	COL title VAL  "Switch TP-Link 24p TL-SG1024DE Rack"@en	0
+COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	COL title VAL  "APC Smart-UPS SURT20KRMXLI 20kVA RM 230V"@de	0
+COL title VAL  "D-LINK/NET/24X1GB POE SWITCH /+ 4 SFP/L2/RM"@de	COL title VAL  "APC Smart-UPS 1500VA LCD Tower UPS"@en	0
+COL title VAL  "Jabra BIZ„˘ 2400 II DuoNEXT GENERATION - IP Wideband-Headset (QD) Type: 82 E-STD, Noice-Cancelling microphone boom: FreeSpin"@en	COL title VAL  "Jabra BIZ 2400 II Mono 3-1 - Mic. 82 NC, Wideband"@en	0
+COL title VAL  "DJI Mavic 2 Enterprise (Zoom) w/ Smart Controller and DJI Enterprise Shield Basic"@en	COL title VAL  "DJI Mavic 2 Zoom Drone with Smart Controller"@en	0
+COL title VAL  "Jabra Evolve 20 MS mono - Headset - on-ear - wired - USB"@en	COL title VAL  "Jabra BIZ 2300 Duo USB MS Lync Headset"@en	0
+COL title VAL  "D-LINK DPE-301GI 30W Gigabit PoE+ Injector 802.3at & 802.3af"@en	COL title VAL  "Hikvision DS-7608NI-K2 Network Video Recorder 8-channels"@en	0
+COL title VAL  "TP-Link AC1900 Dual Band High Gain Wireless USB Adapter/Archer T9UH"@en	COL title VAL  "TP-Link Archer VR400-AC1200 Wireless Gigabit VDSL/ADSL Modem Router(Black)."@de	0
+COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	COL title VAL  "Jabra Biz 2300 USB UC Duo Binaural Headset2399-823-109"@de	0
+COL title VAL  "DJI Mavic 2 Enterprise Zoom Drone with Smart Controller"@en	COL title VAL  "DJI DJI | Mavic 2 Enterprise Dual - with Enterprise Shield Basic CP.EN.00000107.01"@en	0
+COL title VAL  "8CH HIKVISION 8MP DVR 4K TURBO AOC AUDIO OVER COAX- DS-7208HUHI-K1 (S)"@de	COL title VAL  "Hikvision H.265+ TURBO HD 8CH DVR 4K HDMI supports 5MP TVI/ 2MP AHD & CVI/ 6MP IP CAM (HDD not included)"@en	1
+COL title VAL  "GPC - DJI Mavic 2 Pro/ZoomSmart Controller Case"@en	COL title VAL  "DJI Mavic 2 Zoom Drone with Smart Controller"@en	0
+COL title VAL  "DVR 8 canale, Turbo HD, 6MP, PoC, Hikvision DS-7208HQHI-K2-P"@en	COL title VAL  "Hikvision H.265+ TURBO HD 8CH DVR 4K HDMI supports 5MP TVI/ 2MP AHD & CVI/ 6MP IP CAM (HDD not included)"@en	0
+COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	0
+COL title VAL  "1500VA Power Backup UPS - Refurbished - SUA1500RM2U w AP9630"@en	COL title VAL  "APC Smart-UPS On-Line 6000VA"@de	0
+COL title VAL  "8CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7208HQHI-K1"@de	COL title VAL  "HIKVISION-DS-7216HQHI-K1 (Turbo HD 4.0)1080P 4MP Lite"@de	0
+COL title VAL  "TP-Link Archer T2U Nano (600Mb/s a/b/g/n/ac) DualBand"@en	COL title VAL  "TP-Link TL-WN725N Nano Wireless USB Adapter"@en	0
+COL title VAL  "JABRA - EVOLVE 40 MS Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	COL title VAL  "Xiaomi Redmi Airdots S In Ear TWS Bluetooth5.0Earphone Bass Stereo Wireless Cancellation With Mic Handsfree Earbuds AI Control"@en	0
+COL title VAL  "MikroTik RouterBOARD RB260GSP 5-port Gigabit Managed Switch with PoE"@en	COL title VAL  "MikroTik RB260GSP - Desktop PoE Switch with 5 Gb and 1 SFP Port"@en	1
+COL title VAL  "APC By Schneider Electric APC Smart-ups 1500va Lcd Rm 2u 120v"@ca	COL title VAL  "APC - Schneider APC Smart-UPS SRT 6000VA RM 230V"@de	0
+COL title VAL  "Auricular Jabra GN Netcom 2300 Biaural Usb boton mute"@ro	COL title VAL  "Jabra Biz 2300 Mono, USB"@pt	0
+COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	COL title VAL  "Garmin STRIKER 4 Fishfinder with GPS"@en	0
+COL title VAL  "WS-C3650-8X24UQ-LCisco Catalyst 3650 24 Port mGig, 4x10G Uplink, LAN Base"@en	COL title VAL  "Catalyst 2960-XR 24 GigE PoE 370W, 4 x 1G SFP, IP Lite"@en	0
+COL title VAL  "Baseus S09 Bluetooth Wireless Earbuds"@en	COL title VAL  "Go Professional Cases DJI Mavic 2 Pro/Zoom Hard Case"@en	0
+COL title VAL  "JABRA - EVOLVE 40 MS Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	COL title VAL  "JABRA - EVOLVE 30 II UC STEREO USB HEADB NOISE CANCEL USB"@en	0
+COL title VAL  "D-Link DGS-1210-28P Gigabit PoE Smart Switch"@en	COL title VAL  "TP-Link T1700G-28TQ JetStream 24-Port Gigabit Smart Switch"@en	0
+COL title VAL  "HIKVISION DS-7204HQHI-K1 2 MEGAPIXEL (2MP) HYBRID 4 CHANNEL DVR"@de	COL title VAL  "Hikvision DS-7332HQHI-K4 32 channel DVR Turbo 4.0"@en	0
+COL title VAL  "DVR Standalone HIKVISION DS-7204HQHI-K1"@de	COL title VAL  "Hikvision DVR Turbo HD, 1920x1080P, Ref: DS-7216HUHI-K2"@en	0
+COL title VAL  "8CH HIKVISION 8MP DVR 4K TURBO AOC AUDIO OVER COAX- DS-7208HUHI-K1 (S)"@de	COL title VAL  "DVR Standalone HIKVISION DS-7204HQHI-K1"@de	0
+COL title VAL  "3500mAh LED Bluetooth Wireless Earphones"@en	COL title VAL  "The Latest Touch - Controlled Wireless Earbuds Of 2020 ( FREE SHIPPING )"@en	1
+COL title VAL  "UVC-G3-Micro Ubiquiti Latest G3 Video Camera In Micro Version"@it	COL title VAL  "Garmin ECHOMAP Plus 43cv with GT20 Transducer Fish Finder/Chartplotter Combo"@en	0
+COL title VAL  "APC By Schneider Electric APC Smart-ups 1500va Lcd Rm 2u 120v"@ca	COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	0
+COL title VAL  "APC Smart-UPS 1000VA|670W, Line-Interactive, LCD, Out: 220-240V 8xC13 (4-Switched), (#SMT1000I)"@en	COL title VAL  "APC Smart UPS SMT1000RMI2U 1000VA Line Interactive"@en	0
+COL title VAL  "Switch TP-Link 24p TL-SG1024DE Rack"@en	COL title VAL  "TP-LINK TL-SG1024DE Managed L2 Gigabit Ethernet (10/100/1000) Zwart"@de	1
+COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	0
+COL title VAL  "Garmin Striker Plus 7sv Fish Finder with GT52HW-TM Transducer"@de	COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	0
+COL title VAL  "JBL Flip 5 Waterproof Portable Bluetooth Speaker - Black"@en	COL title VAL  "Adattatore USB Wireless TP-Link TL-WN725N 150Mbps 2.4GHz"@en	0
+COL title VAL  "D-Link DGS-1210-28P Gigabit PoE Smart Switch"@en	COL title VAL  "D-Link DGS-1210-24P 24-Port Gigabit PoE Smart Managed Switch with 4 SFP ports (12 x PoE ports)"@en	0
+COL title VAL  "Aspire Nautilus XS Replacement Coils"@fr	COL title VAL  "Nautilus AIO Pod By Aspire"@en	0
+COL title VAL  "APC - SMART-UPS 1000VA LCD RM 2U 230V WITH SMARTCONNECT IN"@de	COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	0
+COL title VAL  "Go Professional Cases DJI Mavic 2 Pro/Zoom Hard Case"@en	COL title VAL  "DJI Mavic 2 Enterprise (Zoom) w/ Smart Controller and DJI Enterprise Shield Basic"@en	0
+COL title VAL  "APC Smart-UPS 1000VA|670W, Line-Interactive, LCD, Out: 220-240V 8xC13 (4-Switched), (#SMT1000I)"@en	COL title VAL  "APC Smart-UPS 1500VA LCD Tower UPS"@en	0
+COL title VAL  "APC - Schneider APC Smart-UPS SRT 6000VA RM 230V"@de	COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	0
+COL title VAL  "Switch TP-Link 24p TL-SG1024DE Rack"@en	COL title VAL  "Cle Usb Wifi Tp-Link N300 Tl-Wn821n"@en	0
+COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	COL title VAL  "STRIKER™ Plus 5cv With GT20-TM transducer"@en	1
+COL title VAL  "APC - Schneider APC Smart-UPS SRT 6000VA RM 230V"@de	COL title VAL  "APC Smart-UPS SURT20KRMXLI 20kVA RM 230V"@de	0
+COL title VAL  "Jabra 2400 II QD Mono NC 3 in1 Wired Headset - Black"@en	COL title VAL  "Jabra Biz 2400 II Mono 3-1, NC, 82 mic, Wideband, QD"@en	0
+COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	COL title VAL  "APC Smart-UPS On-Line 6000VA"@de	0
+COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	COL title VAL  "Cisco SG500 52P Gigabit SG500-52-K9-NA"@de	0
+COL title VAL  "TP-LINK Archer C60 draadloze router Dual-band (2.4 GHz / 5 GHz) Fast Ethernet Wit"@de	COL title VAL  "TP-Link | AC1900 High Gain Dual Band Wifi Adapter | Wireless WiFi Network Adapter for PC (Archer T9UH)"@en	0
+COL title VAL  "The Latest Touch - Controlled Wireless Earbuds Of 2020 ( FREE SHIPPING )"@en	COL title VAL  "Baseus S09 Bluetooth Wireless Earbuds"@en	0
+COL title VAL  "D-Link DGS-1210-24P 24 Port Gigabit Smart Switch"@de	COL title VAL  "D-Link DGS-1210-24P 24-Port Gigabit PoE Smart Managed Switch with 4 SFP ports (12 x PoE ports)"@en	1
+COL title VAL  "DJI DJI | Mavic 2 Enterprise Dual - with Enterprise Shield Basic CP.EN.00000107.01"@en	COL title VAL  "DJI »Mavic 2 Enterprise Universal Edition Dual« drone"@en	0
+COL title VAL  "APC Smart-UPS 1500VA LCD Tower UPS"@en	COL title VAL  "APC By Schneider Electric APC Smart-ups 1500va Lcd Rm 2u 120v"@ca	0
+COL title VAL  "APC By Schneider Electric APC Smart-ups 1500va Lcd Rm 2u 120v"@ca	COL title VAL  "APC - Schneider SMART-UPS 1500VA LCD 230V"@de	0
+COL title VAL  "Nautilus AIO Pod By Aspire"@en	COL title VAL  "Cleito 120 Glass By Aspire"@en	0
+COL title VAL  "Jabra Biz 2300 USB UC Duo Binaural Headset2399-823-109"@de	COL title VAL  "Jabra BIZ 2300 USB UC Duo"@id	0
+COL title VAL  "[Upgraded] Anker Soundcore Liberty Neo TWS True Wireless Earphones With Bluetooth 5.0, Sports Sweatproof, and Noise Isolation"@en	COL title VAL  "3500mAh LED Bluetooth Wireless Earphones"@en	0
+COL title VAL  "GPC - DJI Mavic 2 Pro/ZoomSmart Controller Case"@en	COL title VAL  "DJI Drone CP.MA.00000033.01 Mavic 2 Zoom + Smart Controller Bundle Retail"@en	0
+COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	COL title VAL  "APC Smart-UPS 1000VA|670W, Line-Interactive, LCD, Out: 220-240V 8xC13 (4-Switched), (#SMT1000I)"@en	1
+COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	COL title VAL  "BIZ 2400 II Duo IP Flex"@en	0
+COL title VAL  "Scheda Di Rete Wireless TP-Link TL-WN781ND 150Mbps PCI-Express x1 + Staffa Low Profile"@en	COL title VAL  "TP Link Archer T2U Nano AC600 Wireless USB WiFi Adapter"@de	0
+COL title VAL  "WS-C3650-8X24UQ-LCisco Catalyst 3650 24 Port mGig, 4x10G Uplink, LAN Base"@en	COL title VAL  "TP LINK JetStream 24-Port Gigabit Stackable Smart Switch"@en	0
+COL title VAL  "DJI Mavic 2 Enterprise Zoom Drone with Smart Controller"@en	COL title VAL  "APC Smart-UPS 1500VA LCD Tower UPS"@en	0
+COL title VAL  "JABRA - EVOLVE 40 MS Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	0
+COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	COL title VAL  "Jabra BIZ 2400 II Mono 3-1 - Mic. 82 NC, Wideband"@en	0
+COL title VAL  "HIKVISION DS-7204HQHI-K1 2 MEGAPIXEL (2MP) HYBRID 4 CHANNEL DVR"@de	COL title VAL  "DVR Standalone HIKVISION DS-7204HQHI-K1"@de	1
+COL title VAL  "Auricular Jabra GN Netcom 2300 Biaural Usb boton mute"@ro	COL title VAL  "Jabra BIZ 2300 USB UC Duo"@id	1
+COL title VAL  "Cisco Catalyst 3650 24 Port mGig, 4x10G Uplink, LAN Base"@en	COL title VAL  "TP LINK JetStream 24-Port Gigabit Stackable Smart Switch"@en	0
+COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	COL title VAL  "Jabra Evolve 20 MS mono - Headset - on-ear - wired - USB"@en	0
+COL title VAL  "Hikvision H.265+ TURBO HD 8CH DVR 4K HDMI supports 5MP TVI/ 2MP AHD & CVI/ 6MP IP CAM (HDD not included)"@en	COL title VAL  "8CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7208HQHI-K1"@de	0
+COL title VAL  "Ubiquiti UniFi Video Camera UVC-G4-PRO Infrared IR 4K Video- 802.3af is embedded"@en	COL title VAL  "Ubiquiti UniFi UVC-G4-PRO Network IP 4K Video Surveillance Camera"@en	1
+COL title VAL  "DVR Standalone HIKVISION DS-7204HQHI-K1"@de	COL title VAL  "NVR Hikvision IP 8 canale DS-7608NI-K2"@en	0
+COL title VAL  "DJI DJI | Mavic 2 Enterprise Dual - with Enterprise Shield Basic CP.EN.00000107.01"@en	COL title VAL  "DJI Drone CP.MA.00000033.01 Mavic 2 Zoom + Smart Controller Bundle Retail"@en	0
+COL title VAL  "Scheda Di Rete Wireless TP-Link TL-WN781ND 150Mbps PCI-Express x1 + Staffa Low Profile"@en	COL title VAL  "TP-Link TL-WN781ND 150Mbps Wi-Fi PCI Express Kart"@en	1
+COL title VAL  "Jabra Evolve 20 MS mono - Headset - on-ear - wired - USB"@en	COL title VAL  "Wireless Sweatproof Mini Earphones with Microphone"@en	0
+COL title VAL  "Ubiquiti UniFi Video Camera G3 1080P 802.3af IP CCTV UVC-G3-BULLET (No PoE Injector)"@ca	COL title VAL  "Ubiquiti UniFi Video Camera G3 3-pack"@it	0
+COL title VAL  "HIKVISION-DS-7216HQHI-K1 (Turbo HD 4.0)1080P 4MP Lite"@de	COL title VAL  "Hikvision DVR Turbo HD, 1920x1080P, Ref: DS-7216HUHI-K2"@en	0
+COL title VAL  "Ubiquiti UVC-G3-BULLET 3 pack"@fr	COL title VAL  "Ubiquiti UniFi Video Camera G3 3-pack"@it	1
+COL title VAL  "NVR Hikvision IP 8 canale DS-7608NI-K2"@en	COL title VAL  "HIKVISION DS-7208HUHI-K2/P 5 MEGAPIXEL POC 8 CHANNEL (8CH) DVR"@en	0
+COL title VAL  "Garmin Striker 4 010-01550-00 Black frequency = 50/77/20"@en	COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	0
+COL title VAL  "Jabra Evolve 20 MS mono - Headset - on-ear - wired - USB"@en	COL title VAL  "Jabra Evolve 20 UC cuffia mono per Skype for Business"@en	1
+COL title VAL  "WS-C3650-8X24UQ-LCisco Catalyst 3650 24 Port mGig, 4x10G Uplink, LAN Base"@en	COL title VAL  "D-Link DGS-1210-24P 24 Port Gigabit Smart Switch"@de	0
+COL title VAL  "HIKVISION-DS-7216HQHI-K1 (Turbo HD 4.0)1080P 4MP Lite"@de	COL title VAL  "SF11024 24 Port 10 100 Switch"@en	0
+COL title VAL  "Cisco Catalyst 2960-XR | WS-C2960XR-24PS-I Catalyst 2960XR 24 port 10/100/1000 PoE+ 370W, 4 x 1G SFP, IP Lite"@en	COL title VAL  "APC Smart-UPS 1000VA|670W, Line-Interactive, LCD, Out: 220-240V 8xC13 (4-Switched), (#SMT1000I)"@en	0
+COL title VAL  "Jabra Evolve 20 MS mono - Headset - on-ear - wired - USB"@en	COL title VAL  "Jabra BIZ 2300 USB MS Headset Mono"@en	0
+COL title VAL  "APC Smart-UPS SURT20KRMXLI 20kVA RM 230V"@de	COL title VAL  "APC Smart-UPS RT 192V RM Battery Pack"@en	0
+COL title VAL  "TP-Link T1700G-28TQ JetStream 24-Port Gigabit Smart Switch"@en	COL title VAL  "SF11024 24 Port 10 100 Switch"@en	0
+COL title VAL  "Switch D-Link DGS-1210-24 20 p 10 / 100 / 1000 Mbps 4 x SFP"@en	COL title VAL  "D-Link DGS-1210-24P 24 Port Gigabit Smart Switch"@de	0
+COL title VAL  "Jabra BIZ 2300 USB MS Headset Mono"@en	COL title VAL  "Jabra Biz 2300 Mono, USB"@pt	1
+COL title VAL  "Ubiquiti UVC-G3-FLEX UniFI IP Dome Camera"@it	COL title VAL  "Ubiquiti UniFi Video Camera G3 1080P 802.3af IP CCTV UVC-G3-BULLET (No PoE Injector)"@ca	1
+COL title VAL  "JABRA - EVOLVE 30 II UC STEREO USB HEADB NOISE CANCEL USB"@en	COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	0
+COL title VAL  "DJI »Mavic 2 Enterprise Universal Edition Dual« drone"@en	COL title VAL  "DJI Mavic 2 Enterprise Zoom Drone with Smart Controller"@en	0
+COL title VAL  "Baseus S09 Bluetooth Wireless Earbuds"@en	COL title VAL  "3500mAh LED Bluetooth Wireless Earphones"@en	0
+COL title VAL  "Cisco Catalyst 3650 24 Port mGig, 4x10G Uplink, LAN Base"@en	COL title VAL  "SF110-24-NA - Cisco SF110-24 Unmanaged Small Business Switch, 24 Port 10/100 - Refurb'd"@en	0
+COL title VAL  "TP-Link Archer VR400-AC1200 Wireless Gigabit VDSL/ADSL Modem Router(Black)."@de	COL title VAL  "TP Link Archer T2U Nano AC600 Wireless USB WiFi Adapter"@de	0
+COL title VAL  "Wireless Bluetooth 5.0 Earphones with Case"@en	COL title VAL  "3500mAh LED Bluetooth Wireless Earphones"@en	0
+COL title VAL  "Netgear Prosafe Gigabit Plus GS108PE-300EUS"@de	COL title VAL  "Cisco SG500 52P Gigabit SG500-52-K9-NA"@de	0
+COL title VAL  "DVR 8 canale, Turbo HD, 6MP, PoC, Hikvision DS-7208HQHI-K2-P"@en	COL title VAL  "HIKVISION-DS-7216HQHI-K1 (Turbo HD 4.0)1080P 4MP Lite"@de	0
+COL title VAL  "Garmin echoMAP(tm) Plus 43cv"@en	COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	0
+COL title VAL  "SRT3000RMXLI Smart-UPS SRT 3000VA/2700W 230V Rack 2U"@de	COL title VAL  "APC - Schneider APC Smart-UPS SRT 6000VA RM 230V"@de	0
+COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	0
+COL title VAL  "BIZ 2400 II Duo IP Flex"@en	COL title VAL  "Jabra BIZ 2400 II Mono 3-1 - Mic. 82 NC, Wideband"@en	0
+COL title VAL  "Cisco SG500 52P Gigabit SG500-52-K9-NA"@de	COL title VAL  "CISCO SG500-52 52-PORT GIGABIT STACKABLE"@en	1
+COL title VAL  "Garmin echoMAP(tm) Plus 43cv"@en	COL title VAL  "Garmin STRIKER 4 Fishfinder with GPS"@en	0
+COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	COL title VAL  "Evolve 80 MS, Stereo, USB-C"@en	0
+COL title VAL  "Jabra Biz 2400 II Mono 3-1, NC, 82 mic, Wideband, QD"@en	COL title VAL  "Jabra BIZ 2400 II Mono 3-1 - Mic. 82 NC, Wideband"@en	1
+COL title VAL  "D-LINK DPE-301GI 30W Gigabit PoE+ Injector 802.3at & 802.3af"@en	COL title VAL  "D-Link DGS-1210-28P Gigabit PoE Smart Switch"@en	0
+COL title VAL  "Jabra 2400 II QD Mono NC 3 in1 Wired Headset - Black"@en	COL title VAL  "Jabra Evolve 20 MS mono - Headset - on-ear - wired - USB"@en	0
+COL title VAL  "Bluetooth In-Ear Earphones with Microphone"@en	COL title VAL  "3500mAh LED Bluetooth Wireless Earphones"@en	0
+COL title VAL  "DS-7216HUHI-K2 Hikvision 16 Channel 5MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "HIKVISION-DS-7216HQHI-K1 (Turbo HD 4.0)1080P 4MP Lite"@de	0
+COL title VAL  "D-LINK/NET/24X1GB POE SWITCH /+ 4 SFP/L2/RM"@de	COL title VAL  "D-Link DGS-1210-24P 24-Port Gigabit PoE Smart Managed Switch with 4 SFP ports (12 x PoE ports)"@en	0
+COL title VAL  "Bluetooth In-Ear Earphones with Microphone"@en	COL title VAL  "[Upgraded] Anker Soundcore Liberty Neo TWS True Wireless Earphones With Bluetooth 5.0, Sports Sweatproof, and Noise Isolation"@en	0
+COL title VAL  "Garmin ECHOMAP Plus 43cv with GT20 Transducer Fish Finder/Chartplotter Combo"@en	COL title VAL  "Garmin Striker Plus 7sv Fish Finder with GT52HW-TM Transducer"@de	0
+COL title VAL  "HIKVISION DS-7204HQHI-K1 2 MEGAPIXEL (2MP) HYBRID 4 CHANNEL DVR"@de	COL title VAL  "8CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7208HQHI-K1"@de	0
+COL title VAL  "APC - Schneider SMART-UPS 1500VA LCD 230V"@de	COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	0
+COL title VAL  "Switch D-Link DGS-1210-24 20 p 10 / 100 / 1000 Mbps 4 x SFP"@en	COL title VAL  "Switch D-LinkDGS-1210-24"@de	1
+COL title VAL  "DS-7216HUHI-K2 Hikvision 16 Channel 5MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "Hikvision DS-7332HQHI-K4 32 channel DVR Turbo 4.0"@en	0
+COL title VAL  "Switch D-Link DGS-1210-24 20 p 10 / 100 / 1000 Mbps 4 x SFP"@en	COL title VAL  "Cisco Catalyst 2960-XR | WS-C2960XR-24PS-I Catalyst 2960XR 24 port 10/100/1000 PoE+ 370W, 4 x 1G SFP, IP Lite"@en	0
+COL title VAL  "Adattatore USB Wireless TP-Link TL-WN725N 150Mbps 2.4GHz"@en	COL title VAL  "TP-Link TL-WN725N Nano Wireless USB Adapter"@en	1
+COL title VAL  "Jabra EVOLVE 30 II Stereo Headset"@en	COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	0
+COL title VAL  "Hikvision DS-7332HQHI-K4 32 channel DVR Turbo 4.0"@en	COL title VAL  "Hikvision DS-7332HQHI-K4 Turbo HD DVR CCTV Recorder with Network and Mobile phone remote viewing"@en	1
+COL title VAL  "Netgear Prosafe Gigabit Plus GS108PE-300EUS"@de	COL title VAL  "Switch Unmanaged PoE GS108PE-300EUS 8-Port Gbit"@en	1
+COL title VAL  "Ubiquiti UniFi Video Camera G3 3-pack"@it	COL title VAL  "Ubiquiti UniFi Video Camera UVC-G4-PRO Infrared IR 4K Video- 802.3af is embedded"@en	0
+COL title VAL  "NVR Hikvision IP 8 canale DS-7608NI-K2"@en	COL title VAL  "Hikvision DS-7608NI-K2 Network Video Recorder 8-channels"@en	1
+COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "DS-7216HUHI-K2 Hikvision 16 Channel 5MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	0
+COL title VAL  "APC Smart-UPS RT 20kVA RM 230V - SURT20KRMXLI"@de	COL title VAL  "APC Smart-UPS SURT20KRMXLI 20kVA RM 230V"@de	1
+COL title VAL  "Switch Unmanaged PoE GS108PE-300EUS 8-Port Gbit"@en	COL title VAL  "Jabra Biz 2300 Mono, USB"@pt	0
+COL title VAL  "HIKVISION DS-7204HQHI-K1 2 MEGAPIXEL (2MP) HYBRID 4 CHANNEL DVR"@de	COL title VAL  "HIKVISION-DS-7216HQHI-K1 (Turbo HD 4.0)1080P 4MP Lite"@de	0
+COL title VAL  "APC - SMART-UPS 1000VA LCD RM 2U 230V WITH SMARTCONNECT IN"@de	COL title VAL  "SRT3000RMXLI Smart-UPS SRT 3000VA/2700W 230V Rack 2U"@de	0
+COL title VAL  "APC Smart UPS SMT1000RMI2U 1000VA Line Interactive"@en	COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	0
+COL title VAL  "HIKVISION DS-7208HUHI-K2/P 5 MEGAPIXEL POC 8 CHANNEL (8CH) DVR"@en	COL title VAL  "DVR 8 canale, Turbo HD, 6MP, PoC, Hikvision DS-7208HQHI-K2-P"@en	0
+COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "Hikvision DS-7332HQHI-K4 Turbo HD DVR CCTV Recorder with Network and Mobile phone remote viewing"@en	0
+COL title VAL  "DVR Standalone HIKVISION DS-7204HQHI-K1"@de	COL title VAL  "DVR 8 canale, Turbo HD, 6MP, PoC, Hikvision DS-7208HQHI-K2-P"@en	0
+COL title VAL  "Hikvision DS-7332HQHI-K4 32 channel DVR Turbo 4.0"@en	COL title VAL  "HIKVISION-DS-7216HQHI-K1 (Turbo HD 4.0)1080P 4MP Lite"@de	0
+COL title VAL  "Switch D-LinkDGS-1210-24"@de	COL title VAL  "SF110-24-NA - Cisco SF110-24 Unmanaged Small Business Switch, 24 Port 10/100 - Refurb'd"@en	0
+COL title VAL  "SF110-24-NA - Cisco SF110-24 Unmanaged Small Business Switch, 24 Port 10/100 - Refurb'd"@en	COL title VAL  "APC Smart-UPS 1000VA|670W, Line-Interactive, LCD, Out: 220-240V 8xC13 (4-Switched), (#SMT1000I)"@en	0
+COL title VAL  "TP LINK JetStream 24-Port Gigabit Stackable Smart Switch"@en	COL title VAL  "D-Link DGS-1210-24P 24 Port Gigabit Smart Switch"@de	0
+COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	COL title VAL  "SRT3000RMXLI Smart-UPS SRT 3000VA/2700W 230V Rack 2U"@de	0
+COL title VAL  "TP-Link AC1900 Dual Band High Gain Wireless USB Adapter/Archer T9UH"@en	COL title VAL  "TP-LINK AC 1350 Dual-band C60 (2.4 GHz / 5 GHz) Fast Ethernet Wit"@de	0
+COL title VAL  "JABRA - EVOLVE 30 II UC STEREO USB HEADB NOISE CANCEL USB"@en	COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	0
+COL title VAL  "DJI Mavic 2 Zoom Drone with Smart Controller"@en	COL title VAL  "Go Professional Cases DJI Mavic 2 Pro/Zoom Hard Case"@en	0
+COL title VAL  "Hikvision DS-7332HQHI-K4 32 channel DVR Turbo 4.0"@en	COL title VAL  "DVR 8 canale, Turbo HD, 6MP, PoC, Hikvision DS-7208HQHI-K2-P"@en	0
+COL title VAL  "Garmin echoMAP(tm) Plus 43cv"@en	COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	0
+COL title VAL  "Nautilus 2s Coils by Aspire (5Pack)"@en	COL title VAL  "Cleito 120 Glass By Aspire"@en	0
+COL title VAL  "APC Smart-UPS RT 20kVA RM 230V - SURT20KRMXLI"@de	COL title VAL  "SRT3000RMXLI Smart-UPS SRT 3000VA/2700W 230V Rack 2U"@de	0
+COL title VAL  "Ubiquiti UVC-G3-FLEX UniFI IP Dome Camera"@it	COL title VAL  "Ubiquiti UniFi Video Camera G3 3-pack"@it	0
+COL title VAL  "APC Smart-UPS RT 192V RM Battery Pack Battery enclosure"@en	COL title VAL  "APC By Schneider Electric APC Smart-ups 1500va Lcd Rm 2u 120v"@ca	0
+COL title VAL  "1500VA Power Backup UPS - Refurbished - SUA1500RM2U w AP9630"@en	COL title VAL  "HIKVISION DS-7204HQHI-K1 2 MEGAPIXEL (2MP) HYBRID 4 CHANNEL DVR"@de	0
+COL title VAL  "Jabra BIZ„˘ 2400 II DuoNEXT GENERATION - IP Wideband-Headset (QD) Type: 82 E-STD, Noice-Cancelling microphone boom: FreeSpin"@en	COL title VAL  "Jabra 2400 II QD Mono NC 3 in1 Wired Headset - Black"@en	0
+COL title VAL  "Jabra EVOLVE 30 II Stereo Headset"@en	COL title VAL  "Jabra Evolve 80 MS Stereo New"@en	0
+COL title VAL  "APC Smart-UPS On-Line 6000VA"@de	COL title VAL  "APC Smart UPS SMT1000RMI2U 1000VA Line Interactive"@en	0
+COL title VAL  "NVR Hikvision IP 8 canale DS-7608NI-K2"@en	COL title VAL  "DVR 8 canale, Turbo HD, 6MP, PoC, Hikvision DS-7208HQHI-K2-P"@en	0
+COL title VAL  "1500VA Power Backup UPS - Refurbished - SUA1500RM2U w AP9630"@en	COL title VAL  "APC Smart-UPS 1500VA LCD Tower UPS"@en	0
+COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	COL title VAL  "Jabra Evolve 20 MS mono - Headset - on-ear - wired - USB"@en	0
+COL title VAL  "TP-Link Archer VR400-AC1200 Wireless Gigabit VDSL/ADSL Modem Router(Black)."@de	COL title VAL  "TP-Link Archer-VR400 AC1200 VDSL/ADSL Modem Router"@de	1
+COL title VAL  "Ubiquiti UniFi Video Camera UVC-G4-PRO Infrared IR 4K Video- 802.3af is embedded"@en	COL title VAL  "Ubiquiti UVC-G3-FLEX UniFI IP Dome Camera"@it	0
+COL title VAL  "Garmin ECHOMAP Plus 43cv with GT20 Transducer Fish Finder/Chartplotter Combo"@en	COL title VAL  "Garmin echoMAP(tm) Plus 43cv"@en	1
+COL title VAL  "Jabra Evolve 80 MS stereo - headset"@en	COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	0
+COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	COL title VAL  "MikroTik RB260GSP - Desktop PoE Switch with 5 Gb and 1 SFP Port"@en	0
+COL title VAL  "TP-Link T1700G-28TQ JetStream 24-Port Gigabit Smart Switch"@en	COL title VAL  "TP LINK JetStream 24-Port Gigabit Stackable Smart Switch"@en	1
+COL title VAL  "DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "8CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7208HQHI-K1"@de	0
+COL title VAL  "Jabra EVOLVE 30 II Stereo Headset"@en	COL title VAL  "Jabra Evolve 30 II MS Mono Corded Headset"@en	0
+COL title VAL  "Nautilus AIO Pod By Aspire"@en	COL title VAL  "Nautilus 2s Coils by Aspire (5Pack)"@en	0
+COL title VAL  "Switch Unmanaged PoE GS108PE-300EUS 8-Port Gbit"@en	COL title VAL  "TP-LINK TL-SG1024DE Managed L2 Gigabit Ethernet (10/100/1000) Zwart"@de	0
+COL title VAL  "UVC-G3-FLEX-3Ubiquiti UniFi Video Camera, G3, Flex 3 pack"@ca	COL title VAL  "UVC-G3-Micro Ubiquiti Latest G3 Video Camera In Micro Version"@it	0
+COL title VAL  "Switch Unmanaged PoE GS108PE-300EUS 8-Port Gbit"@en	COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	0
+COL title VAL  "UVC-G3-FLEX-3Ubiquiti UniFi Video Camera, G3, Flex 3 pack"@ca	COL title VAL  "Ubiquiti UniFi UVC-G4-PRO Network IP 4K Video Surveillance Camera"@en	0
+COL title VAL  "ADAPTADOR INALAMBRICO TP-LINK/USB 2.0/N300/QSS/TL-WN821N"@en	COL title VAL  "TP-Link TL-WN725N Nano Wireless USB Adapter"@en	0
+COL title VAL  "DS-7216HUHI-K2 Hikvision 16 Channel 5MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "HIKVISION DS-7204HQHI-K1 2 MEGAPIXEL (2MP) HYBRID 4 CHANNEL DVR"@de	0
+COL title VAL  "STRIKER™ Plus 5cv With GT20-TM transducer"@en	COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	0
+COL title VAL  "HIKVISION DS-7204HQHI-K1 2 MEGAPIXEL (2MP) HYBRID 4 CHANNEL DVR"@de	COL title VAL  "DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	0
+COL title VAL  "D-Link DGS-1210-28P Gigabit PoE Smart Switch"@en	COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	0
+COL title VAL  "Jabra 2400 II QD Mono NC 3 in1 Wired Headset - Black"@en	COL title VAL  "Jabra Evolve 30 II MS Mono Corded Headset"@en	0
+COL title VAL  "Jabra Evolve 80 MS Stereo New"@en	COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	0
+COL title VAL  "Jabra Evolve 40 MS Duo PC Headset 52653"@nl	COL title VAL  "Jabra BIZ 2300 Duo USB MS Lync Headset"@en	0
+COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	COL title VAL  "Jabra BIZ 2300 USB MS Headset Mono"@en	0
+COL title VAL  "Switch D-Link DGS-1210-24 20 p 10 / 100 / 1000 Mbps 4 x SFP"@en	COL title VAL  "1500VA Power Backup UPS - Refurbished - SUA1500RM2U w AP9630"@en	0
+COL title VAL  "TP-Link Archer-VR400 AC1200 VDSL/ADSL Modem Router"@de	COL title VAL  "TP-Link AC1900 Dual Band High Gain Wireless USB Adapter/Archer T9UH"@en	0
+COL title VAL  "Cle Usb Wifi Tp-Link N300 Tl-Wn821n"@en	COL title VAL  "Ubiquiti UniFi UVC-G4-PRO Network IP 4K Video Surveillance Camera"@en	0
+COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	COL title VAL  "STRIKER™ Plus 5cv With GT20-TM transducer"@en	0
+COL title VAL  "Acer Projector Lamp MR.JNC11.002"@en	COL title VAL  "ACER - OriginalLamp For ACER P1623 Projector"@en	1
+COL title VAL  "TP Link Archer T2U Nano AC600 Wireless USB WiFi Adapter"@de	COL title VAL  "Adattatore USB Wireless TP-Link TL-WN725N 150Mbps 2.4GHz"@en	0
+COL title VAL  "Switch D-Link DGS-1210-24 20 p 10 / 100 / 1000 Mbps 4 x SFP"@en	COL title VAL  "Catalyst 2960-XR 24 GigE PoE 370W, 4 x 1G SFP, IP Lite"@en	0
+COL title VAL  "DVR 8 canale, Turbo HD, 6MP, PoC, Hikvision DS-7208HQHI-K2-P"@en	COL title VAL  "8ch, PoC, Hikvision DVR, up to 4MP TVI camera supported"@en	1
+COL title VAL  "Jabra Biz 2300 Mono, USB"@pt	COL title VAL  "Jabra BIZ 2300 USB UC Duo"@id	0
+COL title VAL  "DJI Mavic 2 Enterprise Zoom Drone with Smart Controller"@en	COL title VAL  "DJI Mavic 2 Enterprise (Zoom) w/ Smart Controller and DJI Enterprise Shield Basic"@en	1
+COL title VAL  "Jabra BIZ 2300 Duo USB MS Lync Headset"@en	COL title VAL  "Jabra BIZ 2300 USB UC Duo"@id	0
+COL title VAL  "Aspire Nautilus XS Replacement Coils"@fr	COL title VAL  "Nautilus 2s Coils by Aspire (5Pack)"@en	0
+COL title VAL  "JBL Flip 5 Waterproof Portable Bluetooth Speaker - Black"@en	COL title VAL  "JBL JBL Flip 5 Speaker - Black"@en	1
+COL title VAL  "Bluetooth In-Ear Earphones with Microphone"@en	COL title VAL  "Wireless Bluetooth 5.0 Earphones with Case"@en	0
+COL title VAL  "Garmin STRIKER 4 Fishfinder Worldwide Version w/77/200kHz - 4-Pin Transducer w/Transom & Trolling Motor Mounts"@en	COL title VAL  "Jabra Biz 2300 Mono, USB"@pt	0
+COL title VAL  "Cle Usb Wifi Tp-Link N300 Tl-Wn821n"@en	COL title VAL  "Scheda Di Rete Wireless TP-Link TL-WN781ND 150Mbps PCI-Express x1 + Staffa Low Profile"@en	0
+COL title VAL  "Evolve 80 MS, Stereo, USB-C"@en	COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	1
+COL title VAL  "Ubiquiti UniFi UVC-G4-PRO Network IP 4K Video Surveillance Camera"@en	COL title VAL  "Ubiquiti UVC-G3-FLEX UniFI IP Dome Camera"@it	0
+COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	COL title VAL  "D-LINK/NET/24X1GB POE SWITCH /+ 4 SFP/L2/RM"@de	0
+COL title VAL  "Jabra EVOLVE 30 II Stereo Headset"@en	COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	0
+COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	0
+COL title VAL  "Garmin ECHOMAP Plus 43cv with GT20 Transducer Fish Finder/Chartplotter Combo"@en	COL title VAL  "Catalyst 2960-XR 24 GigE PoE 370W, 4 x 1G SFP, IP Lite"@en	0
+COL title VAL  "TP Link Archer T2U Nano AC600 Wireless USB WiFi Adapter"@de	COL title VAL  "TP-Link Archer T2U Nano (600Mb/s a/b/g/n/ac) DualBand"@en	1
+COL title VAL  "Unifi Video Camera Micro G3"@it	COL title VAL  "UVC-G3-Micro Ubiquiti Latest G3 Video Camera In Micro Version"@it	1
+COL title VAL  "DS-7216HUHI-K2 Hikvision 16 Channel 5MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	0
+COL title VAL  "[Upgraded] Anker Soundcore Liberty Neo TWS True Wireless Earphones With Bluetooth 5.0, Sports Sweatproof, and Noise Isolation"@en	COL title VAL  "Wireless Sweatproof Mini Earphones with Microphone"@en	1
+COL title VAL  "APC - Schneider APC Smart-UPS SRT 6000VA RM 230V"@de	COL title VAL  "APC Smart-UPS On-Line 6000VA"@de	1
+COL title VAL  "Go Professional Cases DJI Mavic 2 Pro/Zoom Hard Case"@en	COL title VAL  "GPC - DJI Mavic 2 Pro/ZoomSmart Controller Case"@en	1
+COL title VAL  "HIKVISION DS-7208HUHI-K2/P 5 MEGAPIXEL POC 8 CHANNEL (8CH) DVR"@en	COL title VAL  "DJI Drone CP.MA.00000033.01 Mavic 2 Zoom + Smart Controller Bundle Retail"@en	0
+COL title VAL  "DJI Mavic 2 Enterprise DUAL with FLIR MSX Thermal Camera"@en	COL title VAL  "DJI »Mavic 2 Enterprise Universal Edition Dual« drone"@en	1
+COL title VAL  "Garmin Striker Plus 7sv Fish Finder with GT52HW-TM Transducer"@de	COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	1
+COL title VAL  "Jabra BIZ 2300 USB MS Headset Mono"@en	COL title VAL  "Jabra BIZ 2300 USB UC Duo"@id	0
+COL title VAL  "Cle Usb Wifi Tp-Link N300 Tl-Wn821n"@en	COL title VAL  "TP-Link TL-WN781ND 150Mbps Wi-Fi PCI Express Kart"@en	0
+COL title VAL  "Jabra Evolve 20 MS mono - Headset - on-ear - wired - USB"@en	COL title VAL  "Evolve 80 MS, Stereo, USB-C"@en	0
+COL title VAL  "TP-Link TL-WN725N Nano Wireless USB Adapter"@en	COL title VAL  "TP-Link AC1900 Dual Band High Gain Wireless USB Adapter/Archer T9UH"@en	0
+COL title VAL  "TP-Link T1700G-28TQ JetStream 24-Port Gigabit Smart Switch"@en	COL title VAL  "D-Link DGS-1210-24P 24 Port Gigabit Smart Switch"@de	0
+COL title VAL  "DVR 8 canale, Turbo HD, 6MP, PoC, Hikvision DS-7208HQHI-K2-P"@en	COL title VAL  "Hikvision DS-7332HQHI-K4 Turbo HD DVR CCTV Recorder with Network and Mobile phone remote viewing"@en	0
+COL title VAL  "Bluetooth In-Ear Earphones with Microphone"@en	COL title VAL  "Wireless Sweatproof Mini Earphones with Microphone"@en	0
+COL title VAL  "APC - SMART-UPS 1000VA LCD RM 2U 230V WITH SMARTCONNECT IN"@de	COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	0
+COL title VAL  "Cisco Catalyst 3650 24 Port mGig, 4x10G Uplink, LAN Base"@en	COL title VAL  "WS-C3650-8X24UQ-LCisco Catalyst 3650 24 Port mGig, 4x10G Uplink, LAN Base"@en	1
+COL title VAL  "Jabra BIZ„˘ 2400 II DuoNEXT GENERATION - IP Wideband-Headset (QD) Type: 82 E-STD, Noice-Cancelling microphone boom: FreeSpin"@en	COL title VAL  "Jabra EVOLVE 30 II Stereo Headset"@en	0
+COL title VAL  "D-Link DGS-1210-28P Gigabit PoE Smart Switch"@en	COL title VAL  "TP-Link Archer-VR400 AC1200 VDSL/ADSL Modem Router"@de	0
+COL title VAL  "TP-LINK AC 1350 Dual-band C60 (2.4 GHz / 5 GHz) Fast Ethernet Wit"@de	COL title VAL  "TP-LINK Archer C60 draadloze router Dual-band (2.4 GHz / 5 GHz) Fast Ethernet Wit"@de	1
+COL title VAL  "APC Smart-UPS On-Line 6000VA"@de	COL title VAL  "APC Smart-UPS 1500VA LCD Tower UPS"@en	0
+COL title VAL  "Ubiquiti UVC-G3-BULLET 3 pack"@fr	COL title VAL  "Ubiquiti UniFi Video Camera G3 1080P 802.3af IP CCTV UVC-G3-BULLET (No PoE Injector)"@ca	0
+COL title VAL  "Jabra Biz 2400 II Mono 3-1, NC, 82 mic, Wideband, QD"@en	COL title VAL  "Jabra BIZ„˘ 2400 II DuoNEXT GENERATION - IP Wideband-Headset (QD) Type: 82 E-STD, Noice-Cancelling microphone boom: FreeSpin"@en	0
+COL title VAL  "Adattatore USB Wireless TP-Link TL-WN725N 150Mbps 2.4GHz"@en	COL title VAL  "Scheda Di Rete Wireless TP-Link TL-WN781ND 150Mbps PCI-Express x1 + Staffa Low Profile"@en	0
+COL title VAL  "Cleito 120 Glass By Aspire"@en	COL title VAL  "Cleito 120 4ml Glass | Smokey Joes Vapes Co"@en	1
+COL title VAL  "D-Link DGS-1210-24P 24-Port Gigabit PoE Smart Managed Switch with 4 SFP ports (12 x PoE ports)"@en	COL title VAL  "Catalyst 2960-XR 24 GigE PoE 370W, 4 x 1G SFP, IP Lite"@en	0
+COL title VAL  "Adattatore USB Wireless TP-Link TL-WN725N 150Mbps 2.4GHz"@en	COL title VAL  "TP-Link TL-WN781ND 150Mbps Wi-Fi PCI Express Kart"@en	0
+COL title VAL  "Garmin STRIKER 4 Fishfinder with GPS"@en	COL title VAL  "Garmin STRIKER 4 Fishfinder Worldwide Version w/77/200kHz - 4-Pin Transducer w/Transom & Trolling Motor Mounts"@en	0
+COL title VAL  "Xiaomi Redmi Airdots S In Ear TWS Bluetooth5.0Earphone Bass Stereo Wireless Cancellation With Mic Handsfree Earbuds AI Control"@en	COL title VAL  "Wireless Sweatproof Mini Earphones with Microphone"@en	0
+COL title VAL  "Aspire Nautilus XS Replacement Coils"@fr	COL title VAL  "Coil ASPIRE 0,7 Ohm Mesh Nautilus XS"@en	1
+COL title VAL  "8CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7208HQHI-K1"@de	COL title VAL  "Hikvision DVR Turbo HD, 1920x1080P, Ref: DS-7216HUHI-K2"@en	0
+COL title VAL  "TP-Link Archer VR400-AC1200 Wireless Gigabit VDSL/ADSL Modem Router(Black)."@de	COL title VAL  "D-Link DGS-1210-28P Gigabit PoE Smart Switch"@en	0
+COL title VAL  "UVC-G3-Micro Ubiquiti Latest G3 Video Camera In Micro Version"@it	COL title VAL  "Ubiquiti UniFi Video Camera G3 3-pack"@it	0
+COL title VAL  "2s 0.7 Mesh Nautilus GT"@en	COL title VAL  "Coil ASPIRE 0,7 Ohm Mesh Nautilus XS"@en	0
+COL title VAL  "TP-Link Archer-VR400 AC1200 VDSL/ADSL Modem Router"@de	COL title VAL  "TP Link Archer T2U Nano AC600 Wireless USB WiFi Adapter"@de	0
+COL title VAL  "Jabra EVOLVE 30 II Stereo Headset"@en	COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	0
+COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	COL title VAL  "Jabra 2400 II QD Mono NC 3 in1 Wired Headset - Black"@en	1
+COL title VAL  "APC - Schneider APC Smart-UPS SRT 6000VA RM 230V"@de	COL title VAL  "APC - Schneider SMART-UPS 1500VA LCD 230V"@de	0
+COL title VAL  "DJI Mavic 2 Zoom Drone with Smart Controller"@en	COL title VAL  "DJI »Mavic 2 Enterprise Universal Edition Dual« drone"@en	0
+COL title VAL  "JABRA - EVOLVE 40 MS Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	COL title VAL  "Jabra Evolve 40 MS Duo PC Headset 52653"@nl	1
+COL title VAL  "DS-7216HUHI-K2 Hikvision 16 Channel 5MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "Hikvision DVR Turbo HD, 1920x1080P, Ref: DS-7216HUHI-K2"@en	1
+COL title VAL  "ADAPTADOR INALAMBRICO TP-LINK/USB 2.0/N300/QSS/TL-WN821N"@en	COL title VAL  "Adattatore USB Wireless TP-Link TL-WN725N 150Mbps 2.4GHz"@en	0
+COL title VAL  "Nautilus AIO SPARE Pod - Aspire"@en	COL title VAL  "Nautilus 2s Coils by Aspire (5Pack)"@en	0
+COL title VAL  "TP-Link AC1900 Dual Band High Gain Wireless USB Adapter/Archer T9UH"@en	COL title VAL  "TP Link Archer T2U Nano AC600 Wireless USB WiFi Adapter"@de	0
+COL title VAL  "Scheda Di Rete Wireless TP-Link TL-WN781ND 150Mbps PCI-Express x1 + Staffa Low Profile"@en	COL title VAL  "TP-Link TL-WN725N Nano Wireless USB Adapter"@en	0
+COL title VAL  "Scheda Di Rete Wireless TP-Link TL-WN781ND 150Mbps PCI-Express x1 + Staffa Low Profile"@en	COL title VAL  "Switch TP-Link 24p TL-SG1024DE Rack"@en	0
+COL title VAL  "Jabra Evolve 80 MS stereo - headset"@en	COL title VAL  "Jabra Evolve 80 MS Stereo New"@en	1
+COL title VAL  "APC Smart-UPS RT 20kVA RM 230V - SURT20KRMXLI"@de	COL title VAL  "APC - Schneider APC Smart-UPS SRT 6000VA RM 230V"@de	0
+COL title VAL  "2s 0.7 Mesh Nautilus GT"@en	COL title VAL  "Aspire Nautilus XS Replacement Coils"@fr	0
+COL title VAL  "Jabra BIZ 2300 Duo USB MS Lync Headset"@en	COL title VAL  "Auricular Jabra GN Netcom 2300 Biaural Usb boton mute"@ro	0
+COL title VAL  "Switch Unmanaged PoE GS108PE-300EUS 8-Port Gbit"@en	COL title VAL  "MikroTik RB260GSP - Desktop PoE Switch with 5 Gb and 1 SFP Port"@en	0
+COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	COL title VAL  "Garmin ECHOMAP Plus 43cv with GT20 Transducer Fish Finder/Chartplotter Combo"@en	0
+COL title VAL  "8CH HIKVISION 8MP DVR 4K TURBO AOC AUDIO OVER COAX- DS-7208HUHI-K1 (S)"@de	COL title VAL  "8ch, PoC, Hikvision DVR, up to 4MP TVI camera supported"@en	0
+COL title VAL  "TP-Link Archer-VR400 AC1200 VDSL/ADSL Modem Router"@de	COL title VAL  "TP-Link Archer T2U Nano (600Mb/s a/b/g/n/ac) DualBand"@en	0
+COL title VAL  "Ubiquiti UniFi Video Camera G3 3-pack"@it	COL title VAL  "Ubiquiti UVC-G3-FLEX-3 UniFi Protect G3 FLEX Camera 3-Pack"@ca	0
+COL title VAL  "CISCO SG500-52 52-PORT GIGABIT STACKABLE"@en	COL title VAL  "TP LINK JetStream 24-Port Gigabit Stackable Smart Switch"@en	0
+COL title VAL  "DJI DJI | Mavic 2 Enterprise Dual - with Enterprise Shield Basic CP.EN.00000107.01"@en	COL title VAL  "Mavic 2 Enterprise（DUAL) Universal Edition (US & Canada) (SP)"@en	1
+COL title VAL  "Wireless Bluetooth 5.0 Earphones with Case"@en	COL title VAL  "[Upgraded] Anker Soundcore Liberty Neo TWS True Wireless Earphones With Bluetooth 5.0, Sports Sweatproof, and Noise Isolation"@en	0
+COL title VAL  "Ubiquiti UniFi UVC-G4-PRO Network IP 4K Video Surveillance Camera"@en	COL title VAL  "Ubiquiti UniFi Video Camera G3 1080P 802.3af IP CCTV UVC-G3-BULLET (No PoE Injector)"@ca	0
+COL title VAL  "Unifi Video Camera Micro G3"@it	COL title VAL  "Ubiquiti UVC-G3-FLEX UniFI IP Dome Camera"@it	0
+COL title VAL  "Atomos ATOMCAB010 Coiled Full HDMI to Full HDMI Cable"@en	COL title VAL  "Atomos Coiled Full HDMI to Full HDMI Cable (30-45cm)"@en	1
+COL title VAL  "TP-Link T1700G-28TQ JetStream 24-Port Gigabit Smart Switch"@en	COL title VAL  "TP-LINK TL-SG1024DE Managed L2 Gigabit Ethernet (10/100/1000) Zwart"@de	0
+COL title VAL  "HIKVISION DS-7208HUHI-K2/P 5 MEGAPIXEL POC 8 CHANNEL (8CH) DVR"@en	COL title VAL  "HIKVISION DS-7204HQHI-K1 2 MEGAPIXEL (2MP) HYBRID 4 CHANNEL DVR"@de	0
+COL title VAL  "HIKVISION DS-7208HUHI-K2/P 5 MEGAPIXEL POC 8 CHANNEL (8CH) DVR"@en	COL title VAL  "8ch, PoC, Hikvision DVR, up to 4MP TVI camera supported"@en	0
+COL title VAL  "UVC-G3-Micro Ubiquiti Latest G3 Video Camera In Micro Version"@it	COL title VAL  "Ubiquiti UVC-G3-BULLET 3 pack"@fr	0
+COL title VAL  "Jabra Evolve 80 MS stereo - headset"@en	COL title VAL  "Jabra Evolve 30 II MS Mono Corded Headset"@en	0
+COL title VAL  "CISCO SG500-52 52-PORT GIGABIT STACKABLE"@en	COL title VAL  "APC - Schneider SMART-UPS 1500VA LCD 230V"@de	0
+COL title VAL  "DVR 8 canale, Turbo HD, 6MP, PoC, Hikvision DS-7208HQHI-K2-P"@en	COL title VAL  "8CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7208HQHI-K1"@de	0
+COL title VAL  "Hikvision DS-7332HQHI-K4 Turbo HD DVR CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "Hikvision DVR Turbo HD, 1920x1080P, Ref: DS-7216HUHI-K2"@en	0
+COL title VAL  "ADAPTADOR INALAMBRICO TP-LINK/USB 2.0/N300/QSS/TL-WN821N"@en	COL title VAL  "Cle Usb Wifi Tp-Link N300 Tl-Wn821n"@en	1
+COL title VAL  "Jabra BIZ 2300 USB MS Headset Mono"@en	COL title VAL  "Jabra Evolve 30 II MS Mono Corded Headset"@en	0
+COL title VAL  "Ubiquiti UVC-G3-FLEX UniFI IP Dome Camera"@it	COL title VAL  "Ubiquiti UVC-G3-BULLET 3 pack"@fr	0
+COL title VAL  "Nautilus AIO Pod By Aspire"@en	COL title VAL  "Coil ASPIRE 0,7 Ohm Mesh Nautilus XS"@en	0
+COL title VAL  "JABRA - EVOLVE 30 II UC STEREO USB HEADB NOISE CANCEL USB"@en	COL title VAL  "Cisco Catalyst 3650 24 Port mGig, 4x10G Uplink, LAN Base"@en	0
+COL title VAL  "Cle Usb Wifi Tp-Link N300 Tl-Wn821n"@en	COL title VAL  "TP-Link TL-WN725N Nano Wireless USB Adapter"@en	0
+COL title VAL  "Jabra Evolve 80 MS stereo - headset"@en	COL title VAL  "Evolve 80 MS, Stereo, USB-C"@en	0
+COL title VAL  "Wireless Bluetooth 5.0 Earphones with Case"@en	COL title VAL  "Baseus S09 Bluetooth Wireless Earbuds"@en	0
+COL title VAL  "D-Link DGS-1210-24P 24-Port Gigabit PoE Smart Managed Switch with 4 SFP ports (12 x PoE ports)"@en	COL title VAL  "TP LINK JetStream 24-Port Gigabit Stackable Smart Switch"@en	0
+COL title VAL  "Ubiquiti UniFi Video Camera UVC-G4-PRO Infrared IR 4K Video- 802.3af is embedded"@en	COL title VAL  "Ubiquiti UniFi Video Camera G3 1080P 802.3af IP CCTV UVC-G3-BULLET (No PoE Injector)"@ca	0
+COL title VAL  "Nautilus AIO SPARE Pod - Aspire"@en	COL title VAL  "Nautilus AIO Pod By Aspire"@en	1
+COL title VAL  "Nautilus AIO SPARE Pod - Aspire"@en	COL title VAL  "Aspire Nautilus XS Replacement Coils"@fr	0
+COL title VAL  "Cisco Catalyst 2960-XR | WS-C2960XR-24PS-I Catalyst 2960XR 24 port 10/100/1000 PoE+ 370W, 4 x 1G SFP, IP Lite"@en	COL title VAL  "Catalyst 2960-XR 24 GigE PoE 370W, 4 x 1G SFP, IP Lite"@en	1
+COL title VAL  "SF110-24-NA - Cisco SF110-24 Unmanaged Small Business Switch, 24 Port 10/100 - Refurb'd"@en	COL title VAL  "Cisco SG500 52P Gigabit SG500-52-K9-NA"@de	0
+COL title VAL  "MikroTik RouterBOARD RB260GSP 5-port Gigabit Managed Switch with PoE"@en	COL title VAL  "CISCO SG500-52 52-PORT GIGABIT STACKABLE"@en	0
+COL title VAL  "Hikvision DS-7332HQHI-K4 32 channel DVR Turbo 4.0"@en	COL title VAL  "8CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7208HQHI-K1"@de	0
+COL title VAL  "HIKVISION DS-7204HQHI-K1 2 MEGAPIXEL (2MP) HYBRID 4 CHANNEL DVR"@de	COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	0
+COL title VAL  "APC Smart-UPS 1500VA LCD Tower UPS"@en	COL title VAL  "APC - Schneider SMART-UPS 1500VA LCD 230V"@de	1
+COL title VAL  "APC Smart-UPS On-Line 6000VA"@de	COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	0
+COL title VAL  "Mavic 2 Enterprise（DUAL) Universal Edition (US & Canada) (SP)"@en	COL title VAL  "DJI Mavic 2 Enterprise (Zoom) w/ Smart Controller and DJI Enterprise Shield Basic"@en	0
+COL title VAL  "Switch D-Link DGS-1210-24 20 p 10 / 100 / 1000 Mbps 4 x SFP"@en	COL title VAL  "D-Link DGS-1210-28P Gigabit PoE Smart Switch"@en	0
+COL title VAL  "TP-LINK AC 1350 Dual-band C60 (2.4 GHz / 5 GHz) Fast Ethernet Wit"@de	COL title VAL  "Adattatore USB Wireless TP-Link TL-WN725N 150Mbps 2.4GHz"@en	0
+COL title VAL  "DJI Mavic 2 Enterprise Zoom Drone with Smart Controller"@en	COL title VAL  "DJI Mavic 2 Enterprise DUAL with FLIR MSX Thermal Camera"@en	0
+COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	COL title VAL  "Garmin STRIKER 4 Fishfinder Worldwide Version w/77/200kHz - 4-Pin Transducer w/Transom & Trolling Motor Mounts"@en	1
+COL title VAL  "DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "HIKVISION-DS-7216HQHI-K1 (Turbo HD 4.0)1080P 4MP Lite"@de	1
+COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	COL title VAL  "APC Smart-UPS RT 20kVA RM 230V - SURT20KRMXLI"@de	0
+COL title VAL  "DJI DJI | Mavic 2 Enterprise Dual - with Enterprise Shield Basic CP.EN.00000107.01"@en	COL title VAL  "DJI Mavic 2 Enterprise (Zoom) w/ Smart Controller and DJI Enterprise Shield Basic"@en	0
+COL title VAL  "Switch D-LinkDGS-1210-24"@de	COL title VAL  "D-Link DGS-1210-24P 24 Port Gigabit Smart Switch"@de	0
+COL title VAL  "Jabra Biz 2300 Mono, USB"@pt	COL title VAL  "Jabra BIZ 2300 Duo USB MS Lync Headset"@en	0
+COL title VAL  "TP-Link AC1900 Dual Band High Gain Wireless USB Adapter/Archer T9UH"@en	COL title VAL  "TP-Link | AC1900 High Gain Dual Band Wifi Adapter | Wireless WiFi Network Adapter for PC (Archer T9UH)"@en	1
+COL title VAL  "TP-Link TL-WN725N Nano Wireless USB Adapter"@en	COL title VAL  "Switch TP-Link 24p TL-SG1024DE Rack"@en	0
+COL title VAL  "D-Link DGS-1210-24P 24-Port Gigabit PoE Smart Managed Switch with 4 SFP ports (12 x PoE ports)"@en	COL title VAL  "Switch D-Link DGS-1210-24 20 p 10 / 100 / 1000 Mbps 4 x SFP"@en	0
+COL title VAL  "Jabra Evolve 40 MS Duo PC Headset 52653"@nl	COL title VAL  "Jabra Evolve 30 II MS Mono Corded Headset"@en	0
+COL title VAL  "Ubiquiti UVC-G3-FLEX UniFI IP Dome Camera"@it	COL title VAL  "UVC-G3-Micro Ubiquiti Latest G3 Video Camera In Micro Version"@it	0
+COL title VAL  "TP-Link Archer T2U Nano (600Mb/s a/b/g/n/ac) DualBand"@en	COL title VAL  "[Upgraded] Anker Soundcore Liberty Neo TWS True Wireless Earphones With Bluetooth 5.0, Sports Sweatproof, and Noise Isolation"@en	0
+COL title VAL  "APC By Schneider Electric APC Smart-ups 1500va Lcd Rm 2u 120v"@ca	COL title VAL  "APC - SMART-UPS 1000VA LCD RM 2U 230V WITH SMARTCONNECT IN"@de	0
+COL title VAL  "APC - Schneider SMART-UPS 1500VA LCD 230V"@de	COL title VAL  "APC - SMART-UPS 1000VA LCD RM 2U 230V WITH SMARTCONNECT IN"@de	0
+COL title VAL  "Garmin Striker 4 010-01550-00 Black frequency = 50/77/20"@en	COL title VAL  "Garmin STRIKER 4 Fishfinder with GPS"@en	1
+COL title VAL  "Jabra Evolve 80 MS stereo - headset"@en	COL title VAL  "JABRA - EVOLVE 40 MS Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	0
+COL title VAL  "TP-Link TL-WN725N Nano Wireless USB Adapter"@en	COL title VAL  "TP-Link | AC1900 High Gain Dual Band Wifi Adapter | Wireless WiFi Network Adapter for PC (Archer T9UH)"@en	0
+COL title VAL  "Jabra Biz 2400 II Mono 3-1, NC, 82 mic, Wideband, QD"@en	COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	0
+COL title VAL  "Cle Usb Wifi Tp-Link N300 Tl-Wn821n"@en	COL title VAL  "Adattatore USB Wireless TP-Link TL-WN725N 150Mbps 2.4GHz"@en	0
+COL title VAL  "Garmin STRIKER 4 Fishfinder with GPS"@en	COL title VAL  "Garmin Striker Plus 7sv Fish Finder with GT52HW-TM Transducer"@de	0
+COL title VAL  "Ubiquiti UVC-G3-BULLET 3 pack"@fr	COL title VAL  "Ubiquiti UVC-G3-FLEX-3 UniFi Protect G3 FLEX Camera 3-Pack"@ca	0
+COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	COL title VAL  "8CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7208HQHI-K1"@de	1
+COL title VAL  "HIKVISION DS-7208HUHI-K2/P 5 MEGAPIXEL POC 8 CHANNEL (8CH) DVR"@en	COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	1
+COL title VAL  "APC Smart-UPS RT 192V RM Battery Pack Battery enclosure"@en	COL title VAL  "APC Smart-UPS RT 192V RM Battery Pack"@en	1
+COL title VAL  "D-Link DGS-1210-24P 24-Port Gigabit PoE Smart Managed Switch with 4 SFP ports (12 x PoE ports)"@en	COL title VAL  "MikroTik RB260GSP - Desktop PoE Switch with 5 Gb and 1 SFP Port"@en	0
+COL title VAL  "TP-Link AC1900 Dual Band High Gain Wireless USB Adapter/Archer T9UH"@en	COL title VAL  "TP-Link Archer T2U Nano (600Mb/s a/b/g/n/ac) DualBand"@en	0
+COL title VAL  "Switch D-Link DGS-1210-24 20 p 10 / 100 / 1000 Mbps 4 x SFP"@en	COL title VAL  "SF11024 24 Port 10 100 Switch"@en	0
+COL title VAL  "DVR 8 canale, Turbo HD, 6MP, PoC, Hikvision DS-7208HQHI-K2-P"@en	COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	0
+COL title VAL  "Garmin 010-01872-00 Striker Plus 5Cv with Cv20-TM transducer, 5 inches"@en	COL title VAL  "Garmin STRIKER 4 Fishfinder with GPS"@en	0
+COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	COL title VAL  "SRT3000RMXLI Smart-UPS SRT 3000VA/2700W 230V Rack 2U"@de	1
+COL title VAL  "DVR 8 canale, Turbo HD, 6MP, PoC, Hikvision DS-7208HQHI-K2-P"@en	COL title VAL  "Hikvision DS-7608NI-K2 Network Video Recorder 8-channels"@en	0
+COL title VAL  "Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset"@en	COL title VAL  "Jabra Biz 2300 USB UC Duo Binaural Headset2399-823-109"@de	0
+COL title VAL  "UVC-G3-FLEX-3Ubiquiti UniFi Video Camera, G3, Flex 3 pack"@ca	COL title VAL  "Ubiquiti UVC-G3-FLEX-3 UniFi Protect G3 FLEX Camera 3-Pack"@ca	1
+COL title VAL  "TP LINK JetStream 24-Port Gigabit Stackable Smart Switch"@en	COL title VAL  "SF11024 24 Port 10 100 Switch"@en	0
+COL title VAL  "Jabra BIZ 2300 USB MS Headset Mono"@en	COL title VAL  "Jabra BIZ 2300 Duo USB MS Lync Headset"@en	0
+COL title VAL  "SF110-24-NA - Cisco SF110-24 Unmanaged Small Business Switch, 24 Port 10/100 - Refurb'd"@en	COL title VAL  "SF11024 24 Port 10 100 Switch"@en	1
+COL title VAL  "MikroTik RouterBOARD RB260GSP 5-port Gigabit Managed Switch with PoE"@en	COL title VAL  "D-Link DGS-1210-24P 24-Port Gigabit PoE Smart Managed Switch with 4 SFP ports (12 x PoE ports)"@en	0
+COL title VAL  "Switch D-LinkDGS-1210-24"@de	COL title VAL  "D-Link DGS-1210-28P Gigabit PoE Smart Switch"@en	0
+COL title VAL  "JABRA - EVOLVE 30 II UC STEREO USB HEADB NOISE CANCEL USB"@en	COL title VAL  "Jabra EVOLVE 30 II Stereo Headset"@en	1
+COL title VAL  "Cle Usb Wifi Tp-Link N300 Tl-Wn821n"@en	COL title VAL  "TP-LINK TL-SG1024DE Managed L2 Gigabit Ethernet (10/100/1000) Zwart"@de	0
+COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	COL title VAL  "Jabra Evolve 20 UC cuffia mono per Skype for Business"@en	0
+COL title VAL  "DJI DJI | Mavic 2 Enterprise Dual - with Enterprise Shield Basic CP.EN.00000107.01"@en	COL title VAL  "DJI Mavic 2 Enterprise DUAL with FLIR MSX Thermal Camera"@en	0
+COL title VAL  "Garmin Striker Plus 7sv Fish Finder with GT52HW-TM Transducer"@de	COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	0
+COL title VAL  "UVC-G3-FLEX-3Ubiquiti UniFi Video Camera, G3, Flex 3 pack"@ca	COL title VAL  "Ubiquiti UniFi Video Camera G3 3-pack"@it	0
+COL title VAL  "Mavic 2 Enterprise（DUAL) Universal Edition (US & Canada) (SP)"@en	COL title VAL  "DJI »Mavic 2 Enterprise Universal Edition Dual« drone"@en	0
+COL title VAL  "APC Smart-UPS 1500VA LCD Tower UPS"@en	COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	0
+COL title VAL  "JBL Flip 5 Waterproof Portable Bluetooth Speaker - Black"@en	COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	0
+COL title VAL  "Acer Projector Lamp MR.JNC11.002"@en	COL title VAL  "STRIKER™ Plus 5cv With GT20-TM transducer"@en	0
+COL title VAL  "Hikvision DS-7608NI-K2 Network Video Recorder 8-channels"@en	COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	0
+COL title VAL  "Cisco Catalyst 2960-XR | WS-C2960XR-24PS-I Catalyst 2960XR 24 port 10/100/1000 PoE+ 370W, 4 x 1G SFP, IP Lite"@en	COL title VAL  "D-Link DGS-1210-24P 24-Port Gigabit PoE Smart Managed Switch with 4 SFP ports (12 x PoE ports)"@en	0
+COL title VAL  "STRIKER™ Plus 5cv With GT20-TM transducer"@en	COL title VAL  "Garmin Striker Plus 7sv Fish Finder with GT52HW-TM Transducer"@de	0
+COL title VAL  "Jabra Evolve 40 MS Duo PC Headset 52653"@nl	COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	0
+COL title VAL  "Jabra Biz 2300 USB UC Duo Binaural Headset2399-823-109"@de	COL title VAL  "Jabra Biz 2300 Mono, USB"@pt	0
+COL title VAL  "Switch Unmanaged PoE GS108PE-300EUS 8-Port Gbit"@en	COL title VAL  "MikroTik RouterBOARD RB260GSP 5-port Gigabit Managed Switch with PoE"@en	0
+COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	COL title VAL  "Hikvision DVR Turbo HD, 1920x1080P, Ref: DS-7216HUHI-K2"@en	0
+COL title VAL  "D-LINK/NET/24X1GB POE SWITCH /+ 4 SFP/L2/RM"@de	COL title VAL  "Catalyst 2960-XR 24 GigE PoE 370W, 4 x 1G SFP, IP Lite"@en	0
+COL title VAL  "TP-LINK Archer C60 draadloze router Dual-band (2.4 GHz / 5 GHz) Fast Ethernet Wit"@de	COL title VAL  "TP-Link Archer-VR400 AC1200 VDSL/ADSL Modem Router"@de	0
+COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	COL title VAL  "JABRA - EVOLVE 30 II UC STEREO USB HEADB NOISE CANCEL USB"@en	0
+COL title VAL  "D-LINK/NET/24X1GB POE SWITCH /+ 4 SFP/L2/RM"@de	COL title VAL  "Switch D-Link DGS-1210-24 20 p 10 / 100 / 1000 Mbps 4 x SFP"@en	0
+COL title VAL  "8CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7208HQHI-K1"@de	COL title VAL  "DVR Standalone HIKVISION DS-7204HQHI-K1"@de	0
+COL title VAL  "TP-Link | AC1900 High Gain Dual Band Wifi Adapter | Wireless WiFi Network Adapter for PC (Archer T9UH)"@en	COL title VAL  "TP Link Archer T2U Nano AC600 Wireless USB WiFi Adapter"@de	0
+COL title VAL  "Switch TP-Link 24p TL-SG1024DE Rack"@en	COL title VAL  "TP-Link TL-WN781ND 150Mbps Wi-Fi PCI Express Kart"@en	0
+COL title VAL  "Jabra Evolve 30 II MS Mono Corded Headset"@en	COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	1
+COL title VAL  "DJI Mavic 2 Enterprise Zoom Drone with Smart Controller"@en	COL title VAL  "DJI Drone CP.MA.00000033.01 Mavic 2 Zoom + Smart Controller Bundle Retail"@en	0
+COL title VAL  "8CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7208HQHI-K1"@de	COL title VAL  "8ch, PoC, Hikvision DVR, up to 4MP TVI camera supported"@en	0
+COL title VAL  "Xiaomi Redmi Airdots S In Ear TWS Bluetooth5.0Earphone Bass Stereo Wireless Cancellation With Mic Handsfree Earbuds AI Control"@en	COL title VAL  "Wireless Bluetooth 5.0 Earphones with Case"@en	1
+COL title VAL  "APC Smart-UPS SRT 3000VA RM 230V"@de	COL title VAL  "APC - Schneider APC Smart-UPS SRT 6000VA RM 230V"@de	0
+COL title VAL  "GPC - DJI Mavic 2 Pro/ZoomSmart Controller Case"@en	COL title VAL  "DJI Mavic 2 Enterprise Zoom Drone with Smart Controller"@en	0
+COL title VAL  "Unifi Video Camera Micro G3"@it	COL title VAL  "Ubiquiti UVC-G3-FLEX-3 UniFi Protect G3 FLEX Camera 3-Pack"@ca	0
+COL title VAL  "Jabra 2400 II QD Mono NC 3 in1 Wired Headset - Black"@en	COL title VAL  "Jabra BIZ 2400 II Mono 3-1 - Mic. 82 NC, Wideband"@en	0
+COL title VAL  "DVR 8 canale, Turbo HD, 6MP, PoC, Hikvision DS-7208HQHI-K2-P"@en	COL title VAL  "Hikvision DVR Turbo HD, 1920x1080P, Ref: DS-7216HUHI-K2"@en	0
+COL title VAL  "APC Smart-UPS RT 192V RM Battery Pack Battery enclosure"@en	COL title VAL  "APC Smart-UPS SURT20KRMXLI 20kVA RM 230V"@de	0
+COL title VAL  "APC Smart UPS SMT1000RMI2U 1000VA Line Interactive"@en	COL title VAL  "APC - SMART-UPS 1000VA LCD RM 2U 230V WITH SMARTCONNECT IN"@de	1
+COL title VAL  "Jabra Biz 2300 Mono, USB"@pt	COL title VAL  "Jabra BIZ 2400 II Mono 3-1 - Mic. 82 NC, Wideband"@en	0
+COL title VAL  "Jabra Evolve 80 MS stereo - headset"@en	COL title VAL  "Jabra EVOLVE 30 II Stereo Headset"@en	0
+COL title VAL  "Bluetooth In-Ear Earphones with Microphone"@en	COL title VAL  "Xiaomi Redmi Airdots S In Ear TWS Bluetooth5.0Earphone Bass Stereo Wireless Cancellation With Mic Handsfree Earbuds AI Control"@en	0
+COL title VAL  "SF11024 24 Port 10 100 Switch"@en	COL title VAL  "Switch Unmanaged PoE GS108PE-300EUS 8-Port Gbit"@en	0
+COL title VAL  "Jabra BIZ 2300 USB UC Duo"@id	COL title VAL  "JABRA - EVOLVE 30 II UC STEREO USB HEADB NOISE CANCEL USB"@en	0
+COL title VAL  "D-Link DGS-1210-28P Gigabit PoE Smart Switch"@en	COL title VAL  "TP LINK JetStream 24-Port Gigabit Stackable Smart Switch"@en	0
+COL title VAL  "SF11024 24 Port 10 100 Switch"@en	COL title VAL  "TP-LINK TL-SG1024DE Managed L2 Gigabit Ethernet (10/100/1000) Zwart"@de	0
+COL title VAL  "APC By Schneider Electric APC Smart-ups 1500va Lcd Rm 2u 120v"@ca	COL title VAL  "1500VA Power Backup UPS - Refurbished - SUA1500RM2U w AP9630"@en	1
+COL title VAL  "D-Link DGS-1210-28P Gigabit PoE Smart Switch"@en	COL title VAL  "D-Link DGS-1210-24P 24 Port Gigabit Smart Switch"@de	0
+COL title VAL  "Jabra EVOLVE 30 II MS Mono (USB)"@pt	COL title VAL  "Jabra Evolve 80 MS UC USB-C Stereo Headset"@en	0
+COL title VAL  "TP-Link TL-WN725N Nano Wireless USB Adapter"@en	COL title VAL  "TP Link Archer T2U Nano AC600 Wireless USB WiFi Adapter"@de	0
+COL title VAL  "DVR 8 canale, Turbo HD, 6MP, PoC, Hikvision DS-7208HQHI-K2-P"@en	COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	0
+COL title VAL  "Ubiquiti UVC-G3-FLEX UniFI IP Dome Camera"@it	COL title VAL  "UVC-G3-FLEX-3Ubiquiti UniFi Video Camera, G3, Flex 3 pack"@ca	0
+COL title VAL  "TP-LINK AC 1350 Dual-band C60 (2.4 GHz / 5 GHz) Fast Ethernet Wit"@de	COL title VAL  "TP-Link Archer T2U Nano (600Mb/s a/b/g/n/ac) DualBand"@en	0
+COL title VAL  "Nautilus AIO SPARE Pod - Aspire"@en	COL title VAL  "Catalyst 2960-XR 24 GigE PoE 370W, 4 x 1G SFP, IP Lite"@en	0
+COL title VAL  "Wireless Bluetooth 5.0 Earphones with Case"@en	COL title VAL  "JBL Flip 5 Waterproof Portable Bluetooth Speaker - Black"@en	0
+COL title VAL  "APC Smart UPS SMT1000RMI2U 1000VA Line Interactive"@en	COL title VAL  "APC Smart-UPS 1500VA LCD Tower UPS"@en	0
+COL title VAL  "Jabra BIZ„˘ 2400 II DuoNEXT GENERATION - IP Wideband-Headset (QD) Type: 82 E-STD, Noice-Cancelling microphone boom: FreeSpin"@en	COL title VAL  "BIZ 2400 II Duo IP Flex"@en	1
+COL title VAL  "D-Link DGS-1210-24P 24 Port Gigabit Smart Switch"@de	COL title VAL  "SF110-24-NA - Cisco SF110-24 Unmanaged Small Business Switch, 24 Port 10/100 - Refurb'd"@en	0
+COL title VAL  "DVR 8 canale, Turbo HD, 6MP, PoC, Hikvision DS-7208HQHI-K2-P"@en	COL title VAL  "DS-7216HUHI-K2 Hikvision 16 Channel 5MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	0
+COL title VAL  "Mavic 2 Enterprise（DUAL) Universal Edition (US & Canada) (SP)"@en	COL title VAL  "DJI Mavic 2 Zoom Drone with Smart Controller"@en	0
+COL title VAL  "Unifi Video Camera Micro G3"@it	COL title VAL  "Ubiquiti UniFi Video Camera G3 3-pack"@it	0
+COL title VAL  "Wireless Sweatproof Mini Earphones with Microphone"@en	COL title VAL  "Wireless Bluetooth 5.0 Earphones with Case"@en	0
+COL title VAL  "DJI Mavic 2 Zoom Drone with Smart Controller"@en	COL title VAL  "DJI Drone CP.MA.00000033.01 Mavic 2 Zoom + Smart Controller Bundle Retail"@en	1
+COL title VAL  "ACER - OriginalLamp For ACER P1623 Projector"@en	COL title VAL  "D-Link 1-Port Gigabit POE+ Injector"@en	0

@@ -1,0 +1,53 @@
+COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Neuf / Part Only / Neuf"@en	COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Yeni / Part and Adhesive / Yeni"@en	0
+COL title VAL  "Telefon mobil Xiaomi Redmi Note 9 Pro, 64GB, 6GB, Dual SIM, Tropical Green"@ro	COL title VAL  "Xiaomi Redmi Note 9 3GB+64GB polar white"@en	0
+COL title VAL  "Smartphone Samsung Galaxy A51 4GB 128GB Branco"@en	COL title VAL  "Galaxy A51 Dual SIM (4/128GB, schwarz) - EU Modell"@de	1
+COL title VAL  "Galaxy A51 Dual SIM (4/128GB, schwarz) - EU Modell"@de	COL title VAL  "Samsung Galaxy A51 Dual SIM 128GB 4GB RAM SM-A515FN/DS Black"@en	0
+COL title VAL  "Apple APPLE 60W MAGSAFE 2 POWER ADAPTER (MACBOOK PRO WITH RETINA)"@en	COL title VAL  "Apple USB-C - power adapter - 30 Watt"@en	0
+COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Yeni / Part and Adhesive / Yeni"@en	COL title VAL  "DJI Mavic 2 Battery Charger - Part 3"@en	0
+COL title VAL  "Samsung Galaxy A51 Dual SIM 128GB 4GB RAM SM-A515FN/DS Black"@en	COL title VAL  "Samsung Galaxy A51 4GB 128GB 6.5″ Azul"@tl	0
+COL title VAL  "Samsung A515 Galaxy A51 Dual Sim (blue) -128 GB - DE"@tl	COL title VAL  "Smartphone Samsung Galaxy A51 4GB 128GB Branco"@en	0
+COL title VAL  "Xiaomi Redmi Note 9 PRO 6GB/64GB Green Mobilais Telefons"@en	COL title VAL  "Telefon mobil Xiaomi Redmi Note 9 Pro, 64GB, 6GB, Dual SIM, Tropical Green"@ro	1
+COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	COL title VAL  "DJI Mavic 2 Battery Charger - Excludes AC Cable"@en	0
+COL title VAL  "Samsung Galaxy A51 Dual SIM 128GB 4GB RAM SM-A515FN/DS Black"@en	COL title VAL  "Smartfon Samsung Galaxy A51 czarny, 6.5", Super AMOLED, 1080 x 2400, Exynos, 9611, Internal RAM 4GB, 128GB, microSD, Dual SIM"@en	1
+COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Yeni / Part and Adhesive / Yeni"@en	COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Neuf / Part and Adhesive / Neuf"@en	1
+COL title VAL  "Belkin Belkin Mixit DuraTek Lightning to USB-A Kevlar Cable 1.2M - Gold"@en	COL title VAL  "Cable Belkin DuraTek Lightning a USB - Oro"@en	1
+COL title VAL  "Apple zasilacz 30W USB-C do MacBook 12''/iPhone/iPad"@pl	COL title VAL  "Apple USB-C - power adapter - 30 Watt"@en	1
+COL title VAL  "TELEFONO MOVIL XIAOMI REDMI NOTE 8T 4+64GB GREY.-"@vi	COL title VAL  "Xiaomi Redmi Note 9 PRO 6GB/64GB Green Mobilais Telefons"@en	0
+COL title VAL  "Redmi Note 8T 4GB RAM 64GB ROM Global Version Grey"@de	COL title VAL  "Xiaomi Redmi Note 9 3GB+64GB polar white"@en	0
+COL title VAL  "Telefon mobil Samsung Galaxy A31, 64GB, 4GB, Dual SIM, Prism Crush Blue"@en	COL title VAL  "Telefon mobil Xiaomi Redmi Note 9 Pro, 64GB, 6GB, Dual SIM, Tropical Green"@ro	0
+COL title VAL  "TELEFONO MOVIL XIAOMI REDMI NOTE 8T 4+64GB GREY.-"@vi	COL title VAL  "Xiaomi Redmi Note 9 3GB+64GB polar white"@en	0
+COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	COL title VAL  "Apple APPLE 60W MAGSAFE 2 POWER ADAPTER (MACBOOK PRO WITH RETINA)"@en	1
+COL title VAL  "Samsung Galaxy A51 Dual SIM 128GB 4GB RAM SM-A515FN/DS Black"@en	COL title VAL  "Samsung A315 Galaxy A31 Dual Sim (blue) - 64 GB - EU"@tl	0
+COL title VAL  "Xiaomi Smartphone Redmi Note 9 64 GB Polar White"@en	COL title VAL  "Xiaomi Redmi Note 9 PRO 6GB/64GB Green Mobilais Telefons"@en	0
+COL title VAL  "Xiaomi Smartphone Redmi Note 9 64 GB Polar White"@en	COL title VAL  "Xiaomi Redmi Note 9 3GB+64GB polar white"@en	1
+COL title VAL  "Samsung Galaxy A51 Dual SIM 128GB 4GB RAM SM-A515FN/DS Black"@en	COL title VAL  "Telefon mobil Samsung Galaxy A31, 64GB, 4GB, Dual SIM, Prism Crush Blue"@en	0
+COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Yeni / Part Only / Yeni"@en	COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Neuf / Part and Adhesive / Neuf"@en	0
+COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	COL title VAL  "DJI Mavic 2 Battery Charger - Part 3"@en	0
+COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Neuf / Part Only / Neuf"@en	COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Neuf / Part and Adhesive / Neuf"@en	0
+COL title VAL  "Telefon mobil Samsung Galaxy A31, 64GB, 4GB, Dual SIM, Prism Crush Blue"@en	COL title VAL  "Samsung A515 Galaxy A51 Dual Sim (blue) -128 GB - DE"@tl	0
+COL title VAL  "Telefon mobil Samsung Galaxy A31, 64GB, 4GB, Dual SIM, Prism Crush Blue"@en	COL title VAL  "Samsung A315 Galaxy A31 Dual Sim (blue) - 64 GB - EU"@tl	1
+COL title VAL  "Samsung A315 Galaxy A31 Dual Sim (blue) - 64 GB - EU"@tl	COL title VAL  "Samsung A515 Galaxy A51 Dual Sim (blue) -128 GB - DE"@tl	0
+COL title VAL  "Samsung A515 Galaxy A51 Dual Sim (blue) -128 GB - DE"@tl	COL title VAL  "Galaxy A51 Dual SIM (4/128GB, schwarz) - EU Modell"@de	0
+COL title VAL  "Xiaomi Redmi Note 9 3GB+64GB polar white"@en	COL title VAL  "Xiaomi Redmi Note 9 PRO 6GB/64GB Green Mobilais Telefons"@en	0
+COL title VAL  "Samsung A515 Galaxy A51 Dual Sim (blue) -128 GB - DE"@tl	COL title VAL  "Smartfon Samsung Galaxy A51 czarny, 6.5", Super AMOLED, 1080 x 2400, Exynos, 9611, Internal RAM 4GB, 128GB, microSD, Dual SIM"@en	0
+COL title VAL  "DJI Mavic 2 Battery Charger - Excludes AC Cable"@en	COL title VAL  "DJI Mavic 2 Battery Charger - Part 3"@en	1
+COL title VAL  "Smartphone Samsung Galaxy A51 4GB 128GB Branco"@en	COL title VAL  "Samsung Galaxy A51 4GB 128GB 6.5″ Azul"@tl	0
+COL title VAL  "Samsung A515 Galaxy A51 Dual Sim (blue) -128 GB - DE"@tl	COL title VAL  "Samsung Galaxy A51 Dual SIM 128GB 4GB RAM SM-A515FN/DS Black"@en	0
+COL title VAL  "Samsung Galaxy A51 Dual SIM 128GB 4GB RAM SM-A515FN/DS Black"@en	COL title VAL  "Smartphone Samsung Galaxy A51 4GB 128GB Branco"@en	0
+COL title VAL  "Samsung Galaxy A51 4GB 128GB 6.5″ Azul"@tl	COL title VAL  "Smartfon Samsung Galaxy A51 czarny, 6.5", Super AMOLED, 1080 x 2400, Exynos, 9611, Internal RAM 4GB, 128GB, microSD, Dual SIM"@en	0
+COL title VAL  "Apple USB-C - power adapter - 30 Watt"@en	COL title VAL  "Cable Belkin DuraTek Lightning a USB - Oro"@en	0
+COL title VAL  "Nitecore VCL10 Quick Charge 3.0 USB Car Charger With White + Red Light Flashlight"@en	COL title VAL  "NITECORE IMR 18350 Battery 700mAh 3.7V - Rechargeable for EC11]"@en	1
+COL title VAL  "TELEFONO MOVIL XIAOMI REDMI NOTE 8T 4+64GB GREY.-"@vi	COL title VAL  "Telefon mobil Xiaomi Redmi Note 9 Pro, 64GB, 6GB, Dual SIM, Tropical Green"@ro	0
+COL title VAL  "DJI Mavic 2 Battery Charger - Part 3"@en	COL title VAL  "NITECORE IMR 18350 Battery 700mAh 3.7V - Rechargeable for EC11]"@en	0
+COL title VAL  "Samsung 46" Public Display UH46F5"@tl	COL title VAL  "Samsung Smart Signage UH46F5 116,8cm(46") LED black"@tl	1
+COL title VAL  "Apple USB-C - power adapter - 30 Watt"@en	COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	0
+COL title VAL  "Smartphone Samsung Galaxy A51 4GB 128GB Branco"@en	COL title VAL  "Smartfon Samsung Galaxy A51 czarny, 6.5", Super AMOLED, 1080 x 2400, Exynos, 9611, Internal RAM 4GB, 128GB, microSD, Dual SIM"@en	0
+COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Yeni / Part Only / Yeni"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Neuf / Part Only / Neuf"@en	1
+COL title VAL  "Redmi Note 8T 4GB RAM 64GB ROM Global Version Grey"@de	COL title VAL  "Xiaomi Redmi Note 9 PRO 6GB/64GB Green Mobilais Telefons"@en	0
+COL title VAL  "Galaxy A51 Dual SIM (4/128GB, schwarz) - EU Modell"@de	COL title VAL  "Samsung Galaxy A51 4GB 128GB 6.5″ Azul"@tl	0
+COL title VAL  "TELEFONO MOVIL XIAOMI REDMI NOTE 8T 4+64GB GREY.-"@vi	COL title VAL  "Redmi Note 8T 4GB RAM 64GB ROM Global Version Grey"@de	1
+COL title VAL  "Samsung A315 Galaxy A31 Dual Sim (blue) - 64 GB - EU"@tl	COL title VAL  "Galaxy A51 Dual SIM (4/128GB, schwarz) - EU Modell"@de	0
+COL title VAL  "TELEFONO MOVIL XIAOMI REDMI NOTE 8T 4+64GB GREY.-"@vi	COL title VAL  "Xiaomi Smartphone Redmi Note 9 64 GB Polar White"@en	0
+COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Yeni / Part Only / Yeni"@en	COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Yeni / Part and Adhesive / Yeni"@en	0
+COL title VAL  "Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	COL title VAL  "Samsung A315 Galaxy A31 Dual Sim (blue) - 64 GB - EU"@tl	0
+COL title VAL  "Samsung A515 Galaxy A51 Dual Sim (blue) -128 GB - DE"@tl	COL title VAL  "Samsung Galaxy A51 4GB 128GB 6.5″ Azul"@tl	1

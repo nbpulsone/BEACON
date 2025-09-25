@@ -1,0 +1,591 @@
+COL title VAL  "Epson atrament WP4000/4500 series magenta XL C13T70234010"@ca	COL title VAL  "EPSON C13T70334010 WP 4000/4500 Series Ink L Cartridge Magenta 0.8k"@en	0
+COL title VAL  "Canon *Canon Ink CL-211 - Color"@en	COL title VAL  "Original Canon CL-211 Ink Cartridge - Inkjet - 244 Pages Tri-color - Cyan, Magenta, Yellow - 1 Each - TAA Compliance"@en	1
+COL title VAL  "Dymo D1 Poyester Tape 16959"@en	COL title VAL  "Dymo RhinoPRO Industrial Tape 1500 WT Coloured Vinyl 12mm White Ref 18444 S0718600"@en	0
+COL title VAL  "Canon PGI-220 Black Ink Cartridge"@en	COL title VAL  "Canon PGI-5BK Inkjet Cartridge Page Life 505pp 26ml Black 0628B025 Pack of 2"@en	0
+COL title VAL  "Canon OEM PFI-207BK Black Ink"@en	COL title VAL  "PFI-207 BKCanon iPF680/685/780/785 (300ml) 8789B001"@tl	1
+COL title VAL  "CANON 0372C001 PGI-570PGB 15ML"@vi	COL title VAL  "Boje Canon PG-545 BK 8ml"@hr	0
+COL title VAL  "Original Epson 18 Magenta Ink cartridge (T1803)"@en	COL title VAL  "Cartus cerneala Epson 79XL magenta, singlepack DURABrite ultra ink, capacitate (17ml) - 2000 pagini"@it	0
+COL title VAL  "Xerox 106R01162 25k Yellow Toner"@en	COL title VAL  "Epson Vivid Magenta T5963 UltraChrome HDR 350 ml"@en	0
+COL title VAL  "Epson Ink Cartridge - Yellow 700ml"@en	COL title VAL  "Compatible Epson T1814 (#18XL) Yellow High Capacity Ink Cartridge (T1814XLYCOM)"@en	0
+COL title VAL  "CANON 0898B001AA PFI102Y YELLOW INK TANK"@en	COL title VAL  "Canon PFI-102Y 130ml Yellow"@cy	1
+COL title VAL  "Epson Original 18XL T1812 Daisy Ink Cartridge 6.6ml Cyan"@en	COL title VAL  "Original PATRONE Epson T5805 Light Cyan"@en	0
+COL title VAL  "Zebra 6 Panel YMCKOK Color Ribbon With Cleaning Roller - 170 prints (800015-448)"@en	COL title VAL  "Zebra 800015-448 YMCKOK Ribbon - 170 Prints"@en	1
+COL title VAL  "Samsung CLT-K406S Black Original Standard Yield Toner Cartridge"@en	COL title VAL  "Lexmark X945X2KG Original Black High Yield Toner Cartridge"@en	0
+COL title VAL  "Epson T0792 Cyan Ink Cartridge"@en	COL title VAL  "Cyan Inkjet Cartridge XXL (T7012)"@no	0
+COL title VAL  "Epson Vivid Magenta T5963 UltraChrome HDR 350 ml"@en	COL title VAL  "Epson Orange Ultrachrome HDR 700ml"@de	0
+COL title VAL  "Canon Multipack PGI-72multi1 (6403B007)"@ro	COL title VAL  "CANON - inktcartridge - PGI-570 PGBK - Zwart - origineel"@nl	0
+COL title VAL  "Epson T7034 YE (C13T70344010) OEM"@en	COL title VAL  "Epson Tusz T7034 YELLOW L do serii WorkForce WP4000/4500 (0.8k)"@pl	1
+COL title VAL  "Original Canon CL-211 Ink Cartridge - Inkjet - 244 Pages Tri-color - Cyan, Magenta, Yellow - 1 Each - TAA Compliance"@en	COL title VAL  "Epson Multipack T0487 - Print cartridge - 1 x black, yellow, cyan, magenta, light magenta, light cyan"@en	0
+COL title VAL  "Epson T6932 Patron Cyan 350ml(Eredeti)"@tr	COL title VAL  "Original PATRONE Epson T5805 Light Cyan"@en	0
+COL title VAL  "OKI 44992402 Toner black, 2.5K pages"@da	COL title VAL  "OKI Toner Gul 1.5k - C301/C321/MC332"@en	0
+COL title VAL  "Epson GF Stylus Photo 7900/9900 Cartucho Verde"@de	COL title VAL  "Epson GF Stylus Photo 11880 Cartucho Negro claro"@en	0
+COL title VAL  "T6923 magenta Ink Cartridge 110ml"@en	COL title VAL  "Brother LC-1280XL Magenta Ink Cartridge for MFC-J6510/J6910"@en	0
+COL title VAL  "Compatible Xerox 106R02757 [Magenta] Toner Cartridge"@en	COL title VAL  "Lexmark C540H1MG Style Magenta Compatible Toner"@en	0
+COL title VAL  "Canon 703 Black Original Laser Toner Cartridge"@en	COL title VAL  "Original HP 45A Q5945A Black LaserJet Toner Cartridge"@en	0
+COL title VAL  "Canon 703 Black Original Laser Toner Cartridge"@en	COL title VAL  "Boje Canon PG-545 BK 8ml"@hr	0
+COL title VAL  "Originlny toner Xerox 106R01162 (lt)"@en	COL title VAL  "Xerox 106R01162 25k Yellow Toner"@en	1
+COL title VAL  "Epson blátt blekhylki Stylus Photo R800"@no	COL title VAL  "EPSON Multipack fr EPSON Stylus Photo R200 / R300 Inhalt: je 1x light cyan, cyan, light magenta, magenta, gelb, schwarz (neu: C13T04874010 / alt: C13T048140A0) R220 / R320 / R340 / RX500 / RX600 / RX620 / RX640"@en	0
+COL title VAL  "Canon PGI-220 Black Ink Cartridge"@en	COL title VAL  "Canon PGI-29 Ink Tank Grey 4871B001AA CO68194"@en	0
+COL title VAL  "0000000475| Canon PGI29LGY Light Grey Ink Tank"@en	COL title VAL  "Canon *Canon Ink CL-211 - Color"@en	0
+COL title VAL  "TONER CANON718 YELLOW ORIGINAL2900 K"@en	COL title VAL  "Original TONER Xerox 106R01629 Yellow"@en	0
+COL title VAL  "Original Brother LC1220BK Black Ink Cartridge"@en	COL title VAL  "Brother LC1220 BK/C/M/Y Original Multipack Ink Cartridges"@en	0
+COL title VAL  "Toner Cyan 4000 pages - C13S050189"@en	COL title VAL  "Canon Toner-Cartridge 707C Cyan"@en	0
+COL title VAL  "Original Epson T1571 Photo Black Ink Cartridge"@en	COL title VAL  "Epson T7551 XL Black High Yield Ink Cartridge C13T755140 / T7551 EP53959"@en	0
+COL title VAL  "Compatible Epson T1814 (#18XL) Yellow High Capacity Ink Cartridge (T1814XLYCOM)"@en	COL title VAL  "Epson Elephant 24XL (Prentar 500 síður) High Capacity Claria Photo HD blekhylki (svart)"@en	0
+COL title VAL  "Genuine Yellow OKI 43872305 Toner Cartridge (43872305 Laser Printer Cartridge)"@en	COL title VAL  "Lexmark C748H1CG Cyan Prebate Toner Cartridge Genuine"@en	0
+COL title VAL  "EPSON C13T70334010 WP 4000/4500 Series Ink L Cartridge Magenta 0.8k"@en	COL title VAL  "Epson WF-C5xxx Series Ink Cartridge XL Yellow"@en	0
+COL title VAL  "Epson Ink Stylus Pro 7890/9890 & 7900/9900 -Vivid Magenta"@en	COL title VAL  "Ink cartridge EPSON Light Light Black Stylus Pro 7900 / 9900, 350 ml."@en	0
+COL title VAL  "OKI C831/C841 Toner Cian"@en	COL title VAL  "OKI C301/C321 Toner Amarillo"@en	0
+COL title VAL  "Canon PGI-9G / Green / original / ink tank / for PIXMA Pro9500 | 1041B001"@en	COL title VAL  "Canon 120 Reman HY Toner 5K PR"@en	0
+COL title VAL  "Epson Orange Ultrachrome HDR 700ml"@de	COL title VAL  "Epson Ink Cartridge - Yellow 700ml"@en	0
+COL title VAL  "Lexmark E260A11E Style Black Compatible Toner"@en	COL title VAL  "E260A11E CompatibleLexmark Black Toner (3500 pages)"@en	1
+COL title VAL  "Toner Cyan 4000 pages - C13S050189"@en	COL title VAL  "Epson S050189 toner ciano ACULA.C1100 4k"@en	1
+COL title VAL  "Epson T0792 Cyan Ink Cartridge"@en	COL title VAL  "Epson atrament SP PX660/PX820/1400/1500W cyan C13T07924010"@en	1
+COL title VAL  "Genuine Yellow OKI 43872305 Toner Cartridge (43872305 Laser Printer Cartridge)"@en	COL title VAL  "Originlny toner OKI 43872305 (lt)"@en	1
+COL title VAL  "Epson Ink Stylus Pro 7890/9890 & 7900/9900 -Vivid Magenta"@en	COL title VAL  "Epson T596800 Matte Black 350ml Ultrachrome HDR Ink Cartridge for SP7900, 9900, 7890, 9890"@en	0
+COL title VAL  "EPSON YELLOW 700ML INK FOR 7890/7900/7700/9700/9890/9900(1)"@en	COL title VAL  "Epson Ink Cartridge - Yellow 700ml"@en	1
+COL title VAL  "CANON CLI 571 C ORIGINEEL"@en	COL title VAL  "Boje Canon PG-545 BK 8ml"@hr	0
+COL title VAL  "Samsung - CLT-K404S - Black Toner"@de	COL title VAL  "Samsung CLT-K406S Black Original Standard Yield Toner Cartridge"@en	0
+COL title VAL  "Epson Original 18XL T1812 Daisy Ink Cartridge 6.6ml Cyan"@en	COL title VAL  "Epson T12814 Inkjet Cartridge Standard Yield 5.9ml Black. For use in Epson Stylus Office BX305F, S22, SX125, SX420W and SX425W printers. (Fox) EP46391"@en	0
+COL title VAL  "Brother TN-135Y Laserkasetti yellow"@en	COL title VAL  "Brother DR 2300 12000 sider"@en	0
+COL title VAL  "CANON 0372C001 PGI-570PGB 15ML"@vi	COL title VAL  "Canon PGI-220 Black Ink Cartridge"@en	0
+COL title VAL  "Canon OEM PFI-207BK Black Ink"@en	COL title VAL  "Genuine Canon PFI-102 Matte Black Ink Cartridge (PFI102MBKOEM)"@en	0
+COL title VAL  "Original Toner Canon 703 / 7616A005, ca. 2.000 S., schwarz"@en	COL title VAL  "Original Toner Canon 3022C002 / 054, ca. 1.200 S., magenta"@it	0
+COL title VAL  "Brother HL-L6300DW / A4 / Laser / 1200 x 1200 dpi / černobílá / USB / WiFi / LAN / NFC"@en	COL title VAL  "Brother HL-L6300DW Business Laser Printer for Mid-Size Workgroups w/Higher Print Volumes"@en	1
+COL title VAL  "Epson DURABrite T1281 Ink Cartridge - Black"@en	COL title VAL  "Epson Light Black Ink Cartridge 220ml"@en	0
+COL title VAL  "Epson C13T755140 XL Black Ink Cartridge 5k Yield"@en	COL title VAL  "Epson T7551 XL Black High Yield Ink Cartridge C13T755140 / T7551 EP53959"@en	1
+COL title VAL  "Brother TN-241M (prentar:1,400 síður) rautt dufthylki"@en	COL title VAL  "Brother [TN-200] black Toner"@en	0
+COL title VAL  "Epson GF Stylus Photo 7900/9900 Cartucho Verde"@de	COL title VAL  "Ink cartridge EPSON Light Light Black Stylus Pro 7900 / 9900, 350 ml."@en	0
+COL title VAL  "Brother LC225XL Style Magenta Compatible Ink Cartridge"@en	COL title VAL  "Lexmark C540H1MG Style Magenta Compatible Toner"@en	0
+COL title VAL  "Canon 703 Black Original Laser Toner Cartridge"@en	COL title VAL  "TONER CANON718 YELLOW ORIGINAL2900 K"@en	0
+COL title VAL  "Canon Multipack PGI-72multi1 (6403B007)"@ro	COL title VAL  "Canon PGI-72 Ink Cartridge - Photo Black, Photo Cyan, Photo Magenta, Grey"@en	1
+COL title VAL  "CANON CLI 571 C ORIGINEEL"@en	COL title VAL  "Epson 24XL Original Ink Cartridge C13T24314012 Black"@en	0
+COL title VAL  "HP 80A Black Original LaserJet Toner Cartridge"@en	COL title VAL  "HP Color LaserJet Professional CP5225dn /A3,20ppm"@en	0
+COL title VAL  "Canon 703 Black Original Laser Toner Cartridge"@en	COL title VAL  "Canon No. 120 Black Toner Cartridge"@en	0
+COL title VAL  "INK-JET BROTHER LC1220VAL (4x300P.) PACK NEGRO/TRICOLOR"@en	COL title VAL  "Original Brother LC1220BK Black Ink Cartridge"@en	0
+COL title VAL  "Originlny toner Xerox 106R01162 (lt)"@en	COL title VAL  "Originlny toner OKI 43872305 (lt)"@en	0
+COL title VAL  "Lexmark C544 Magenta Extra High Yield Return Program Toner 0C544X1CG"@en	COL title VAL  "Lexmark C540H1MG Style Magenta Compatible Toner"@en	0
+COL title VAL  "Epson Light Black Ink Cartridge 220ml"@en	COL title VAL  "Original Brother LC1220BK Black Ink Cartridge"@en	0
+COL title VAL  "Lexmark C540 Magenta High Yield Return Program Toner 0C540H1CG"@en	COL title VAL  "Lexmark C544 Magenta Extra High Yield Return Program Toner 0C544X1CG"@en	0
+COL title VAL  "Epson Ink Stylus Pro 7890/9890 & 7900/9900 -Vivid Magenta"@en	COL title VAL  "Ink Cartridge EPSON Light Black 220ml Stylus Pro 7800/7880/9800/9880"@en	0
+COL title VAL  "Brother ink LC-225XLM magenta 1200PP x MFC-J5320DW MFC-J5620DW MFC-J5720DW MFC-J4620DW"@en	COL title VAL  "Original Tinte Brother LC-1280XLM, ca. 1.200 S., magenta"@en	0
+COL title VAL  "Original Epson T1571 Photo Black Ink Cartridge"@en	COL title VAL  "Epson DURABrite T1281 Ink Cartridge - Black"@en	0
+COL title VAL  "Ink Cartridge EPSON Light Black 220ml Stylus Pro 7800/7880/9800/9880"@en	COL title VAL  "Epson T591700 11880 Ink Light Black 700ml"@en	0
+COL title VAL  "Brother [TN-200] black Toner"@en	COL title VAL  "TN-200 Toner für Brother HL 700, 720, 730, 760, MFC 3550, 3650, 4300, 4350, 4450, 4550 2.200 Seiten"@de	1
+COL title VAL  "Original Epson 18 Magenta Ink cartridge (T1803)"@en	COL title VAL  "Original Epson T1571 Photo Black Ink Cartridge"@en	0
+COL title VAL  "EPSON YELLOW 700ML INK FOR 7890/7900/7700/9700/9890/9900(1)"@en	COL title VAL  "T596800 original Druckerpatrone für Plotter Stylus PRO 7700 / 7900 / 9700 / 9900 350ml, matt schwarz"@de	0
+COL title VAL  "Brother LC-1280XL Magenta Ink Cartridge for MFC-J6510/J6910"@en	COL title VAL  "Original Brother LC1220BK Black Ink Cartridge"@en	0
+COL title VAL  "PFI-102MBK - Matte Black Ink Tank 130ml"@en	COL title VAL  "Canon OEM PFI-207BK Black Ink"@en	0
+COL title VAL  "Epson WF-C5xxx Series Ink Cartridge XL Yellow"@en	COL title VAL  "Cartridge Epson T9454, 5000 stran žltá (C13T945440)"@en	1
+COL title VAL  "Epson Green T596B UltraChrome HDR 350 ml"@en	COL title VAL  "Epson T6932 Ultrachro XD Photo Cyan Ink 350ml"@en	0
+COL title VAL  "Kyocera TK-3100 Black Toner Cartridge"@en	COL title VAL  "OEM HP 80A, CF280A LaserJet Toner Cartridge - Black - 2.7K"@en	0
+COL title VAL  "Brother HL-L6300DW / A4 / Laser / 1200 x 1200 dpi / černobílá / USB / WiFi / LAN / NFC"@en	COL title VAL  "Impresora brother hl-l8360cdw laser color 31 ppm / 15 ppm bandeja entrada 250h wifi"@en	0
+COL title VAL  "0000000475| Canon PGI29LGY Light Grey Ink Tank"@en	COL title VAL  "CANON 0898B001AA PFI102Y YELLOW INK TANK"@en	0
+COL title VAL  "Epson S050189 toner ciano ACULA.C1100 4k"@en	COL title VAL  "Toner OKI 44059105 C810 yellow"@en	0
+COL title VAL  "Original Brother LC1220BK Black Ink Cartridge"@en	COL title VAL  "Genuine Brother LC1220BK BlackInk Cartridge (LC-1220BKOEM)"@en	1
+COL title VAL  "OKI C831/C841 Toner Cian"@en	COL title VAL  "Toner OKI 44059105 C810 yellow"@en	0
+COL title VAL  "Samsung MLT-D103L Toner Cartridge Black, High Yield"@en	COL title VAL  "Samsung CLT-K406S Black Original Standard Yield Toner Cartridge"@en	0
+COL title VAL  "106R01218 (106R1218) Cyan High-Yield Toner"@en	COL title VAL  "Lexmark X945X2KG Original Black High Yield Toner Cartridge"@en	0
+COL title VAL  "Brother LC1220 BK/C/M/Y Original Multipack Ink Cartridges"@en	COL title VAL  "INK-JET BROTHER LC1220VAL (4x300P.) PACK NEGRO/TRICOLOR"@en	1
+COL title VAL  "OKI C831/C841 Toner Cian"@en	COL title VAL  "Originlny toner OKI 44992402 (iern)"@en	0
+COL title VAL  "PFI-207 BKCanon iPF680/685/780/785 (300ml) 8789B001"@tl	COL title VAL  "Canon PFI-102Y 130ml Yellow"@cy	0
+COL title VAL  "Toner Xerox - Workcentre 6027 - magenta - originale - cartuccia toner 106r02757"@it	COL title VAL  "Genuine OKI 44059105 Yellow Toner Cartridge (8,000 Pages) for OKI C810, C830 Printers"@en	0
+COL title VAL  "Original Lexmark X945X2KG Toner Black"@en	COL title VAL  "Lexmark E260A11E Style Black Compatible Toner"@en	0
+COL title VAL  "T6923 magenta Ink Cartridge 110ml"@en	COL title VAL  "Epson Ink Cartridge - Yellow 700ml"@en	0
+COL title VAL  "CANON 0898B001AA PFI102Y YELLOW INK TANK"@en	COL title VAL  "Canon PGI-29 Ink Tank Grey 4871B001AA CO68194"@en	0
+COL title VAL  "Canon 718Y Yellow Toner Cartridge"@en	COL title VAL  "Original TONER Xerox 106R01629 Yellow"@en	0
+COL title VAL  "Lexmark X945X2KG Original Black High Yield Toner Cartridge"@en	COL title VAL  "Lexmark HY Toner Cartridge - Magenta, C544X1MG (C544X1MG)"@en	0
+COL title VAL  "Canon OEM PFI-207BK Black Ink"@en	COL title VAL  "Canon PGI-220 Inkjet Cartridge, Pigment Black, OEM"@en	0
+COL title VAL  "Original Brother LC1220BK Black Ink Cartridge"@en	COL title VAL  "Epson 24XL Original Ink Cartridge C13T24314012 Black"@en	0
+COL title VAL  "Cartridge - Yellow - 1000 pages - Phaser 6010,WorkCentre 6015"@en	COL title VAL  "Epson Ink Cartridge - Yellow 700ml"@en	0
+COL title VAL  "Cartridge - Yellow - 1000 pages - Phaser 6010,WorkCentre 6015"@en	COL title VAL  "Original TONER Xerox 106R01629 Yellow"@en	1
+COL title VAL  "Genuine OKI 44059105 Yellow Toner Cartridge (8,000 Pages) for OKI C810, C830 Printers"@en	COL title VAL  "Cartridge - Yellow - 1000 pages - Phaser 6010,WorkCentre 6015"@en	0
+COL title VAL  "Epson DURABrite T1281 Ink Cartridge - Black"@en	COL title VAL  "Cartouche d'encre Epson T1571 XL Tortue - Noir Photo"@fr	0
+COL title VAL  "Brother HL-L8360CDW (A4) Wireless Colour Laser Printer"@en	COL title VAL  "Brother HL-L6300DW Business Laser Printer for Mid-Size Workgroups w/Higher Print Volumes"@en	0
+COL title VAL  "Toner OKI B411 44574702 black"@sv	COL title VAL  "Originlny toner OKI 44992402 (iern)"@en	0
+COL title VAL  "Epson Daisy 18XL Series T1814 Yellow Ink Cartridge (Yield 450 Pages) RS Blister for Expression Home XP-102 Inkjet Printer EP18144"@en	COL title VAL  "Epson WF-C5xxx Series Ink Cartridge XL Yellow"@en	0
+COL title VAL  "Epson Orange Ink Cartridge 700ml for Stylus Pro 7900/9900"@en	COL title VAL  "Epson Orange Ultrachrome HDR 700ml"@de	1
+COL title VAL  "E260A11E CompatibleLexmark Black Toner (3500 pages)"@en	COL title VAL  "44574702 Compatible Oki Black Toner (3000 pages)"@en	0
+COL title VAL  "Lexmark C544 Magenta Extra High Yield Return Program Toner 0C544X1CG"@en	COL title VAL  "106R01218 (106R1218) Cyan High-Yield Toner"@en	0
+COL title VAL  "Canon 718Y Yellow Toner Cartridge"@en	COL title VAL  "Original PATRONE Canon CLI-571 Cyan"@tl	0
+COL title VAL  "Canon PGI-29 Ink Tank Grey 4871B001AA CO68194"@en	COL title VAL  "Canon PGI29LGY Light Grey Ink (Pro One Series)"@en	0
+COL title VAL  "Epson Orange Ultrachrome HDR 700ml"@de	COL title VAL  "Xerox 106R01218 Hi Yield Compatible Cyan Toner Cartridge"@en	0
+COL title VAL  "CANON PFI-107 C CyaniPF680/685/780/785 130ml"@cy	COL title VAL  "Canon 6706B001 PFI107 Cyan Ink 130ml"@tl	1
+COL title VAL  "Epson T591700 11880 Ink Light Black 700ml"@en	COL title VAL  "Original Epson T1571 Photo Black Ink Cartridge"@en	0
+COL title VAL  "Canon Toner-Cartridge 707C Cyan"@en	COL title VAL  "Canon No. 120 Black Toner Cartridge"@en	0
+COL title VAL  "Xerox 106R01218 Hi Yield Compatible Cyan Toner Cartridge"@en	COL title VAL  "106R01218 (106R1218) Cyan High-Yield Toner"@en	1
+COL title VAL  "Xerox 106R01162 25k Yellow Toner"@en	COL title VAL  "Compatible Xerox 106R02757 [Magenta] Toner Cartridge"@en	0
+COL title VAL  "Epson GF Stylus Photo 7900/9900 Cartucho Verde"@de	COL title VAL  "Epson Green T596B UltraChrome HDR 350 ml"@en	1
+COL title VAL  "Canon Toner 054 c (3023C002)"@en	COL title VAL  "Original Toner Canon 3022C002 / 054, ca. 1.200 S., magenta"@it	1
+COL title VAL  "Epson S050189 toner ciano ACULA.C1100 4k"@en	COL title VAL  "Lexmark C540H1MG Style Magenta Compatible Toner"@en	0
+COL title VAL  "Dymo Industrial Embossing tape 35800"@en	COL title VAL  "Dymo D1 Tape for Labelmaker Polyester Permanent 12x5.5mm Black on White Ref 16959 S0718060"@en	0
+COL title VAL  "Samsung - CLT-K404S - Black Toner"@de	COL title VAL  "Samsung CLT-K404S Black Toner Cartridge (Compatible)"@en	1
+COL title VAL  "Originlny toner OKI 43872305 (lt)"@en	COL title VAL  "Toner OKI 44059105 C810 yellow"@en	0
+COL title VAL  "Canon PGI-220 Inkjet Cartridge, Pigment Black, OEM"@en	COL title VAL  "Canon 6448B001 (CLI-251XL) Ink Cartridge, HY Black, OEM"@en	0
+COL title VAL  "Compatible Canon 6448B001 (CLI-251XL) High Yield Black Ink Cartridge"@en	COL title VAL  "Epson T7551 XL Black High Yield Ink Cartridge C13T755140 / T7551 EP53959"@en	0
+COL title VAL  "Samsung CLT-K406S Black Toner Cartridge (Compatible)"@en	COL title VAL  "Samsung - CLT-K404S - Black Toner"@de	0
+COL title VAL  "Lexmark X945X2KG Original Black High Yield Toner Cartridge"@en	COL title VAL  "C748H1CG Cyan High-Yield Toner"@en	0
+COL title VAL  "Dymo Rhino 12mm Steel Tape (32500)"@nl	COL title VAL  "Dymo Industrial Embossing tape 35800"@en	1
+COL title VAL  "Dymo Industrial Embossing tape 35800"@en	COL title VAL  "Dymo Tape RhinoPRO Vinyl 12mm Svart/Vit"@no	0
+COL title VAL  "Dymo RhinoPRO Industrial Tape 1500 WT Coloured Vinyl 12mm White Ref 18444 S0718600"@en	COL title VAL  "Dymo Tape RhinoPRO Vinyl 12mm Svart/Vit"@no	1
+COL title VAL  "Originlny toner OKI 43872305 (lt)"@en	COL title VAL  "OKI C301/C321 Toner Amarillo"@en	0
+COL title VAL  "Genuine Yellow OKI 43872305 Toner Cartridge (43872305 Laser Printer Cartridge)"@en	COL title VAL  "Toner OKI 44059105 C810 yellow"@en	0
+COL title VAL  "EPSON Ink T5805 Light Cyan mustekasetti"@fi	COL title VAL  "Epson T0792 Cyan Ink Cartridge"@en	0
+COL title VAL  "OKI C831/C841 Toner Cian"@en	COL title VAL  "OKI Toner Cyan 10k - C831"@id	1
+COL title VAL  "Epson Vivid Magenta T5963 UltraChrome HDR 350 ml"@en	COL title VAL  "Ink cartridge EPSON Light Light Black Stylus Pro 7900 / 9900, 350 ml."@en	0
+COL title VAL  "HP 45A Black Laserjet Toner Cartridge Q5945A"@en	COL title VAL  "Canon 703 Black Original Laser Toner Cartridge"@en	0
+COL title VAL  "Cyan Inkjet Cartridge XXL (T7012)"@no	COL title VAL  "Epson Ink Cartridge - Cyan - Inkjet - 450 Page"@en	0
+COL title VAL  "CANON - inktcartridge - PGI-570 PGBK - Zwart - origineel"@nl	COL title VAL  "CANON CLI 571 C ORIGINEEL"@en	0
+COL title VAL  "Canon PGI-220 Black Ink Cartridge"@en	COL title VAL  "Genuine Canon PFI-102 Matte Black Ink Cartridge (PFI102MBKOEM)"@en	0
+COL title VAL  "HP 80A Black Original LaserJet Toner Cartridge"@en	COL title VAL  "Original HP 45A Q5945A Black LaserJet Toner Cartridge"@en	0
+COL title VAL  "HP stampante Color LaserJet Professional CP5225dn (CE712A#B19)"@en	COL title VAL  "HP 80A Black Original LaserJet Toner Cartridge"@en	0
+COL title VAL  "Epson Orange Ultrachrome HDR 700ml"@de	COL title VAL  "Epson Green T596B UltraChrome HDR 350 ml"@en	0
+COL title VAL  "Compatible Canon 6448B001 (CLI-251XL) High Yield Black Ink Cartridge"@en	COL title VAL  "Zebra 800015-448 YMCKOK Ribbon - 170 Prints"@en	0
+COL title VAL  "Brother [TN-200] black Toner"@en	COL title VAL  "Brother TN-135Y Laserkasetti yellow"@en	0
+COL title VAL  "Epson Print cartridge - XXL - 1 x Cyan - 3400 pages - for WorkForce Pro WP4000/4500 Series"@en	COL title VAL  "Cyan Inkjet Cartridge XXL (T7012)"@no	1
+COL title VAL  "Original Epson T1571 Photo Black Ink Cartridge"@en	COL title VAL  "Epson Elephant 24XL (Prentar 500 síður) High Capacity Claria Photo HD blekhylki (svart)"@en	0
+COL title VAL  "Canon PG-545 Black Original Ink Cartridge, E Zezë"@en	COL title VAL  "Epson Ink Cartridge - Cyan - Inkjet - 450 Page"@en	0
+COL title VAL  "T596800 original Druckerpatrone für Plotter Stylus PRO 7700 / 7900 / 9700 / 9900 350ml, matt schwarz"@de	COL title VAL  "Epson Orange Ink Cartridge 700ml for Stylus Pro 7900/9900"@en	0
+COL title VAL  "Epson - Vaschetta recupero toner - C13T619000"@it	COL title VAL  "Originln toner OKI 43865724 (ern)"@de	0
+COL title VAL  "Canon PG-545 Black Original Ink Cartridge, E Zezë"@en	COL title VAL  "Canon PGI-220 Black Ink Cartridge"@en	0
+COL title VAL  "PFI-207 BKCanon iPF680/685/780/785 (300ml) 8789B001"@tl	COL title VAL  "Canon 0884B001AA (PFI-101C) Ink Cartridge, Cyan, OEM"@en	0
+COL title VAL  "HP 45A Black Laserjet Toner Cartridge Q5945A"@en	COL title VAL  "HP stampante Color LaserJet Professional CP5225dn (CE712A#B19)"@en	0
+COL title VAL  "Compatible Epson T1814 (#18XL) Yellow High Capacity Ink Cartridge (T1814XLYCOM)"@en	COL title VAL  "Epson DURABrite T1281 Ink Cartridge - Black"@en	0
+COL title VAL  "Dymo Rhino 12mm Steel Tape (32500)"@nl	COL title VAL  "Dymo Tape RhinoPRO Vinyl 12mm Svart/Vit"@no	0
+COL title VAL  "Samsung CLT-K406S Black Toner Cartridge (Compatible)"@en	COL title VAL  "Samsung CLT-K406S Black Original Standard Yield Toner Cartridge"@en	1
+COL title VAL  "HP 80A Black Original LaserJet Toner Cartridge"@en	COL title VAL  "Lexmark X945X2KG Original Black High Yield Toner Cartridge"@en	0
+COL title VAL  "Canon 6448B001 (CLI-251XL) Ink Cartridge, HY Black, OEM"@en	COL title VAL  "Canon OEM PFI-207BK Black Ink"@en	0
+COL title VAL  "Brother HL-L6200DW laser printer 1200 x 1200 DPI A4 Wi-Fi"@en	COL title VAL  "Brother HL-L8360CDW (A4) Wireless Colour Laser Printer"@en	0
+COL title VAL  "Canon Ink Cart. PG-40/CL-41 Multipack blistered per MF210/220//MP150/160/170/180/ 450//iP1600/1700/1800/2200// JX200/500 black/colour (0615B036)"@en	COL title VAL  "Canon PGI-220 Black Ink Cartridge"@en	0
+COL title VAL  "44574702 Compatible Oki Black Toner (3000 pages)"@en	COL title VAL  "OKI 43865724 Style Black Compatible Toner"@en	0
+COL title VAL  "Canon 120 Reman HY Toner 5K PR"@en	COL title VAL  "Canon Toner 054 c (3023C002)"@en	0
+COL title VAL  "INK EPSON 18 MAGENTA PER EXPRESSION HOME XP30"@en	COL title VAL  "Epson Daisy 18XL Series T1814 Yellow Ink Cartridge (Yield 450 Pages) RS Blister for Expression Home XP-102 Inkjet Printer EP18144"@en	0
+COL title VAL  "Epson Replacement Maintenance Tank for P5070"@en	COL title VAL  "Epson Tower of Pisa Tanica Magenta"@en	0
+COL title VAL  "OKI Toner Cyan 10k - C831"@id	COL title VAL  "Toner OKI 44059105 C810 yellow"@en	0
+COL title VAL  "Epson GF Stylus Photo 11880 Cartucho Negro claro"@en	COL title VAL  "Cartucho tinta negro l epson t7031 - 24ml - big ben - para wp-4595 dnf/dtwf/ 4535dwf / 4525dnf / 4515dn / 4095dn / 4025dw /"@cy	0
+COL title VAL  "Ink cartridge EPSON Light Light Black Stylus Pro 7900 / 9900, 350 ml."@en	COL title VAL  "Epson DURABrite T1281 Ink Cartridge - Black"@en	0
+COL title VAL  "Brother - DR-2300 (HL-L23xx, DCP-L25xx, MFC-L27xx, 12 000 stran)"@en	COL title VAL  "TN-200 Toner für Brother HL 700, 720, 730, 760, MFC 3550, 3650, 4300, 4350, 4450, 4550 2.200 Seiten"@de	0
+COL title VAL  "Canon PGI29LGY Light Grey Ink (Pro One Series)"@en	COL title VAL  "Boje Canon PG-545 BK 8ml"@hr	0
+COL title VAL  "Canon 0884B001AA (PFI-101C) Ink Cartridge, Cyan, OEM"@en	COL title VAL  "Canon 6706B001 PFI107 Cyan Ink 130ml"@tl	0
+COL title VAL  "Cartouche d'encre Epson Epson T7023 XL Cartouche d'encre Magenta"@fr	COL title VAL  "Cartouche d'encre Epson T1571 XL Tortue - Noir Photo"@fr	0
+COL title VAL  "HP 80A Black Original LaserJet Toner Cartridge"@en	COL title VAL  "HP 45A Black Laserjet Toner Cartridge Q5945A"@en	0
+COL title VAL  "Toner OKI B411 44574702 black"@sv	COL title VAL  "OKI 43865724 Style Black Compatible Toner"@en	0
+COL title VAL  "Canon PGI-220 Black Ink Cartridge"@en	COL title VAL  "Canon Multipack PGI-72multi1 (6403B007)"@ro	0
+COL title VAL  "Originln toner CANON CRG-707 C (Azurov)"@de	COL title VAL  "Canon 703 Black Original Laser Toner Cartridge"@en	0
+COL title VAL  "Epson - Tanica - magenta - C13T692300 - 110ml"@it	COL title VAL  "Epson Replacement Maintenance Tank for P5070"@en	0
+COL title VAL  "Laser Toner Cartridge compatible with Samsung MLT-D103L/ELS High Capacity"@en	COL title VAL  "Samsung CLT-K404S Black Toner Cartridge (Compatible)"@en	0
+COL title VAL  "Canon PG-545 Black Original Ink Cartridge, E Zezë"@en	COL title VAL  "Boje Canon PG-545 BK 8ml"@hr	1
+COL title VAL  "Lexmark HY Toner Cartridge - Magenta, C544X1MG (C544X1MG)"@en	COL title VAL  "Lexmark C544 Magenta Extra High Yield Return Program Toner 0C544X1CG"@en	1
+COL title VAL  "Compatible Xerox 106R02757 [Magenta] Toner Cartridge"@en	COL title VAL  "Xerox 106R01218 Hi Yield Compatible Cyan Toner Cartridge"@en	0
+COL title VAL  "CANON PFI-107 C CyaniPF680/685/780/785 130ml"@cy	COL title VAL  "Canon Toner 054 c (3023C002)"@en	0
+COL title VAL  "Brother HL-L6200DW Wireless High Speed Mono Laser Printer - Duplex Printer"@en	COL title VAL  "Brother HL-L6200DW laser printer 1200 x 1200 DPI A4 Wi-Fi"@en	1
+COL title VAL  "Genuine Canon PG-40 Black CL41 CLR Multi Pack Ink Cartridge (PG40BKCL41CLRMULTIOEM)"@en	COL title VAL  "Canon Ink Cart. PG-40/CL-41 Multipack blistered per MF210/220//MP150/160/170/180/ 450//iP1600/1700/1800/2200// JX200/500 black/colour (0615B036)"@en	1
+COL title VAL  "Epson C13T70334010 T7033 Magenta Ink 10ml"@en	COL title VAL  "Epson - Tanica - magenta - C13T692300 - 110ml"@it	0
+COL title VAL  "Canon 6448B001 (CLI-251XL) Ink Cartridge, HY Black, OEM"@en	COL title VAL  "Compatible Canon 6448B001 (CLI-251XL) High Yield Black Ink Cartridge"@en	1
+COL title VAL  "OKI C831/C841 Toner Cian"@en	COL title VAL  "Canon Toner 054 c (3023C002)"@en	0
+COL title VAL  "Ink cartridge EPSON Light Light Black Stylus Pro 7900 / 9900, 350 ml."@en	COL title VAL  "E260A11E CompatibleLexmark Black Toner (3500 pages)"@en	0
+COL title VAL  "Toner OKI B411 44574702 black"@sv	COL title VAL  "OKI 44992402 Toner black, 2.5K pages"@da	0
+COL title VAL  "Epson Light Black Ink Cartridge 220ml"@en	COL title VAL  "Epson C13T596900 T5969 Light Light Black Ink 350ml"@en	0
+COL title VAL  "Original Epson 18 Magenta Ink cartridge (T1803)"@en	COL title VAL  "EPSON C13T70334010 WP 4000/4500 Series Ink L Cartridge Magenta 0.8k"@en	0
+COL title VAL  "Original Tinte Brother LC-1280XLM, ca. 1.200 S., magenta"@en	COL title VAL  "Brother LC-1280XL Magenta Ink Cartridge for MFC-J6510/J6910"@en	1
+COL title VAL  "Compatible Xerox 106R02757 [Magenta] Toner Cartridge"@en	COL title VAL  "Lexmark HY Toner Cartridge - Magenta, C544X1MG (C544X1MG)"@en	0
+COL title VAL  "Epson Light Black Ink Cartridge 220ml"@en	COL title VAL  "Canon PGI-220 Black Ink Cartridge"@en	0
+COL title VAL  "Cartridge Epson T9454, 5000 stran žltá (C13T945440)"@en	COL title VAL  "Epson 24XL Original Ink Cartridge C13T24314012 Black"@en	0
+COL title VAL  "Epson Black Inkjet Cartridge. For use in WP4000/4500 machines. Page Yield - up to 1200 pages. OEM Ref - T703140. (Big Ben) EP49005"@en	COL title VAL  "Epson T7551 XL Black High Yield Ink Cartridge C13T755140 / T7551 EP53959"@en	0
+COL title VAL  "Impresora brother hl-l8360cdw laser color 31 ppm / 15 ppm bandeja entrada 250h wifi"@en	COL title VAL  "Brother HL-L8360CDW (A4) Wireless Colour Laser Printer"@en	1
+COL title VAL  "Samsung CLT-K406S Black Toner Cartridge (Compatible)"@en	COL title VAL  "Laser Toner Cartridge compatible with Samsung MLT-D103L/ELS High Capacity"@en	0
+COL title VAL  "Epson Print cartridge - XXL - 1 x Cyan - 3400 pages - for WorkForce Pro WP4000/4500 Series"@en	COL title VAL  "Canon Multipack PGI-72multi1 (6403B007)"@ro	0
+COL title VAL  "44574702 Compatible Oki Black Toner (3000 pages)"@en	COL title VAL  "Toner OKI B411 44574702 black"@sv	1
+COL title VAL  "CANON CLI 571 C ORIGINEEL"@en	COL title VAL  "Canon Toner 054 c (3023C002)"@en	0
+COL title VAL  "Epson Light Black Ink Cartridge 220ml"@en	COL title VAL  "Original Epson T1571 Photo Black Ink Cartridge"@en	0
+COL title VAL  "Laser Toner Cartridge compatible with Samsung MLT-D103L/ELS High Capacity"@en	COL title VAL  "Xerox 106R01218 Hi Yield Compatible Cyan Toner Cartridge"@en	0
+COL title VAL  "Samsung MLT-D103L Toner Cartridge Black, High Yield"@en	COL title VAL  "Lexmark X945X2KG Original Black High Yield Toner Cartridge"@en	0
+COL title VAL  "EPSON YELLOW 700ML INK FOR 7890/7900/7700/9700/9890/9900(1)"@en	COL title VAL  "Epson Ink Stylus Pro 7890/9890 & 7900/9900 -Vivid Magenta"@en	0
+COL title VAL  "Brother ink LC-225XLM magenta 1200PP x MFC-J5320DW MFC-J5620DW MFC-J5720DW MFC-J4620DW"@en	COL title VAL  "Brother HL-L6300DW / A4 / Laser / 1200 x 1200 dpi / černobílá / USB / WiFi / LAN / NFC"@en	0
+COL title VAL  "Canon 6706B001 PFI107 Cyan Ink 130ml"@tl	COL title VAL  "Canon *Canon Ink CL-211 - Color"@en	0
+COL title VAL  "Original Toner Canon 3022C002 / 054, ca. 1.200 S., magenta"@it	COL title VAL  "Original Canon CL-211 Ink Cartridge - Inkjet - 244 Pages Tri-color - Cyan, Magenta, Yellow - 1 Each - TAA Compliance"@en	0
+COL title VAL  "Canon PGI-72 Ink Cartridge - Photo Black, Photo Cyan, Photo Magenta, Grey"@en	COL title VAL  "HP Color LaserJet Professional CP5225dn /A3,20ppm"@en	0
+COL title VAL  "Canon 703 Black Original Laser Toner Cartridge"@en	COL title VAL  "Original Toner Canon 703 / 7616A005, ca. 2.000 S., schwarz"@en	1
+COL title VAL  "Dymo D1 Poyester Tape 16959"@en	COL title VAL  "Dymo Tape RhinoPRO Vinyl 12mm Svart/Vit"@no	0
+COL title VAL  "Epson Print cartridge - XXL - 1 x Cyan - 3400 pages - for WorkForce Pro WP4000/4500 Series"@en	COL title VAL  "Epson Tusz T7034 YELLOW L do serii WorkForce WP4000/4500 (0.8k)"@pl	0
+COL title VAL  "Toner Xerox - Workcentre 6027 - magenta - originale - cartuccia toner 106r02757"@it	COL title VAL  "Xerox 106R01162 25k Yellow Toner"@en	0
+COL title VAL  "Originln toner CANON CRG-707 C (Azurov)"@de	COL title VAL  "Canon Toner 054 c (3023C002)"@en	0
+COL title VAL  "Epson atrament SP PX660/PX820/1400/1500W cyan C13T07924010"@en	COL title VAL  "Original PATRONE Epson T5805 Light Cyan"@en	0
+COL title VAL  "Brother Brother HL-L5200DW Black and White Laser Printer Wireless Networkable with Auto Duplexer - 40PPM - AIRPRINT"@en	COL title VAL  "Brother HL-L5200DW S/W- Laserdrucker"@de	1
+COL title VAL  "Original Tinte Brother LC-1280XLM, ca. 1.200 S., magenta"@en	COL title VAL  "Compatible Epson T1814 (#18XL) Yellow High Capacity Ink Cartridge (T1814XLYCOM)"@en	0
+COL title VAL  "Epson - Tanica - magenta - C13T692300 - 110ml"@it	COL title VAL  "Epson C13T596900 T5969 Light Light Black Ink 350ml"@en	0
+COL title VAL  "Lexmark E260A11E Style Black Compatible Toner"@en	COL title VAL  "44574702 Compatible Oki Black Toner (3000 pages)"@en	0
+COL title VAL  "Epson 24XL Original Ink Cartridge C13T24314012 Black"@en	COL title VAL  "Epson Light Black Ink Cartridge 220ml"@en	0
+COL title VAL  "Original Toner Canon 3022C002 / 054, ca. 1.200 S., magenta"@it	COL title VAL  "Epson Cartouche d'encre C13T05424010 (T0542)"@fr	0
+COL title VAL  "Epson Light Black Ink Cartridge 220ml"@en	COL title VAL  "Epson Multipack T0487 - Print cartridge - 1 x black, yellow, cyan, magenta, light magenta, light cyan"@en	0
+COL title VAL  "Zebra 800015-448 YMCKOK Ribbon - 170 Prints"@en	COL title VAL  "Zebra ZXP 7 Ribbon Black 800077-701"@de	0
+COL title VAL  "EPSON C13T70334010 WP 4000/4500 Series Ink L Cartridge Magenta 0.8k"@en	COL title VAL  "Epson Tusz T7034 YELLOW L do serii WorkForce WP4000/4500 (0.8k)"@pl	0
+COL title VAL  "Compatible Epson T1814 (#18XL) Yellow High Capacity Ink Cartridge (T1814XLYCOM)"@en	COL title VAL  "Epson Daisy 18XL Series T1814 Yellow Ink Cartridge (Yield 450 Pages) RS Blister for Expression Home XP-102 Inkjet Printer EP18144"@en	1
+COL title VAL  "Epson Multipack T0487 - Print cartridge - 1 x black, yellow, cyan, magenta, light magenta, light cyan"@en	COL title VAL  "Canon PGI-72 Ink Cartridge - Photo Black, Photo Cyan, Photo Magenta, Grey"@en	0
+COL title VAL  "Canon Multipack PGI-72multi1 (6403B007)"@ro	COL title VAL  "EPSON C13T70334010 WP 4000/4500 Series Ink L Cartridge Magenta 0.8k"@en	0
+COL title VAL  "Epson T0792 Cyan Ink Cartridge"@en	COL title VAL  "Epson Original 18XL T1812 Daisy Ink Cartridge 6.6ml Cyan"@en	0
+COL title VAL  "Lexmark X945X2KG Original Black High Yield Toner Cartridge"@en	COL title VAL  "Canon 703 Black Original Laser Toner Cartridge"@en	0
+COL title VAL  "Canon Toner-Cartridge 707C Cyan"@en	COL title VAL  "Originln toner CANON CRG-707 C (Azurov)"@de	1
+COL title VAL  "Brother Brother HL-L5200DW Black and White Laser Printer Wireless Networkable with Auto Duplexer - 40PPM - AIRPRINT"@en	COL title VAL  "Brother Monochrome Compact Laser All-in-One Printer with Duplex Printing and Wireless Networking"@en	0
+COL title VAL  "Xerox 106R01218 Hi Yield Compatible Cyan Toner Cartridge"@en	COL title VAL  "Lexmark X945X2KG Original Black High Yield Toner Cartridge"@en	0
+COL title VAL  "Epson - Tanica - magenta - C13T692300 - 110ml"@it	COL title VAL  "Epson - Vaschetta recupero toner - C13T619000"@it	0
+COL title VAL  "OKI Toner Cyan 10k - C831"@id	COL title VAL  "OKI Toner Gul 1.5k - C301/C321/MC332"@en	0
+COL title VAL  "Xerox Phaser 6000/ 6010 Black print cartridge"@en	COL title VAL  "Zebra ix Series Monochrome - 1 - black / monochrome - print ribbon"@en	0
+COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	COL title VAL  "E260A11E CompatibleLexmark Black Toner (3500 pages)"@en	0
+COL title VAL  "Cyan Inkjet Cartridge XXL (T7012)"@no	COL title VAL  "Epson Light Black Ink Cartridge 220ml"@en	0
+COL title VAL  "Epson Elephant 24XL (Prentar 500 síður) High Capacity Claria Photo HD blekhylki (svart)"@en	COL title VAL  "Epson blátt blekhylki Stylus Photo R800"@no	0
+COL title VAL  "Xerox Phaser 6000/6010 Black Toner"@en	COL title VAL  "Cartridge - Yellow - 1000 pages - Phaser 6010,WorkCentre 6015"@en	0
+COL title VAL  "Epson T7551 XL Black High Yield Ink Cartridge C13T755140 / T7551 EP53959"@en	COL title VAL  "Epson Light Black Ink Cartridge 220ml"@en	0
+COL title VAL  "Brother HL-L6300DW Business Laser Printer for Mid-Size Workgroups w/Higher Print Volumes"@en	COL title VAL  "Brother HL-L6200DW laser printer 1200 x 1200 DPI A4 Wi-Fi"@en	0
+COL title VAL  "Epson C13T755140 XL Black Ink Cartridge 5k Yield"@en	COL title VAL  "Epson T12814 Inkjet Cartridge Standard Yield 5.9ml Black. For use in Epson Stylus Office BX305F, S22, SX125, SX420W and SX425W printers. (Fox) EP46391"@en	0
+COL title VAL  "Epson Ink Cartridge - Yellow 700ml"@en	COL title VAL  "Originlny toner OKI 43872305 (lt)"@en	0
+COL title VAL  "Xerox Phaser 6000/ 6010 Black print cartridge"@en	COL title VAL  "Cartridge - Yellow - 1000 pages - Phaser 6010,WorkCentre 6015"@en	0
+COL title VAL  "OKI Toner Gul 1.5k - C301/C321/MC332"@en	COL title VAL  "Toner OKI B411 44574702 black"@sv	0
+COL title VAL  "Laser Toner Cartridge compatible with Samsung MLT-D103L/ELS High Capacity"@en	COL title VAL  "Samsung MLT-D103L Toner Cartridge Black, High Yield"@en	1
+COL title VAL  "Epson Orange Ink Cartridge 700ml for Stylus Pro 7900/9900"@en	COL title VAL  "Epson Replacement Maintenance Tank for P5070"@en	0
+COL title VAL  "PGI-5BK twinpack sort blkpatron, original Canon (2x360s)"@en	COL title VAL  "CANON - inktcartridge - PGI-570 PGBK - Zwart - origineel"@nl	0
+COL title VAL  "Toner Xerox - Workcentre 6027 - magenta - originale - cartuccia toner 106r02757"@it	COL title VAL  "Original Toner Canon 3022C002 / 054, ca. 1.200 S., magenta"@it	0
+COL title VAL  "OEM HP 80A, CF280A LaserJet Toner Cartridge - Black - 2.7K"@en	COL title VAL  "Canon No. 120 Black Toner Cartridge"@en	0
+COL title VAL  "Epson Orange Ink Cartridge 700ml for Stylus Pro 7900/9900"@en	COL title VAL  "EPSON YELLOW 700ML INK FOR 7890/7900/7700/9700/9890/9900(1)"@en	0
+COL title VAL  "Dymo Rhino 12mm Steel Tape (32500)"@nl	COL title VAL  "Samsung - CLT-K404S - Black Toner"@de	0
+COL title VAL  "Brother HL-L8360CDW (A4) Wireless Colour Laser Printer"@en	COL title VAL  "Brother HL-L5200DW S/W- Laserdrucker"@de	0
+COL title VAL  "Epson T7551 XL Black High Yield Ink Cartridge C13T755140 / T7551 EP53959"@en	COL title VAL  "Epson C13T596900 T5969 Light Light Black Ink 350ml"@en	0
+COL title VAL  "Canon Toner-Cartridge 707C Cyan"@en	COL title VAL  "Canon 718Y Yellow Toner Cartridge"@en	0
+COL title VAL  "Lexmark X945X2KG Original Black High Yield Toner Cartridge"@en	COL title VAL  "Lexmark C544 Magenta Extra High Yield Return Program Toner 0C544X1CG"@en	0
+COL title VAL  "Genuine Canon PFI-102 Matte Black Ink Cartridge (PFI102MBKOEM)"@en	COL title VAL  "Genuine Canon PG-40 Black CL41 CLR Multi Pack Ink Cartridge (PG40BKCL41CLRMULTIOEM)"@en	0
+COL title VAL  "Canon PGI-220 Inkjet Cartridge, Pigment Black, OEM"@en	COL title VAL  "Canon PGI-220 Black Ink Cartridge"@en	1
+COL title VAL  "Epson atrament SP PX660/PX820/1400/1500W cyan C13T07924010"@en	COL title VAL  "Epson atrament WP4000/4500 series magenta XL C13T70234010"@ca	0
+COL title VAL  "Canon PGI-220 Black Ink Cartridge"@en	COL title VAL  "Genuine Brother LC1220BK BlackInk Cartridge (LC-1220BKOEM)"@en	0
+COL title VAL  "Canon PGI-72 Ink Cartridge - Photo Black, Photo Cyan, Photo Magenta, Grey"@en	COL title VAL  "Canon PGI-29 Ink Tank Grey 4871B001AA CO68194"@en	0
+COL title VAL  "TN-200 Toner für Brother HL 700, 720, 730, 760, MFC 3550, 3650, 4300, 4350, 4450, 4550 2.200 Seiten"@de	COL title VAL  "Toner Brother TN-241MHL-3140/50/70"@en	0
+COL title VAL  "Original Epson 18 Magenta Ink cartridge (T1803)"@en	COL title VAL  "Epson Ink Cartridge - Yellow 700ml"@en	0
+COL title VAL  "Epson blátt blekhylki Stylus Photo R800"@no	COL title VAL  "Cartouche d'encre Epson T1571 XL Tortue - Noir Photo"@fr	0
+COL title VAL  "Genuine Brother LC1220BK BlackInk Cartridge (LC-1220BKOEM)"@en	COL title VAL  "Brother LC-1280XL Magenta Ink Cartridge for MFC-J6510/J6910"@en	0
+COL title VAL  "Canon PG-545 Black Original Ink Cartridge, E Zezë"@en	COL title VAL  "Original Brother LC1220BK Black Ink Cartridge"@en	0
+COL title VAL  "Xerox Phaser 6000/6010 Black Toner"@en	COL title VAL  "Original Lexmark X945X2KG Toner Black"@en	0
+COL title VAL  "Dymo RhinoPRO Industrial Tape 1500 WT Coloured Vinyl 12mm White Ref 18444 S0718600"@en	COL title VAL  "Dymo Industrial Embossing tape 35800"@en	0
+COL title VAL  "C748H1CG Cyan High-Yield Toner"@en	COL title VAL  "OKI C831/C841 Toner Cian"@en	0
+COL title VAL  "Brother - DR-2300 (HL-L23xx, DCP-L25xx, MFC-L27xx, 12 000 stran)"@en	COL title VAL  "Brother HL-L6300DW / A4 / Laser / 1200 x 1200 dpi / černobílá / USB / WiFi / LAN / NFC"@en	0
+COL title VAL  "Boje Canon PG-545 BK 8ml"@hr	COL title VAL  "Genuine Canon PG-40 Black CL41 CLR Multi Pack Ink Cartridge (PG40BKCL41CLRMULTIOEM)"@en	0
+COL title VAL  "PGI-9G Original Canon Green Ink Cartridge"@en	COL title VAL  "Canon PGI-72 Ink Cartridge - Photo Black, Photo Cyan, Photo Magenta, Grey"@en	0
+COL title VAL  "Epson T6932 Ultrachro XD Photo Cyan Ink 350ml"@en	COL title VAL  "Epson GF Stylus Photo 11880 Cartucho Negro claro"@en	0
+COL title VAL  "Xerox 106R01218 Hi Yield Compatible Cyan Toner Cartridge"@en	COL title VAL  "C748H1CG Cyan High-Yield Toner"@en	0
+COL title VAL  "Epson Orange Ink Cartridge 700ml for Stylus Pro 7900/9900"@en	COL title VAL  "Epson GF Stylus Photo 7900/9900 Cartucho Verde"@de	0
+COL title VAL  "T596800 original Druckerpatrone für Plotter Stylus PRO 7700 / 7900 / 9700 / 9900 350ml, matt schwarz"@de	COL title VAL  "Epson Ink Stylus Pro 7890/9890 & 7900/9900 -Vivid Magenta"@en	0
+COL title VAL  "C748H1CG Cyan High-Yield Toner"@en	COL title VAL  "Samsung MLT-D103L Toner Cartridge Black, High Yield"@en	0
+COL title VAL  "Epson S050189 toner ciano ACULA.C1100 4k"@en	COL title VAL  "Epson - Tanica - magenta - C13T692300 - 110ml"@it	0
+COL title VAL  "Zebra 6 Panel YMCKOK Color Ribbon With Cleaning Roller - 170 prints (800015-448)"@en	COL title VAL  "Compatible Canon 6448B001 (CLI-251XL) High Yield Black Ink Cartridge"@en	0
+COL title VAL  "Epson Replacement Maintenance Tank for P5070"@en	COL title VAL  "Epson T596800 Matte Black 350ml Ultrachrome HDR Ink Cartridge for SP7900, 9900, 7890, 9890"@en	0
+COL title VAL  "Canon 703 Black Original Laser Toner Cartridge"@en	COL title VAL  "HP 80A Black Original LaserJet Toner Cartridge"@en	0
+COL title VAL  "Canon PFI-102Y 130ml Yellow"@cy	COL title VAL  "CANON PFI-107 C CyaniPF680/685/780/785 130ml"@cy	0
+COL title VAL  "Epson Original 18XL T1812 Daisy Ink Cartridge 6.6ml Cyan"@en	COL title VAL  "Original Epson 18 Magenta Ink cartridge (T1803)"@en	0
+COL title VAL  "Epson Tower of Pisa Tanica Magenta"@en	COL title VAL  "Epson C13T70334010 T7033 Magenta Ink 10ml"@en	0
+COL title VAL  "EPSON C13T70334010 WP 4000/4500 Series Ink L Cartridge Magenta 0.8k"@en	COL title VAL  "Epson C13T70334010 T7033 Magenta Ink 10ml"@en	1
+COL title VAL  "OKI C301/C321 Toner Amarillo"@en	COL title VAL  "Toner OKI 44059105 C810 yellow"@en	0
+COL title VAL  "Canon Ink Cart. PG-40/CL-41 Multipack blistered per MF210/220//MP150/160/170/180/ 450//iP1600/1700/1800/2200// JX200/500 black/colour (0615B036)"@en	COL title VAL  "Zebra 800015-448 YMCKOK Ribbon - 170 Prints"@en	0
+COL title VAL  "Epson T7551 XL Black High Yield Ink Cartridge C13T755140 / T7551 EP53959"@en	COL title VAL  "Samsung MLT-D103L Toner Cartridge Black, High Yield"@en	0
+COL title VAL  "Epson Light Black Ink Cartridge 220ml"@en	COL title VAL  "EPSON Ink T5805 Light Cyan mustekasetti"@fi	0
+COL title VAL  "Original PATRONE Canon CLI-571 Cyan"@tl	COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	0
+COL title VAL  "Kyocera FS 2100 Toner Kit 12.5K"@en	COL title VAL  "OKI 44992402 Toner black, 2.5K pages"@da	0
+COL title VAL  "Epson WF-C5xxx Series Ink Cartridge XL Yellow"@en	COL title VAL  "Epson Ink Cartridge - Yellow 700ml"@en	0
+COL title VAL  "Epson C13T755140 XL Black Ink Cartridge 5k Yield"@en	COL title VAL  "Epson Light Black Ink Cartridge 220ml"@en	0
+COL title VAL  "Brother HL-L6200DW Wireless High Speed Mono Laser Printer - Duplex Printer"@en	COL title VAL  "Impresora brother hl-l8360cdw laser color 31 ppm / 15 ppm bandeja entrada 250h wifi"@en	0
+COL title VAL  "Brother [TN-200] black Toner"@en	COL title VAL  "Brother DR 2300 12000 sider"@en	0
+COL title VAL  "Brother [TN-200] black Toner"@en	COL title VAL  "Cartucho tinta negro l epson t7031 - 24ml - big ben - para wp-4595 dnf/dtwf/ 4535dwf / 4525dnf / 4515dn / 4095dn / 4025dw /"@cy	0
+COL title VAL  "Brother LC225XL Style Magenta Compatible Ink Cartridge"@en	COL title VAL  "INK-JET BROTHER LC1220VAL (4x300P.) PACK NEGRO/TRICOLOR"@en	0
+COL title VAL  "Brother [TN-135Y] HC yellow Toner"@en	COL title VAL  "Genuine Yellow OKI 43872305 Toner Cartridge (43872305 Laser Printer Cartridge)"@en	0
+COL title VAL  "Canon PFI-102Y 130ml Yellow"@cy	COL title VAL  "Canon 718Y Yellow Toner Cartridge"@en	0
+COL title VAL  "Brother MFC-L2710DW multifunzione Laser 1200 x 1200 DPI 30 ppm A4 Wi-Fi"@en	COL title VAL  "Brother Monochrome Compact Laser All-in-One Printer with Duplex Printing and Wireless Networking"@en	1
+COL title VAL  "Epson Print cartridge - XXL - 1 x Cyan - 3400 pages - for WorkForce Pro WP4000/4500 Series"@en	COL title VAL  "Epson Multipack T0487 - Print cartridge - 1 x black, yellow, cyan, magenta, light magenta, light cyan"@en	0
+COL title VAL  "OKI Toner Cyan 10k - C831"@id	COL title VAL  "Originlny toner OKI 44992402 (iern)"@en	0
+COL title VAL  "Lexmark HY Toner Cartridge - Magenta, C544X1MG (C544X1MG)"@en	COL title VAL  "Lexmark C540H1MG Style Magenta Compatible Toner"@en	0
+COL title VAL  "Original Tinte Brother LC-1280XLM, ca. 1.200 S., magenta"@en	COL title VAL  "Brother [TN-200] black Toner"@en	0
+COL title VAL  "Toner Brother TN-241MHL-3140/50/70"@en	COL title VAL  "Brother TN-135Y Laserkasetti yellow"@en	0
+COL title VAL  "Cartus cerneala Epson 79XL magenta, singlepack DURABrite ultra ink, capacitate (17ml) - 2000 pagini"@it	COL title VAL  "Epson DURABrite T1281 Ink Cartridge - Black"@en	0
+COL title VAL  "106R01218 (106R1218) Cyan High-Yield Toner"@en	COL title VAL  "Samsung MLT-D103L Toner Cartridge Black, High Yield"@en	0
+COL title VAL  "Brother HL-L6200DW Wireless High Speed Mono Laser Printer - Duplex Printer"@en	COL title VAL  "Brother HL-L6300DW Business Laser Printer for Mid-Size Workgroups w/Higher Print Volumes"@en	0
+COL title VAL  "CANON 0898B001AA PFI102Y YELLOW INK TANK"@en	COL title VAL  "Canon 6706B001 PFI107 Cyan Ink 130ml"@tl	0
+COL title VAL  "Ink cartridge EPSON Light Light Black Stylus Pro 7900 / 9900, 350 ml."@en	COL title VAL  "Epson Green T596B UltraChrome HDR 350 ml"@en	0
+COL title VAL  "CANON PFI-107 C CyaniPF680/685/780/785 130ml"@cy	COL title VAL  "Canon Toner-Cartridge 707C Cyan"@en	0
+COL title VAL  "Epson - Tanica - magenta - C13T692300 - 110ml"@it	COL title VAL  "Original Epson 18 Magenta Ink cartridge (T1803)"@en	0
+COL title VAL  "CANON PFI-107 C CyaniPF680/685/780/785 130ml"@cy	COL title VAL  "PFI-207 BKCanon iPF680/685/780/785 (300ml) 8789B001"@tl	0
+COL title VAL  "Zebra ix Series Monochrome - 1 - black / monochrome - print ribbon"@en	COL title VAL  "Zebra 800015-448 YMCKOK Ribbon - 170 Prints"@en	0
+COL title VAL  "Brother - DR-2300 (HL-L23xx, DCP-L25xx, MFC-L27xx, 12 000 stran)"@en	COL title VAL  "Brother HL-L5200DW S/W- Laserdrucker"@de	0
+COL title VAL  "Originln toner OKI 43865724 (ern)"@de	COL title VAL  "OKI 43865724 Style Black Compatible Toner"@en	1
+COL title VAL  "Epson Green T596B UltraChrome HDR 350 ml"@en	COL title VAL  "Epson T596800 Matte Black 350ml Ultrachrome HDR Ink Cartridge for SP7900, 9900, 7890, 9890"@en	0
+COL title VAL  "Original Lexmark X945X2KG Toner Black"@en	COL title VAL  "Original TONER Xerox 106R01629 Yellow"@en	0
+COL title VAL  "Canon PGI-220 Black Ink Cartridge"@en	COL title VAL  "PGI-9G Original Canon Green Ink Cartridge"@en	0
+COL title VAL  "Canon 0884B001AA (PFI-101C) Ink Cartridge, Cyan, OEM"@en	COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	1
+COL title VAL  "Brother HL-L6200DW laser printer 1200 x 1200 DPI A4 Wi-Fi"@en	COL title VAL  "Brother HL-L5200DW S/W- Laserdrucker"@de	0
+COL title VAL  "Epson T0792 Cyan Ink Cartridge"@en	COL title VAL  "Epson T6932 Patron Cyan 350ml(Eredeti)"@tr	0
+COL title VAL  "Cartucho tinta negro l epson t7031 - 24ml - big ben - para wp-4595 dnf/dtwf/ 4535dwf / 4525dnf / 4515dn / 4095dn / 4025dw /"@cy	COL title VAL  "Epson Black Inkjet Cartridge. For use in WP4000/4500 machines. Page Yield - up to 1200 pages. OEM Ref - T703140. (Big Ben) EP49005"@en	1
+COL title VAL  "Brother [TN-135Y] HC yellow Toner"@en	COL title VAL  "TN-200 Toner für Brother HL 700, 720, 730, 760, MFC 3550, 3650, 4300, 4350, 4450, 4550 2.200 Seiten"@de	0
+COL title VAL  "Originln toner OKI 43865724 (ern)"@de	COL title VAL  "Lexmark C540 Magenta High Yield Return Program Toner 0C540H1CG"@en	0
+COL title VAL  "Genuine Brother LC1220BK BlackInk Cartridge (LC-1220BKOEM)"@en	COL title VAL  "Genuine Canon PFI-102 Matte Black Ink Cartridge (PFI102MBKOEM)"@en	0
+COL title VAL  "Brother HL-L6300DW / A4 / Laser / 1200 x 1200 dpi / černobílá / USB / WiFi / LAN / NFC"@en	COL title VAL  "Brother MFC-L2710DW multifunzione Laser 1200 x 1200 DPI 30 ppm A4 Wi-Fi"@en	0
+COL title VAL  "Canon PGI-29 Ink Tank Grey 4871B001AA CO68194"@en	COL title VAL  "Canon BJ CARTRIDGE PGI-29 GY pro PIXMA PRO 1"@pt	1
+COL title VAL  "Cartouche d'encre Epson Epson T7023 XL Cartouche d'encre Magenta"@fr	COL title VAL  "Epson Cartouche d'encre C13T05424010 (T0542)"@fr	0
+COL title VAL  "Epson DURABrite T1281 Ink Cartridge - Black"@en	COL title VAL  "Original Brother LC1220BK Black Ink Cartridge"@en	0
+COL title VAL  "Epson Tusz T7034 YELLOW L do serii WorkForce WP4000/4500 (0.8k)"@pl	COL title VAL  "Epson atrament WP4000/4500 series magenta XL C13T70234010"@ca	0
+COL title VAL  "OKI C301/C321 Toner Amarillo"@en	COL title VAL  "OKI Toner Gul 1.5k - C301/C321/MC332"@en	1
+COL title VAL  "Epson Ink Cartridge - Yellow 700ml"@en	COL title VAL  "T596800 original Druckerpatrone für Plotter Stylus PRO 7700 / 7900 / 9700 / 9900 350ml, matt schwarz"@de	0
+COL title VAL  "PGI-9G Original Canon Green Ink Cartridge"@en	COL title VAL  "Canon PGI29LGY Light Grey Ink (Pro One Series)"@en	0
+COL title VAL  "Epson S050189 toner ciano ACULA.C1100 4k"@en	COL title VAL  "Canon Toner 054 c (3023C002)"@en	0
+COL title VAL  "Epson C13T70334010 T7033 Magenta Ink 10ml"@en	COL title VAL  "Cartus cerneala Epson 79XL magenta, singlepack DURABrite ultra ink, capacitate (17ml) - 2000 pagini"@it	0
+COL title VAL  "Samsung CLT-K406S Black Toner Cartridge (Compatible)"@en	COL title VAL  "Samsung CLT-K404S Black Toner Cartridge (Compatible)"@en	0
+COL title VAL  "Canon 718Y Yellow Toner Cartridge"@en	COL title VAL  "Genuine Yellow OKI 43872305 Toner Cartridge (43872305 Laser Printer Cartridge)"@en	0
+COL title VAL  "Ink cartridge EPSON Light Light Black Stylus Pro 7900 / 9900, 350 ml."@en	COL title VAL  "Epson Orange Ink Cartridge 700ml for Stylus Pro 7900/9900"@en	0
+COL title VAL  "Epson Original 18XL T1812 Daisy Ink Cartridge 6.6ml Cyan"@en	COL title VAL  "Epson Ink Cartridge - Cyan - Inkjet - 450 Page"@en	1
+COL title VAL  "Original Tinte Brother LC-1280XLM, ca. 1.200 S., magenta"@en	COL title VAL  "Brother HL-L5200DW S/W- Laserdrucker"@de	0
+COL title VAL  "Epson S050189 toner ciano ACULA.C1100 4k"@en	COL title VAL  "Epson - Vaschetta recupero toner - C13T619000"@it	0
+COL title VAL  "Samsung CLT-K406S Black Original Standard Yield Toner Cartridge"@en	COL title VAL  "Samsung CLT-K404S Black Toner Cartridge (Compatible)"@en	0
+COL title VAL  "Brother MFC-L2710DW multifunzione Laser 1200 x 1200 DPI 30 ppm A4 Wi-Fi"@en	COL title VAL  "Brother HL-L6200DW laser printer 1200 x 1200 DPI A4 Wi-Fi"@en	0
+COL title VAL  "Epson Green T596B UltraChrome HDR 350 ml"@en	COL title VAL  "Epson Vivid Magenta T5963 UltraChrome HDR 350 ml"@en	0
+COL title VAL  "C748H1CG Cyan High-Yield Toner"@en	COL title VAL  "106R01218 (106R1218) Cyan High-Yield Toner"@en	0
+COL title VAL  "Canon PGI-5BK Inkjet Cartridge Page Life 505pp 26ml Black 0628B025 Pack of 2"@en	COL title VAL  "PGI-5BK twinpack sort blkpatron, original Canon (2x360s)"@en	1
+COL title VAL  "Brother Brother HL-L5200DW Black and White Laser Printer Wireless Networkable with Auto Duplexer - 40PPM - AIRPRINT"@en	COL title VAL  "Brother HL-L6200DW laser printer 1200 x 1200 DPI A4 Wi-Fi"@en	0
+COL title VAL  "Kyocera FS 2100 Toner Kit 12.5K"@en	COL title VAL  "Kyocera TK-3100 Black Toner Cartridge"@en	1
+COL title VAL  "Epson Black Inkjet Cartridge. For use in WP4000/4500 machines. Page Yield - up to 1200 pages. OEM Ref - T703140. (Big Ben) EP49005"@en	COL title VAL  "Epson atrament WP4000/4500 series magenta XL C13T70234010"@ca	0
+COL title VAL  "Genuine Canon PG-40 Black CL41 CLR Multi Pack Ink Cartridge (PG40BKCL41CLRMULTIOEM)"@en	COL title VAL  "Canon PG-545 Black Original Ink Cartridge, E Zezë"@en	0
+COL title VAL  "Original Lexmark X945X2KG Toner Black"@en	COL title VAL  "Canon 703 Black Original Laser Toner Cartridge"@en	0
+COL title VAL  "Xerox Phaser 6000/ 6010 Black print cartridge"@en	COL title VAL  "Epson Multipack T0487 - Print cartridge - 1 x black, yellow, cyan, magenta, light magenta, light cyan"@en	0
+COL title VAL  "Cyan Inkjet Cartridge XXL (T7012)"@no	COL title VAL  "Cartouche d'encre Epson Epson T7023 XL Cartouche d'encre Magenta"@fr	0
+COL title VAL  "Brother HL-L8360CDW (A4) Wireless Colour Laser Printer"@en	COL title VAL  "Brother HL-L6300DW / A4 / Laser / 1200 x 1200 dpi / černobílá / USB / WiFi / LAN / NFC"@en	0
+COL title VAL  "Zebra ZXP 7 Ribbon Black 800077-701"@de	COL title VAL  "Xerox Phaser 6000/6010 Black Toner"@en	0
+COL title VAL  "Ink Cartridge EPSON Light Black 220ml Stylus Pro 7800/7880/9800/9880"@en	COL title VAL  "Epson T596800 Matte Black 350ml Ultrachrome HDR Ink Cartridge for SP7900, 9900, 7890, 9890"@en	0
+COL title VAL  "Brother [TN-135Y] HC yellow Toner"@en	COL title VAL  "Brother TN-135Y Laserkasetti yellow"@en	1
+COL title VAL  "Epson C13T70334010 T7033 Magenta Ink 10ml"@en	COL title VAL  "CANON 0372C001 PGI-570PGB 15ML"@vi	0
+COL title VAL  "Canon PG-545 Black Original Ink Cartridge, E Zezë"@en	COL title VAL  "Canon 703 Black Original Laser Toner Cartridge"@en	0
+COL title VAL  "Dymo D1 Tape for Labelmaker Polyester Permanent 12x5.5mm Black on White Ref 16959 S0718060"@en	COL title VAL  "Dymo D1 Poyester Tape 16959"@en	1
+COL title VAL  "Toner OKI 44059105 C810 yellow"@en	COL title VAL  "Genuine OKI 44059105 Yellow Toner Cartridge (8,000 Pages) for OKI C810, C830 Printers"@en	1
+COL title VAL  "Genuine Canon PG-40 Black CL41 CLR Multi Pack Ink Cartridge (PG40BKCL41CLRMULTIOEM)"@en	COL title VAL  "Brother TN-241M (prentar:1,400 síður) rautt dufthylki"@en	0
+COL title VAL  "Epson DURABrite T1281 Ink Cartridge - Black"@en	COL title VAL  "Epson T12814 Inkjet Cartridge Standard Yield 5.9ml Black. For use in Epson Stylus Office BX305F, S22, SX125, SX420W and SX425W printers. (Fox) EP46391"@en	1
+COL title VAL  "Brother TN-241M (prentar:1,400 síður) rautt dufthylki"@en	COL title VAL  "CANON CLI 571 C ORIGINEEL"@en	0
+COL title VAL  "Canon 718Y Yellow Toner Cartridge"@en	COL title VAL  "Canon 120 Reman HY Toner 5K PR"@en	0
+COL title VAL  "Genuine Yellow OKI 43872305 Toner Cartridge (43872305 Laser Printer Cartridge)"@en	COL title VAL  "OKI 43865724 Style Black Compatible Toner"@en	0
+COL title VAL  "T596800 original Druckerpatrone für Plotter Stylus PRO 7700 / 7900 / 9700 / 9900 350ml, matt schwarz"@de	COL title VAL  "Epson T596800 Matte Black 350ml Ultrachrome HDR Ink Cartridge for SP7900, 9900, 7890, 9890"@en	1
+COL title VAL  "Cartridge Epson T9454, 5000 stran žltá (C13T945440)"@en	COL title VAL  "Epson Ink Cartridge - Yellow 700ml"@en	0
+COL title VAL  "44574702 Compatible Oki Black Toner (3000 pages)"@en	COL title VAL  "Xerox Phaser 6000/6010 Black Toner"@en	0
+COL title VAL  "Lexmark C540 Magenta High Yield Return Program Toner 0C540H1CG"@en	COL title VAL  "C748H1CG Cyan High-Yield Toner"@en	0
+COL title VAL  "Samsung - CLT-K404S - Black Toner"@de	COL title VAL  "Samsung MLT-D103L Toner Cartridge Black, High Yield"@en	0
+COL title VAL  "OEM HP 80A, CF280A LaserJet Toner Cartridge - Black - 2.7K"@en	COL title VAL  "Original HP 45A Q5945A Black LaserJet Toner Cartridge"@en	0
+COL title VAL  "Epson Multipack T0487 - Print cartridge - 1 x black, yellow, cyan, magenta, light magenta, light cyan"@en	COL title VAL  "Zebra ix Series Monochrome - 1 - black / monochrome - print ribbon"@en	0
+COL title VAL  "Dymo RhinoPRO Industrial Tape 1500 WT Coloured Vinyl 12mm White Ref 18444 S0718600"@en	COL title VAL  "Dymo Rhino 12mm Steel Tape (32500)"@nl	0
+COL title VAL  "Epson Light Black Ink Cartridge 220ml"@en	COL title VAL  "Epson T0792 Cyan Ink Cartridge"@en	0
+COL title VAL  "Kyocera TK-3100 Black Toner Cartridge"@en	COL title VAL  "Brother [TN-200] black Toner"@en	0
+COL title VAL  "Brother Brother HL-L5200DW Black and White Laser Printer Wireless Networkable with Auto Duplexer - 40PPM - AIRPRINT"@en	COL title VAL  "Brother HL-L6200DW Wireless High Speed Mono Laser Printer - Duplex Printer"@en	0
+COL title VAL  "Epson Multipack T0487 - Print cartridge - 1 x black, yellow, cyan, magenta, light magenta, light cyan"@en	COL title VAL  "EPSON Multipack fr EPSON Stylus Photo R200 / R300 Inhalt: je 1x light cyan, cyan, light magenta, magenta, gelb, schwarz (neu: C13T04874010 / alt: C13T048140A0) R220 / R320 / R340 / RX500 / RX600 / RX620 / RX640"@en	1
+COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	COL title VAL  "Canon *Canon Ink CL-211 - Color"@en	0
+COL title VAL  "Epson Daisy 18XL Series T1814 Yellow Ink Cartridge (Yield 450 Pages) RS Blister for Expression Home XP-102 Inkjet Printer EP18144"@en	COL title VAL  "Epson Ink Cartridge - Cyan - Inkjet - 450 Page"@en	0
+COL title VAL  "Epson DURABrite T1281 Ink Cartridge - Black"@en	COL title VAL  "Epson C13T755140 XL Black Ink Cartridge 5k Yield"@en	0
+COL title VAL  "Original HP 45A Q5945A Black LaserJet Toner Cartridge"@en	COL title VAL  "Lexmark X945X2KG Original Black High Yield Toner Cartridge"@en	0
+COL title VAL  "Epson blátt blekhylki Stylus Photo R800"@no	COL title VAL  "Epson GF Stylus Photo 11880 Cartucho Negro claro"@en	0
+COL title VAL  "CANON - inktcartridge - PGI-570 PGBK - Zwart - origineel"@nl	COL title VAL  "CANON 0372C001 PGI-570PGB 15ML"@vi	1
+COL title VAL  "Brother HL-L5200DW S/W- Laserdrucker"@de	COL title VAL  "Brother HL-L6300DW Business Laser Printer for Mid-Size Workgroups w/Higher Print Volumes"@en	0
+COL title VAL  "Original PATRONE Epson T5805 Light Cyan"@en	COL title VAL  "Original PATRONE Canon CLI-571 Cyan"@tl	0
+COL title VAL  "Epson C13T596900 T5969 Light Light Black Ink 350ml"@en	COL title VAL  "Cartus cerneala Epson 79XL magenta, singlepack DURABrite ultra ink, capacitate (17ml) - 2000 pagini"@it	0
+COL title VAL  "Brother [TN-200] black Toner"@en	COL title VAL  "Toner OKI B411 44574702 black"@sv	0
+COL title VAL  "Canon 718Y Yellow Toner Cartridge"@en	COL title VAL  "Lexmark C748H1CG Cyan Prebate Toner Cartridge Genuine"@en	0
+COL title VAL  "Ink cartridge EPSON Light Light Black Stylus Pro 7900 / 9900, 350 ml."@en	COL title VAL  "Epson T596800 Matte Black 350ml Ultrachrome HDR Ink Cartridge for SP7900, 9900, 7890, 9890"@en	0
+COL title VAL  "Original Toner Canon 703 / 7616A005, ca. 2.000 S., schwarz"@en	COL title VAL  "Original Tinte Brother LC-1280XLM, ca. 1.200 S., magenta"@en	0
+COL title VAL  "Epson DURABrite T1281 Ink Cartridge - Black"@en	COL title VAL  "Original Epson 18 Magenta Ink cartridge (T1803)"@en	0
+COL title VAL  "Boje Canon PG-545 BK 8ml"@hr	COL title VAL  "Canon BJ CARTRIDGE PGI-29 GY pro PIXMA PRO 1"@pt	0
+COL title VAL  "Epson Orange Ultrachrome HDR 700ml"@de	COL title VAL  "Epson T7034 YE (C13T70344010) OEM"@en	0
+COL title VAL  "Epson - Vaschetta recupero toner - C13T619000"@it	COL title VAL  "Brother Monochrome Compact Laser All-in-One Printer with Duplex Printing and Wireless Networking"@en	0
+COL title VAL  "CANON CLI 571 C ORIGINEEL"@en	COL title VAL  "TONER CANON718 YELLOW ORIGINAL2900 K"@en	0
+COL title VAL  "PGI-9G Original Canon Green Ink Cartridge"@en	COL title VAL  "Canon Multipack PGI-72multi1 (6403B007)"@ro	0
+COL title VAL  "OKI 43865724 Style Black Compatible Toner"@en	COL title VAL  "Lexmark C540H1MG Style Magenta Compatible Toner"@en	0
+COL title VAL  "Epson - Tanica - magenta - C13T692300 - 110ml"@it	COL title VAL  "T6923 magenta Ink Cartridge 110ml"@en	1
+COL title VAL  "Epson C13T755140 XL Black Ink Cartridge 5k Yield"@en	COL title VAL  "Originlny toner Xerox 106R01162 (lt)"@en	0
+COL title VAL  "Epson C13T70334010 T7033 Magenta Ink 10ml"@en	COL title VAL  "INK EPSON 18 MAGENTA PER EXPRESSION HOME XP30"@en	0
+COL title VAL  "Lexmark C748H1CG Cyan Prebate Toner Cartridge Genuine"@en	COL title VAL  "Lexmark HY Toner Cartridge - Magenta, C544X1MG (C544X1MG)"@en	0
+COL title VAL  "Brother [TN-135Y] HC yellow Toner"@en	COL title VAL  "Brother [TN-200] black Toner"@en	0
+COL title VAL  "EPSON Ink T5805 Light Cyan mustekasetti"@fi	COL title VAL  "Original PATRONE Epson T5805 Light Cyan"@en	1
+COL title VAL  "Brother HL-L5200DW S/W- Laserdrucker"@de	COL title VAL  "Brother HL-L6200DW Wireless High Speed Mono Laser Printer - Duplex Printer"@en	0
+COL title VAL  "Epson Ink Cartridge - Yellow 700ml"@en	COL title VAL  "Epson T0792 Cyan Ink Cartridge"@en	0
+COL title VAL  "Toner OKI B411 44574702 black"@sv	COL title VAL  "Originlny toner OKI 43872305 (lt)"@en	0
+COL title VAL  "Canon 718Y Yellow Toner Cartridge"@en	COL title VAL  "Xerox 106R01162 25k Yellow Toner"@en	0
+COL title VAL  "Original Epson T1571 Photo Black Ink Cartridge"@en	COL title VAL  "Epson blátt blekhylki Stylus Photo R800"@no	0
+COL title VAL  "Xerox 106R01162 25k Yellow Toner"@en	COL title VAL  "Xerox Phaser 6000/6010 Black Toner"@en	0
+COL title VAL  "Lexmark C748H1CG Cyan Prebate Toner Cartridge Genuine"@en	COL title VAL  "C748H1CG Cyan High-Yield Toner"@en	1
+COL title VAL  "Zebra ZXP 7 Ribbon Black 800077-701"@de	COL title VAL  "Zebra ix Series Monochrome - 1 - black / monochrome - print ribbon"@en	1
+COL title VAL  "HP Color LaserJet Professional CP5225dn /A3,20ppm"@en	COL title VAL  "HP 45A Black Laserjet Toner Cartridge Q5945A"@en	0
+COL title VAL  "Canon PGI-220 Black Ink Cartridge"@en	COL title VAL  "Genuine Canon PG-40 Black CL41 CLR Multi Pack Ink Cartridge (PG40BKCL41CLRMULTIOEM)"@en	0
+COL title VAL  "Lexmark C748H1CG Cyan Prebate Toner Cartridge Genuine"@en	COL title VAL  "Canon Toner-Cartridge 707C Cyan"@en	0
+COL title VAL  "Original Epson 18 Magenta Ink cartridge (T1803)"@en	COL title VAL  "Original PATRONE Epson T5805 Light Cyan"@en	0
+COL title VAL  "Brother LC1220 BK/C/M/Y Original Multipack Ink Cartridges"@en	COL title VAL  "Brother LC225XL Style Magenta Compatible Ink Cartridge"@en	0
+COL title VAL  "Epson T0792 Cyan Ink Cartridge"@en	COL title VAL  "Epson DURABrite T1281 Ink Cartridge - Black"@en	0
+COL title VAL  "Original Toner Canon 3022C002 / 054, ca. 1.200 S., magenta"@it	COL title VAL  "Canon 703 Black Original Laser Toner Cartridge"@en	0
+COL title VAL  "Epson Light Black Ink Cartridge 220ml"@en	COL title VAL  "Ink cartridge EPSON Light Light Black Stylus Pro 7900 / 9900, 350 ml."@en	0
+COL title VAL  "INK EPSON 18 MAGENTA PER EXPRESSION HOME XP30"@en	COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	0
+COL title VAL  "Canon Toner-Cartridge 707C Cyan"@en	COL title VAL  "Canon Toner 054 c (3023C002)"@en	0
+COL title VAL  "Original Epson 18 Magenta Ink cartridge (T1803)"@en	COL title VAL  "T6923 magenta Ink Cartridge 110ml"@en	0
+COL title VAL  "Brother ink LC-225XLM magenta 1200PP x MFC-J5320DW MFC-J5620DW MFC-J5720DW MFC-J4620DW"@en	COL title VAL  "Original Brother LC1220BK Black Ink Cartridge"@en	0
+COL title VAL  "Epson atrament WP4000/4500 series magenta XL C13T70234010"@ca	COL title VAL  "Epson 24XL Original Ink Cartridge C13T24314012 Black"@en	0
+COL title VAL  "Epson Cartouche d'encre C13T05424010 (T0542)"@fr	COL title VAL  "Epson T7034 YE (C13T70344010) OEM"@en	0
+COL title VAL  "Canon 703 Black Original Laser Toner Cartridge"@en	COL title VAL  "Kyocera TK-3100 Black Toner Cartridge"@en	0
+COL title VAL  "Samsung MLT-D103L Toner Cartridge Black, High Yield"@en	COL title VAL  "Samsung CLT-K406S Black Toner Cartridge (Compatible)"@en	0
+COL title VAL  "PGI-9G Original Canon Green Ink Cartridge"@en	COL title VAL  "PGI-5BK twinpack sort blkpatron, original Canon (2x360s)"@en	0
+COL title VAL  "Brother ink LC-225XLM magenta 1200PP x MFC-J5320DW MFC-J5620DW MFC-J5720DW MFC-J4620DW"@en	COL title VAL  "Brother LC225XL Style Magenta Compatible Ink Cartridge"@en	1
+COL title VAL  "Epson Daisy 18XL Series T1814 Yellow Ink Cartridge (Yield 450 Pages) RS Blister for Expression Home XP-102 Inkjet Printer EP18144"@en	COL title VAL  "Epson Print cartridge - XXL - 1 x Cyan - 3400 pages - for WorkForce Pro WP4000/4500 Series"@en	0
+COL title VAL  "Epson Ink Cartridge - Yellow 700ml"@en	COL title VAL  "Epson Light Black Ink Cartridge 220ml"@en	0
+COL title VAL  "Originln toner OKI 43865724 (ern)"@de	COL title VAL  "Originlny toner OKI 44992402 (iern)"@en	0
+COL title VAL  "Toner OKI B411 44574702 black"@sv	COL title VAL  "Toner OKI 44059105 C810 yellow"@en	0
+COL title VAL  "Epson Light Black Ink Cartridge 220ml"@en	COL title VAL  "Ink Cartridge EPSON Light Black 220ml Stylus Pro 7800/7880/9800/9880"@en	1
+COL title VAL  "Brother HL-L6200DW laser printer 1200 x 1200 DPI A4 Wi-Fi"@en	COL title VAL  "Brother HL-L6300DW / A4 / Laser / 1200 x 1200 dpi / černobílá / USB / WiFi / LAN / NFC"@en	0
+COL title VAL  "Toner Brother TN-241MHL-3140/50/70"@en	COL title VAL  "Brother [TN-200] black Toner"@en	0
+COL title VAL  "Canon 703 Black Original Laser Toner Cartridge"@en	COL title VAL  "Zebra ZXP 7 Ribbon Black 800077-701"@de	0
+COL title VAL  "Canon PGI-72 Ink Cartridge - Photo Black, Photo Cyan, Photo Magenta, Grey"@en	COL title VAL  "Epson atrament WP4000/4500 series magenta XL C13T70234010"@ca	0
+COL title VAL  "HP stampante Color LaserJet Professional CP5225dn (CE712A#B19)"@en	COL title VAL  "HP Color LaserJet Professional CP5225dn /A3,20ppm"@en	1
+COL title VAL  "Lexmark C544 Magenta Extra High Yield Return Program Toner 0C544X1CG"@en	COL title VAL  "Canon 6448B001 (CLI-251XL) Ink Cartridge, HY Black, OEM"@en	0
+COL title VAL  "Epson atrament WP4000/4500 series magenta XL C13T70234010"@ca	COL title VAL  "Cartouche d'encre Epson Epson T7023 XL Cartouche d'encre Magenta"@fr	1
+COL title VAL  "Brother TN-135Y Laserkasetti yellow"@en	COL title VAL  "Brother TN-241M (prentar:1,400 síður) rautt dufthylki"@en	0
+COL title VAL  "Lexmark C540H1MG Style Magenta Compatible Toner"@en	COL title VAL  "Lexmark E260A11E Style Black Compatible Toner"@en	0
+COL title VAL  "Toner Brother TN-241MHL-3140/50/70"@en	COL title VAL  "Brother DR 2300 12000 sider"@en	0
+COL title VAL  "INK EPSON 18 MAGENTA PER EXPRESSION HOME XP30"@en	COL title VAL  "Original Epson 18 Magenta Ink cartridge (T1803)"@en	1
+COL title VAL  "Canon 6706B001 PFI107 Cyan Ink 130ml"@tl	COL title VAL  "Canon PGI-72 Ink Cartridge - Photo Black, Photo Cyan, Photo Magenta, Grey"@en	0
+COL title VAL  "Cartouche d'encre Epson T1571 XL Tortue - Noir Photo"@fr	COL title VAL  "Original Epson T1571 Photo Black Ink Cartridge"@en	1
+COL title VAL  "Kyocera TK-3100 Black Toner Cartridge"@en	COL title VAL  "Samsung CLT-K406S Black Toner Cartridge (Compatible)"@en	0
+COL title VAL  "Lexmark C540H1MG Style Magenta Compatible Toner"@en	COL title VAL  "Lexmark C540 Magenta High Yield Return Program Toner 0C540H1CG"@en	1
+COL title VAL  "Original Epson T1571 Photo Black Ink Cartridge"@en	COL title VAL  "Original Brother LC1220BK Black Ink Cartridge"@en	0
+COL title VAL  "Xerox 106R01218 Hi Yield Compatible Cyan Toner Cartridge"@en	COL title VAL  "Canon Toner-Cartridge 707C Cyan"@en	0
+COL title VAL  "Canon Toner-Cartridge 707C Cyan"@en	COL title VAL  "Original PATRONE Canon CLI-571 Cyan"@tl	0
+COL title VAL  "Original TONER Xerox 106R01629 Yellow"@en	COL title VAL  "Xerox Phaser 6000/6010 Black Toner"@en	0
+COL title VAL  "Epson 24XL Original Ink Cartridge C13T24314012 Black"@en	COL title VAL  "Original Epson T1571 Photo Black Ink Cartridge"@en	0
+COL title VAL  "Brother MFC-L2710DW multifunzione Laser 1200 x 1200 DPI 30 ppm A4 Wi-Fi"@en	COL title VAL  "CANON 0898B001AA PFI102Y YELLOW INK TANK"@en	0
+COL title VAL  "Epson Ink Cartridge - Cyan - Inkjet - 450 Page"@en	COL title VAL  "Epson T0792 Cyan Ink Cartridge"@en	0
+COL title VAL  "PGI-9G Original Canon Green Ink Cartridge"@en	COL title VAL  "Canon PGI-9G / Green / original / ink tank / for PIXMA Pro9500 | 1041B001"@en	1
+COL title VAL  "Cartridge Epson T9454, 5000 stran žltá (C13T945440)"@en	COL title VAL  "Epson Cartouche d'encre C13T05424010 (T0542)"@fr	0
+COL title VAL  "Canon BJ CARTRIDGE PGI-29 GY pro PIXMA PRO 1"@pt	COL title VAL  "Brother DR 2300 12000 sider"@en	0
+COL title VAL  "PFI-102MBK - Matte Black Ink Tank 130ml"@en	COL title VAL  "Genuine Canon PFI-102 Matte Black Ink Cartridge (PFI102MBKOEM)"@en	1
+COL title VAL  "Canon 6706B001 PFI107 Cyan Ink 130ml"@tl	COL title VAL  "Canon Ink Cart. PG-40/CL-41 Multipack blistered per MF210/220//MP150/160/170/180/ 450//iP1600/1700/1800/2200// JX200/500 black/colour (0615B036)"@en	0
+COL title VAL  "Brother HL-L6200DW Wireless High Speed Mono Laser Printer - Duplex Printer"@en	COL title VAL  "Brother HL-L8360CDW (A4) Wireless Colour Laser Printer"@en	0
+COL title VAL  "Samsung CLT-K406S Black Original Standard Yield Toner Cartridge"@en	COL title VAL  "Epson T12814 Inkjet Cartridge Standard Yield 5.9ml Black. For use in Epson Stylus Office BX305F, S22, SX125, SX420W and SX425W printers. (Fox) EP46391"@en	0
+COL title VAL  "0000000475| Canon PGI29LGY Light Grey Ink Tank"@en	COL title VAL  "Canon PGI-9G / Green / original / ink tank / for PIXMA Pro9500 | 1041B001"@en	0
+COL title VAL  "Genuine Yellow OKI 43872305 Toner Cartridge (43872305 Laser Printer Cartridge)"@en	COL title VAL  "Brother TN-135Y Laserkasetti yellow"@en	0
+COL title VAL  "Epson blátt blekhylki Stylus Photo R800"@no	COL title VAL  "Epson T6932 Ultrachro XD Photo Cyan Ink 350ml"@en	0
+COL title VAL  "Canon PGI-29 Ink Tank Grey 4871B001AA CO68194"@en	COL title VAL  "0000000475| Canon PGI29LGY Light Grey Ink Tank"@en	0
+COL title VAL  "Originlny toner Xerox 106R01162 (lt)"@en	COL title VAL  "Compatible Xerox 106R02757 [Magenta] Toner Cartridge"@en	0
+COL title VAL  "Canon 120 Reman HY Toner 5K PR"@en	COL title VAL  "Lexmark HY Toner Cartridge - Magenta, C544X1MG (C544X1MG)"@en	0
+COL title VAL  "Epson Light Black Ink Cartridge 220ml"@en	COL title VAL  "Epson T591700 11880 Ink Light Black 700ml"@en	0
+COL title VAL  "Dymo D1 Poyester Tape 16959"@en	COL title VAL  "Dymo Rhino 12mm Steel Tape (32500)"@nl	0
+COL title VAL  "Epson C13T596900 T5969 Light Light Black Ink 350ml"@en	COL title VAL  "Epson Ink Cartridge - Yellow 700ml"@en	0
+COL title VAL  "Canon PGI-72 Ink Cartridge - Photo Black, Photo Cyan, Photo Magenta, Grey"@en	COL title VAL  "0000000475| Canon PGI29LGY Light Grey Ink Tank"@en	0
+COL title VAL  "PGI-9G Original Canon Green Ink Cartridge"@en	COL title VAL  "Canon PG-545 Black Original Ink Cartridge, E Zezë"@en	0
+COL title VAL  "PFI-102MBK - Matte Black Ink Tank 130ml"@en	COL title VAL  "Canon PFI-102Y 130ml Yellow"@cy	0
+COL title VAL  "Epson T0792 Cyan Ink Cartridge"@en	COL title VAL  "Zebra ZXP 7 Ribbon Black 800077-701"@de	0
+COL title VAL  "Dymo D1 Poyester Tape 16959"@en	COL title VAL  "Dymo Industrial Embossing tape 35800"@en	0
+COL title VAL  "Toner Brother TN-241MHL-3140/50/70"@en	COL title VAL  "Brother TN-241M (prentar:1,400 síður) rautt dufthylki"@en	1
+COL title VAL  "Brother LC225XL Style Magenta Compatible Ink Cartridge"@en	COL title VAL  "T6923 magenta Ink Cartridge 110ml"@en	0
+COL title VAL  "Originln toner OKI 43865724 (ern)"@de	COL title VAL  "OKI C301/C321 Toner Amarillo"@en	0
+COL title VAL  "Lexmark C540 Magenta High Yield Return Program Toner 0C540H1CG"@en	COL title VAL  "Lexmark HY Toner Cartridge - Magenta, C544X1MG (C544X1MG)"@en	0
+COL title VAL  "CANON 0372C001 PGI-570PGB 15ML"@vi	COL title VAL  "Canon Multipack PGI-72multi1 (6403B007)"@ro	0
+COL title VAL  "Original Canon CL-211 Ink Cartridge - Inkjet - 244 Pages Tri-color - Cyan, Magenta, Yellow - 1 Each - TAA Compliance"@en	COL title VAL  "Canon PGI-72 Ink Cartridge - Photo Black, Photo Cyan, Photo Magenta, Grey"@en	0
+COL title VAL  "Original Epson 18 Magenta Ink cartridge (T1803)"@en	COL title VAL  "Cartridge - Yellow - 1000 pages - Phaser 6010,WorkCentre 6015"@en	0
+COL title VAL  "Epson Black Inkjet Cartridge. For use in WP4000/4500 machines. Page Yield - up to 1200 pages. OEM Ref - T703140. (Big Ben) EP49005"@en	COL title VAL  "Epson T12814 Inkjet Cartridge Standard Yield 5.9ml Black. For use in Epson Stylus Office BX305F, S22, SX125, SX420W and SX425W printers. (Fox) EP46391"@en	0
+COL title VAL  "OKI Toner Cyan 10k - C831"@id	COL title VAL  "OKI C301/C321 Toner Amarillo"@en	0
+COL title VAL  "Dymo D1 Tape for Labelmaker Polyester Permanent 12x5.5mm Black on White Ref 16959 S0718060"@en	COL title VAL  "Brother [TN-200] black Toner"@en	0
+COL title VAL  "Canon 718Y Yellow Toner Cartridge"@en	COL title VAL  "Genuine OKI 44059105 Yellow Toner Cartridge (8,000 Pages) for OKI C810, C830 Printers"@en	0
+COL title VAL  "Lexmark C544 Magenta Extra High Yield Return Program Toner 0C544X1CG"@en	COL title VAL  "C748H1CG Cyan High-Yield Toner"@en	0
+COL title VAL  "Originlny toner OKI 44992402 (iern)"@en	COL title VAL  "OKI C301/C321 Toner Amarillo"@en	0
+COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	COL title VAL  "Canon PGI-9G / Green / original / ink tank / for PIXMA Pro9500 | 1041B001"@en	0
+COL title VAL  "Original Lexmark X945X2KG Toner Black"@en	COL title VAL  "Lexmark X945X2KG Original Black High Yield Toner Cartridge"@en	1
+COL title VAL  "Epson blátt blekhylki Stylus Photo R800"@no	COL title VAL  "Epson Cartouche d'encre C13T05424010 (T0542)"@fr	1
+COL title VAL  "Brother TN-241M (prentar:1,400 síður) rautt dufthylki"@en	COL title VAL  "Original Tinte Brother LC-1280XLM, ca. 1.200 S., magenta"@en	0
+COL title VAL  "Samsung MLT-D103L Toner Cartridge Black, High Yield"@en	COL title VAL  "Samsung CLT-K404S Black Toner Cartridge (Compatible)"@en	0
+COL title VAL  "Compatible Canon 6448B001 (CLI-251XL) High Yield Black Ink Cartridge"@en	COL title VAL  "Xerox 106R01218 Hi Yield Compatible Cyan Toner Cartridge"@en	0
+COL title VAL  "Canon PGI-9G / Green / original / ink tank / for PIXMA Pro9500 | 1041B001"@en	COL title VAL  "Canon BJ CARTRIDGE PGI-29 GY pro PIXMA PRO 1"@pt	0
+COL title VAL  "Originlny toner OKI 43872305 (lt)"@en	COL title VAL  "Epson S050189 toner ciano ACULA.C1100 4k"@en	0
+COL title VAL  "Epson Orange Ink Cartridge 700ml for Stylus Pro 7900/9900"@en	COL title VAL  "Epson T596800 Matte Black 350ml Ultrachrome HDR Ink Cartridge for SP7900, 9900, 7890, 9890"@en	0
+COL title VAL  "Original TONER Xerox 106R01629 Yellow"@en	COL title VAL  "Xerox 106R01162 25k Yellow Toner"@en	0
+COL title VAL  "Epson DURABrite T1281 Ink Cartridge - Black"@en	COL title VAL  "Ink Cartridge EPSON Light Black 220ml Stylus Pro 7800/7880/9800/9880"@en	0
+COL title VAL  "Epson C13T70334010 T7033 Magenta Ink 10ml"@en	COL title VAL  "Canon 703 Black Original Laser Toner Cartridge"@en	0
+COL title VAL  "Epson T591700 11880 Ink Light Black 700ml"@en	COL title VAL  "Epson GF Stylus Photo 11880 Cartucho Negro claro"@en	1
+COL title VAL  "Xerox Phaser 6000/6010 Black Toner"@en	COL title VAL  "E260A11E CompatibleLexmark Black Toner (3500 pages)"@en	0
+COL title VAL  "Canon 0884B001AA (PFI-101C) Ink Cartridge, Cyan, OEM"@en	COL title VAL  "Canon PGI-220 Inkjet Cartridge, Pigment Black, OEM"@en	0
+COL title VAL  "Canon 718Y Yellow Toner Cartridge"@en	COL title VAL  "CANON CLI 571 C ORIGINEEL"@en	0
+COL title VAL  "Epson 24XL Original Ink Cartridge C13T24314012 Black"@en	COL title VAL  "Original Epson 18 Magenta Ink cartridge (T1803)"@en	0
+COL title VAL  "Brother TN-135Y Laserkasetti yellow"@en	COL title VAL  "Brother HL-L5200DW S/W- Laserdrucker"@de	0
+COL title VAL  "Original Toner Canon 3022C002 / 054, ca. 1.200 S., magenta"@it	COL title VAL  "Original Tinte Brother LC-1280XLM, ca. 1.200 S., magenta"@en	0
+COL title VAL  "Epson T596800 Matte Black 350ml Ultrachrome HDR Ink Cartridge for SP7900, 9900, 7890, 9890"@en	COL title VAL  "PFI-207 BKCanon iPF680/685/780/785 (300ml) 8789B001"@tl	0
+COL title VAL  "PFI-207 BKCanon iPF680/685/780/785 (300ml) 8789B001"@tl	COL title VAL  "PFI-102MBK - Matte Black Ink Tank 130ml"@en	0
+COL title VAL  "Genuine OKI 44059105 Yellow Toner Cartridge (8,000 Pages) for OKI C810, C830 Printers"@en	COL title VAL  "Genuine Yellow OKI 43872305 Toner Cartridge (43872305 Laser Printer Cartridge)"@en	0
+COL title VAL  "Canon PFI-102Y 130ml Yellow"@cy	COL title VAL  "CANON 0372C001 PGI-570PGB 15ML"@vi	0
+COL title VAL  "Epson C13T596900 T5969 Light Light Black Ink 350ml"@en	COL title VAL  "Epson T591700 11880 Ink Light Black 700ml"@en	0
+COL title VAL  "Epson 24XL Original Ink Cartridge C13T24314012 Black"@en	COL title VAL  "Epson Original 18XL T1812 Daisy Ink Cartridge 6.6ml Cyan"@en	0
+COL title VAL  "Brother HL-L6200DW Wireless High Speed Mono Laser Printer - Duplex Printer"@en	COL title VAL  "Brother HL-L6300DW / A4 / Laser / 1200 x 1200 dpi / černobílá / USB / WiFi / LAN / NFC"@en	0
+COL title VAL  "Brother DR 2300 12000 sider"@en	COL title VAL  "Brother - DR-2300 (HL-L23xx, DCP-L25xx, MFC-L27xx, 12 000 stran)"@en	1
+COL title VAL  "Xerox Phaser 6000/6010 Black Toner"@en	COL title VAL  "Xerox Phaser 6000/ 6010 Black print cartridge"@en	1
+COL title VAL  "TONER CANON718 YELLOW ORIGINAL2900 K"@en	COL title VAL  "Canon 718Y Yellow Toner Cartridge"@en	1
+COL title VAL  "Epson atrament SP PX660/PX820/1400/1500W cyan C13T07924010"@en	COL title VAL  "EPSON Multipack fr EPSON Stylus Photo R200 / R300 Inhalt: je 1x light cyan, cyan, light magenta, magenta, gelb, schwarz (neu: C13T04874010 / alt: C13T048140A0) R220 / R320 / R340 / RX500 / RX600 / RX620 / RX640"@en	0
+COL title VAL  "Cartouche d'encre Epson Epson T7023 XL Cartouche d'encre Magenta"@fr	COL title VAL  "Epson - Tanica - magenta - C13T692300 - 110ml"@it	0
+COL title VAL  "Brother ink LC-225XLM magenta 1200PP x MFC-J5320DW MFC-J5620DW MFC-J5720DW MFC-J4620DW"@en	COL title VAL  "Brother LC-1280XL Magenta Ink Cartridge for MFC-J6510/J6910"@en	0
+COL title VAL  "Epson Tower of Pisa Tanica Magenta"@en	COL title VAL  "Epson - Tanica - magenta - C13T692300 - 110ml"@it	0
+COL title VAL  "Epson Vivid Magenta T5963 UltraChrome HDR 350 ml"@en	COL title VAL  "Epson Ink Stylus Pro 7890/9890 & 7900/9900 -Vivid Magenta"@en	1
+COL title VAL  "Original PATRONE Epson T5805 Light Cyan"@en	COL title VAL  "EPSON Multipack fr EPSON Stylus Photo R200 / R300 Inhalt: je 1x light cyan, cyan, light magenta, magenta, gelb, schwarz (neu: C13T04874010 / alt: C13T048140A0) R220 / R320 / R340 / RX500 / RX600 / RX620 / RX640"@en	0
+COL title VAL  "Canon 0884B001AA (PFI-101C) Ink Cartridge, Cyan, OEM"@en	COL title VAL  "Canon PGI-9G / Green / original / ink tank / for PIXMA Pro9500 | 1041B001"@en	0
+COL title VAL  "0000000475| Canon PGI29LGY Light Grey Ink Tank"@en	COL title VAL  "PGI-9G Original Canon Green Ink Cartridge"@en	0
+COL title VAL  "OEM HP 80A, CF280A LaserJet Toner Cartridge - Black - 2.7K"@en	COL title VAL  "HP 45A Black Laserjet Toner Cartridge Q5945A"@en	0
+COL title VAL  "Epson Ink Stylus Pro 7890/9890 & 7900/9900 -Vivid Magenta"@en	COL title VAL  "Epson Orange Ink Cartridge 700ml for Stylus Pro 7900/9900"@en	0
+COL title VAL  "Canon 120 Reman HY Toner 5K PR"@en	COL title VAL  "Canon No. 120 Black Toner Cartridge"@en	1
+COL title VAL  "T6923 magenta Ink Cartridge 110ml"@en	COL title VAL  "Epson T0792 Cyan Ink Cartridge"@en	0
+COL title VAL  "Canon 703 Black Original Laser Toner Cartridge"@en	COL title VAL  "Canon 718Y Yellow Toner Cartridge"@en	0
+COL title VAL  "Canon *Canon Ink CL-211 - Color"@en	COL title VAL  "CANON CLI 571 C ORIGINEEL"@en	0
+COL title VAL  "Brother HL-L6200DW Wireless High Speed Mono Laser Printer - Duplex Printer"@en	COL title VAL  "Brother Monochrome Compact Laser All-in-One Printer with Duplex Printing and Wireless Networking"@en	0
+COL title VAL  "Ink cartridge EPSON Light Light Black Stylus Pro 7900 / 9900, 350 ml."@en	COL title VAL  "Ink Cartridge EPSON Light Black 220ml Stylus Pro 7800/7880/9800/9880"@en	0
+COL title VAL  "Epson Cartouche d'encre C13T05424010 (T0542)"@fr	COL title VAL  "Cartouche d'encre Epson T1571 XL Tortue - Noir Photo"@fr	0
+COL title VAL  "Epson - Vaschetta recupero toner - C13T619000"@it	COL title VAL  "Epson Replacement Maintenance Tank for P5070"@en	1
+COL title VAL  "Toner OKI B411 44574702 black"@sv	COL title VAL  "Samsung - CLT-K404S - Black Toner"@de	0
+COL title VAL  "EPSON Ink T5805 Light Cyan mustekasetti"@fi	COL title VAL  "Epson C13T596900 T5969 Light Light Black Ink 350ml"@en	0
+COL title VAL  "Epson T6932 Ultrachro XD Photo Cyan Ink 350ml"@en	COL title VAL  "Epson T0792 Cyan Ink Cartridge"@en	0
+COL title VAL  "Canon PGI-220 Black Ink Cartridge"@en	COL title VAL  "Compatible Canon 6448B001 (CLI-251XL) High Yield Black Ink Cartridge"@en	0
+COL title VAL  "Canon PGI-5BK Inkjet Cartridge Page Life 505pp 26ml Black 0628B025 Pack of 2"@en	COL title VAL  "Canon PGI-220 Inkjet Cartridge, Pigment Black, OEM"@en	0
+COL title VAL  "Canon 703 Black Original Laser Toner Cartridge"@en	COL title VAL  "Canon Toner-Cartridge 707C Cyan"@en	0
+COL title VAL  "Canon 0884B001AA (PFI-101C) Ink Cartridge, Cyan, OEM"@en	COL title VAL  "Canon OEM PFI-207BK Black Ink"@en	0
+COL title VAL  "OKI 44992402 Toner black, 2.5K pages"@da	COL title VAL  "Originlny toner OKI 44992402 (iern)"@en	1
+COL title VAL  "Epson T6932 Patron Cyan 350ml(Eredeti)"@tr	COL title VAL  "Epson T6932 Ultrachro XD Photo Cyan Ink 350ml"@en	1
+COL title VAL  "Originlny toner OKI 44992402 (iern)"@en	COL title VAL  "Originlny toner OKI 43872305 (lt)"@en	0
+COL title VAL  "Epson T596800 Matte Black 350ml Ultrachrome HDR Ink Cartridge for SP7900, 9900, 7890, 9890"@en	COL title VAL  "EPSON YELLOW 700ML INK FOR 7890/7900/7700/9700/9890/9900(1)"@en	0
+COL title VAL  "Original HP 45A Q5945A Black LaserJet Toner Cartridge"@en	COL title VAL  "HP 45A Black Laserjet Toner Cartridge Q5945A"@en	1
+COL title VAL  "Brother MFC-L2710DW multifunzione Laser 1200 x 1200 DPI 30 ppm A4 Wi-Fi"@en	COL title VAL  "Brother HL-L8360CDW (A4) Wireless Colour Laser Printer"@en	0
+COL title VAL  "Brother MFC-L2710DW multifunzione Laser 1200 x 1200 DPI 30 ppm A4 Wi-Fi"@en	COL title VAL  "Brother ink LC-225XLM magenta 1200PP x MFC-J5320DW MFC-J5620DW MFC-J5720DW MFC-J4620DW"@en	0
+COL title VAL  "HP 80A Black Original LaserJet Toner Cartridge"@en	COL title VAL  "Original Lexmark X945X2KG Toner Black"@en	0
+COL title VAL  "Brother HL-L6200DW laser printer 1200 x 1200 DPI A4 Wi-Fi"@en	COL title VAL  "Kyocera FS 2100 Toner Kit 12.5K"@en	0
+COL title VAL  "OKI C831/C841 Toner Cian"@en	COL title VAL  "Samsung - CLT-K404S - Black Toner"@de	0
+COL title VAL  "Canon 718Y Yellow Toner Cartridge"@en	COL title VAL  "Canon Toner 054 c (3023C002)"@en	0
+COL title VAL  "Canon PGI-72 Ink Cartridge - Photo Black, Photo Cyan, Photo Magenta, Grey"@en	COL title VAL  "Genuine Yellow OKI 43872305 Toner Cartridge (43872305 Laser Printer Cartridge)"@en	0
+COL title VAL  "0000000475| Canon PGI29LGY Light Grey Ink Tank"@en	COL title VAL  "Canon PGI29LGY Light Grey Ink (Pro One Series)"@en	1
+COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	COL title VAL  "Canon 6706B001 PFI107 Cyan Ink 130ml"@tl	0
+COL title VAL  "CANON CLI 571 C ORIGINEEL"@en	COL title VAL  "Originln toner CANON CRG-707 C (Azurov)"@de	0
+COL title VAL  "Epson DURABrite T1281 Ink Cartridge - Black"@en	COL title VAL  "Epson T7551 XL Black High Yield Ink Cartridge C13T755140 / T7551 EP53959"@en	0
+COL title VAL  "Canon 718Y Yellow Toner Cartridge"@en	COL title VAL  "Brother Brother HL-L5200DW Black and White Laser Printer Wireless Networkable with Auto Duplexer - 40PPM - AIRPRINT"@en	0
+COL title VAL  "Epson C13T70334010 T7033 Magenta Ink 10ml"@en	COL title VAL  "Epson T7034 YE (C13T70344010) OEM"@en	0
+COL title VAL  "OKI 43865724 Style Black Compatible Toner"@en	COL title VAL  "Lexmark E260A11E Style Black Compatible Toner"@en	0
+COL title VAL  "HP 80A Black Original LaserJet Toner Cartridge"@en	COL title VAL  "OEM HP 80A, CF280A LaserJet Toner Cartridge - Black - 2.7K"@en	1
+COL title VAL  "Canon PGI-72 Ink Cartridge - Photo Black, Photo Cyan, Photo Magenta, Grey"@en	COL title VAL  "Canon PGI-220 Black Ink Cartridge"@en	0
+COL title VAL  "Epson atrament WP4000/4500 series magenta XL C13T70234010"@ca	COL title VAL  "Epson C13T755140 XL Black Ink Cartridge 5k Yield"@en	0
+COL title VAL  "T6923 magenta Ink Cartridge 110ml"@en	COL title VAL  "Epson Vivid Magenta T5963 UltraChrome HDR 350 ml"@en	0
+COL title VAL  "Epson C13T70334010 T7033 Magenta Ink 10ml"@en	COL title VAL  "T6923 magenta Ink Cartridge 110ml"@en	0
+COL title VAL  "Canon No. 120 Black Toner Cartridge"@en	COL title VAL  "Kyocera TK-3100 Black Toner Cartridge"@en	0
+COL title VAL  "Epson C13T596900 T5969 Light Light Black Ink 350ml"@en	COL title VAL  "Ink cartridge EPSON Light Light Black Stylus Pro 7900 / 9900, 350 ml."@en	1
+COL title VAL  "Canon PGI-5BK Inkjet Cartridge Page Life 505pp 26ml Black 0628B025 Pack of 2"@en	COL title VAL  "Epson Light Black Ink Cartridge 220ml"@en	0
+COL title VAL  "Dymo RhinoPRO Industrial Tape 1500 WT Coloured Vinyl 12mm White Ref 18444 S0718600"@en	COL title VAL  "Dymo D1 Tape for Labelmaker Polyester Permanent 12x5.5mm Black on White Ref 16959 S0718060"@en	0
+COL title VAL  "Brother HL-L8360CDW (A4) Wireless Colour Laser Printer"@en	COL title VAL  "Brother Brother HL-L5200DW Black and White Laser Printer Wireless Networkable with Auto Duplexer - 40PPM - AIRPRINT"@en	0
+COL title VAL  "Original Brother LC1220BK Black Ink Cartridge"@en	COL title VAL  "Canon PGI-220 Black Ink Cartridge"@en	0
+COL title VAL  "Toner Xerox - Workcentre 6027 - magenta - originale - cartuccia toner 106r02757"@it	COL title VAL  "Compatible Xerox 106R02757 [Magenta] Toner Cartridge"@en	1
+COL title VAL  "Brother [TN-135Y] HC yellow Toner"@en	COL title VAL  "Toner Brother TN-241MHL-3140/50/70"@en	0
+COL title VAL  "Epson Tower of Pisa Tanica Magenta"@en	COL title VAL  "Cartus cerneala Epson 79XL magenta, singlepack DURABrite ultra ink, capacitate (17ml) - 2000 pagini"@it	1
+COL title VAL  "Epson 24XL Original Ink Cartridge C13T24314012 Black"@en	COL title VAL  "Epson Elephant 24XL (Prentar 500 síður) High Capacity Claria Photo HD blekhylki (svart)"@en	1
+COL title VAL  "OKI 44992402 Toner black, 2.5K pages"@da	COL title VAL  "44574702 Compatible Oki Black Toner (3000 pages)"@en	0
+COL title VAL  "Epson GF Stylus Photo 7900/9900 Cartucho Verde"@de	COL title VAL  "Epson blátt blekhylki Stylus Photo R800"@no	0
+COL title VAL  "Ink Cartridge EPSON Light Black 220ml Stylus Pro 7800/7880/9800/9880"@en	COL title VAL  "Epson Orange Ink Cartridge 700ml for Stylus Pro 7900/9900"@en	0
+COL title VAL  "Original TONER Xerox 106R01629 Yellow"@en	COL title VAL  "Toner Xerox - Workcentre 6027 - magenta - originale - cartuccia toner 106r02757"@it	0
+COL title VAL  "Epson Replacement Maintenance Tank for P5070"@en	COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	0
+COL title VAL  "Compatible Xerox 106R02757 [Magenta] Toner Cartridge"@en	COL title VAL  "Original TONER Xerox 106R01629 Yellow"@en	0
+COL title VAL  "Original TONER Xerox 106R01629 Yellow"@en	COL title VAL  "Originlny toner Xerox 106R01162 (lt)"@en	0
+COL title VAL  "Samsung CLT-K404S Black Toner Cartridge (Compatible)"@en	COL title VAL  "Compatible Xerox 106R02757 [Magenta] Toner Cartridge"@en	0
+COL title VAL  "Original PATRONE Canon CLI-571 Cyan"@tl	COL title VAL  "CANON CLI 571 C ORIGINEEL"@en	1
+COL title VAL  "Brother LC-1280XL Magenta Ink Cartridge for MFC-J6510/J6910"@en	COL title VAL  "Brother LC225XL Style Magenta Compatible Ink Cartridge"@en	0
+COL title VAL  "Epson C13T70334010 T7033 Magenta Ink 10ml"@en	COL title VAL  "Toner Brother TN-241MHL-3140/50/70"@en	0
+COL title VAL  "Original Lexmark X945X2KG Toner Black"@en	COL title VAL  "Brother [TN-200] black Toner"@en	0
+COL title VAL  "Epson GF Stylus Photo 7900/9900 Cartucho Verde"@de	COL title VAL  "Epson Ink Stylus Pro 7890/9890 & 7900/9900 -Vivid Magenta"@en	0

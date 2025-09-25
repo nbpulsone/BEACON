@@ -1,0 +1,311 @@
+COL title VAL  "Shimano Chain CN-HG95 10 Speed MTB"@en	COL title VAL  "SHIMANO SHIMANO Chaine CN-HG701 11V Ultegra deore (Route/MTB/E-Bike)"@de	0
+COL title VAL  "Shimano Dura-Ace CS-R9100 Cassette 11 vitesses"@it	COL title VAL  "Shimano Dura Ace R9100 11-Speed Cassette"@en	1
+COL title VAL  "High Roller II Tire - 29 x 2.3, Tubeless, Folding, Black, Dual, EXO"@en	COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 29''x2.50, Folding, Tubeless Ready, 3C Maxx Terra, Double Down, Wide Trail, 120x2TPI, Black"@en	0
+COL title VAL  "Maxxis Assegai WT 27.5 x 2.5 Tyre Maxx Terra Fold"@ca	COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 27.5''x2.50, Folding, Tubeless Ready, 3C Maxx Terra, EXO, Wide Trail, 60TPI, Black"@en	0
+COL title VAL  "SPD-SL SH 11 - tacchette"@it	COL title VAL  "Shimano PD-R550 SPD-SL PEDALS BLACK"@tl	0
+COL title VAL  "Shimano Ultegra/XT HG701 Quicklink 11sp Chain"@en	COL title VAL  "Shimano DURA ACE CN-HG900-11 HG901 HG-X SIL-TEC CHAIN"@so	0
+COL title VAL  "SRAM Sram Guide Disc Brake Pads"@de	COL title VAL  "Shimano J04C Metal Disc Brake Pad"@en	0
+COL title VAL  "High Roller II 27.5 x 2.40 60 TPI Folding 3C Maxx Terra ExO / TR tyre"@en	COL title VAL  "Maxxis Tire High Roller II EXO/TR Foldable 27.5x2.30"@en	0
+COL title VAL  "Garmin Fenix 5S Black Sapphire with Black Band"@en	COL title VAL  "Garmin Black fenix 5S Sapphire Watch with Black Band"@en	1
+COL title VAL  "SRAM Red XG-1090 X-Dome 10-Speed Cassette (Silver) (11-23T)"@no	COL title VAL  "SRAM SRAM PG-1130 Cassette - 11 Speed, 11-36t, Silver"@en	0
+COL title VAL  "Road Disc Sintered Brake Pads"@en	COL title VAL  "Shimano J04C Metal Disc Brake Pad and Spring with Fin for XTR M9020 M985, XT M8000, SLX M675, Road R517, Deore M615"@en	0
+COL title VAL  "Shimano Ultegra/XT HG701 Quicklink 11sp Chain"@en	COL title VAL  "Shimano Ultegra CS-R8000 11sp Cassette 11-28T"@it	0
+COL title VAL  "Double Socket Arm - Long - RAM-B-201U-C"@en	COL title VAL  "RAM Short Double Socket Arm 1\" Balls"@en	0
+COL title VAL  "Relógio Garmin Venu 010-02173-12 Venu"@it	COL title VAL  "Garmin Fenix 6X Sapphire Carbon Grey DLC 010-02157-11"@en	0
+COL title VAL  "MTB Plášť MAXXIS HIGH ROLLER II 27,5x2,40 3C Maxx Terra EXO TR kevlar"@sk	COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 27.5''x2.50, Folding, Tubeless Ready, 3C Maxx Terra, EXO, Wide Trail, 60TPI, Black"@en	0
+COL title VAL  "RAP-B-201U-A - RAM Composite Short Double Socket Arm for 1\" Balls"@en	COL title VAL  "RAM® Double Socket Arm B-201-U-A"@en	0
+COL title VAL  "Cassette 105 CS-R7000 11 vitesses"@it	COL title VAL  "Shimano Ultegra CS-R8000 11sp Cassette 11-28T"@it	1
+COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 27.5''x2.50, Folding, Tubeless Ready, 3C Maxx Terra, EXO, Wide Trail, 60TPI, Black"@en	COL title VAL  "Shimano | XT CS-M8000 Cassette"@it	0
+COL title VAL  "RAM Short Double Socket Arm C Size (RAM-201U-B)"@en	COL title VAL  "RAM Short Double Socket Arm for 1.5\" Balls (Overall Length: 3.5\")"@en	1
+COL title VAL  "Maxxis Tire High Roller II EXO/TR Foldable 27.5x2.30"@en	COL title VAL  "Maxxis Assegai WT 27.5 x 2.5 Tyre Maxx Terra Fold"@ca	0
+COL title VAL  "Ram Mounts RAM Long Length Double Socket Arm for B Size 1\" Balls"@en	COL title VAL  "RAM Short Double Socket Arm for 1.5\" Balls (Overall Length: 3.5\")"@en	0
+COL title VAL  "GARMIN Fenix 5X Sapphire Edition 51mm Black"@en	COL title VAL  "Garmin Fenix 5 Multisport GPS Watch 47mm Case Slate Grey Band"@en	1
+COL title VAL  "Maxxis Maxxis Minion DHR2 29 x 2.3 Folding Bead"@en	COL title VAL  "Maxxis Minion DHR II 3C MaxxTerra/DD TR 29\" Tire - 29 x 2.3\" (Folding Bead)"@en	1
+COL title VAL  "Maxxis High Roller II Dual Compound Tire (EXO/TR) (29 x 2.30) (Folding)"@en	COL title VAL  "Shimano Dura-Ace CS-R9100 11-25T 11sp Cassette"@it	0
+COL title VAL  "Garmin Black fenix 5S Sapphire Watch with Black Band"@en	COL title VAL  "Garmin Fenix 5 Multisport GPS Watch 47mm Case Slate Grey Band"@en	0
+COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 29''x2.50, Folding, Tubeless Ready, 3C Maxx Terra, Double Down, Wide Trail, 120x2TPI, Black"@en	COL title VAL  "Maxxis Highroller II Black Fold/120 x 2 3C/Terra/DD/TR/WT Tires"@en	1
+COL title VAL  "Garmin, Fenix 6X Pro & Sapphire Edition GPS Watch 51mm"@en	COL title VAL  "Smartphone Garmin Fenix 5X Plus 51mm Sapphire Black"@en	0
+COL title VAL  "Shimano Deore XT CS-M8000 Cassette 11 vitesses, silver/grey"@no	COL title VAL  "Shimano Dura-Ace CS-R9100 Cassette 11 vitesses"@it	0
+COL title VAL  "SRAM NX Eagle PG-1230 Cassette"@it	COL title VAL  "SRAM Cassette Sram NX Eagle PG-1230 12 vit 11-50D"@de	1
+COL title VAL  "RAP-B-201U-A - RAM Composite Short Double Socket Arm for 1\" Balls"@en	COL title VAL  "RAM Short Double Socket Arm 1\" Balls"@en	0
+COL title VAL  "Cassette 105 CS-R7000 11 vitesses"@it	COL title VAL  "XT M8000 11-Speed Cassette 11-40T"@en	0
+COL title VAL  "Shimano SPD-SL Pedals Black"@en	COL title VAL  "Shimano SH11 SPD-SL Cleat Set with Hardware Floating"@en	0
+COL title VAL  "Shimano Dura Ace R9100 11-Speed Cassette"@en	COL title VAL  "Shimano Ultegra CS-R8000 11sp Cassette 11-28T"@it	0
+COL title VAL  "Standard Mouth Water Bottle with Flex Cap Lid"@en	COL title VAL  "21 oz Standard Mouth - Olive"@en	1
+COL title VAL  "MAXXIS Pneu Maxxis Assegai 3C MaxxTerra EXO+ TR"@ca	COL title VAL  "Maxxis Assegai WT 27.5 x 2.5 Tyre Maxx Terra Fold"@ca	1
+COL title VAL  "Shimano Ultegra CS-R8000 11sp Cassette 11-28T"@it	COL title VAL  "SRAM AM CS PG-1170 11SP 11-25T"@en	0
+COL title VAL  "Maxxis Maxxis Minion DHR2 29 x 2.3 Folding Bead"@en	COL title VAL  "Maxxis Assegai WT 27.5 x 2.5 Tyre Maxx Terra Fold"@ca	0
+COL title VAL  "SRAM SRAM PG-1130 Cassette - 11 Speed, 11-36t, Silver"@en	COL title VAL  "Dura-Ace 9100 11-Speed Cassette"@en	0
+COL title VAL  "Double Socket Arm - Long - RAM-B-201U-C"@en	COL title VAL  "RAM Short Double Socket Arm for 1.5\" Balls (Overall Length: 3.5\")"@en	0
+COL title VAL  "Shimano Dura-Ace CS-R9100 11-25T 11sp Cassette"@it	COL title VAL  "SRAM AM CS PG-1170 11SP 11-25T"@en	0
+COL title VAL  "Garmin, Fenix 6X Pro & Sapphire Edition GPS Watch 51mm"@en	COL title VAL  "GARMIN Fenix 5X Sapphire Edition 51mm Black"@en	0
+COL title VAL  "Maxxis Maxxis, Aggressor, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	COL title VAL  "Aggressor | 29 inch x 2.30"@en	1
+COL title VAL  "Shimano Dura-Ace CS-R9100 11-25T 11sp Cassette"@it	COL title VAL  "Shimano Dura Ace R9100 11-Speed Cassette"@en	0
+COL title VAL  "SRAM Red XG-1090 X-Dome 10-Speed Cassette (Silver) (11-23T)"@no	COL title VAL  "Dura-Ace 9100 11-Speed Cassette"@en	0
+COL title VAL  "XT M8000 11-Speed Cassette 11-40T"@en	COL title VAL  "105 R7000 11-Speed Rear Derailleur GS"@en	0
+COL title VAL  "Shimano Dura-Ace CS-R9100 11-25T 11sp Cassette"@it	COL title VAL  "Shimano | XT CS-M8000 Cassette"@it	0
+COL title VAL  "Maxxis High Roller II Dual Compound Tire (EXO/TR) (29 x 2.30) (Folding)"@en	COL title VAL  "Maxxis Maxxis Minion DHR2 29 x 2.3 Folding Bead"@en	0
+COL title VAL  "MAXXIS Pneu Maxxis Assegai 3C MaxxTerra EXO+ TR"@ca	COL title VAL  "Maxxis Tire High Roller II EXO/TR Foldable 27.5x2.30"@en	0
+COL title VAL  "HydroFlask 32 oz. Wide Mouth Bottle w/ Flex Cap"@en	COL title VAL  "HydroFlask 21 oz. Standard Mouth Bottle w/ Flex Cap"@en	0
+COL title VAL  "XT M8000 11-Speed Cassette 11-40T"@en	COL title VAL  "Shimano Deore XT CS-M8000 Cassette 11 vitesses, silver/grey"@no	1
+COL title VAL  "Shimano Catena deore xt/xtr/slx hg95 10v. 116l"@ca	COL title VAL  "Shimano J04C Metal Disc Brake Pad and Spring with Fin for XTR M9020 M985, XT M8000, SLX M675, Road R517, Deore M615"@en	0
+COL title VAL  "Hydro Flask 32oz Drink Bottle"@no	COL title VAL  "Hydro Flask Hydration 32oz 2.0 Wide Black"@sv	0
+COL title VAL  "SRAM PG1130 11-36 11sp Cassette"@it	COL title VAL  "Shimano Dura-Ace CS-R9100 11-25T 11sp Cassette"@it	0
+COL title VAL  "105 R7000 SPD-SL Road Pedals"@en	COL title VAL  "Shimano PD-R7000 105 Clipless Pedal"@en	1
+COL title VAL  "105 RD-R7000 Rear Derailleur"@de	COL title VAL  "Cassette 105 CS-R7000 11 vitesses"@it	0
+COL title VAL  "HydroFlask 32 oz. Wide Mouth Bottle w/ Flex Cap"@en	COL title VAL  "RAM-Mounts Long Double Socket Verbindungsarm RAM-201U-D"@de	0
+COL title VAL  "SRAM Organic Disc Brake Pads - Level Ultimate / TLM"@en	COL title VAL  "SRAM Sram Guide Disc Brake Pads"@de	0
+COL title VAL  "Smartphone Garmin Fenix 5X Plus 51mm Sapphire Black"@en	COL title VAL  "GARMIN GPS chytré hodinky fenix5X Plus Sapphire Black, Black Band"@en	1
+COL title VAL  "Shimano BICYCLE CHAIN,CN-HG901-11,QL 11-SPD(RD/MTB/E-BIKE)QUICK-LNK"@so	COL title VAL  "Shimano Chain 105 CN HG601 11speed 116 Links"@en	0
+COL title VAL  "SRAM Sram Guide Disc Brake Pads"@de	COL title VAL  "RAM® Double Socket Arm B-201-U-A"@en	0
+COL title VAL  "Hydro Flask 32oz Drink Bottle"@no	COL title VAL  "Hydro Flask Hydration 21oz Standard Black"@sv	0
+COL title VAL  "Maxxis High Roller II Dual Compound Tire (EXO/TR) (27.5 x 2.30) (Folding)"@en	COL title VAL  "High Roller II 27.5 x 2.40 60 TPI Folding 3C Maxx Terra ExO / TR tyre"@en	0
+COL title VAL  "Shimano PD-R7000 105 Clipless Pedal"@en	COL title VAL  "PEDAL, PD-RS500, SPD-SL, W/CLEAT"@en	0
+COL title VAL  "SRAM Kassette PG-730 MTB;12-32 Zhne, verchromt;12-14-16-18-21-26-32 Zhne"@de	COL title VAL  "SRAM Sram Force 22 PG-117011-Speed Cassette"@en	0
+COL title VAL  "Shimano Dura-Ace CS-R9100 Cassette 11 vitesses"@it	COL title VAL  "Cassette 105 CS-R7000 11 vitesses"@it	0
+COL title VAL  "Shimano PD-R550 SPD-SL PEDALS BLACK"@tl	COL title VAL  "PEDAL, PD-RS500, SPD-SL, W/CLEAT"@en	0
+COL title VAL  "Ram Mounts RAM Long Length Double Socket Arm for B Size 1\" Balls"@en	COL title VAL  "RAP-B-201U-A - RAM Composite Short Double Socket Arm for 1\" Balls"@en	0
+COL title VAL  "Standard Mouth Water Bottle with Flex Cap Lid"@en	COL title VAL  "HydroFlask 32 oz. Wide Mouth Bottle w/ Flex Cap"@en	0
+COL title VAL  "SRAM NX Eagle PG-1230 Cassette"@it	COL title VAL  "SRAM AM CS PG-1170 11SP 11-25T"@en	0
+COL title VAL  "Maxxis Minion DHR II Tire - 29 x 2.4, Tubeless, Folding, Black, 3C Maxx Grip, DH, Wide Trail"@en	COL title VAL  "Maxxis Minion DHR II 3C MaxxTerra/DD TR 29\" Tire - 29 x 2.3\" (Folding Bead)"@en	0
+COL title VAL  "RAM Short Double Socket Arm C Size (RAM-201U-B)"@en	COL title VAL  "RAM® Double Socket Arm B-201-U-A"@en	0
+COL title VAL  "Ram Mounts RAM Long Length Double Socket Arm for B Size 1\" Balls"@en	COL title VAL  "Double Socket Arm - Long - RAM-B-201U-C"@en	1
+COL title VAL  "Garmin Black fenix 5S Sapphire Watch with Black Band"@en	COL title VAL  "Smartphone Garmin Fenix 5X Plus 51mm Sapphire Black"@en	0
+COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 27.5''x2.50, Folding, Tubeless Ready, 3C Maxx Terra, EXO, Wide Trail, 60TPI, Black"@en	COL title VAL  "High Roller II 27.5 x 2.40 60 TPI Folding 3C Maxx Terra ExO / TR tyre"@en	0
+COL title VAL  "High Roller II 27.5 x 2.40 60 TPI Folding 3C Maxx Terra ExO / TR tyre"@en	COL title VAL  "Shimano Ultegra/XT HG701 Quicklink 11sp Chain"@en	0
+COL title VAL  "105 R7000 SPD-SL Road Pedals"@en	COL title VAL  "R550 SPD SL Road Pedals"@en	0
+COL title VAL  "Ram Mount Composite Double Socket Arm"@en	COL title VAL  "RAM Short Double Socket Arm 1\" Balls"@en	0
+COL title VAL  "SRAM Kassette PG-730 MTB;12-32 Zhne, verchromt;12-14-16-18-21-26-32 Zhne"@de	COL title VAL  "PG730 7spd Cassette 12-32t"@it	1
+COL title VAL  "Shimano Dura Ace R9100 11-Speed Cassette"@en	COL title VAL  "Dura-Ace 9100 11-Speed Cassette"@en	0
+COL title VAL  "Deore XT 11-Speed Cassette"@no	COL title VAL  "SRAM Sram Force 22 PG-117011-Speed Cassette"@en	0
+COL title VAL  "Maxxis Assegai WT 27.5 x 2.5 Tyre Maxx Terra Fold"@ca	COL title VAL  "Maxxis Highroller II Black Fold/120 x 2 3C/Terra/DD/TR/WT Tires"@en	0
+COL title VAL  "21 oz Standard Mouth - Olive"@en	COL title VAL  "HydroFlask 32 oz. Wide Mouth Bottle w/ Flex Cap"@en	0
+COL title VAL  "Shimano Dura-Ace CS-R9100 Cassette 11 vitesses"@it	COL title VAL  "Shimano Ultegra/XT HG701 Quicklink 11sp Chain"@en	0
+COL title VAL  "Cassette 105 CS-R7000 11 vitesses"@it	COL title VAL  "Shimano | XT CS-M8000 Cassette"@it	0
+COL title VAL  "Shimano Deore XT CS-M8000 Cassette 11 vitesses, silver/grey"@no	COL title VAL  "Deore XT 11-Speed Cassette"@no	0
+COL title VAL  "Standard Mouth Water Bottle with Flex Cap Lid"@en	COL title VAL  "Hibiscus 32oz. Wide Mouth Water Bottle"@en	0
+COL title VAL  "GARMIN GPS chytré hodinky fenix5X Plus Sapphire Black, Black Band"@en	COL title VAL  "fēnix® 5S Plus Silver with Black Band"@en	0
+COL title VAL  "GARMIN Fenix 5X Sapphire Edition 51mm Black"@en	COL title VAL  "Garmin Fenix 6X Sapphire Carbon Grey DLC 010-02157-11"@en	0
+COL title VAL  "GARMIN Fenix 5X Sapphire Edition 51mm Black"@en	COL title VAL  "SRAM PG1130 11-36 11sp Cassette"@it	0
+COL title VAL  "RAM-Mounts Long Double Socket Verbindungsarm RAM-201U-D"@de	COL title VAL  "Ram Mount Composite Double Socket Arm"@en	0
+COL title VAL  "RAM Short Double Socket Arm C Size (RAM-201U-B)"@en	COL title VAL  "RAM Short Double Socket Arm 1\" Balls"@en	0
+COL title VAL  "Maxxis Minion DHR II Tire - 29 x 2.4, Tubeless, Folding, Black, 3C Maxx Grip, DH, Wide Trail"@en	COL title VAL  "Black / 29 inch / 60 TPI 2-Ply Foldable | 3CG / DH / TR"@en	1
+COL title VAL  "High Roller II Tire - 29 x 2.3, Tubeless, Folding, Black, Dual, EXO"@en	COL title VAL  "Maxxis Minion DHR II 3C MaxxTerra/DD TR 29\" Tire - 29 x 2.3\" (Folding Bead)"@en	0
+COL title VAL  "SH10 SPD-SL Fixed Pedal Cleats"@en	COL title VAL  "105 R7000 SPD-SL Road Pedals"@en	0
+COL title VAL  "Garmin Black fenix 5S Sapphire Watch with Black Band"@en	COL title VAL  "GARMIN GPS chytré hodinky fenix5X Plus Sapphire Black, Black Band"@en	0
+COL title VAL  "HIGH ROLLER II27.5x2.50 WT AR 3CT/EXO/TR"@en	COL title VAL  "Maxxis Tire High Roller II EXO/TR Foldable 27.5x2.30"@en	0
+COL title VAL  "High Roller II 27.5 x 2.40 60 TPI Folding 3C Maxx Terra ExO / TR tyre"@en	COL title VAL  "MTB Plášť MAXXIS HIGH ROLLER II 27,5x2,40 3C Maxx Terra EXO TR kevlar"@sk	1
+COL title VAL  "SRAM PG1130 11-36 11sp Cassette"@it	COL title VAL  "Sram Xg-1090, 10Sp Cassette"@no	0
+COL title VAL  "Shimano PD-R7000 105 Clipless Pedal"@en	COL title VAL  "Cassette 105 CS-R7000 11 vitesses"@it	0
+COL title VAL  "Deore XT 11-Speed Cassette"@no	COL title VAL  "Shimano Dura Ace R9100 11-Speed Cassette"@en	0
+COL title VAL  "Shimano BICYCLE CHAIN,CN-HG901-11,QL 11-SPD(RD/MTB/E-BIKE)QUICK-LNK"@so	COL title VAL  "Shimano DURA ACE CN-HG900-11 HG901 HG-X SIL-TEC CHAIN"@so	1
+COL title VAL  "PG730 7spd Cassette 12-32t"@it	COL title VAL  "SRAM Cassette Sram NX Eagle PG-1230 12 vit 11-50D"@de	0
+COL title VAL  "RAM-Mounts Long Double Socket Verbindungsarm RAM-201U-D"@de	COL title VAL  "RAM® Double Socket Arm B-201-U-A"@en	0
+COL title VAL  "SRAM Sram Guide Disc Brake Pads"@de	COL title VAL  "SRAM HRD Level ULT/ULM Metal Brake Pads"@en	0
+COL title VAL  "PASTIGLIE ORG-STEEL ROAD/LEVEL ULTIM."@en	COL title VAL  "SRAM HRD Level ULT/ULM Metal Brake Pads"@en	0
+COL title VAL  "SRAM Cassette Sram NX Eagle PG-1230 12 vit 11-50D"@de	COL title VAL  "SRAM Kassette PG-730 MTB;12-32 Zhne, verchromt;12-14-16-18-21-26-32 Zhne"@de	0
+COL title VAL  "Garmin Fenix 5S Black Sapphire with Black Band"@en	COL title VAL  "GARMIN Fenix 5X Sapphire Edition 51mm Black"@en	0
+COL title VAL  "Ram Mounts RAM Long Length Double Socket Arm for B Size 1\" Balls"@en	COL title VAL  "RAM Short Double Socket Arm C Size (RAM-201U-B)"@en	0
+COL title VAL  "SH10 SPD-SL Fixed Pedal Cleats"@en	COL title VAL  "Shimano SPD SL Cleat Set"@en	1
+COL title VAL  "HIGH ROLLER II27.5x2.50 WT AR 3CT/EXO/TR"@en	COL title VAL  "Hydro Flask 32oz Drink Bottle"@no	0
+COL title VAL  "Dura-Ace 9100 11-Speed Cassette"@en	COL title VAL  "Hydro Flask 32oz Widemouth w/ Flex Cap"@en	0
+COL title VAL  "Maxxis High Roller II Dual Compound Tire (EXO/TR) (27.5 x 2.30) (Folding)"@en	COL title VAL  "Maxxis High Roller II Dual Compound Tire (EXO/TR) (29 x 2.30) (Folding)"@en	0
+COL title VAL  "HydroFlask 21 oz. Standard Mouth Bottle w/ Flex Cap"@en	COL title VAL  "Hydro Flask Hydration 21oz Standard Black"@sv	1
+COL title VAL  "Deore XT 11-Speed Cassette"@no	COL title VAL  "Shimano | XT CS-M8000 Cassette"@it	1
+COL title VAL  "Ram Mount Composite Double Socket Arm"@en	COL title VAL  "Maxxis High Roller II Dual Compound Tire (EXO/TR) (27.5 x 2.30) (Folding)"@en	0
+COL title VAL  "SRAM AM CS PG-1170 11SP 11-25T"@en	COL title VAL  "SRAM Sram Force 22 PG-117011-Speed Cassette"@en	1
+COL title VAL  "Maxxis Maxxis Minion DHR2 29 x 2.3 Folding Bead"@en	COL title VAL  "Aggressor | 29 inch x 2.30"@en	0
+COL title VAL  "SRAM Organic Disc Brake Pads - Level Ultimate / TLM"@en	COL title VAL  "SRAM HRD Level ULT/ULM Metal Brake Pads"@en	0
+COL title VAL  "GARMIN Fenix 5X Sapphire Edition 51mm Black"@en	COL title VAL  "Garmin Black fenix 5S Sapphire Watch with Black Band"@en	0
+COL title VAL  "Garmin Fenix 5 Multisport GPS Watch 47mm Case Slate Grey Band"@en	COL title VAL  "Hydro Flask Hydration 32oz 2.0 Wide Black"@sv	0
+COL title VAL  "SRAM SRAM PG-1130 Cassette - 11 Speed, 11-36t, Silver"@en	COL title VAL  "SRAM PG1130 11-36 11sp Cassette"@it	1
+COL title VAL  "XT M8000 11-Speed Cassette 11-40T"@en	COL title VAL  "Dura-Ace 9100 11-Speed Cassette"@en	0
+COL title VAL  "Garmin Black fenix 5S Sapphire Watch with Black Band"@en	COL title VAL  "Garmin fenix 5S Plus Smartwatch, silver/black"@en	0
+COL title VAL  "Shimano PD-R7000 105 Clipless Pedal"@en	COL title VAL  "105 RD-R7000 Rear Derailleur"@de	0
+COL title VAL  "Shimano BICYCLE CHAIN,CN-HG601-11,QL 11-SPD(RD/MTB/E-BIKE)QUICK-LNK"@so	COL title VAL  "Shimano BICYCLE CHAIN,CN-HG901-11,QL 11-SPD(RD/MTB/E-BIKE)QUICK-LNK"@so	0
+COL title VAL  "Hydro Flask 32oz Widemouth w/ Flex Cap"@en	COL title VAL  "Hydro Flask 32oz Drink Bottle"@no	0
+COL title VAL  "RAM Short Double Socket Arm 1\" Balls"@en	COL title VAL  "RAM® Double Socket Arm B-201-U-A"@en	1
+COL title VAL  "SHIMANO SHIMANO Chaine CN-HG701 11V Ultegra deore (Route/MTB/E-Bike)"@de	COL title VAL  "Shimano BICYCLE CHAIN,CN-HG901-11,QL 11-SPD(RD/MTB/E-BIKE)QUICK-LNK"@so	0
+COL title VAL  "32oz (946mL) Wide Mouth 2.0"@en	COL title VAL  "Hydro Flask Hydration 32oz 2.0 Wide Black"@sv	0
+COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 29''x2.50, Folding, Tubeless Ready, 3C Maxx Terra, Double Down, Wide Trail, 120x2TPI, Black"@en	COL title VAL  "Maxxis Maxxis, Aggressor, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	0
+COL title VAL  "Maxxis High Roller II Dual Compound Tire (EXO/TR) (27.5 x 2.30) (Folding)"@en	COL title VAL  "Maxxis Maxxis Minion DHR2 29 x 2.3 Folding Bead"@en	0
+COL title VAL  "Shimano SPD-SL Pedals Black"@en	COL title VAL  "R550 SPD SL Road Pedals"@en	0
+COL title VAL  "SRAM NX Eagle PG-1230 Cassette"@it	COL title VAL  "Sram Xg-1090, 10Sp Cassette"@no	0
+COL title VAL  "Shimano SPD SL Cleat Set"@en	COL title VAL  "Shimano SPD-SL Pedals Black"@en	0
+COL title VAL  "Shimano Chain CN-HG95 10 Speed MTB"@en	COL title VAL  "Shimano BICYCLE CHAIN,CN-HG601-11,QL 11-SPD(RD/MTB/E-BIKE)QUICK-LNK"@so	0
+COL title VAL  "SRAM Cassette Sram NX Eagle PG-1230 12 vit 11-50D"@de	COL title VAL  "SRAM SRAM PG-1130 Cassette - 11 Speed, 11-36t, Silver"@en	0
+COL title VAL  "MTB Plášť MAXXIS HIGH ROLLER II 27,5x2,40 3C Maxx Terra EXO TR kevlar"@sk	COL title VAL  "HIGH ROLLER II27.5x2.50 WT AR 3CT/EXO/TR"@en	0
+COL title VAL  "Avid SRAM - AVIDBRAKE PADS SINTERED/STEEL, (1 SET) - TRAIL/GUIDE:"@en	COL title VAL  "SRAM Sram Guide Disc Brake Pads"@de	1
+COL title VAL  "Shimano Chain CN-HG95 10 Speed MTB"@en	COL title VAL  "Shimano Dura Ace R9100 11-Speed Cassette"@en	0
+COL title VAL  "Garmin fenix 5S Plus Smartwatch, silver/black"@en	COL title VAL  "fēnix® 5S Plus Silver with Black Band"@en	1
+COL title VAL  "Maxxis High Roller II Dual Compound Tire (EXO/TR) (27.5 x 2.30) (Folding)"@en	COL title VAL  "High Roller II Tire - 29 x 2.3, Tubeless, Folding, Black, Dual, EXO"@en	0
+COL title VAL  "High Roller II Tire - 29 x 2.3, Tubeless, Folding, Black, Dual, EXO"@en	COL title VAL  "Maxxis Minion DHR II Tire - 29 x 2.4, Tubeless, Folding, Black, 3C Maxx Grip, DH, Wide Trail"@en	0
+COL title VAL  "Shimano Dura-Ace CS-R9100 Cassette 11 vitesses"@it	COL title VAL  "Shimano | XT CS-M8000 Cassette"@it	0
+COL title VAL  "High Roller II Tire - 29 x 2.3, Tubeless, Folding, Black, Dual, EXO"@en	COL title VAL  "Maxxis Highroller II Black Fold/120 x 2 3C/Terra/DD/TR/WT Tires"@en	0
+COL title VAL  "Shimano SH11 SPD-SL Cleat Set with Hardware Floating"@en	COL title VAL  "SH10 SPD-SL Fixed Pedal Cleats"@en	0
+COL title VAL  "High Roller II Tire - 29 x 2.3, Tubeless, Folding, Black, Dual, EXO"@en	COL title VAL  "Maxxis Maxxis, Aggressor, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	0
+COL title VAL  "Double Socket Arm - Long - RAM-B-201U-C"@en	COL title VAL  "Ram Mount Composite Double Socket Arm"@en	0
+COL title VAL  "RAM Short Double Socket Arm for 1.5\" Balls (Overall Length: 3.5\")"@en	COL title VAL  "RAP-B-201U-A - RAM Composite Short Double Socket Arm for 1\" Balls"@en	0
+COL title VAL  "Shimano PD-R7000 105 Clipless Pedal"@en	COL title VAL  "Shimano Chain 105 CN HG601 11speed 116 Links"@en	0
+COL title VAL  "RAM Short Double Socket Arm for 1.5\" Balls (Overall Length: 3.5\")"@en	COL title VAL  "RAM Short Double Socket Arm 1\" Balls"@en	0
+COL title VAL  "Deore XT Shadow + Rear Derailleur (Long Cage)"@en	COL title VAL  "Deore XT 11-Speed Cassette"@no	0
+COL title VAL  "Hibiscus 32oz. Wide Mouth Water Bottle"@en	COL title VAL  "Hydro Flask 32oz Drink Bottle"@no	0
+COL title VAL  "Shimano Ultegra/XT HG701 Quicklink 11sp Chain"@en	COL title VAL  "Shimano BICYCLE CHAIN,CN-HG901-11,QL 11-SPD(RD/MTB/E-BIKE)QUICK-LNK"@so	0
+COL title VAL  "Relógio Garmin Venu 010-02173-12 Venu"@it	COL title VAL  "RAM-Mounts Long Double Socket Verbindungsarm RAM-201U-D"@de	0
+COL title VAL  "Shimano | XT CS-M8000 Cassette"@it	COL title VAL  "XT M8000 11-Speed Cassette 11-40T"@en	0
+COL title VAL  "32oz (946mL) Wide Mouth 2.0"@en	COL title VAL  "RAM Mount 9\" Arm for 1.5\" Ball"@en	0
+COL title VAL  "Sram Xg-1090, 10Sp Cassette"@no	COL title VAL  "SRAM Sram Guide Disc Brake Pads"@de	0
+COL title VAL  "RAM Mount 9\" Arm for 1.5\" Ball"@en	COL title VAL  "RAM Short Double Socket Arm 1\" Balls"@en	0
+COL title VAL  "Shimano Catena deore xt/xtr/slx hg95 10v. 116l"@ca	COL title VAL  "Dura-Ace 9100 11-Speed Cassette"@en	0
+COL title VAL  "Shimano BICYCLE CHAIN,CN-HG901-11,QL 11-SPD(RD/MTB/E-BIKE)QUICK-LNK"@so	COL title VAL  "Shimano Chain CN-HG95 10 Speed MTB"@en	0
+COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 27.5''x2.50, Folding, Tubeless Ready, 3C Maxx Terra, EXO, Wide Trail, 60TPI, Black"@en	COL title VAL  "HIGH ROLLER II27.5x2.50 WT AR 3CT/EXO/TR"@en	1
+COL title VAL  "Shimano Deore XT CS-M8000 Cassette 11 vitesses, silver/grey"@no	COL title VAL  "Cassette 105 CS-R7000 11 vitesses"@it	0
+COL title VAL  "Shimano Deore XT CS-M8000 Cassette 11 vitesses, silver/grey"@no	COL title VAL  "Shimano Ultegra CS-R8000 11sp Cassette 11-28T"@it	0
+COL title VAL  "SHIMANO SHIMANO Chaine CN-HG701 11V Ultegra deore (Route/MTB/E-Bike)"@de	COL title VAL  "Shimano Catena deore xt/xtr/slx hg95 10v. 116l"@ca	0
+COL title VAL  "Maxxis Minion DHR II 3C MaxxTerra/DD TR 29\" Tire - 29 x 2.3\" (Folding Bead)"@en	COL title VAL  "Maxxis Highroller II Black Fold/120 x 2 3C/Terra/DD/TR/WT Tires"@en	0
+COL title VAL  "Shimano Ultegra/XT HG701 Quicklink 11sp Chain"@en	COL title VAL  "Shimano BICYCLE CHAIN,CN-HG601-11,QL 11-SPD(RD/MTB/E-BIKE)QUICK-LNK"@so	0
+COL title VAL  "Garmin Fenix 5S Black Sapphire with Black Band"@en	COL title VAL  "Garmin - 010-02173-12 - Venu™ Black with Slate Hardware"@en	0
+COL title VAL  "SRAM Sram Force 22 PG-117011-Speed Cassette"@en	COL title VAL  "SRAM NX Eagle PG-1230 Cassette"@it	0
+COL title VAL  "Hibiscus 32oz. Wide Mouth Water Bottle"@en	COL title VAL  "Hydro Flask Hydration 32oz 2.0 Wide Black"@sv	0
+COL title VAL  "RAM Short Double Socket Arm for 1.5\" Balls (Overall Length: 3.5\")"@en	COL title VAL  "MTB Plášť MAXXIS HIGH ROLLER II 27,5x2,40 3C Maxx Terra EXO TR kevlar"@sk	0
+COL title VAL  "Deore XT 11-Speed Cassette"@no	COL title VAL  "SRAM SRAM PG-1130 Cassette - 11 Speed, 11-36t, Silver"@en	0
+COL title VAL  "32oz (946mL) Wide Mouth 2.0"@en	COL title VAL  "Hydro Flask 32oz Drink Bottle"@no	1
+COL title VAL  "Hydro Flask 32oz Widemouth w/ Flex Cap"@en	COL title VAL  "HydroFlask 21 oz. Standard Mouth Bottle w/ Flex Cap"@en	0
+COL title VAL  "SRAM AM CS PG-1170 11SP 11-25T"@en	COL title VAL  "SRAM PG1130 11-36 11sp Cassette"@it	0
+COL title VAL  "Shimano SH11 SPD-SL Cleat Set with Hardware Floating"@en	COL title VAL  "Shimano SPD SL Cleat Set"@en	0
+COL title VAL  "Black / 29 inch / 60 TPI 2-Ply Foldable | 3CG / DH / TR"@en	COL title VAL  "High Roller II Tire - 29 x 2.3, Tubeless, Folding, Black, Dual, EXO"@en	0
+COL title VAL  "RAM Short Double Socket Arm C Size (RAM-201U-B)"@en	COL title VAL  "Double Socket Arm - Long - RAM-B-201U-C"@en	0
+COL title VAL  "SRAM SRAM PG-1130 Cassette - 11 Speed, 11-36t, Silver"@en	COL title VAL  "SRAM Kassette PG-730 MTB;12-32 Zhne, verchromt;12-14-16-18-21-26-32 Zhne"@de	0
+COL title VAL  "High Roller II 27.5 x 2.40 60 TPI Folding 3C Maxx Terra ExO / TR tyre"@en	COL title VAL  "Maxxis High Roller II Dual Compound Tire (EXO/TR) (29 x 2.30) (Folding)"@en	0
+COL title VAL  "fēnix® 5S Plus Silver with Black Band"@en	COL title VAL  "Garmin Fenix 5S Black Sapphire with Black Band"@en	0
+COL title VAL  "GARMIN Fenix 5X Sapphire Edition 51mm Black"@en	COL title VAL  "Smartphone Garmin Fenix 5X Plus 51mm Sapphire Black"@en	0
+COL title VAL  "Shimano Ultegra CS-R8000 11sp Cassette 11-28T"@it	COL title VAL  "Shimano | XT CS-M8000 Cassette"@it	0
+COL title VAL  "SH10 SPD-SL Fixed Pedal Cleats"@en	COL title VAL  "R550 SPD SL Road Pedals"@en	0
+COL title VAL  "RAP-B-201U-A - RAM Composite Short Double Socket Arm for 1\" Balls"@en	COL title VAL  "RAM Short Double Socket Arm C Size (RAM-201U-B)"@en	0
+COL title VAL  "SRAM HRD Level ULT/ULM Metal Brake Pads"@en	COL title VAL  "Road Disc Sintered Brake Pads"@en	1
+COL title VAL  "Maxxis High Roller II Dual Compound Tire (EXO/TR) (27.5 x 2.30) (Folding)"@en	COL title VAL  "Maxxis Maxxis, Aggressor, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	0
+COL title VAL  "SRAM Sram Guide Disc Brake Pads"@de	COL title VAL  "M05 Resin Disc Brake Pads"@de	0
+COL title VAL  "SPD-SL SH 11 - tacchette"@it	COL title VAL  "Shimano BICYCLE CHAIN,CN-HG901-11,QL 11-SPD(RD/MTB/E-BIKE)QUICK-LNK"@so	0
+COL title VAL  "RAM Composite Suction Cup Base w 1\" Ball (RAP-B-224-1U)"@en	COL title VAL  "RAP-B-201U-A - RAM Composite Short Double Socket Arm for 1\" Balls"@en	0
+COL title VAL  "GARMIN Fenix 5X Sapphire Edition 51mm Black"@en	COL title VAL  "GARMIN GPS chytré hodinky fenix5X Plus Sapphire Black, Black Band"@en	0
+COL title VAL  "105 RD-R7000 Rear Derailleur"@de	COL title VAL  "105 R7000 11-Speed Rear Derailleur GS"@en	1
+COL title VAL  "Maxxis Maxxis, Aggressor, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	COL title VAL  "Maxxis High Roller II Dual Compound Tire (EXO/TR) (29 x 2.30) (Folding)"@en	0
+COL title VAL  "Shimano Catena deore xt/xtr/slx hg95 10v. 116l"@ca	COL title VAL  "Deore XT Shadow + Rear Derailleur (Long Cage)"@en	0
+COL title VAL  "MAXXIS Pneu Maxxis Assegai 3C MaxxTerra EXO+ TR"@ca	COL title VAL  "Maxxis Maxxis, Aggressor, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	0
+COL title VAL  "Shimano Dura-Ace CS-R9100 11-25T 11sp Cassette"@it	COL title VAL  "Shimano Deore XT CS-M8000 Cassette 11 vitesses, silver/grey"@no	0
+COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 29''x2.50, Folding, Tubeless Ready, 3C Maxx Terra, Double Down, Wide Trail, 120x2TPI, Black"@en	COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 27.5''x2.50, Folding, Tubeless Ready, 3C Maxx Terra, EXO, Wide Trail, 60TPI, Black"@en	0
+COL title VAL  "Maxxis Tire High Roller II EXO/TR Foldable 27.5x2.30"@en	COL title VAL  "MTB Plášť MAXXIS HIGH ROLLER II 27,5x2,40 3C Maxx Terra EXO TR kevlar"@sk	0
+COL title VAL  "SPD-SL SH 11 - tacchette"@it	COL title VAL  "Shimano SPD SL Cleat Set"@en	0
+COL title VAL  "Garmin, Fenix 6X Pro & Sapphire Edition GPS Watch 51mm"@en	COL title VAL  "Garmin Fenix 5 Multisport GPS Watch 47mm Case Slate Grey Band"@en	0
+COL title VAL  "SRAM Red XG-1090 X-Dome 10-Speed Cassette (Silver) (11-23T)"@no	COL title VAL  "Sram Xg-1090, 10Sp Cassette"@no	1
+COL title VAL  "SHIMANO SHIMANO Chaine CN-HG701 11V Ultegra deore (Route/MTB/E-Bike)"@de	COL title VAL  "Shimano Ultegra/XT HG701 Quicklink 11sp Chain"@en	1
+COL title VAL  "Deore XT 11-Speed Cassette"@no	COL title VAL  "Dura-Ace 9100 11-Speed Cassette"@en	0
+COL title VAL  "Garmin - 010-02173-12 - Venu™ Black with Slate Hardware"@en	COL title VAL  "GARMIN Fenix 5X Sapphire Edition 51mm Black"@en	0
+COL title VAL  "Aggressor | 29 inch x 2.30"@en	COL title VAL  "Maxxis High Roller II Dual Compound Tire (EXO/TR) (29 x 2.30) (Folding)"@en	0
+COL title VAL  "Shimano SPD-SL Pedals Black"@en	COL title VAL  "Shimano BICYCLE CHAIN,CN-HG901-11,QL 11-SPD(RD/MTB/E-BIKE)QUICK-LNK"@so	0
+COL title VAL  "Road Disc Sintered Brake Pads"@en	COL title VAL  "M05 Resin Disc Brake Pads"@de	0
+COL title VAL  "Shimano Chain CN-HG95 10 Speed MTB"@en	COL title VAL  "Shimano Chain 105 CN HG601 11speed 116 Links"@en	0
+COL title VAL  "Shimano Dura-Ace CS-R9100 11-25T 11sp Cassette"@it	COL title VAL  "Dura-Ace 9100 11-Speed Cassette"@en	1
+COL title VAL  "Shimano DURA ACE CN-HG900-11 HG901 HG-X SIL-TEC CHAIN"@so	COL title VAL  "Shimano Dura Ace R9100 11-Speed Cassette"@en	0
+COL title VAL  "M05 Resin Disc Brake Pads"@de	COL title VAL  "Shimano BR-M515 Cable Actuated Disc Brake Pads"@en	1
+COL title VAL  "Double Socket Arm - Long - RAM-B-201U-C"@en	COL title VAL  "RAP-B-201U-A - RAM Composite Short Double Socket Arm for 1\" Balls"@en	0
+COL title VAL  "Garmin fenix 5S Plus Smartwatch, silver/black"@en	COL title VAL  "Maxxis Maxxis, Aggressor, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	0
+COL title VAL  "Avid SRAM - AVIDBRAKE PADS SINTERED/STEEL, (1 SET) - TRAIL/GUIDE:"@en	COL title VAL  "SRAM Organic Disc Brake Pads - Level Ultimate / TLM"@en	0
+COL title VAL  "Shimano Ultegra CS-R8000 11sp Cassette 11-28T"@it	COL title VAL  "Shimano Dura-Ace CS-R9100 Cassette 11 vitesses"@it	0
+COL title VAL  "Shimano BICYCLE CHAIN,CN-HG601-11,QL 11-SPD(RD/MTB/E-BIKE)QUICK-LNK"@so	COL title VAL  "SHIMANO SHIMANO Chaine CN-HG701 11V Ultegra deore (Route/MTB/E-Bike)"@de	0
+COL title VAL  "Shimano XT M786 10sp Shadow+ Rear Derailleur - Black / SGS"@en	COL title VAL  "Shimano SPD-SL Pedals Black"@en	0
+COL title VAL  "SRAM Red XG-1090 X-Dome 10-Speed Cassette (Silver) (11-23T)"@no	COL title VAL  "SRAM NX Eagle PG-1230 Cassette"@it	0
+COL title VAL  "High Roller II 27.5 x 2.40 60 TPI Folding 3C Maxx Terra ExO / TR tyre"@en	COL title VAL  "High Roller II Tire - 29 x 2.3, Tubeless, Folding, Black, Dual, EXO"@en	0
+COL title VAL  "Ram Mount Composite Double Socket Arm"@en	COL title VAL  "RAP-B-201U-A - RAM Composite Short Double Socket Arm for 1\" Balls"@en	1
+COL title VAL  "Maxxis High Roller II Dual Compound Tire (EXO/TR) (29 x 2.30) (Folding)"@en	COL title VAL  "Maxxis Tire High Roller II EXO/TR Foldable 27.5x2.30"@en	0
+COL title VAL  "Shimano PD-R550 SPD-SL PEDALS BLACK"@tl	COL title VAL  "105 R7000 SPD-SL Road Pedals"@en	0
+COL title VAL  "Smartphone Garmin Fenix 5X Plus 51mm Sapphire Black"@en	COL title VAL  "Garmin Fenix 6X Sapphire Carbon Grey DLC 010-02157-11"@en	0
+COL title VAL  "Shimano PD-R550 SPD-SL PEDALS BLACK"@tl	COL title VAL  "Shimano PD-R7000 105 Clipless Pedal"@en	0
+COL title VAL  "Hibiscus 32oz. Wide Mouth Water Bottle"@en	COL title VAL  "HydroFlask 32 oz. Wide Mouth Bottle w/ Flex Cap"@en	1
+COL title VAL  "GARMIN Fenix 5X Sapphire Edition 51mm Black"@en	COL title VAL  "Garmin fenix 5S Plus Smartwatch, silver/black"@en	0
+COL title VAL  "PG730 7spd Cassette 12-32t"@it	COL title VAL  "SRAM PG1130 11-36 11sp Cassette"@it	0
+COL title VAL  "PEDAL, PD-RS500, SPD-SL, W/CLEAT"@en	COL title VAL  "Shimano SPD-SL Pedals Black"@en	1
+COL title VAL  "Maxxis Maxxis, Aggressor, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 27.5''x2.50, Folding, Tubeless Ready, 3C Maxx Terra, EXO, Wide Trail, 60TPI, Black"@en	0
+COL title VAL  "105 RD-R7000 Rear Derailleur"@de	COL title VAL  "Shimano XT M786 10sp Shadow+ Rear Derailleur - Black / SGS"@en	0
+COL title VAL  "Shimano BICYCLE CHAIN,CN-HG601-11,QL 11-SPD(RD/MTB/E-BIKE)QUICK-LNK"@so	COL title VAL  "Shimano Chain 105 CN HG601 11speed 116 Links"@en	1
+COL title VAL  "RAM Mount 9\" Arm for 1.5\" Ball"@en	COL title VAL  "RAM-Mounts Long Double Socket Verbindungsarm RAM-201U-D"@de	1
+COL title VAL  "Garmin, Fenix 6X Pro & Sapphire Edition GPS Watch 51mm"@en	COL title VAL  "Shimano PD-R7000 105 Clipless Pedal"@en	0
+COL title VAL  "Maxxis Assegai WT 27.5 x 2.5 Tyre Maxx Terra Fold"@ca	COL title VAL  "MTB Plášť MAXXIS HIGH ROLLER II 27,5x2,40 3C Maxx Terra EXO TR kevlar"@sk	0
+COL title VAL  "105 R7000 SPD-SL Road Pedals"@en	COL title VAL  "Shimano SPD-SL Pedals Black"@en	0
+COL title VAL  "Shimano DURA ACE CN-HG900-11 HG901 HG-X SIL-TEC CHAIN"@so	COL title VAL  "Shimano Dura-Ace CS-R9100 11-25T 11sp Cassette"@it	0
+COL title VAL  "Hydro Flask Hydration 32oz 2.0 Wide Black"@sv	COL title VAL  "Hydro Flask Hydration 21oz Standard Black"@sv	0
+COL title VAL  "SPD-SL SH 11 - tacchette"@it	COL title VAL  "R550 SPD SL Road Pedals"@en	0
+COL title VAL  "Shimano SPD SL Cleat Set"@en	COL title VAL  "Shimano PD-R550 SPD-SL PEDALS BLACK"@tl	0
+COL title VAL  "Shimano Catena deore xt/xtr/slx hg95 10v. 116l"@ca	COL title VAL  "Shimano Chain CN-HG95 10 Speed MTB"@en	1
+COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 29''x2.50, Folding, Tubeless Ready, 3C Maxx Terra, Double Down, Wide Trail, 120x2TPI, Black"@en	COL title VAL  "MTB Plášť MAXXIS HIGH ROLLER II 27,5x2,40 3C Maxx Terra EXO TR kevlar"@sk	0
+COL title VAL  "Shimano Dura-Ace CS-R9100 Cassette 11 vitesses"@it	COL title VAL  "Shimano Dura-Ace CS-R9100 11-25T 11sp Cassette"@it	0
+COL title VAL  "SPD-SL SH 11 - tacchette"@it	COL title VAL  "Shimano SPD-SL Pedals Black"@en	0
+COL title VAL  "Relógio Garmin Venu 010-02173-12 Venu"@it	COL title VAL  "Garmin - 010-02173-12 - Venu™ Black with Slate Hardware"@en	1
+COL title VAL  "Garmin Fenix 5 Multisport GPS Watch 47mm Case Slate Grey Band"@en	COL title VAL  "GARMIN GPS chytré hodinky fenix5X Plus Sapphire Black, Black Band"@en	0
+COL title VAL  "Hydro Flask 32oz Widemouth w/ Flex Cap"@en	COL title VAL  "HydroFlask 32 oz. Wide Mouth Bottle w/ Flex Cap"@en	0
+COL title VAL  "Road Disc Sintered Brake Pads"@en	COL title VAL  "Avid SRAM - AVIDBRAKE PADS SINTERED/STEEL, (1 SET) - TRAIL/GUIDE:"@en	0
+COL title VAL  "SRAM Sram Force 22 PG-117011-Speed Cassette"@en	COL title VAL  "SRAM SRAM PG-1130 Cassette - 11 Speed, 11-36t, Silver"@en	0
+COL title VAL  "RAM-Mounts Long Double Socket Verbindungsarm RAM-201U-D"@de	COL title VAL  "Ram Mounts RAM Long Length Double Socket Arm for B Size 1\" Balls"@en	0
+COL title VAL  "Shimano BR-M515 Cable Actuated Disc Brake Pads"@en	COL title VAL  "Shimano J04C Metal Disc Brake Pad"@en	0
+COL title VAL  "Maxxis Minion DHR II 3C MaxxTerra/DD TR 29\" Tire - 29 x 2.3\" (Folding Bead)"@en	COL title VAL  "Maxxis High Roller II Dual Compound Tire (EXO/TR) (29 x 2.30) (Folding)"@en	0
+COL title VAL  "High Roller II Tire - 29 x 2.3, Tubeless, Folding, Black, Dual, EXO"@en	COL title VAL  "Maxxis High Roller II Dual Compound Tire (EXO/TR) (29 x 2.30) (Folding)"@en	1
+COL title VAL  "Shimano Dura-Ace CS-R9100 Cassette 11 vitesses"@it	COL title VAL  "Dura-Ace 9100 11-Speed Cassette"@en	0
+COL title VAL  "Deore XT 11-Speed Cassette"@no	COL title VAL  "XT M8000 11-Speed Cassette 11-40T"@en	0
+COL title VAL  "Garmin fenix 5S Plus Smartwatch, silver/black"@en	COL title VAL  "GARMIN GPS chytré hodinky fenix5X Plus Sapphire Black, Black Band"@en	0
+COL title VAL  "Shimano SH11 SPD-SL Cleat Set with Hardware Floating"@en	COL title VAL  "SPD-SL SH 11 - tacchette"@it	1
+COL title VAL  "SRAM Sram Force 22 PG-117011-Speed Cassette"@en	COL title VAL  "Sram Xg-1090, 10Sp Cassette"@no	0
+COL title VAL  "Smartphone Garmin Fenix 5X Plus 51mm Sapphire Black"@en	COL title VAL  "Garmin fenix 5S Plus Smartwatch, silver/black"@en	0
+COL title VAL  "Hydro Flask 32oz Widemouth w/ Flex Cap"@en	COL title VAL  "Hydro Flask Hydration 32oz 2.0 Wide Black"@sv	1
+COL title VAL  "MAXXIS Pneu Maxxis Assegai 3C MaxxTerra EXO+ TR"@ca	COL title VAL  "Maxxis Minion DHR II 3C MaxxTerra/DD TR 29\" Tire - 29 x 2.3\" (Folding Bead)"@en	0
+COL title VAL  "RAM Composite Suction Cup Base w 1\" Ball (RAP-B-224-1U)"@en	COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with B Size 1\" Ball"@en	1
+COL title VAL  "Garmin Fenix 5S Black Sapphire with Black Band"@en	COL title VAL  "Smartphone Garmin Fenix 5X Plus 51mm Sapphire Black"@en	0
+COL title VAL  "Ram Mounts RAM Long Length Double Socket Arm for B Size 1\" Balls"@en	COL title VAL  "RAM Short Double Socket Arm 1\" Balls"@en	0
+COL title VAL  "Shimano SPD-SL Pedals Black"@en	COL title VAL  "Hydro Flask Hydration 21oz Standard Black"@sv	0
+COL title VAL  "21 oz Standard Mouth - Olive"@en	COL title VAL  "32oz (946mL) Wide Mouth 2.0"@en	0
+COL title VAL  "Aggressor | 29 inch x 2.30"@en	COL title VAL  "Black / 29 inch / 60 TPI 2-Ply Foldable | 3CG / DH / TR"@en	0
+COL title VAL  "Standard Mouth Water Bottle with Flex Cap Lid"@en	COL title VAL  "HydroFlask 21 oz. Standard Mouth Bottle w/ Flex Cap"@en	0
+COL title VAL  "M05 Resin Disc Brake Pads"@de	COL title VAL  "Shimano J04C Metal Disc Brake Pad and Spring with Fin for XTR M9020 M985, XT M8000, SLX M675, Road R517, Deore M615"@en	0
+COL title VAL  "Shimano J04C Metal Disc Brake Pad and Spring with Fin for XTR M9020 M985, XT M8000, SLX M675, Road R517, Deore M615"@en	COL title VAL  "Shimano Deore XT CS-M8000 Cassette 11 vitesses, silver/grey"@no	0
+COL title VAL  "SH10 SPD-SL Fixed Pedal Cleats"@en	COL title VAL  "PEDAL, PD-RS500, SPD-SL, W/CLEAT"@en	0
+COL title VAL  "RAM® Double Socket Arm B-201-U-A"@en	COL title VAL  "Double Socket Arm - Long - RAM-B-201U-C"@en	0
+COL title VAL  "Maxxis High Roller II Dual Compound Tire (EXO/TR) (27.5 x 2.30) (Folding)"@en	COL title VAL  "Maxxis Tire High Roller II EXO/TR Foldable 27.5x2.30"@en	1
+COL title VAL  "Maxxis Maxxis Minion DHR2 29 x 2.3 Folding Bead"@en	COL title VAL  "Maxxis Minion DHR II Tire - 29 x 2.4, Tubeless, Folding, Black, 3C Maxx Grip, DH, Wide Trail"@en	0
+COL title VAL  "Garmin Black fenix 5S Sapphire Watch with Black Band"@en	COL title VAL  "Garmin, Fenix 6X Pro & Sapphire Edition GPS Watch 51mm"@en	0
+COL title VAL  "Shimano SPD SL Cleat Set"@en	COL title VAL  "PEDAL, PD-RS500, SPD-SL, W/CLEAT"@en	0
+COL title VAL  "Shimano Dura-Ace CS-R9100 11-25T 11sp Cassette"@it	COL title VAL  "Deore XT 11-Speed Cassette"@no	0
+COL title VAL  "HydroFlask 21 oz. Standard Mouth Bottle w/ Flex Cap"@en	COL title VAL  "21 oz Standard Mouth - Olive"@en	0
+COL title VAL  "Shimano Dura-Ace CS-R9100 Cassette 11 vitesses"@it	COL title VAL  "Shimano DURA ACE CN-HG900-11 HG901 HG-X SIL-TEC CHAIN"@so	0
+COL title VAL  "Shimano Chain CN-HG95 10 Speed MTB"@en	COL title VAL  "Shimano DURA ACE CN-HG900-11 HG901 HG-X SIL-TEC CHAIN"@so	0
+COL title VAL  "32oz (946mL) Wide Mouth 2.0"@en	COL title VAL  "HydroFlask 32 oz. Wide Mouth Bottle w/ Flex Cap"@en	0
+COL title VAL  "Shimano J04C Metal Disc Brake Pad and Spring with Fin for XTR M9020 M985, XT M8000, SLX M675, Road R517, Deore M615"@en	COL title VAL  "Shimano J04C Metal Disc Brake Pad"@en	1
+COL title VAL  "Garmin Fenix 6X Sapphire Carbon Grey DLC 010-02157-11"@en	COL title VAL  "Garmin, Fenix 6X Pro & Sapphire Edition GPS Watch 51mm"@en	1
+COL title VAL  "Garmin Fenix 5S Black Sapphire with Black Band"@en	COL title VAL  "GARMIN GPS chytré hodinky fenix5X Plus Sapphire Black, Black Band"@en	0
+COL title VAL  "Maxxis Minion DHR II Tire - 29 x 2.4, Tubeless, Folding, Black, 3C Maxx Grip, DH, Wide Trail"@en	COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 29''x2.50, Folding, Tubeless Ready, 3C Maxx Terra, Double Down, Wide Trail, 120x2TPI, Black"@en	0
+COL title VAL  "Deore XT 11-Speed Cassette"@no	COL title VAL  "105 R7000 11-Speed Rear Derailleur GS"@en	0
+COL title VAL  "Garmin Fenix 6X Sapphire Carbon Grey DLC 010-02157-11"@en	COL title VAL  "RAM® Double Socket Arm B-201-U-A"@en	0
+COL title VAL  "Maxxis Assegai WT 27.5 x 2.5 Tyre Maxx Terra Fold"@ca	COL title VAL  "High Roller II 27.5 x 2.40 60 TPI Folding 3C Maxx Terra ExO / TR tyre"@en	0
+COL title VAL  "PASTIGLIE ORG-STEEL ROAD/LEVEL ULTIM."@en	COL title VAL  "R550 SPD SL Road Pedals"@en	0
+COL title VAL  "Garmin Fenix 5 Multisport GPS Watch 47mm Case Slate Grey Band"@en	COL title VAL  "fēnix® 5S Plus Silver with Black Band"@en	0
+COL title VAL  "32oz (946mL) Wide Mouth 2.0"@en	COL title VAL  "Hibiscus 32oz. Wide Mouth Water Bottle"@en	0
+COL title VAL  "Shimano BR-M515 Cable Actuated Disc Brake Pads"@en	COL title VAL  "SRAM Sram Guide Disc Brake Pads"@de	0
+COL title VAL  "Shimano SPD-SL Pedals Black"@en	COL title VAL  "SH10 SPD-SL Fixed Pedal Cleats"@en	0
+COL title VAL  "Shimano XT M786 10sp Shadow+ Rear Derailleur - Black / SGS"@en	COL title VAL  "Deore XT Shadow + Rear Derailleur (Long Cage)"@en	1
+COL title VAL  "SRAM Red XG-1090 X-Dome 10-Speed Cassette (Silver) (11-23T)"@no	COL title VAL  "Deore XT 11-Speed Cassette"@no	0
+COL title VAL  "Road Disc Sintered Brake Pads"@en	COL title VAL  "SRAM Sram Guide Disc Brake Pads"@de	0
+COL title VAL  "SRAM Organic Disc Brake Pads - Level Ultimate / TLM"@en	COL title VAL  "PASTIGLIE ORG-STEEL ROAD/LEVEL ULTIM."@en	1
+COL title VAL  "SRAM PG1130 11-36 11sp Cassette"@it	COL title VAL  "SRAM Sram Force 22 PG-117011-Speed Cassette"@en	0
+COL title VAL  "Shimano Deore XT CS-M8000 Cassette 11 vitesses, silver/grey"@no	COL title VAL  "Shimano | XT CS-M8000 Cassette"@it	0
+COL title VAL  "Maxxis High Roller II Dual Compound Tire (EXO/TR) (27.5 x 2.30) (Folding)"@en	COL title VAL  "Maxxis Assegai WT 27.5 x 2.5 Tyre Maxx Terra Fold"@ca	0
+COL title VAL  "Shimano SH11 SPD-SL Cleat Set with Hardware Floating"@en	COL title VAL  "Shimano PD-R550 SPD-SL PEDALS BLACK"@tl	0
+COL title VAL  "Garmin fenix 5S Plus Smartwatch, silver/black"@en	COL title VAL  "Garmin Fenix 5S Black Sapphire with Black Band"@en	0
+COL title VAL  "MAXXIS Pneu Maxxis Assegai 3C MaxxTerra EXO+ TR"@ca	COL title VAL  "MTB Plášť MAXXIS HIGH ROLLER II 27,5x2,40 3C Maxx Terra EXO TR kevlar"@sk	0
+COL title VAL  "Double Socket Arm - Long - RAM-B-201U-C"@en	COL title VAL  "RAM-Mounts Long Double Socket Verbindungsarm RAM-201U-D"@de	0
+COL title VAL  "SRAM Organic Disc Brake Pads - Level Ultimate / TLM"@en	COL title VAL  "Road Disc Sintered Brake Pads"@en	0
+COL title VAL  "Shimano PD-R550 SPD-SL PEDALS BLACK"@tl	COL title VAL  "Shimano SPD-SL Pedals Black"@en	0
+COL title VAL  "105 R7000 SPD-SL Road Pedals"@en	COL title VAL  "105 RD-R7000 Rear Derailleur"@de	0
+COL title VAL  "Shimano PD-R550 SPD-SL PEDALS BLACK"@tl	COL title VAL  "R550 SPD SL Road Pedals"@en	1
+COL title VAL  "SRAM PG1130 11-36 11sp Cassette"@it	COL title VAL  "Shimano Ultegra CS-R8000 11sp Cassette 11-28T"@it	0
+COL title VAL  "Shimano Dura-Ace CS-R9100 11-25T 11sp Cassette"@it	COL title VAL  "Shimano Ultegra CS-R8000 11sp Cassette 11-28T"@it	0
+COL title VAL  "Cassette 105 CS-R7000 11 vitesses"@it	COL title VAL  "105 R7000 11-Speed Rear Derailleur GS"@en	0
+COL title VAL  "SRAM SRAM PG-1130 Cassette - 11 Speed, 11-36t, Silver"@en	COL title VAL  "SRAM NX Eagle PG-1230 Cassette"@it	0
+COL title VAL  "RAM Short Double Socket Arm for 1.5\" Balls (Overall Length: 3.5\")"@en	COL title VAL  "RAM Mount 9\" Arm for 1.5\" Ball"@en	0

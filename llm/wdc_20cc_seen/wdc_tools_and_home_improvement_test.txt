@@ -1,0 +1,22 @@
+COL title VAL  "Park Tool BBT-32C Bottom Bracket Tool Shimano/ISIS 20 Tooth"@en	COL title VAL  "Park Tool Chain Tool CT-5 Compact"@en	0
+COL title VAL  "Park Tool PH-1.2 P-Handle Hex Wrench Set - Tool Set"@en	COL title VAL  "Park Tool Handle Hex Wrench Set PH-12"@en	1
+COL title VAL  "Park Tool BBT-32C Bottom Bracket Tool Shimano/ISIS 20 Tooth"@en	COL title VAL  "PARK TOOL SEALED BOTTOM BRACKET REMOVER TOOL BBT-22"@en	0
+COL title VAL  "Park Tool BBT-22 Bottom Bracket Tool"@en	COL title VAL  "Park Tool CT-5C Mini Chain Brute Tool"@en	0
+COL title VAL  "Osram CFL Square 16W 835 4P GR10Q | Blanco Frio - 4-Pines"@pt	COL title VAL  "CFL SQUARE 28 W/835 GR10Q"@so	0
+COL title VAL  "Park Tool BBT-22 Bottom Bracket Tool"@en	COL title VAL  "Bottom Bracket Tool (20-Spline)"@en	0
+COL title VAL  "Osram CFL Square 16W 835 4P GR10Q | Blanco Frio - 4-Pines"@pt	COL title VAL  "Osram CFL Square 28W 835 4P GR10Q | Kallvit - 4-Stift"@de	0
+COL title VAL  "Park Tool BBT-22 Bottom Bracket Tool"@en	COL title VAL  "Park Tool Chain Tool CT-5 Compact"@en	0
+COL title VAL  "Osram CFL Square 16W/835 GR10Q - 4pin"@pt	COL title VAL  "Osram CFL Square 28W 835 4P GR10Q | Kallvit - 4-Stift"@de	0
+COL title VAL  "Park Tool Chain Tool CT-5 Compact"@en	COL title VAL  "Park Tool PH-1.2 P-Handle Hex Wrench Set - Tool Set"@en	0
+COL title VAL  "Park Tool CT-5C Mini Chain Brute Tool"@en	COL title VAL  "Park Tool Chain Tool CT-5 Compact"@en	1
+COL title VAL  "Osram CFL Square 16W/835 GR10Q - 4pin"@pt	COL title VAL  "Osram CFL Square 16W 835 4P GR10Q | Blanco Frio - 4-Pines"@pt	1
+COL title VAL  "Park Tool BBT-22 Bottom Bracket Tool"@en	COL title VAL  "PARK TOOL SEALED BOTTOM BRACKET REMOVER TOOL BBT-22"@en	1
+COL title VAL  "Victron MultiPlus Compact Inverter Charger 12V/2000VA/80A"@en	COL title VAL  "MultiPlus Inverter/Charger C 12/2000/80-30"@de	1
+COL title VAL  "Park Tool Handle Hex Wrench Set PH-12"@en	COL title VAL  "Park Tool Chain Tool CT-5 Compact"@en	0
+COL title VAL  "PARK TOOL SEALED BOTTOM BRACKET REMOVER TOOL BBT-22"@en	COL title VAL  "Park Tool Chain Tool CT-5 Compact"@en	0
+COL title VAL  "Victron MultiPlus Compact Inverter Charger 12V/2000VA/80A"@en	COL title VAL  "Park Tool Chain Tool CT-5 Compact"@en	0
+COL title VAL  "Bottom Bracket Tool (20-Spline)"@en	COL title VAL  "Park Tool BBT-32C Bottom Bracket Tool Shimano/ISIS 20 Tooth"@en	1
+COL title VAL  "CFL SQUARE 28 W/835 GR10Q"@so	COL title VAL  "Osram CFL Square 28W 835 4P GR10Q | Kallvit - 4-Stift"@de	1
+COL title VAL  "Park Tool BBT-32C Bottom Bracket Tool Shimano/ISIS 20 Tooth"@en	COL title VAL  "Park Tool BBT-22 Bottom Bracket Tool"@en	0
+COL title VAL  "Park Tool BBT-22 Bottom Bracket Tool"@en	COL title VAL  "Park Tool Handle Hex Wrench Set PH-12"@en	0
+COL title VAL  "Osram CFL Square 16W/835 GR10Q - 4pin"@pt	COL title VAL  "CFL SQUARE 28 W/835 GR10Q"@so	0

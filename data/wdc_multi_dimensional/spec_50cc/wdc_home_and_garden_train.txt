@@ -1,0 +1,70 @@
+COL title VAL  "Blaze Built-In Natural Gas Grill with Lights (BLZ-4LTE-NG), 32-inch"@en	COL title VAL  "Blaze Grill Cart For 40-Inch 5-Burner Gas Grill"@de	0
+COL title VAL  "BOSCH KGN34NWEAG 60cm Frost Free Fridge Freezer - White"@de	COL title VAL  "Blaze 32 Inch 4-Burner LTE Gas Grill With Rear Burner and Built-in Lighting System - BLZ-4LTE2-NG/LP"@de	0
+COL title VAL  "Blaze 40-Inch 5-Burner LTE Built-In Liquid Propane Gas Grill With Rear Infrared Burner & Grill Lights"@en	COL title VAL  "Blaze Built-In Natural Gas Grill with Lights (BLZ-4LTE-NG), 32-inch"@en	0
+COL title VAL  "Liebherr 213L Premium Frost Free Integrated Freezer - White | SIGN3556"@de	COL title VAL  "SIGN 3556-20 Premium vriezer"@sk	1
+COL title VAL  "Blaze 32 Inch 4-Burner LTE Gas Grill With Rear Burner and Built-in Lighting System - BLZ-4LTE2-NG/LP"@de	COL title VAL  "Blaze Built-In Natural Gas Grill with Lights (BLZ-4LTE-NG), 32-inch"@en	1
+COL title VAL  "Blaze 34\" 3-Burner Professional Grill Cart"@en	COL title VAL  "Blaze 34-Inch Grill Cart For: 3 Burner Professional Blaze Grill"@de	1
+COL title VAL  "Blaze 34-Inch Grill Cart For: 3 Burner Professional Blaze Grill"@de	COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	0
+COL title VAL  "Blaze 3 Burner Pro Cart Only"@de	COL title VAL  "Blaze Professional 34-Inch Grill Cart"@en	1
+COL title VAL  "Liebherr SIGN3556 Built-In Premium NoFrost White Freezer"@de	COL title VAL  "Congelator incorporabil Liebherr Premium SIGN 3556, No Frost, 213 l, A++"@en	1
+COL title VAL  "Blaze 40-Inch Cart For 5-Burner Grill, Cart Only"@en	COL title VAL  "Blaze Professional 27-Inch 2 Burner Built-In Gas Grill With Rear Infrared Burner & Lights"@en	0
+COL title VAL  "Blaze Professional 27-Inch 2-Burner Built-In Propane Gas Grill With Rear Infrared Burner - BLZ-2PRO-LP"@en	COL title VAL  "Blaze Built-In Natural Gas Grill with Lights (BLZ-4LTE-NG), 32-inch"@en	0
+COL title VAL  "Blaze 40-Inch Grill Cart For Traditional/LTE Gas Grills"@en	COL title VAL  "Blaze Grill Cart For 40-Inch 5-Burner Gas Grill"@de	1
+COL title VAL  "Blaze 40 Inch 5-Burner Built-In Grill With Rear Infrared Burner, LTE - Liquid Propane BLZ-5LTE2-LP"@de	COL title VAL  "Blaze 32 Inch 4-Burner LTE Gas Grill With Rear Burner and Built-in Lighting System - BLZ-4LTE2-NG/LP"@de	0
+COL title VAL  "BOSCH KGN34NWEAG 60cm Frost Free Fridge Freezer - White"@de	COL title VAL  "Bosch KGN34NWEAG Free-standing fridge-freezer"@de	1
+COL title VAL  "Blaze 40-Inch Cart For 5-Burner Grill, Cart Only"@en	COL title VAL  "Blaze 40-Inch Grill Cart For Traditional/LTE Gas Grills"@en	1
+COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	COL title VAL  "Blaze 34\" 3-Burner Professional Grill Cart"@en	0
+COL title VAL  "Bosch KGN34NWEAG Frost Free Fridge Freezer"@de	COL title VAL  "Bosch KGN34NWEAG Free-standing fridge-freezer"@de	1
+COL title VAL  "Bosch KGN34NWEAG Free-standing fridge-freezer"@de	COL title VAL  "Bosch KGN34NWEAG 60cm Frost Free Fridge Freezer"@de	1
+COL title VAL  "Blaze Professional 27-Inch 2-Burner Built-In Propane Gas Grill With Rear Infrared Burner - BLZ-2PRO-LP"@en	COL title VAL  "Blaze Grill Cart For 40-Inch 5-Burner Gas Grill"@de	0
+COL title VAL  "SIGN 3556-20 Premium vriezer"@sk	COL title VAL  "Congelator incorporabil Liebherr Premium SIGN 3556, No Frost, 213 l, A++"@en	1
+COL title VAL  "Blaze 40-Inch Cart For 5-Burner Grill, Cart Only"@en	COL title VAL  "Blaze 34\" 3-Burner Professional Grill Cart"@en	0
+COL title VAL  "Liebherr 213L Premium Frost Free Integrated Freezer - White | SIGN3556"@de	COL title VAL  "Congelator incorporabil Liebherr Premium SIGN 3556, No Frost, 213 l, A++"@en	1
+COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	COL title VAL  "Blaze 40-Inch 5-Burner LTE Built-In Liquid Propane Gas Grill With Rear Infrared Burner & Grill Lights"@en	0
+COL title VAL  "Liebherr SIGN3556 Built-In Premium NoFrost White Freezer"@de	COL title VAL  "Liebherr 213L Premium Frost Free Integrated Freezer - White | SIGN3556"@de	1
+COL title VAL  "Blaze 40-Inch 5-Burner LTE Built-In Liquid Propane Gas Grill With Rear Infrared Burner & Grill Lights"@en	COL title VAL  "Blaze Professional 27-Inch 2 Burner Built-In Gas Grill With Rear Infrared Burner & Lights"@en	0
+COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	COL title VAL  "Blaze Professional 27-Inch 2 Burner Built-In Gas Grill With Rear Infrared Burner & Lights"@en	1
+COL title VAL  "Blaze 3 Burner Pro Cart Only"@de	COL title VAL  "Blaze 34\" 3-Burner Professional Grill Cart"@en	1
+COL title VAL  "Blaze 40-Inch Cart For 5-Burner Grill, Cart Only"@en	COL title VAL  "Blaze Professional 34-Inch Grill Cart"@en	0
+COL title VAL  "Blaze 40 Inch 5-Burner Built-In Grill With Rear Infrared Burner, LTE - Liquid Propane BLZ-5LTE2-LP"@de	COL title VAL  "Blaze Professional 27-Inch 2-Burner Built-In Propane Gas Grill With Rear Infrared Burner - BLZ-2PRO-LP"@en	0
+COL title VAL  "Blaze 4 Burner LTE Grill Built-In Natural Gas Grill with Lights"@en	COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	0
+COL title VAL  "Blaze 40-Inch Grill Cart For Traditional/LTE Gas Grills"@en	COL title VAL  "Blaze 34-Inch Grill Cart For: 3 Burner Professional Blaze Grill"@de	0
+COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	COL title VAL  "Liebherr SIGN3556 Built-In Premium NoFrost White Freezer"@de	0
+COL title VAL  "Bosch KGN34NWEAG 60cm Frost Free Fridge Freezer"@de	COL title VAL  "Liebherr 213L Premium Frost Free Integrated Freezer - White | SIGN3556"@de	0
+COL title VAL  "Blaze Grill Cart For 40-Inch 5-Burner Gas Grill"@de	COL title VAL  "Blaze 40\" Stainless Steel 5 Burner LTE Built-In Gas Grill w/ Rear Burner BLZ-5LTE2"@de	0
+COL title VAL  "Liebherr SIGN3556 Built-In Premium NoFrost White Freezer"@de	COL title VAL  "BOSCH KGN34NWEAG 60cm Frost Free Fridge Freezer - White"@de	0
+COL title VAL  "Blaze Professional 27-Inch 2-Burner Built-In Propane Gas Grill With Rear Infrared Burner - BLZ-2PRO-LP"@en	COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	1
+COL title VAL  "Blaze Professional 27-Inch 2 Burner Built-In Gas Grill With Rear Infrared Burner & Lights"@en	COL title VAL  "Blaze Professional 27-Inch 2-Burner Built-In Propane Gas Grill With Rear Infrared Burner - BLZ-2PRO-LP"@en	1
+COL title VAL  "Blaze 40-Inch Cart For 5-Burner Grill, Cart Only"@en	COL title VAL  "Blaze 3 Burner Pro Cart Only"@de	0
+COL title VAL  "Blaze 40\" Stainless Steel 5 Burner LTE Built-In Gas Grill w/ Rear Burner BLZ-5LTE2"@de	COL title VAL  "Blaze 40 Inch 5-Burner Built-In Grill With Rear Infrared Burner, LTE - Liquid Propane BLZ-5LTE2-LP"@de	1
+COL title VAL  "Blaze Built-In Natural Gas Grill with Lights (BLZ-4LTE-NG), 32-inch"@en	COL title VAL  "Blaze 4 Burner LTE Grill Built-In Natural Gas Grill with Lights"@en	1
+COL title VAL  "Blaze 40-Inch 5-Burner LTE Built-In Liquid Propane Gas Grill With Rear Infrared Burner & Grill Lights"@en	COL title VAL  "Blaze 34-Inch Grill Cart For: 3 Burner Professional Blaze Grill"@de	0
+COL title VAL  "Blaze 40-Inch Cart For 5-Burner Grill, Cart Only"@en	COL title VAL  "Blaze 40-Inch 5-Burner LTE Built-In Liquid Propane Gas Grill With Rear Infrared Burner & Grill Lights"@en	0
+COL title VAL  "Blaze 4 Burner LTE Grill Built-In Natural Gas Grill with Lights"@en	COL title VAL  "Blaze Professional 27-Inch 2 Burner Built-In Gas Grill With Rear Infrared Burner & Lights"@en	0
+COL title VAL  "Blaze Built-In Natural Gas Grill with Lights (BLZ-4LTE-NG), 32-inch"@en	COL title VAL  "Blaze Professional 27-Inch 2 Burner Built-In Gas Grill With Rear Infrared Burner & Lights"@en	0
+COL title VAL  "Blaze 34-Inch Grill Cart For: 3 Burner Professional Blaze Grill"@de	COL title VAL  "Blaze Grill Cart For 40-Inch 5-Burner Gas Grill"@de	0
+COL title VAL  "Blaze 40 Inch 5-Burner Built-In Grill With Rear Infrared Burner, LTE - Liquid Propane BLZ-5LTE2-LP"@de	COL title VAL  "Blaze Professional 27-Inch 2 Burner Built-In Gas Grill With Rear Infrared Burner & Lights"@en	0
+COL title VAL  "Blaze 40\" Stainless Steel 5 Burner LTE Built-In Gas Grill w/ Rear Burner BLZ-5LTE2"@de	COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	0
+COL title VAL  "Blaze 40-Inch Grill Cart For Traditional/LTE Gas Grills"@en	COL title VAL  "Blaze 40-Inch 5-Burner LTE Built-In Liquid Propane Gas Grill With Rear Infrared Burner & Grill Lights"@en	0
+COL title VAL  "Liebherr 213L Premium Frost Free Integrated Freezer - White | SIGN3556"@de	COL title VAL  "Bosch KGN34NWEAG Free-standing fridge-freezer"@de	0
+COL title VAL  "Blaze 32 Inch 4-Burner LTE Gas Grill With Rear Burner and Built-in Lighting System - BLZ-4LTE2-NG/LP"@de	COL title VAL  "Blaze 4 Burner LTE Grill Built-In Natural Gas Grill with Lights"@en	1
+COL title VAL  "BOSCH KGN34NWEAG 60cm Frost Free Fridge Freezer - White"@de	COL title VAL  "Bosch KGN34NWEAG Frost Free Fridge Freezer"@de	1
+COL title VAL  "Blaze Professional 34-Inch Grill Cart"@en	COL title VAL  "Blaze 34\" 3-Burner Professional Grill Cart"@en	1
+COL title VAL  "Blaze 40 Inch 5-Burner Built-In Grill With Rear Infrared Burner, LTE - Liquid Propane BLZ-5LTE2-LP"@de	COL title VAL  "Blaze Grill Cart For 40-Inch 5-Burner Gas Grill"@de	0
+COL title VAL  "Blaze 3 Burner Pro Cart Only"@de	COL title VAL  "Blaze 34-Inch Grill Cart For: 3 Burner Professional Blaze Grill"@de	1
+COL title VAL  "Liebherr 213L Premium Frost Free Integrated Freezer - White | SIGN3556"@de	COL title VAL  "BOSCH KGN34NWEAG 60cm Frost Free Fridge Freezer - White"@de	0
+COL title VAL  "Liebherr 213L Premium Frost Free Integrated Freezer - White | SIGN3556"@de	COL title VAL  "Bosch KGN34NWEAG Frost Free Fridge Freezer"@de	0
+COL title VAL  "Blaze 40\" Stainless Steel 5 Burner LTE Built-In Gas Grill w/ Rear Burner BLZ-5LTE2"@de	COL title VAL  "Blaze 4 Burner LTE Grill Built-In Natural Gas Grill with Lights"@en	0
+COL title VAL  "Blaze 40\" Stainless Steel 5 Burner LTE Built-In Gas Grill w/ Rear Burner BLZ-5LTE2"@de	COL title VAL  "Blaze Built-In Natural Gas Grill with Lights (BLZ-4LTE-NG), 32-inch"@en	0
+COL title VAL  "Blaze 40\" Stainless Steel 5 Burner LTE Built-In Gas Grill w/ Rear Burner BLZ-5LTE2"@de	COL title VAL  "Blaze 32 Inch 4-Burner LTE Gas Grill With Rear Burner and Built-in Lighting System - BLZ-4LTE2-NG/LP"@de	0
+COL title VAL  "Blaze 34-Inch Grill Cart For: 3 Burner Professional Blaze Grill"@de	COL title VAL  "Blaze Professional 34-Inch Grill Cart"@en	1
+COL title VAL  "Blaze 40-Inch 5-Burner LTE Built-In Liquid Propane Gas Grill With Rear Infrared Burner & Grill Lights"@en	COL title VAL  "Blaze 40\" Stainless Steel 5 Burner LTE Built-In Gas Grill w/ Rear Burner BLZ-5LTE2"@de	1
+COL title VAL  "Blaze 40 Inch 5-Burner Built-In Grill With Rear Infrared Burner, LTE - Liquid Propane BLZ-5LTE2-LP"@de	COL title VAL  "Blaze 40-Inch 5-Burner LTE Built-In Liquid Propane Gas Grill With Rear Infrared Burner & Grill Lights"@en	1
+COL title VAL  "Blaze 40-Inch 5-Burner LTE Built-In Liquid Propane Gas Grill With Rear Infrared Burner & Grill Lights"@en	COL title VAL  "Blaze Grill Cart For 40-Inch 5-Burner Gas Grill"@de	0
+COL title VAL  "Liebherr SIGN3556 Built-In Premium NoFrost White Freezer"@de	COL title VAL  "SIGN 3556-20 Premium vriezer"@sk	1
+COL title VAL  "Blaze Professional 27-Inch 2-Burner Built-In Propane Gas Grill With Rear Infrared Burner - BLZ-2PRO-LP"@en	COL title VAL  "Blaze 32 Inch 4-Burner LTE Gas Grill With Rear Burner and Built-in Lighting System - BLZ-4LTE2-NG/LP"@de	0
+COL title VAL  "Blaze 40-Inch Cart For 5-Burner Grill, Cart Only"@en	COL title VAL  "Blaze 34-Inch Grill Cart For: 3 Burner Professional Blaze Grill"@de	0
+COL title VAL  "Blaze 40-Inch Cart For 5-Burner Grill, Cart Only"@en	COL title VAL  "Blaze Grill Cart For 40-Inch 5-Burner Gas Grill"@de	1
+COL title VAL  "Bosch KGN34NWEAG 60cm Frost Free Fridge Freezer"@de	COL title VAL  "BOSCH KGN34NWEAG 60cm Frost Free Fridge Freezer - White"@de	1
+COL title VAL  "Bosch KGN34NWEAG Frost Free Fridge Freezer"@de	COL title VAL  "Bosch KGN34NWEAG 60cm Frost Free Fridge Freezer"@de	1
+COL title VAL  "Blaze 4 Burner LTE Grill Built-In Natural Gas Grill with Lights"@en	COL title VAL  "Blaze 40-Inch 5-Burner LTE Built-In Liquid Propane Gas Grill With Rear Infrared Burner & Grill Lights"@en	0

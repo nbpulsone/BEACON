@@ -1,0 +1,10 @@
+COL title VAL  "Neff B47CR32N0B Slide&Hide Single Oven"@de	COL title VAL  "Neff B57CR22N0B Single Built In Electric Oven"@en	0
+COL title VAL  "Neff B47CR32N0B Built In Oven"@en	COL title VAL  "Neff B47CR32N0B Slide&Hide Single Oven"@de	1
+COL title VAL  "Neff B57CR22N0B Pyrolytic Slide and Hide Single Electric Oven in Stainless Steel"@en	COL title VAL  "Neff B47CR32N0B Slide&Hide Single Oven"@de	0
+COL title VAL  "Bosch KGN34NWEAG 60cm Serie 2 Frost Free Fridge Freezer - WHITE"@de	COL title VAL  "Bosch KGN34NWEAG Frost Free Fridge Freezer"@de	1
+COL title VAL  "Neff B57CR22N0B Single Built In Electric Oven"@en	COL title VAL  "Neff B47CR32N0B Built In Oven"@en	0
+COL title VAL  "Neff B47CR32N0B Built In Oven"@en	COL title VAL  "Neff B57CR22N0B Pyrolytic Slide and Hide Single Electric Oven in Stainless Steel"@en	0
+COL title VAL  "Liebherr SIGN3556 178cm Integrated In Column Frost Free Freezer"@de	COL title VAL  "Bosch KGN34NWEAG 60cm Serie 2 Frost Free Fridge Freezer - WHITE"@de	0
+COL title VAL  "Liebherr SIGN3556 178cm Integrated In Column Frost Free Freezer"@de	COL title VAL  "Bosch KGN34NWEAG Frost Free Fridge Freezer"@de	0
+COL title VAL  "Neff B57CR22N0B Pyrolytic Slide and Hide Single Electric Oven in Stainless Steel"@en	COL title VAL  "Neff B57CR22N0B Single Built In Electric Oven"@en	1
+COL title VAL  "SIGN 3556-20 Premium vriezer"@sk	COL title VAL  "Liebherr SIGN3556 178cm Integrated In Column Frost Free Freezer"@de	1

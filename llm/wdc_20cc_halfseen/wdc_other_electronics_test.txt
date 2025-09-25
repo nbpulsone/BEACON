@@ -1,0 +1,378 @@
+COL title VAL  "Audio Technica ATH-SR50BTBK Headband/On-Ear, 3.5 mm, Black, Noice canceling, Wireless"@en	COL title VAL  "Audio Technica ATH-SR50BTBK Sound Reality Bluetooth Wireless Over-Ear Headphones High-Resolution Audio Foldable with Microphone includes Travel Pouch (Black)"@en	1
+COL title VAL  "Switch TP-LINK TL-SG1024 (24x 10/100/1000Mbps)"@en	COL title VAL  "TP-Link TL-SG1024 24x Port Gigabit Network Switch | Discount Computer Needs"@en	1
+COL title VAL  "Langsdom Mijiaer JM21 In ear Earphones For Phone iPhone Huawei Xiaomi Headsets Wired Earphone Earbuds Earpiece fone de ouvido"@en	COL title VAL  "Wireless Over-Ear Headphones ATH-M50xBT"@en	0
+COL title VAL  "Smok TFV12 Prince Dual Mesh Coil"@en	COL title VAL  "TP-LINK Archer C1200 Dual Band"@de	0
+COL title VAL  "Catalyst 3650 Series Switches 24 Port - WS-C3650-24TS-S"@en	COL title VAL  "Cisco WS-C3560X-48T-S Catalyst 3560X 48 Port Data IP Base Switch w/ 1x 350W PS"@en	0
+COL title VAL  "Garmin Striker Plus 5cv Fish Finder with GT20-TM Transducer"@en	COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	0
+COL title VAL  "Catalyst 4500-x 16 Port 10g Ip"@en	COL title VAL  "Garmin 10' Transducer Extension Cable for 4-Pin Connector"@en	0
+COL title VAL  "WS-C3650-24TS-S - Cisco 3650 Switch 24Pt GE 4x1GB IP Base"@en	COL title VAL  "Catalyst 3650 Series Switches 24 Port - WS-C3650-24TS-S"@en	1
+COL title VAL  "DS-7208HQHI-K2-P Hikvision 8 Channel 1080P HD-TVI Hybrid DVR (POC)"@en	COL title VAL  "HIKVISION DS-7208HQHI-K2/P 2 MEGAPIXEL POC 8 CHANNEL (8CH) DVR"@en	1
+COL title VAL  "4CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7204HQHI-K1"@de	COL title VAL  "DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	0
+COL title VAL  "Garmin® STRIKER™ Plus 5cv Fishfinder/GPS Combo Series"@de	COL title VAL  "Ubiquiti AirMax AC Sector 21dBi AM-5AC21-60 Ubiquiti"@fr	0
+COL title VAL  "Smok TFV12 Prince Dual Mesh Coil"@en	COL title VAL  "SMOK TFV12 Prince Dual Mesh Coil (3-Pack)"@en	1
+COL title VAL  "IE-2000-16TC-G-L Cisco Industrial Ethernet 2000 Switch (New)"@en	COL title VAL  "CISCO IE-3000-4TC Switch"@en	0
+COL title VAL  "Hikvision DS-KD-ACW2 Surface Mount for 2 Module Door Station"@en	COL title VAL  "HIKVISION DS-KD-ACW2 double-wall mounting bracket for modular door station"@en	1
+COL title VAL  "Casti JBL E45BT, Bluetooth, On-Ear, Microfon, negru"@en	COL title VAL  "Audio Technica ATH-SR50BTBK Headband/On-Ear, 3.5 mm, Black, Noice canceling, Wireless"@en	0
+COL title VAL  "APC SMT1000IC Smart-UPS 1000VA/700W Sinewave UPS with SmartConnect"@en	COL title VAL  "APC Replacement Battery Cartridge #17 UPS Battery"@en	0
+COL title VAL  "D-Link 8-Port Gigabit PoE Smart Managed Switch"@en	COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	0
+COL title VAL  "Switch 24 porturi PoE, 2 porturi uplink Hikvision DS-3E0326P-E"@en	COL title VAL  "Blackmagic Design ATEM 2 M/E Production Studio 4K SWATEMPSW2ME4K"@en	0
+COL title VAL  "Switch Netgear - ProSafe Gigabit SmartSwitch 48porte"@en	COL title VAL  "Startech USB 3.0 Gigabit Adapter"@de	0
+COL title VAL  "TP-Link TL-WR1043ND Ultimate Wifi N Gigabit Router (517212021)"@en	COL title VAL  "TP-Link Archer VR400-AC1200 Wireless Gigabit VDSL/ADSL Modem Router(Black)."@de	0
+COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	COL title VAL  "Garmin Striker Plus 5cv Fish Finder with GT20-TM Transducer"@en	0
+COL title VAL  "Jabra BIZ 2300 Duo USB UC"@es	COL title VAL  "Jabra BIZ 2400 II binaural NC (FreeSpin)"@en	0
+COL title VAL  "Ubiquiti POE Injector, 48VDC 24W Gigabit Lan"@fr	COL title VAL  "Networking Device 48 Port Full PoE 2x10G LAN - WS-C3650-48FD-L"@en	0
+COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	COL title VAL  "Garmin® STRIKER™ Plus 5cv Fishfinder/GPS Combo Series"@de	0
+COL title VAL  "D-Link DPE-301GI 1-Port Gigabit PoE Injector"@en	COL title VAL  "TP-Link TL-SG1024 24x Port Gigabit Network Switch | Discount Computer Needs"@en	0
+COL title VAL  "Hikvision DS-3E0326P-E 24 Port 10/100 PoE+ Switch"@en	COL title VAL  "TP-Link TL-SG1024 24x Port Gigabit Network Switch | Discount Computer Needs"@en	0
+COL title VAL  "UBIQUITI POE Injector, 24V, 12W, (0.5amp)"@en	COL title VAL  "D-Link DPE-301GI - PoE injector - 30 Watt"@en	0
+COL title VAL  "Jabra BIZ 2400 II Duo - Mic. 82 NC, Wideband"@en	COL title VAL  "Jabra BIZ 2300 Duo USB UC"@es	0
+COL title VAL  "Switch TP-LINK TL-SG1024 (24x 10/100/1000Mbps)"@en	COL title VAL  "TP-LINK TL-WA860RE netwerkextender"@de	0
+COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	COL title VAL  "Garmin Garmin 10ft Transducer Extension Cable 4 -Pin"@en	0
+COL title VAL  "TP-LINK TL-SG1016DE 16-Port Gigabit Easy Smart Switch Black (V1.0)"@en	COL title VAL  "TP-Link TL SG1008 8-Port Gigabit Unmanaged Rackmount Switch"@en	0
+COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	COL title VAL  "Garmin Striker Plus 7sv Fish Finder with GT52HW-TM Transducer"@de	1
+COL title VAL  "DS-7604NI-K1-4P Hikvision 4 Channel 4K NVR with 4 PoE ports"@en	COL title VAL  "4ch Hikvision NVR with 4x PoE"@en	1
+COL title VAL  "RB260GSP - 5 port manageаble switch, SFP, PoE out"@en	COL title VAL  "MikroTik RB260GSP - Desktop PoE Switch with 5 Gb and 1 SFP Port"@en	1
+COL title VAL  "Power Bank TP-LINK TL-PB20000"@pl	COL title VAL  "TP LINK 20000mAh Power Bank"@de	1
+COL title VAL  "IE-2000-16TC-G-L Cisco Industrial Ethernet 2000 Switch (New)"@en	COL title VAL  "CISCO IE 3000 SWITCH 4 10/100 + 2 T/SFP"@en	0
+COL title VAL  "Jabra Biz 2300 Mono, USB"@pt	COL title VAL  "Jabra BIZ 2300 USB MS Mono"@pt	1
+COL title VAL  "WS-C2960-8TC-L Cisco Catalyst 2960 8 10/100 + 1 T/SFP LAN Base Image. New Factory Sealed."@en	COL title VAL  "Cisco Catalyst WS-C2960-48TT-L 2960 48 10/100 + 2 1000BT LAN Base Image"@en	0
+COL title VAL  "D-Link 8-Port Gigabit PoE Smart Managed Switch"@en	COL title VAL  "D-Link DPE-301GI - PoE injector - 30 Watt"@en	0
+COL title VAL  "WS-C3560X-48T-SCatalyst 3560X 48 Port Data IP Base"@en	COL title VAL  "WS-C2960XR-48FPS-I - 48 Port 2960-XR Switch"@en	0
+COL title VAL  "Ubiquiti POE Injector, 48VDC 24W Gigabit Lan"@fr	COL title VAL  "D-Link DPE-301GI 1-Port Gigabit PoE Injector"@en	0
+COL title VAL  "Cisco IE-2000-16TC-G-L Industrial Ethernet 2000 Series 16-port Managed Switch with 2x Gigabit SFP"@en	COL title VAL  "CISCO IE-3000-4TC Switch"@en	0
+COL title VAL  "Striker Plus 5cv, Worldwide w/GT20"@de	COL title VAL  "Garmin ECHOMAP Plus 43cv with GT20 Transducer Fish Finder/Chartplotter Combo"@en	0
+COL title VAL  "Networking Device 48 Port Full PoE 2x10G LAN - WS-C3650-48FD-L"@en	COL title VAL  "WS-C3650-8X24UQ-LCisco Catalyst 3650 24 Port mGig, 4x10G Uplink, LAN Base"@en	0
+COL title VAL  "RB260GSP - 5 port manageаble switch, SFP, PoE out"@en	COL title VAL  "Cisco Small Business SF300-24PP - switch - 24 ports - managed - rack-mounta"@en	0
+COL title VAL  "StarTech.com USB 3.0 to Gigabit Ethernet Adapter"@en	COL title VAL  "Belkin HDMI to VGA Adapter with Micro-USB Power"@en	0
+COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (New)"@en	COL title VAL  "SF300-24PP-K9-NA Small Business SF300-24PP Managed L3 Switch - 24 PoE+ Ethernet Ports & 2 Combo Gigabit SFP Ports & 2 Ethernet Ports by Cisco (Refurbished)"@en	0
+COL title VAL  "APC Smart-UPS SMX 2200VA 2U Rack/Tower LCD 200-240V Line Interactive UPS with Smart Slot SMX2200RMHV2U"@en	COL title VAL  "APC Smart-UPS SMX 3000VA 4U Rack/Tower LCD 200-240V Line Interactive UPS with Smart Slot SMX3000HV"@en	0
+COL title VAL  "Ubiquiti 24 Volt POE 0.5A"@fr	COL title VAL  "Hikvision DS-3E0326P-E 24 Port 10/100 PoE+ Switch"@en	0
+COL title VAL  "WS-C2960XR-48FPS-I - 48 Port 2960-XR Switch"@en	COL title VAL  "WS-C3850-48P-SCisco Catalyst 3850 48 Port PoE IP Base"@en	0
+COL title VAL  "HIK 8CH TURBO HD DVR, DS-7208HUHI-K1"@de	COL title VAL  "4CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7204HQHI-K1"@de	0
+COL title VAL  "DS-7204HQHI-K1 Hikvision 4 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "Hikvision DS-7216HQHI-K1 Turbo HD DVR"@en	0
+COL title VAL  "D-Link 8-Port Gigabit PoE Smart Managed Switch"@en	COL title VAL  "TP-Link TL SG1008 8-Port Gigabit Unmanaged Rackmount Switch"@en	0
+COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	COL title VAL  "Garmin Striker 4 with Transducer, 3.5'' GPS Fishfinder with CHIRP Traditional Transducer"@en	0
+COL title VAL  "Wireless Over-Ear Headphones ATH-M50xBT"@en	COL title VAL  "Tp-Link TL-WPA4220, AV600 Powerline Wi-Fi Kit, 600 Mbps high speed data transmissin and extend 300Mbps wireless connections"@en	0
+COL title VAL  "Networking Device 48 Port Full PoE 2x10G LAN - WS-C3650-48FD-L"@en	COL title VAL  "Cisco Catalyst 3650-48F Ethernet Switch - WSC365048FDL"@en	1
+COL title VAL  "Hikvision NVR DS-9632NI-I8"@en	COL title VAL  "Cisco Catalyst 3650-48F Ethernet Switch - WSC365048FDL"@en	0
+COL title VAL  "Garmin® STRIKER™ Plus 5cv Fishfinder/GPS Combo Series"@de	COL title VAL  "GarminStriker Fishfinder w/Gps & Crirp Sonar"@de	0
+COL title VAL  "D-Link DPE-301GI - PoE injector - 30 Watt"@en	COL title VAL  "D-Link DPE-301GI 1-Port Gigabit PoE Injector"@en	1
+COL title VAL  "DS-7208HQHI-K2-P Hikvision 8 Channel 1080P HD-TVI Hybrid DVR (POC)"@en	COL title VAL  "Hikvision DS-7216HQHI-K1 Turbo HD DVR"@en	0
+COL title VAL  "DS-7208HUHI-K1 Hikvision 8 Channel 5MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "DS-7204HQHI-K1 Hikvision 4 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	0
+COL title VAL  "Jabra BIZ 2400 Mark II - 3-in-1 Mono Headset"@en	COL title VAL  "Jabra Biz 2300 Mono, USB"@pt	0
+COL title VAL  "WS-C3560CX-12PC-SCisco Catalyst 3560-CX 12 Port PoE IP Base"@en	COL title VAL  "Cisco WS-C4500X-16SFP+, Catalyst 4500-X 16 Port 10G IP Base, Front-to-Back, No P/S"@en	0
+COL title VAL  "DS-7604NI-K1-4P Hikvision 4 Channel 4K NVR with 4 PoE ports"@en	COL title VAL  "Mixer video Blackmagic ATEM 2 M/E Production Studio 4K Video Switcher"@en	0
+COL title VAL  "TP-Link TL-WR1043ND Ultimate Wifi N Gigabit Router (517212021)"@en	COL title VAL  "TL-WR1043ND V2 Wireless N300 Gigabit Router, 300Mbps, USB port for Storage, 3 Detachable Antennas, Speed Boost up to 450Mbps"@en	1
+COL title VAL  "APC SMT1000IC Smart-UPS 1000VA/700W Sinewave UPS with SmartConnect"@en	COL title VAL  "APC Smart-UPS SMX 3000VA 4U Rack/Tower LCD 200-240V Line Interactive UPS with Smart Slot SMX3000HV"@en	0
+COL title VAL  "IE-2000-16TC-G-L Cisco Industrial Ethernet 2000 Switch (New)"@en	COL title VAL  "WS-C2960XR-48FPS-I Cisco Catalyst 2960XR Network Switch (New)"@en	0
+COL title VAL  "Jabra BIZ 2300 USB MS Mono"@pt	COL title VAL  "Jabra BIZ2300 2399-823-109 DUO USB Headset MS"@en	0
+COL title VAL  "WS-C3650-8X24UQ-L - 3650 Switch"@en	COL title VAL  "WS-C2960XR-48FPS-I - 48 Port 2960-XR Switch"@en	0
+COL title VAL  "Hikvision 32-Channel Professional Embedded NVR"@en	COL title VAL  "Hikvision DS-7216HUHI-K2 5MP 16 Channel TVI, DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	0
+COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (New)"@en	COL title VAL  "JABRA 2406-820-205 BIZ 2400 II Headset"@en	0
+COL title VAL  "Atomos Atomos coiled full HDMI to full HDMI cable (30-45cm)"@es	COL title VAL  "Atomos Cable - Full HDMI 30cm"@es	1
+COL title VAL  "HIKVISION DS-KD-ACW2 double-wall mounting bracket for modular door station"@en	COL title VAL  "Cisco Small Business SF300-24PP - switch - 24 ports - managed - rack-mounta"@en	0
+COL title VAL  "Jabra BIZ 2400 Mark II - 3-in-1 Mono Headset"@en	COL title VAL  "JABRA 2406-820-205 BIZ 2400 II Headset"@en	1
+COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "DS-7208HQHI-K2-P Hikvision 8 Channel 1080P HD-TVI Hybrid DVR (POC)"@en	0
+COL title VAL  "TP-Link TL-WR1043ND Ultimate Wifi N Gigabit Router (517212021)"@en	COL title VAL  "Roteador Gigabit Vpn Dual Wan Safestream Tl-Er6020 Tp-Link"@en	0
+COL title VAL  "Striker Plus 5cv, Worldwide w/GT20"@de	COL title VAL  "CISCO IE 3000 SWITCH 4 10/100 + 2 T/SFP"@en	0
+COL title VAL  "ProSafe S3300 52PT Gigabit STACKABLE SMART Switch incl.10G"@en	COL title VAL  "Switch Netgear - ProSafe Gigabit SmartSwitch 48porte"@en	0
+COL title VAL  "TP-LINK Wireless-N300 Range Extender TL-WA860RE"@de	COL title VAL  "Tp-Link TL-WPA4220, AV600 Powerline Wi-Fi Kit, 600 Mbps high speed data transmissin and extend 300Mbps wireless connections"@en	0
+COL title VAL  "TP-LINK TL-SG1016DE 16-Port Gigabit Easy Smart Switch Black (V1.0)"@en	COL title VAL  "Switch TP-Link TL-SF1024D"@en	0
+COL title VAL  "APC Replacement Battery Cartridge #17 UPS Battery"@en	COL title VAL  "Apc Smt1000I Smart-Ups 1000Va Lcd 230V. Apc Smart-Ups, 670Watts/1000Va Ingresso 230V/Uscita 230V Interface Port Db-9 Rs-232 Smartslot, Usb"@en	0
+COL title VAL  "Jabra BIZ 2400 Mark II - 3-in-1 Mono Headset"@en	COL title VAL  "Jabra BIZ 2400 II binaural NC (FreeSpin)"@en	0
+COL title VAL  "WS-C3560CX-12PC-S - Cisco Catalyst 3560CX Network Switch - Refurb'd"@en	COL title VAL  "Cisco WS-C3560X-48T-S Catalyst 3560X 48 Port Data IP Base Switch w/ 1x 350W PS"@en	0
+COL title VAL  "Garmin Striker Plus 7sv Fish Finder with GT52HW-TM Transducer"@de	COL title VAL  "Garmin Striker 4 with Transducer, 3.5'' GPS Fishfinder with CHIRP Traditional Transducer"@en	0
+COL title VAL  "Cisco IE-2000-16TC-G-L Industrial Ethernet 2000 Series 16-port Managed Switch with 2x Gigabit SFP"@en	COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	0
+COL title VAL  "WS-C3850-48P-SCisco Catalyst 3850 48 Port PoE IP Base"@en	COL title VAL  "WS-C3650-8X24UQ-LCisco Catalyst 3650 24 Port mGig, 4x10G Uplink, LAN Base"@en	0
+COL title VAL  "D-Link DGS-1100-08P 8-Port 1Gb EasySmart Switch, PoE"@en	COL title VAL  "D-Link DPE-301GI 1-Port Gigabit PoE Injector"@en	0
+COL title VAL  "DS-7208HQHI-K2-P Hikvision 8 Channel 1080P HD-TVI Hybrid DVR (POC)"@en	COL title VAL  "HIKVISION DS-7208HUHI-K2/P 5 MEGAPIXEL POC 8 CHANNEL (8CH) DVR"@en	0
+COL title VAL  "Garmin Striker 4 with Transducer, 3.5'' GPS Fishfinder with CHIRP Traditional Transducer"@en	COL title VAL  "Garmin Striker Plus 5cv Fish Finder with GT20-TM Transducer"@en	0
+COL title VAL  "Garmin 10' Transducer Extension Cable for 4-Pin Connector"@en	COL title VAL  "Garmin Garmin 10ft Transducer Extension Cable 4 -Pin"@en	1
+COL title VAL  "DS-7208HUHI-K1 Hikvision 8 Channel 5MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "DS-7208HQHI-K2-P Hikvision 8 Channel 1080P HD-TVI Hybrid DVR (POC)"@en	0
+COL title VAL  "4ch Hikvision NVR with 4x PoE"@en	COL title VAL  "Hikvision 32-Channel Professional Embedded NVR"@en	0
+COL title VAL  "Garmin ECHOMAP Plus 43cv with GT20 Transducer Fish Finder/Chartplotter Combo"@en	COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	0
+COL title VAL  "D-Link 8-Port Gigabit PoE Smart Managed Switch"@en	COL title VAL  "D-Link DPE-301GI 1-Port Gigabit PoE Injector"@en	0
+COL title VAL  "Switch TP-Link 16p TL-SG1016DE Rack"@en	COL title VAL  "TP-LINK TL-WA860RE netwerkextender"@de	0
+COL title VAL  "Catalyst 4500-x 16 Port 10g Ip"@en	COL title VAL  "Cisco WS-C4500X-16SFP+, Catalyst 4500-X 16 Port 10G IP Base, Front-to-Back, No P/S"@en	1
+COL title VAL  "Apc Smt1000I Smart-Ups 1000Va Lcd 230V. Apc Smart-Ups, 670Watts/1000Va Ingresso 230V/Uscita 230V Interface Port Db-9 Rs-232 Smartslot, Usb"@en	COL title VAL  "APC Smart-UPS SMX 3000VA 4U Rack/Tower LCD 200-240V Line Interactive UPS with Smart Slot SMX3000HV"@en	0
+COL title VAL  "DS-7208HUHI-K1 Hikvision 8 Channel 5MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	0
+COL title VAL  "WS-C3560X-48T-SCatalyst 3560X 48 Port Data IP Base"@en	COL title VAL  "WS-C3560CX-12PC-SCisco Catalyst 3560-CX 12 Port PoE IP Base"@en	0
+COL title VAL  "4ch Hikvision NVR with 4x PoE"@en	COL title VAL  "DS-7616NI-I2-16P 16channel Hikvision NVR 12MP 16 PoE"@en	0
+COL title VAL  "Cisco Catalyst WS-C2960-48TT-L 2960 48 10/100 + 2 1000BT LAN Base Image"@en	COL title VAL  "Cisco Catalyst 2960-48TT-L"@en	1
+COL title VAL  "TP-Link TL SG1008 8-Port Gigabit Unmanaged Rackmount Switch"@en	COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (New)"@en	0
+COL title VAL  "DS-7204HQHI-K1 Hikvision 4 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "DS-7604NI-K1-4P Hikvision 4 Channel 4K NVR with 4 PoE ports"@en	0
+COL title VAL  "DS-7204HQHI-K1 Hikvision 4 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "TP-Link Archer C1200 - Trådløs router"@en	0
+COL title VAL  "DS-7604NI-K1-4P Hikvision 4 Channel 4K NVR with 4 PoE ports"@en	COL title VAL  "Hikvision NVR DS-9632NI-I8"@en	0
+COL title VAL  "Belkin HDMI TO VGA Adapter"@tr	COL title VAL  "Atomos Atomos coiled full HDMI to full HDMI cable (30-45cm)"@es	0
+COL title VAL  "Tp-Link TL-WPA4220, AV600 Powerline Wi-Fi Kit, 600 Mbps high speed data transmissin and extend 300Mbps wireless connections"@en	COL title VAL  "ROTEADOR TP-LINK TL-WR941HP WIRELESS N 450MBPS - TPL0500"@en	0
+COL title VAL  "WS-C2960XR-48FPS-I Cisco Catalyst 2960XR Network Switch (New)"@en	COL title VAL  "CISCO IE-3000-4TC Switch"@en	0
+COL title VAL  "TP-Link TL-SG1024 24x Port Gigabit Network Switch | Discount Computer Needs"@en	COL title VAL  "TP-Link TL SG1008 8-Port Gigabit Unmanaged Rackmount Switch"@en	0
+COL title VAL  "Switch Unmanaged PoE GS108PE-300EUS 8-Port Gbit"@en	COL title VAL  "CISCO IE 3000 SWITCH 4 10/100 + 2 T/SFP"@en	0
+COL title VAL  "Striker Plus 5cv, Worldwide w/GT20"@de	COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	0
+COL title VAL  "TP-Link TL SG1008 8-Port Gigabit Unmanaged Rackmount Switch"@en	COL title VAL  "Switch TP-Link 16p TL-SG1016DE Rack"@en	0
+COL title VAL  "WS-C3850-48P-SCisco Catalyst 3850 48 Port PoE IP Base"@en	COL title VAL  "Networking Device 48 Port Full PoE 2x10G LAN - WS-C3650-48FD-L"@en	0
+COL title VAL  "Hikvision NVR DS-9632NI-I8"@en	COL title VAL  "Switch 24 porturi PoE, 2 porturi uplink Hikvision DS-3E0326P-E"@en	0
+COL title VAL  "Ubiquiti 24 Volt POE 0.5A"@fr	COL title VAL  "Ubiquiti POE-48-24W-G - Inyector PoE 48 voltios DC 24 watios gigabit ethernet"@en	0
+COL title VAL  "WS-C3650-8X24UQ-LCisco Catalyst 3650 24 Port mGig, 4x10G Uplink, LAN Base"@en	COL title VAL  "Catalyst 3650 Series Switches 24 Port - WS-C3650-24TS-S"@en	0
+COL title VAL  "Netgear Smart Gigabit Ethernet Switch 50 port, 10/100/1000Mbit/s"@en	COL title VAL  "Hikvision DS-3E0326P-E 24 Port 10/100 PoE+ Switch"@en	0
+COL title VAL  "TP-Link TL-SG1024 24x Port Gigabit Network Switch | Discount Computer Needs"@en	COL title VAL  "TP-LINK TL-SG1016DE 16-Port Gigabit Easy Smart Switch Black (V1.0)"@en	0
+COL title VAL  "Audio-Technica ATH-M50xBT Closed-back Studio Monitoring Headphones w/ Bluetooth"@en	COL title VAL  "BIZ 2300 USB DuoMicrosoft optimized"@en	0
+COL title VAL  "DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "ProSafe S3300 52PT Gigabit STACKABLE SMART Switch incl.10G"@en	0
+COL title VAL  "D-Link 8-Port Gigabit PoE Smart Managed Switch"@en	COL title VAL  "Netgear Smart Gigabit Ethernet Switch 50 port, 10/100/1000Mbit/s"@en	0
+COL title VAL  "Startech USB 3.0 Gigabit Adapter"@de	COL title VAL  "StarTech.com USB 3.0 to Gigabit Ethernet Adapter"@en	1
+COL title VAL  "Jabra Biz 2300 Mono, USB"@pt	COL title VAL  "Jabra BIZ2300 2399-823-109 DUO USB Headset MS"@en	0
+COL title VAL  "SWITCH RACK TP-LINK/24PTOS FAST/SAVE ENERGY 40%/19"/TL-SF1024"@en	COL title VAL  "Switch TP-Link 16p TL-SG1016DE Rack"@en	0
+COL title VAL  "SF300-24PP-K9-NA Small Business SF300-24PP Managed L3 Switch - 24 PoE+ Ethernet Ports & 2 Combo Gigabit SFP Ports & 2 Ethernet Ports by Cisco (Refurbished)"@en	COL title VAL  "Cisco SG500 52P Gigabit SG500-52-K9-NA"@de	0
+COL title VAL  "D-Link 8-Port Gigabit PoE Smart Managed Switch"@en	COL title VAL  "ProSafe S3300 52PT Gigabit STACKABLE SMART Switch incl.10G"@en	0
+COL title VAL  "Colorful Headset Hi-Fi Earbuds Bass Earpieces Earphone"@en	COL title VAL  "Langsdom Mijiaer JM21 In ear Earphones For Phone iPhone Huawei Xiaomi Headsets Wired Earphone Earbuds Earpiece fone de ouvido"@en	1
+COL title VAL  "TP-LINK Archer C1200 Dual Band"@de	COL title VAL  "TP LINK 20000mAh Power Bank"@de	0
+COL title VAL  "Garmin ECHOMAP Plus 43cv with GT20 Transducer Fish Finder/Chartplotter Combo"@en	COL title VAL  "Garmin Striker 4 with Transducer, 3.5'' GPS Fishfinder with CHIRP Traditional Transducer"@en	0
+COL title VAL  "TP-LINK Archer C1200 Dual Band"@de	COL title VAL  "TP-Link Archer C1200 - Trådløs router"@en	1
+COL title VAL  "Netgear Smart Gigabit Ethernet Switch 50 port, 10/100/1000Mbit/s"@en	COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	0
+COL title VAL  "UBIQUITI POE Injector, 24V, 12W, (0.5amp)"@en	COL title VAL  "Ubiquiti 24 Volt POE 0.5A"@fr	1
+COL title VAL  "HIKVISION DS-7208HUHI-K2/P 5 MEGAPIXEL POC 8 CHANNEL (8CH) DVR"@en	COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	1
+COL title VAL  "airMAX AC Sector 5 GHz, 60º, 21 dBi Antenna"@en	COL title VAL  "TL-WR1043ND V2 Wireless N300 Gigabit Router, 300Mbps, USB port for Storage, 3 Detachable Antennas, Speed Boost up to 450Mbps"@en	0
+COL title VAL  "DS-7204HQHI-K1 Hikvision 4 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "DS-7208HQHI-K2-P Hikvision 8 Channel 1080P HD-TVI Hybrid DVR (POC)"@en	0
+COL title VAL  "Cisco WS-C4500X-16SFP+, Catalyst 4500-X 16 Port 10G IP Base, Front-to-Back, No P/S"@en	COL title VAL  "WS-C3850-48P-SCisco Catalyst 3850 48 Port PoE IP Base"@en	0
+COL title VAL  "Switch 8 puertos 10 100 1000"@en	COL title VAL  "Hikvision DS-3E0326P-E 24 Port 10/100 PoE+ Switch"@en	0
+COL title VAL  "WS-C3650-8X24UQ-L - 3650 Switch"@en	COL title VAL  "WS-C3650-24TS-S - Cisco 3650 Switch 24Pt GE 4x1GB IP Base"@en	0
+COL title VAL  "Hikvision DVR 16 CH fino a 8Mpx Turbo 3.0 DS-7216HUHI-K2"@en	COL title VAL  "HIKVISION DS-7208HQHI-K2/P 2 MEGAPIXEL POC 8 CHANNEL (8CH) DVR"@en	0
+COL title VAL  "WS-C3560X-48T-SCatalyst 3560X 48 Port Data IP Base"@en	COL title VAL  "Cisco Catalyst 2960-48TT-L"@en	0
+COL title VAL  "Switch TP-LINK TL-SG1024 (24x 10/100/1000Mbps)"@en	COL title VAL  "Switch TP-Link 16p TL-SG1016DE Rack"@en	0
+COL title VAL  "Jabra BIZ 2400 II Duo - Mic. 82 NC, Wideband"@en	COL title VAL  "JABRA 2406-820-205 BIZ 2400 II Headset"@en	0
+COL title VAL  "TP-Link Archer VR400-AC1200 Wireless Gigabit VDSL/ADSL Modem Router(Black)."@de	COL title VAL  "TP-Link Archer VR400 (867Mbps 5GHz + 300Mbps 2.4GHz) Kablosuz VDSL/ADSL Modem Router"@de	1
+COL title VAL  "UBIQUITI POE Injector, 24V, 12W, (0.5amp)"@en	COL title VAL  "Ubiquiti POE Injector, 48VDC 24W Gigabit Lan"@fr	0
+COL title VAL  "Cisco Catalyst 3850 WS-C3850-48P-S 48-Port POE IP Base"@en	COL title VAL  "WS-C3560CX-12PC-SCisco Catalyst 3560-CX 12 Port PoE IP Base"@en	0
+COL title VAL  "ProSafe S3300 52PT Gigabit STACKABLE SMART Switch incl.10G"@en	COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (New)"@en	0
+COL title VAL  "4CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7204HQHI-K1"@de	COL title VAL  "Hikvision DVR 16 CH fino a 8Mpx Turbo 3.0 DS-7216HUHI-K2"@en	0
+COL title VAL  "Switch Unmanaged PoE GS108PE-300EUS 8-Port Gbit"@en	COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	1
+COL title VAL  "D-Link 8-Port Gigabit PoE Smart Managed Switch"@en	COL title VAL  "TP-LINK Wireless-N300 Range Extender TL-WA860RE"@de	0
+COL title VAL  "Switch 8 puertos 10 100 1000"@en	COL title VAL  "WS-C2960-8TC-L Cisco Catalyst 2960 8 10/100 + 1 T/SFP LAN Base Image. New Factory Sealed."@en	0
+COL title VAL  "D-Link 8-Port Gigabit PoE Smart Managed Switch"@en	COL title VAL  "D-Link DGS-1100-08P 8-Port 1Gb EasySmart Switch, PoE"@en	1
+COL title VAL  "Cisco IE-2000-16TC-G-L Industrial Ethernet 2000 Series 16-port Managed Switch with 2x Gigabit SFP"@en	COL title VAL  "IE-2000-16TC-G-L Cisco Industrial Ethernet 2000 Switch (New)"@en	1
+COL title VAL  "DS-7616NI-I2-16P 16channel Hikvision NVR 12MP 16 PoE"@en	COL title VAL  "Hikvision 32-Channel Professional Embedded NVR"@en	0
+COL title VAL  "DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "Switch TP-LINK TL-SG1024 (24x 10/100/1000Mbps)"@en	0
+COL title VAL  "HIKVISION DS-KD-ACW2 double-wall mounting bracket for modular door station"@en	COL title VAL  "Hikvision NVR DS-9632NI-I8"@en	0
+COL title VAL  "TP-Link TL SG1008 8-Port Gigabit Unmanaged Rackmount Switch"@en	COL title VAL  "TP-Link TL-WR1043ND Ultimate Wifi N Gigabit Router (517212021)"@en	0
+COL title VAL  "Garmin Striker Plus 5cv Fish Finder with GT20-TM Transducer"@en	COL title VAL  "Garmin ECHOMAP Plus 43cv with GT20 Transducer Fish Finder/Chartplotter Combo"@en	0
+COL title VAL  "Hikvision DVR 16 CH fino a 8Mpx Turbo 3.0 DS-7216HUHI-K2"@en	COL title VAL  "Hikvision DS-7216HQHI-K1 Turbo HD DVR"@en	0
+COL title VAL  "Netgear 52p GS748T-500EUS (48x10/100/1000Mbit 2xSFP,Combo)"@en	COL title VAL  "Switch Netgear - ProSafe Gigabit SmartSwitch 48porte"@en	1
+COL title VAL  "HIKVISION DS-7208HUHI-K2/P 5 MEGAPIXEL POC 8 CHANNEL (8CH) DVR"@en	COL title VAL  "Hikvision DVR 16 CH fino a 8Mpx Turbo 3.0 DS-7216HUHI-K2"@en	0
+COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (New)"@en	COL title VAL  "Cisco Small Business SF300-24PP - switch - 24 ports - managed - rack-mounta"@en	0
+COL title VAL  "WS-C2960XR-48FPS-I Cisco Catalyst 2960XR Network Switch (New)"@en	COL title VAL  "WS-C3560CX-12PC-S - Cisco Catalyst 3560CX Network Switch - Refurb'd"@en	0
+COL title VAL  "BIZ 2300 USB DuoMicrosoft optimized"@en	COL title VAL  "Jabra Biz 2300 Mono, USB"@pt	0
+COL title VAL  "Switch Unmanaged PoE GS108PE-300EUS 8-Port Gbit"@en	COL title VAL  "MikroTik RB260GSP - Desktop PoE Switch with 5 Gb and 1 SFP Port"@en	0
+COL title VAL  "DS-7204HQHI-K1 Hikvision 4 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	0
+COL title VAL  "DS-7208HUHI-K1 Hikvision 8 Channel 5MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "DS-7604NI-K1-4P Hikvision 4 Channel 4K NVR with 4 PoE ports"@en	0
+COL title VAL  "D-Link DGS-1100-08P 8-Port 1Gb EasySmart Switch, PoE"@en	COL title VAL  "Hikvision DS-3E0326P-E 24 Port 10/100 PoE+ Switch"@en	0
+COL title VAL  "DS-7204HQHI-K1 Hikvision 4 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "JBL E45Bt On-Ear Black"@en	0
+COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	COL title VAL  "Garmin Striker Plus 7sv Fish Finder with GT52HW-TM Transducer"@de	0
+COL title VAL  "TP-LINK Wireless-N300 Range Extender TL-WA860RE"@de	COL title VAL  "TP-Link TL-WPA4220 - 300Mbps AV600 Powerline Wi-Fi Extender with 2 LAN ports"@en	0
+COL title VAL  "Netgear 52p GS748T-500EUS (48x10/100/1000Mbit 2xSFP,Combo)"@en	COL title VAL  "Netgear Smart Gigabit Ethernet Switch 50 port, 10/100/1000Mbit/s"@en	0
+COL title VAL  "Cisco WS-C4500X-16SFP+, Catalyst 4500-X 16 Port 10G IP Base, Front-to-Back, No P/S"@en	COL title VAL  "Cisco Catalyst 3850 WS-C3850-48P-S 48-Port POE IP Base"@en	0
+COL title VAL  "4CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7204HQHI-K1"@de	COL title VAL  "Hikvision DS-7216HQHI-K1 Turbo HD DVR"@en	0
+COL title VAL  "ROTEADOR TP-LINK TL-WR941HP WIRELESS N 450MBPS - TPL0500"@en	COL title VAL  "Switch TP-Link TL-SF1024D"@en	0
+COL title VAL  "APC Replacement Battery Cartridge #17 UPS Battery"@en	COL title VAL  "APC Smart-UPS SMX 2200VA 2U Rack/Tower LCD 200-240V Line Interactive UPS with Smart Slot SMX2200RMHV2U"@en	0
+COL title VAL  "TP-Link TL-WPA4220 - 300Mbps AV600 Powerline Wi-Fi Extender with 2 LAN ports"@en	COL title VAL  "Power Bank TP-LINK TL-PB20000"@pl	0
+COL title VAL  "WS-C3850-48P-SCisco Catalyst 3850 48 Port PoE IP Base"@en	COL title VAL  "Cisco Catalyst WS-C2960-48TT-L 2960 48 10/100 + 2 1000BT LAN Base Image"@en	0
+COL title VAL  "Hikvision DVR 16 CH fino a 8Mpx Turbo 3.0 DS-7216HUHI-K2"@en	COL title VAL  "Hikvision DS-7216HUHI-K2 5MP 16 Channel TVI, DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	1
+COL title VAL  "Jabra BIZ 2300 USB MS Mono"@pt	COL title VAL  "Jabra BIZ 2300 Duo USB UC"@es	0
+COL title VAL  "Cisco WS-C3560X-48T-S Catalyst 3560X 48 Port Data IP Base Switch w/ 1x 350W PS"@en	COL title VAL  "Cisco Catalyst 3850 WS-C3850-48P-S 48-Port POE IP Base"@en	0
+COL title VAL  "TP-LINK Wireless-N300 Range Extender TL-WA860RE"@de	COL title VAL  "TP-LINK TL-WA860RE netwerkextender"@de	1
+COL title VAL  "WS-C3560X-48T-SCatalyst 3560X 48 Port Data IP Base"@en	COL title VAL  "Hikvision DS-7216HQHI-K1 Turbo HD DVR"@en	0
+COL title VAL  "Garmin Striker 4 with Transducer, 3.5'' GPS Fishfinder with CHIRP Traditional Transducer"@en	COL title VAL  "Garmin 10' Transducer Extension Cable for 4-Pin Connector"@en	0
+COL title VAL  "Cisco Catalyst 2960-48TT-L"@en	COL title VAL  "Cisco SG500 52P Gigabit SG500-52-K9-NA"@de	0
+COL title VAL  "Cisco Catalyst 2960 8 WS-C2960-8TC-L 10/100 + 1 T/SFP LAN Base Image"@en	COL title VAL  "WS-C2960-8TC-L Cisco Catalyst 2960 8 10/100 + 1 T/SFP LAN Base Image. New Factory Sealed."@en	1
+COL title VAL  "TL-WR1043ND V2 Wireless N300 Gigabit Router, 300Mbps, USB port for Storage, 3 Detachable Antennas, Speed Boost up to 450Mbps"@en	COL title VAL  "TP-LINK Wireless-N300 Range Extender TL-WA860RE"@de	0
+COL title VAL  "Jabra BIZ 2300 Duo USB UC"@es	COL title VAL  "Jabra BIZ 2400 Mark II - 3-in-1 Mono Headset"@en	0
+COL title VAL  "Jabra BIZ2300 2399-823-109 DUO USB Headset MS"@en	COL title VAL  "Jabra BIZ2300 2399-829-109 DUO USB Headset"@pt	0
+COL title VAL  "SF300-24PP-K9-NA Small Business SF300-24PP Managed L3 Switch - 24 PoE+ Ethernet Ports & 2 Combo Gigabit SFP Ports & 2 Ethernet Ports by Cisco (Refurbished)"@en	COL title VAL  "Cisco Small Business SF300-24PP - switch - 24 ports - managed - rack-mounta"@en	1
+COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (New)"@en	COL title VAL  "IE-2000-16TC-G-L Cisco Industrial Ethernet 2000 Switch (New)"@en	0
+COL title VAL  "WS-C3650-8X24UQ-L - 3650 Switch"@en	COL title VAL  "Catalyst 3650 Series Switches 24 Port - WS-C3650-24TS-S"@en	0
+COL title VAL  "Cisco Catalyst 2960 8 WS-C2960-8TC-L 10/100 + 1 T/SFP LAN Base Image"@en	COL title VAL  "Cisco Catalyst WS-C2960-48TT-L 2960 48 10/100 + 2 1000BT LAN Base Image"@en	0
+COL title VAL  "APC Smart-UPS X 2200VA Rack/Tower LCD 200-240V"@de	COL title VAL  "APC SMT1000IC Smart-UPS 1000VA/700W Sinewave UPS with SmartConnect"@en	0
+COL title VAL  "HIKVISION DS-7208HQHI-K2/P 2 MEGAPIXEL POC 8 CHANNEL (8CH) DVR"@en	COL title VAL  "HIKVISION DS-7208HUHI-K2/P 5 MEGAPIXEL POC 8 CHANNEL (8CH) DVR"@en	0
+COL title VAL  "Cisco Catalyst 2960-48TT-L"@en	COL title VAL  "Cisco Catalyst 3650-48F Ethernet Switch - WSC365048FDL"@en	0
+COL title VAL  "Netgear Smart Gigabit Ethernet Switch 50 port, 10/100/1000Mbit/s"@en	COL title VAL  "Switch TP-LINK TL-SG1024 (24x 10/100/1000Mbps)"@en	0
+COL title VAL  "WS-C3560CX-12PC-SCisco Catalyst 3560-CX 12 Port PoE IP Base"@en	COL title VAL  "Catalyst 3650 Series Switches 24 Port - WS-C3650-24TS-S"@en	0
+COL title VAL  "Switch TP-Link TL-SF1024D"@en	COL title VAL  "TP-Link TL SG1008 8-Port Gigabit Unmanaged Rackmount Switch"@en	0
+COL title VAL  "Cisco WS-C3560X-48T-S Catalyst 3560X 48 Port Data IP Base Switch w/ 1x 350W PS"@en	COL title VAL  "WS-C3650-24TS-S - Cisco 3650 Switch 24Pt GE 4x1GB IP Base"@en	0
+COL title VAL  "CISCO IE-3000-4TC Switch"@en	COL title VAL  "Cisco SG500 52P Gigabit SG500-52-K9-NA"@de	0
+COL title VAL  "TP LINK 20000mAh Power Bank"@de	COL title VAL  "Switch TP-Link TL-SF1024D"@en	0
+COL title VAL  "BIZ 2300 USB DuoMicrosoft optimized"@en	COL title VAL  "Jabra BIZ 2300 Duo USB UC"@es	0
+COL title VAL  "Wireless Over-Ear Headphones ATH-M50xBT"@en	COL title VAL  "JBL E45Bt On-Ear Black"@en	0
+COL title VAL  "D-Link 8-Port Gigabit PoE Smart Managed Switch"@en	COL title VAL  "Ubiquiti POE Injector, 48VDC 24W Gigabit Lan"@fr	0
+COL title VAL  "SF300-24PP-K9-NA Small Business SF300-24PP Managed L3 Switch - 24 PoE+ Ethernet Ports & 2 Combo Gigabit SFP Ports & 2 Ethernet Ports by Cisco (Refurbished)"@en	COL title VAL  "Cisco IE-2000-16TC-G-L Industrial Ethernet 2000 Series 16-port Managed Switch with 2x Gigabit SFP"@en	0
+COL title VAL  "Atomos Cable - Full HDMI 30cm"@es	COL title VAL  "Belkin HDMI TO VGA Adapter"@tr	0
+COL title VAL  "DS-7208HUHI-K1 Hikvision 8 Channel 5MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	0
+COL title VAL  "TP-Link Archer VR400 (867Mbps 5GHz + 300Mbps 2.4GHz) Kablosuz VDSL/ADSL Modem Router"@de	COL title VAL  "TP-Link Archer C1200 - Trådløs router"@en	0
+COL title VAL  "Switch TP-Link TL-SF1024D"@en	COL title VAL  "Switch TP-Link 16p TL-SG1016DE Rack"@en	0
+COL title VAL  "Jabra BIZ 2300 USB MS Mono"@pt	COL title VAL  "Jabra BIZ 2400 II binaural NC (FreeSpin)"@en	0
+COL title VAL  "Cisco WS-C3560X-48T-S Catalyst 3560X 48 Port Data IP Base Switch w/ 1x 350W PS"@en	COL title VAL  "WS-C3560CX-12PC-SCisco Catalyst 3560-CX 12 Port PoE IP Base"@en	0
+COL title VAL  "Switch Unmanaged PoE GS108PE-300EUS 8-Port Gbit"@en	COL title VAL  "D-Link 8-Port Gigabit PoE Smart Managed Switch"@en	0
+COL title VAL  "Catalyst 4500-x 16 Port 10g Ip"@en	COL title VAL  "WS-C3850-48P-SCisco Catalyst 3850 48 Port PoE IP Base"@en	0
+COL title VAL  "ROTEADOR TP-LINK TL-WR941HP WIRELESS N 450MBPS - TPL0500"@en	COL title VAL  "TP-Link TL-WR1043ND Ultimate Wifi N Gigabit Router (517212021)"@en	0
+COL title VAL  "Hikvision DS-7216HQHI-K1 Turbo HD DVR"@en	COL title VAL  "DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	1
+COL title VAL  "TP-Link TL-WPA4220 - 300Mbps AV600 Powerline Wi-Fi Extender with 2 LAN ports"@en	COL title VAL  "Switch TP-LINK TL-SG1024 (24x 10/100/1000Mbps)"@en	0
+COL title VAL  "Jabra BIZ2300 2399-829-109 DUO USB Headset"@pt	COL title VAL  "JABRA 2406-820-205 BIZ 2400 II Headset"@en	0
+COL title VAL  "Cisco Catalyst 3650-48F Ethernet Switch - WSC365048FDL"@en	COL title VAL  "CISCO IE-3000-4TC Switch"@en	0
+COL title VAL  "APC Smart-UPS SMX 3000VA 4U Rack/Tower LCD 200-240V Line Interactive UPS with Smart Slot SMX3000HV"@en	COL title VAL  "APC Smart-UPS 3000VA LCD Short Depth Tower/4U Rackmount UPS with ER"@en	1
+COL title VAL  "WS-C3650-8X24UQ-L - 3650 Switch"@en	COL title VAL  "Networking Device 48 Port Full PoE 2x10G LAN - WS-C3650-48FD-L"@en	0
+COL title VAL  "RBC17APC Replacement Battery Cartridge #17"@en	COL title VAL  "APC Replacement Battery Cartridge #17 UPS Battery"@en	1
+COL title VAL  "Switch TP-LINK TL-SG1024 (24x 10/100/1000Mbps)"@en	COL title VAL  "SWITCH RACK TP-LINK/24PTOS FAST/SAVE ENERGY 40%/19"/TL-SF1024"@en	0
+COL title VAL  "Switch TP-Link TL-SF1024D"@en	COL title VAL  "Switch TP-LINK TL-SG1024 (24x 10/100/1000Mbps)"@en	0
+COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	COL title VAL  "GarminStriker Fishfinder w/Gps & Crirp Sonar"@de	0
+COL title VAL  "Switch 8 puertos 10 100 1000"@en	COL title VAL  "Switch TP-LINK TL-SG1024 (24x 10/100/1000Mbps)"@en	0
+COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	0
+COL title VAL  "DS-7616NI-I2-16P 16channel Hikvision NVR 12MP 16 PoE"@en	COL title VAL  "Hikvision NVR DS-9632NI-I8"@en	0
+COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "HIKVISION DS-7208HQHI-K2/P 2 MEGAPIXEL POC 8 CHANNEL (8CH) DVR"@en	0
+COL title VAL  "Power Bank TP-LINK TL-PB20000"@pl	COL title VAL  "TP-LINK TL-WA860RE netwerkextender"@de	0
+COL title VAL  "Atomos Cable - Full HDMI 30cm"@es	COL title VAL  "WS-C3560CX-12PC-S - Cisco Catalyst 3560CX Network Switch - Refurb'd"@en	0
+COL title VAL  "Hikvision 32-Channel Professional Embedded NVR"@en	COL title VAL  "16 Channel Embedded Plug & Play NVR - I2"@en	0
+COL title VAL  "Ubiquiti POE-48-24W-G - Inyector PoE 48 voltios DC 24 watios gigabit ethernet"@en	COL title VAL  "Ubiquiti POE Injector, 48VDC 24W Gigabit Lan"@fr	1
+COL title VAL  "Switch TP-Link TL-SF1024D"@en	COL title VAL  "Tp-Link TL-WPA4220, AV600 Powerline Wi-Fi Kit, 600 Mbps high speed data transmissin and extend 300Mbps wireless connections"@en	0
+COL title VAL  "Jabra BIZ 2300 Duo USB UC"@es	COL title VAL  "Jabra BIZ2300 2399-829-109 DUO USB Headset"@pt	1
+COL title VAL  "TP-Link TL SG1008 8-Port Gigabit Unmanaged Rackmount Switch"@en	COL title VAL  "Switch 8 puertos 10 100 1000"@en	1
+COL title VAL  "Hikvision DS-7216HUHI-K2 5MP 16 Channel TVI, DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "16 Channel Embedded Plug & Play NVR - I2"@en	0
+COL title VAL  "Audio Technica ATH-SR50BTBK Sound Reality Bluetooth Wireless Over-Ear Headphones High-Resolution Audio Foldable with Microphone includes Travel Pouch (Black)"@en	COL title VAL  "Wireless Over-Ear Headphones ATH-M50xBT"@en	0
+COL title VAL  "SG500-52-K9-NA Cisco SG500-52 Stackable Managed Switch, 48 Gigabit and 4 Gigabit Ethernet Ports (New)"@en	COL title VAL  "Cisco SG500 52P Gigabit SG500-52-K9-NA"@de	1
+COL title VAL  "Switch Unmanaged PoE GS108PE-300EUS 8-Port Gbit"@en	COL title VAL  "D-Link DGS-1100-08P 8-Port 1Gb EasySmart Switch, PoE"@en	0
+COL title VAL  "Switch TP-Link TL-SF1024D"@en	COL title VAL  "TP-Link TL-SG1024 24x Port Gigabit Network Switch | Discount Computer Needs"@en	0
+COL title VAL  "StarTech.com USB 3.0 to Gigabit Ethernet Adapter"@en	COL title VAL  "Belkin HDMI TO VGA Adapter"@tr	0
+COL title VAL  "Jabra BIZ2300 2399-823-109 DUO USB Headset MS"@en	COL title VAL  "Jabra BIZ 2400 Mark II - 3-in-1 Mono Headset"@en	0
+COL title VAL  "Garmin Striker Plus 5cv Fish Finder with GT20-TM Transducer"@en	COL title VAL  "Garmin® STRIKER™ Plus 5cv Fishfinder/GPS Combo Series"@de	1
+COL title VAL  "WS-C3850-48P-SCisco Catalyst 3850 48 Port PoE IP Base"@en	COL title VAL  "WS-C3560CX-12PC-SCisco Catalyst 3560-CX 12 Port PoE IP Base"@en	0
+COL title VAL  "SF300-24PP-K9-NA Small Business SF300-24PP Managed L3 Switch - 24 PoE+ Ethernet Ports & 2 Combo Gigabit SFP Ports & 2 Ethernet Ports by Cisco (Refurbished)"@en	COL title VAL  "Ubiquiti POE-48-24W-G - Inyector PoE 48 voltios DC 24 watios gigabit ethernet"@en	0
+COL title VAL  "Jabra Biz 2300 Mono, USB"@pt	COL title VAL  "Jabra BIZ 2300 Duo USB UC"@es	0
+COL title VAL  "APC Smart-UPS X 2200VA Rack/Tower LCD 200-240V"@de	COL title VAL  "APC Smart-UPS SMX 3000VA 4U Rack/Tower LCD 200-240V Line Interactive UPS with Smart Slot SMX3000HV"@en	0
+COL title VAL  "IE-2000-16TC-G-L Cisco Industrial Ethernet 2000 Switch (New)"@en	COL title VAL  "Cisco Catalyst 2960-48TT-L"@en	0
+COL title VAL  "Garmin Striker Plus 7sv Fish Finder with GT52HW-TM Transducer"@de	COL title VAL  "Garmin ECHOMAP Plus 43cv with GT20 Transducer Fish Finder/Chartplotter Combo"@en	0
+COL title VAL  "Mixer video Blackmagic ATEM 2 M/E Production Studio 4K Video Switcher"@en	COL title VAL  "Blackmagic Design ATEM 2 M/E Production Studio 4K SWATEMPSW2ME4K"@en	1
+COL title VAL  "DS-7204HQHI-K1 Hikvision 4 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "4CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7204HQHI-K1"@de	1
+COL title VAL  "Apple iPhone Lightning to 3.5 mm Headphone Jack Rtl"@en	COL title VAL  "Apple Jack 3,5mm / Lightning biela (MMX62ZM/A)"@en	1
+COL title VAL  "Jabra Biz 2300 Mono, USB"@pt	COL title VAL  "Jabra BIZ 2400 II Duo - Mic. 82 NC, Wideband"@en	0
+COL title VAL  "Cisco Catalyst 3850 WS-C3850-48P-S 48-Port POE IP Base"@en	COL title VAL  "WS-C3850-48P-SCisco Catalyst 3850 48 Port PoE IP Base"@en	1
+COL title VAL  "Cisco Catalyst 3850 WS-C3850-48P-S 48-Port POE IP Base"@en	COL title VAL  "Cisco Catalyst 3650-48F Ethernet Switch - WSC365048FDL"@en	0
+COL title VAL  "Hikvision DS-7216HQHI-K1 Turbo HD DVR"@en	COL title VAL  "Hikvision DS-KD-ACW2 Surface Mount for 2 Module Door Station"@en	0
+COL title VAL  "Switch TP-Link TL-SF1024D"@en	COL title VAL  "SWITCH RACK TP-LINK/24PTOS FAST/SAVE ENERGY 40%/19"/TL-SF1024"@en	1
+COL title VAL  "JABRA 2406-820-205 BIZ 2400 II Headset"@en	COL title VAL  "Jabra Biz 2300 Mono, USB"@pt	0
+COL title VAL  "DS-7616NI-I2-16P 16channel Hikvision NVR 12MP 16 PoE"@en	COL title VAL  "HIKVISION DS-7208HQHI-K2/P 2 MEGAPIXEL POC 8 CHANNEL (8CH) DVR"@en	0
+COL title VAL  "Garmin Striker 4 with Transducer, 3.5'' GPS Fishfinder with CHIRP Traditional Transducer"@en	COL title VAL  "GarminStriker Fishfinder w/Gps & Crirp Sonar"@de	1
+COL title VAL  "Cisco WS-C3560X-48T-S Catalyst 3560X 48 Port Data IP Base Switch w/ 1x 350W PS"@en	COL title VAL  "WS-C3560X-48T-SCatalyst 3560X 48 Port Data IP Base"@en	1
+COL title VAL  "Garmin 010-01885-05 ECHOMAP Plus"@de	COL title VAL  "Garmin STRIKER™ Plus 7SV w/CV52HW-TM Transducer"@en	0
+COL title VAL  "APC Smart-UPS 3000VA LCD Short Depth Tower/4U Rackmount UPS with ER"@en	COL title VAL  "APC Smart-UPS X 2200VA Rack/Tower LCD 200-240V"@de	0
+COL title VAL  "HIKVISION DS-7208HQHI-K2/P 2 MEGAPIXEL POC 8 CHANNEL (8CH) DVR"@en	COL title VAL  "DS-7208HUHI-K1 Hikvision 8 Channel 5MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	0
+COL title VAL  "ROTEADOR TP-LINK TL-WR941HP WIRELESS N 450MBPS - TPL0500"@en	COL title VAL  "Roteador Gigabit Vpn Dual Wan Safestream Tl-Er6020 Tp-Link"@en	1
+COL title VAL  "Power Bank TP-LINK TL-PB20000"@pl	COL title VAL  "Switch TP-Link TL-SF1024D"@en	0
+COL title VAL  "Jabra BIZ2300 2399-829-109 DUO USB Headset"@pt	COL title VAL  "Audio Technica ATH-SR50BTBK Headband/On-Ear, 3.5 mm, Black, Noice canceling, Wireless"@en	0
+COL title VAL  "Jabra BIZ 2300 Duo USB UC"@es	COL title VAL  "Jabra BIZ2300 2399-823-109 DUO USB Headset MS"@en	0
+COL title VAL  "TL-WR1043ND V2 Wireless N300 Gigabit Router, 300Mbps, USB port for Storage, 3 Detachable Antennas, Speed Boost up to 450Mbps"@en	COL title VAL  "StarTech.com USB 3.0 to Gigabit Ethernet Adapter"@en	0
+COL title VAL  "WS-C3650-8X24UQ-L - 3650 Switch"@en	COL title VAL  "WS-C3650-8X24UQ-LCisco Catalyst 3650 24 Port mGig, 4x10G Uplink, LAN Base"@en	1
+COL title VAL  "Ubiquiti 24 Volt POE 0.5A"@fr	COL title VAL  "Ubiquiti POE Injector, 48VDC 24W Gigabit Lan"@fr	0
+COL title VAL  "WS-C3560CX-12PC-SCisco Catalyst 3560-CX 12 Port PoE IP Base"@en	COL title VAL  "WS-C3560CX-12PC-S - Cisco Catalyst 3560CX Network Switch - Refurb'd"@en	1
+COL title VAL  "TP-LINK TL-WA860RE netwerkextender"@de	COL title VAL  "TP-Link TL-WR1043ND Ultimate Wifi N Gigabit Router (517212021)"@en	0
+COL title VAL  "Cisco WS-C3560X-48T-S Catalyst 3560X 48 Port Data IP Base Switch w/ 1x 350W PS"@en	COL title VAL  "WS-C2960XR-48FPS-I - 48 Port 2960-XR Switch"@en	0
+COL title VAL  "DS-7208HUHI-K1 Hikvision 8 Channel 5MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "4CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7204HQHI-K1"@de	0
+COL title VAL  "D-Link DPE-301GI 1-Port Gigabit PoE Injector"@en	COL title VAL  "APC Replacement Battery Cartridge #17 UPS Battery"@en	0
+COL title VAL  "TP-Link Archer VR400-AC1200 Wireless Gigabit VDSL/ADSL Modem Router(Black)."@de	COL title VAL  "TP-Link Archer C1200 - Trådløs router"@en	0
+COL title VAL  "DS-7208HQHI-K2-P Hikvision 8 Channel 1080P HD-TVI Hybrid DVR (POC)"@en	COL title VAL  "DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	0
+COL title VAL  "WS-C3850-48P-SCisco Catalyst 3850 48 Port PoE IP Base"@en	COL title VAL  "WS-C3560X-48T-SCatalyst 3560X 48 Port Data IP Base"@en	0
+COL title VAL  "Garmin® STRIKER™ Plus 5cv Fishfinder/GPS Combo Series"@de	COL title VAL  "Hikvision DS-7216HQHI-K1 Turbo HD DVR"@en	0
+COL title VAL  "TP LINK 20000mAh Power Bank"@de	COL title VAL  "TP-Link TL-WPA4220 - 300Mbps AV600 Powerline Wi-Fi Extender with 2 LAN ports"@en	0
+COL title VAL  "WS-C2960XR-48FPS-I Cisco Catalyst 2960XR Network Switch (New)"@en	COL title VAL  "WS-C2960-8TC-L Cisco Catalyst 2960 8 10/100 + 1 T/SFP LAN Base Image. New Factory Sealed."@en	0
+COL title VAL  "WS-C2960-8TC-L Cisco Catalyst 2960 8 10/100 + 1 T/SFP LAN Base Image. New Factory Sealed."@en	COL title VAL  "CISCO IE 3000 SWITCH 4 10/100 + 2 T/SFP"@en	0
+COL title VAL  "Switch 8 puertos 10 100 1000"@en	COL title VAL  "Netgear 52p GS748T-500EUS (48x10/100/1000Mbit 2xSFP,Combo)"@en	0
+COL title VAL  "WS-C3560X-48T-SCatalyst 3560X 48 Port Data IP Base"@en	COL title VAL  "Cisco Catalyst 3850 WS-C3850-48P-S 48-Port POE IP Base"@en	0
+COL title VAL  "Switch 24 porturi PoE, 2 porturi uplink Hikvision DS-3E0326P-E"@en	COL title VAL  "DS-7616NI-I2-16P 16channel Hikvision NVR 12MP 16 PoE"@en	0
+COL title VAL  "Apple iPhone Lightning to 3.5 mm Headphone Jack Rtl"@en	COL title VAL  "Switch Netgear - ProSafe Gigabit SmartSwitch 48porte"@en	0
+COL title VAL  "Audio-Technica ATH-M50xBT Closed-back Studio Monitoring Headphones w/ Bluetooth"@en	COL title VAL  "Wireless Over-Ear Headphones ATH-M50xBT"@en	1
+COL title VAL  "Garmin® STRIKER™ Plus 5cv Fishfinder/GPS Combo Series"@de	COL title VAL  "Garmin Striker 4 with Transducer, 3.5'' GPS Fishfinder with CHIRP Traditional Transducer"@en	0
+COL title VAL  "WS-C3650-24TS-S - Cisco 3650 Switch 24Pt GE 4x1GB IP Base"@en	COL title VAL  "Cisco Catalyst 3850 WS-C3850-48P-S 48-Port POE IP Base"@en	0
+COL title VAL  "Cisco Catalyst 2960-48TT-L"@en	COL title VAL  "CISCO IE-3000-4TC Switch"@en	0
+COL title VAL  "Striker Plus 5cv, Worldwide w/GT20"@de	COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	1
+COL title VAL  "Hikvision 32-Channel Professional Embedded NVR"@en	COL title VAL  "Hikvision NVR DS-9632NI-I8"@en	1
+COL title VAL  "Jabra BIZ 2400 Mark II - 3-in-1 Mono Headset"@en	COL title VAL  "Jabra BIZ2300 2399-829-109 DUO USB Headset"@pt	0
+COL title VAL  "JBL E45Bt On-Ear Black"@en	COL title VAL  "Audio Technica ATH-SR50BTBK Headband/On-Ear, 3.5 mm, Black, Noice canceling, Wireless"@en	0
+COL title VAL  "Hikvision DS-7216HQHI-K1 Turbo HD DVR"@en	COL title VAL  "Hikvision NVR DS-9632NI-I8"@en	0
+COL title VAL  "APC Smart-UPS X 2200VA Rack/Tower LCD 200-240V"@de	COL title VAL  "Apc Smt1000I Smart-Ups 1000Va Lcd 230V. Apc Smart-Ups, 670Watts/1000Va Ingresso 230V/Uscita 230V Interface Port Db-9 Rs-232 Smartslot, Usb"@en	0
+COL title VAL  "Cisco SG500 52P Gigabit SG500-52-K9-NA"@de	COL title VAL  "ProSafe S3300 52PT Gigabit STACKABLE SMART Switch incl.10G"@en	0
+COL title VAL  "APC Replacement Battery Cartridge #17 UPS Battery"@en	COL title VAL  "APC Smart-UPS 3000VA LCD Short Depth Tower/4U Rackmount UPS with ER"@en	0
+COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	COL title VAL  "MikroTik RB260GSP - Desktop PoE Switch with 5 Gb and 1 SFP Port"@en	0
+COL title VAL  "Netgear Smart Gigabit Ethernet Switch 50 port, 10/100/1000Mbit/s"@en	COL title VAL  "ProSafe S3300 52PT Gigabit STACKABLE SMART Switch incl.10G"@en	1
+COL title VAL  "HIKVISION DS-7208HUHI-K2/P 5 MEGAPIXEL POC 8 CHANNEL (8CH) DVR"@en	COL title VAL  "DS-7208HUHI-K1 Hikvision 8 Channel 5MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	0
+COL title VAL  "Catalyst 3650 Series Switches 24 Port - WS-C3650-24TS-S"@en	COL title VAL  "Mixer video Blackmagic ATEM 2 M/E Production Studio 4K Video Switcher"@en	0
+COL title VAL  "DS-7216HQHI-K1 Hikvision 16 Channel 3MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "Hikvision DS-7216HUHI-K2 5MP 16 Channel TVI, DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	0
+COL title VAL  "Cisco Catalyst 3650-48F Ethernet Switch - WSC365048FDL"@en	COL title VAL  "4ch Hikvision NVR with 4x PoE"@en	0
+COL title VAL  "Langsdom Mijiaer JM21 In ear Earphones For Phone iPhone Huawei Xiaomi Headsets Wired Earphone Earbuds Earpiece fone de ouvido"@en	COL title VAL  "Audio Technica ATH-SR50BTBK Sound Reality Bluetooth Wireless Over-Ear Headphones High-Resolution Audio Foldable with Microphone includes Travel Pouch (Black)"@en	0
+COL title VAL  "Cisco Catalyst 2960 8 WS-C2960-8TC-L 10/100 + 1 T/SFP LAN Base Image"@en	COL title VAL  "WS-C3560CX-12PC-S - Cisco Catalyst 3560CX Network Switch - Refurb'd"@en	0
+COL title VAL  "Switch TP-Link TL-SF1024D"@en	COL title VAL  "TP-Link TL-WPA4220 - 300Mbps AV600 Powerline Wi-Fi Extender with 2 LAN ports"@en	0
+COL title VAL  "Cisco Catalyst 2960-48TT-L"@en	COL title VAL  "Cisco Catalyst 2960 8 WS-C2960-8TC-L 10/100 + 1 T/SFP LAN Base Image"@en	0
+COL title VAL  "TP-LINK Wireless-N300 Range Extender TL-WA860RE"@de	COL title VAL  "Switch TP-Link TL-SF1024D"@en	0
+COL title VAL  "Garmin ECHOMAP Plus 43cv with GT20 Transducer Fish Finder/Chartplotter Combo"@en	COL title VAL  "Garmin 010-01885-05 ECHOMAP Plus"@de	1
+COL title VAL  "TP-Link TL SG1008 8-Port Gigabit Unmanaged Rackmount Switch"@en	COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	0
+COL title VAL  "HIK 8CH TURBO HD DVR, DS-7208HUHI-K1"@de	COL title VAL  "Hikvision DS-7216HQHI-K1 Turbo HD DVR"@en	0
+COL title VAL  "APC Smart-UPS X 2200VA Rack/Tower LCD 200-240V"@de	COL title VAL  "APC Smart-UPS SMX 2200VA 2U Rack/Tower LCD 200-240V Line Interactive UPS with Smart Slot SMX2200RMHV2U"@en	1
+COL title VAL  "WS-C3560CX-12PC-SCisco Catalyst 3560-CX 12 Port PoE IP Base"@en	COL title VAL  "Catalyst 4500-x 16 Port 10g Ip"@en	0
+COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "Hikvision DS-7216HUHI-K2 5MP 16 Channel TVI, DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	0
+COL title VAL  "DS-7208HQHI-K2-P Hikvision 8 Channel 1080P HD-TVI Hybrid DVR (POC)"@en	COL title VAL  "Hikvision DS-7216HUHI-K2 5MP 16 Channel TVI, DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	0
+COL title VAL  "TP-Link TL-WPA4220 - 300Mbps AV600 Powerline Wi-Fi Extender with 2 LAN ports"@en	COL title VAL  "Tp-Link TL-WPA4220, AV600 Powerline Wi-Fi Kit, 600 Mbps high speed data transmissin and extend 300Mbps wireless connections"@en	1
+COL title VAL  "WS-C3650-8X24UQ-LCisco Catalyst 3650 24 Port mGig, 4x10G Uplink, LAN Base"@en	COL title VAL  "Cisco Catalyst 2960 8 WS-C2960-8TC-L 10/100 + 1 T/SFP LAN Base Image"@en	0
+COL title VAL  "Switch TP-Link 16p TL-SG1016DE Rack"@en	COL title VAL  "TP-LINK TL-SG1016DE 16-Port Gigabit Easy Smart Switch Black (V1.0)"@en	1
+COL title VAL  "DS-7604NI-K1-4P Hikvision 4 Channel 4K NVR with 4 PoE ports"@en	COL title VAL  "4CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7204HQHI-K1"@de	0
+COL title VAL  "WS-C3560CX-12PC-S - Cisco Catalyst 3560CX Network Switch - Refurb'd"@en	COL title VAL  "Cisco Catalyst 3850 WS-C3850-48P-S 48-Port POE IP Base"@en	0
+COL title VAL  "JABRA 2406-820-205 BIZ 2400 II Headset"@en	COL title VAL  "Jabra BIZ 2400 II binaural NC (FreeSpin)"@en	0
+COL title VAL  "BIZ 2300 USB DuoMicrosoft optimized"@en	COL title VAL  "Jabra BIZ2300 2399-823-109 DUO USB Headset MS"@en	1
+COL title VAL  "WS-C3560CX-12PC-SCisco Catalyst 3560-CX 12 Port PoE IP Base"@en	COL title VAL  "Ubiquiti AirMax AC Sector 21dBi AM-5AC21-60 Ubiquiti"@fr	0
+COL title VAL  "Switch TP-Link TL-SF1024D"@en	COL title VAL  "TP-LINK TL-WA860RE netwerkextender"@de	0
+COL title VAL  "DS-7208HUHI-K1 Hikvision 8 Channel 5MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "Hikvision DS-7216HUHI-K2 5MP 16 Channel TVI, DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	0
+COL title VAL  "TP LINK 20000mAh Power Bank"@de	COL title VAL  "TP-LINK TL-WA860RE netwerkextender"@de	0
+COL title VAL  "Jabra BIZ 2400 II binaural NC (FreeSpin)"@en	COL title VAL  "Jabra Biz 2300 Mono, USB"@pt	0
+COL title VAL  "CISCO IE 3000 SWITCH 4 10/100 + 2 T/SFP"@en	COL title VAL  "CISCO IE-3000-4TC Switch"@en	1
+COL title VAL  "Cisco Catalyst WS-C2960-48TT-L 2960 48 10/100 + 2 1000BT LAN Base Image"@en	COL title VAL  "Cisco Catalyst 3850 WS-C3850-48P-S 48-Port POE IP Base"@en	0
+COL title VAL  "APC SMT1000IC Smart-UPS 1000VA/700W Sinewave UPS with SmartConnect"@en	COL title VAL  "Apc Smt1000I Smart-Ups 1000Va Lcd 230V. Apc Smart-Ups, 670Watts/1000Va Ingresso 230V/Uscita 230V Interface Port Db-9 Rs-232 Smartslot, Usb"@en	1
+COL title VAL  "Jabra BIZ 2300 USB MS Mono"@pt	COL title VAL  "Jabra BIZ 2400 Mark II - 3-in-1 Mono Headset"@en	0
+COL title VAL  "JBL E45Bt On-Ear Black"@en	COL title VAL  "Audio Technica ATH-SR50BTBK Sound Reality Bluetooth Wireless Over-Ear Headphones High-Resolution Audio Foldable with Microphone includes Travel Pouch (Black)"@en	0
+COL title VAL  "4ch Hikvision NVR with 4x PoE"@en	COL title VAL  "Hikvision NVR DS-9632NI-I8"@en	0
+COL title VAL  "Garmin® STRIKER™ Plus 5cv Fishfinder/GPS Combo Series"@de	COL title VAL  "Cisco Catalyst WS-C2960-48TT-L 2960 48 10/100 + 2 1000BT LAN Base Image"@en	0
+COL title VAL  "DS-7604NI-K1-4P Hikvision 4 Channel 4K NVR with 4 PoE ports"@en	COL title VAL  "DS-7616NI-I2-16P 16channel Hikvision NVR 12MP 16 PoE"@en	0
+COL title VAL  "Cisco Small Business SF300-24PP - switch - 24 ports - managed - rack-mounta"@en	COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	0
+COL title VAL  "Jabra BIZ 2400 II binaural NC (FreeSpin)"@en	COL title VAL  "Jabra BIZ 2400 II Duo - Mic. 82 NC, Wideband"@en	1
+COL title VAL  "Hikvision DS-3E0326P-E 24 Port 10/100 PoE+ Switch"@en	COL title VAL  "Switch 24 porturi PoE, 2 porturi uplink Hikvision DS-3E0326P-E"@en	1
+COL title VAL  "WS-C2960XR-48FPS-I Cisco Catalyst 2960XR Network Switch (New)"@en	COL title VAL  "Cisco Catalyst 2960 8 WS-C2960-8TC-L 10/100 + 1 T/SFP LAN Base Image"@en	0
+COL title VAL  "Apple iPhone Lightning to 3.5 mm Headphone Jack Rtl"@en	COL title VAL  "Atomos Cable - Full HDMI 30cm"@es	0
+COL title VAL  "HIK 8CH TURBO HD DVR, DS-7208HUHI-K1"@de	COL title VAL  "DS-7208HUHI-K1 Hikvision 8 Channel 5MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	1
+COL title VAL  "CISCO IE 3000 SWITCH 4 10/100 + 2 T/SFP"@en	COL title VAL  "Switch 8 puertos 10 100 1000"@en	0
+COL title VAL  "APC Smart-UPS SMX 2200VA 2U Rack/Tower LCD 200-240V Line Interactive UPS with Smart Slot SMX2200RMHV2U"@en	COL title VAL  "Apc Smt1000I Smart-Ups 1000Va Lcd 230V. Apc Smart-Ups, 670Watts/1000Va Ingresso 230V/Uscita 230V Interface Port Db-9 Rs-232 Smartslot, Usb"@en	0
+COL title VAL  "Garmin Striker Plus 5cv Fish Finder with GT20-TM Transducer"@en	COL title VAL  "Striker Plus 5cv, Worldwide w/GT20"@de	0
+COL title VAL  "APC Smart-UPS 3000VA LCD Short Depth Tower/4U Rackmount UPS with ER"@en	COL title VAL  "Apc Smt1000I Smart-Ups 1000Va Lcd 230V. Apc Smart-Ups, 670Watts/1000Va Ingresso 230V/Uscita 230V Interface Port Db-9 Rs-232 Smartslot, Usb"@en	0
+COL title VAL  "Audio Technica ATH-SR50BTBK Headband/On-Ear, 3.5 mm, Black, Noice canceling, Wireless"@en	COL title VAL  "Wireless Over-Ear Headphones ATH-M50xBT"@en	0
+COL title VAL  "TP-LINK Wireless-N300 Range Extender TL-WA860RE"@de	COL title VAL  "ROTEADOR TP-LINK TL-WR941HP WIRELESS N 450MBPS - TPL0500"@en	0
+COL title VAL  "Jabra BIZ2300 2399-829-109 DUO USB Headset"@pt	COL title VAL  "Jabra Biz 2300 Mono, USB"@pt	0
+COL title VAL  "Audio-Technica ATH-M50xBT Closed-back Studio Monitoring Headphones w/ Bluetooth"@en	COL title VAL  "Audio Technica ATH-SR50BTBK Headband/On-Ear, 3.5 mm, Black, Noice canceling, Wireless"@en	0
+COL title VAL  "JBL E45Bt On-Ear Black"@en	COL title VAL  "Casti JBL E45BT, Bluetooth, On-Ear, Microfon, negru"@en	1
+COL title VAL  "HPE Smart Array E208i-p SR Gen10 - storage controller (RAID) - SATA 6Gb/s /"@en	COL title VAL  "HPE Smart Array E208i-p SR Gen10 ( -), SAS 12 / PCIe 3.0x8 / RAID 0,1,5,10 (804394-B21)"@en	1
+COL title VAL  "Garmin Striker Plus 5cv Fish Finder with GT20-TM Transducer"@en	COL title VAL  "Garmin Striker Plus 7sv Fish Finder with GT52HW-TM Transducer"@de	0
+COL title VAL  "Switch TP-Link 16p TL-SG1016DE Rack"@en	COL title VAL  "DS-7208HQHI-K2-P Hikvision 8 Channel 1080P HD-TVI Hybrid DVR (POC)"@en	0
+COL title VAL  "Switch 24 porturi PoE, 2 porturi uplink Hikvision DS-3E0326P-E"@en	COL title VAL  "Hikvision DS-KD-ACW2 Surface Mount for 2 Module Door Station"@en	0
+COL title VAL  "WS-C2960XR-48FPS-I - 48 Port 2960-XR Switch"@en	COL title VAL  "Jabra BIZ 2300 Duo USB UC"@es	0
+COL title VAL  "16 Channel Embedded Plug & Play NVR - I2"@en	COL title VAL  "DS-7616NI-I2-16P 16channel Hikvision NVR 12MP 16 PoE"@en	1
+COL title VAL  "CISCO IE 3000 SWITCH 4 10/100 + 2 T/SFP"@en	COL title VAL  "Cisco Catalyst 2960 8 WS-C2960-8TC-L 10/100 + 1 T/SFP LAN Base Image"@en	0
+COL title VAL  "WS-C2960XR-48FPS-I - 48 Port 2960-XR Switch"@en	COL title VAL  "WS-C2960XR-48FPS-I Cisco Catalyst 2960XR Network Switch (New)"@en	1
+COL title VAL  "RB260GSP - 5 port manageаble switch, SFP, PoE out"@en	COL title VAL  "D-Link 8-Port Gigabit PoE Smart Managed Switch"@en	0
+COL title VAL  "Cisco Catalyst WS-C2960-48TT-L 2960 48 10/100 + 2 1000BT LAN Base Image"@en	COL title VAL  "Netgear Smart Gigabit Ethernet Switch 50 port, 10/100/1000Mbit/s"@en	0
+COL title VAL  "APC Smart-UPS SMX 3000VA 4U Rack/Tower LCD 200-240V Line Interactive UPS with Smart Slot SMX3000HV"@en	COL title VAL  "APC Replacement Battery Cartridge #17 UPS Battery"@en	0
+COL title VAL  "Cisco Catalyst 3650-48F Ethernet Switch - WSC365048FDL"@en	COL title VAL  "IE-2000-16TC-G-L Cisco Industrial Ethernet 2000 Switch (New)"@en	0
+COL title VAL  "Switch Netgear - ProSafe Gigabit SmartSwitch 48porte"@en	COL title VAL  "Netgear GS108PE 8-Port Gigabit Smart Managed Switch with 4x PoE Ports"@en	0
+COL title VAL  "HIKVISION DS-7208HQHI-K2/P 2 MEGAPIXEL POC 8 CHANNEL (8CH) DVR"@en	COL title VAL  "Hikvision DS-7216HQHI-K1 Turbo HD DVR"@en	0
+COL title VAL  "APC Smart-UPS SMX 2200VA 2U Rack/Tower LCD 200-240V Line Interactive UPS with Smart Slot SMX2200RMHV2U"@en	COL title VAL  "APC SMT1000IC Smart-UPS 1000VA/700W Sinewave UPS with SmartConnect"@en	0
+COL title VAL  "Ubiquiti AirMax AC Sector 21dBi AM-5AC21-60 Ubiquiti"@fr	COL title VAL  "airMAX AC Sector 5 GHz, 60º, 21 dBi Antenna"@en	1
+COL title VAL  "Switch 8 puertos 10 100 1000"@en	COL title VAL  "Cisco Catalyst 2960 8 WS-C2960-8TC-L 10/100 + 1 T/SFP LAN Base Image"@en	0
+COL title VAL  "Belkin HDMI TO VGA Adapter"@tr	COL title VAL  "Belkin HDMI to VGA Adapter with Micro-USB Power"@en	1
+COL title VAL  "DS-7208HUHI-K1 Hikvision 8 Channel 5MP / 1080P HD-TVI Hybrid DVR with CVBS (Turbo4.0)"@en	COL title VAL  "WS-C3850-48P-SCisco Catalyst 3850 48 Port PoE IP Base"@en	0
+COL title VAL  "APC Smart-UPS 3000VA LCD Short Depth Tower/4U Rackmount UPS with ER"@en	COL title VAL  "APC SMT1000IC Smart-UPS 1000VA/700W Sinewave UPS with SmartConnect"@en	0
+COL title VAL  "Roteador Gigabit Vpn Dual Wan Safestream Tl-Er6020 Tp-Link"@en	COL title VAL  "TP-LINK Archer C1200 Dual Band"@de	0
+COL title VAL  "Garmin Garmin 10ft Transducer Extension Cable 4 -Pin"@en	COL title VAL  "Garmin Striker 4 with Transducer, 3.5'' GPS Fishfinder with CHIRP Traditional Transducer"@en	0
+COL title VAL  "Cisco Catalyst 3650-48F Ethernet Switch - WSC365048FDL"@en	COL title VAL  "WS-C2960XR-48FPS-I Cisco Catalyst 2960XR Network Switch (New)"@en	0
+COL title VAL  "Garmin® STRIKER™ Plus 5cv Fishfinder/GPS Combo Series"@de	COL title VAL  "Garmin Striker Plus 5cv Fishfinder with GT-20TM Transducer"@en	0
+COL title VAL  "Apc Smt1000I Smart-Ups 1000Va Lcd 230V. Apc Smart-Ups, 670Watts/1000Va Ingresso 230V/Uscita 230V Interface Port Db-9 Rs-232 Smartslot, Usb"@en	COL title VAL  "Hikvision DS-7216HQHI-K1 Turbo HD DVR"@en	0
+COL title VAL  "TP-Link TL SG1008 8-Port Gigabit Unmanaged Rackmount Switch"@en	COL title VAL  "Roteador Gigabit Vpn Dual Wan Safestream Tl-Er6020 Tp-Link"@en	0

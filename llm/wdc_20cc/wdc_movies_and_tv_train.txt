@@ -1,0 +1,58 @@
+COL title VAL  "LG C7 Series OLED55C7P - 55\" OLED Smart TV - 4K UltraHD"@de	COL title VAL  "LG GXPUA 65" HDR 4K UHD Smart OLED TV (2020)"@de	1
+COL title VAL  "65" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	COL title VAL  "LG GXPUA 65" HDR 4K UHD Smart OLED TV (2020)"@de	0
+COL title VAL  "SAMSUNG 65-inch Class QLED Q70T Series - 4K UHDDual LED Quantum HDR Smart TV with Alexa Built-in (QN65Q70TAFXZA, 2020 Model)"@en	COL title VAL  "65\" Q70T Series QLED 4K UHD Smart TV QN65Q70TAFXZA (2020 Model)"@de	1
+COL title VAL  "SAMSUNG 65-inch Class QLED Q70T Series - 4K UHDDual LED Quantum HDR Smart TV with Alexa Built-in (QN65Q70TAFXZA, 2020 Model)"@en	COL title VAL  "Samsung QN65Q70TAFXZA 65\" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	1
+COL title VAL  "Samsung QN50Q60T 50'' HDR 4K UHD Smart QLED TV (2020)"@id	COL title VAL  "LG GXPUA 65" HDR 4K UHD Smart OLED TV (2020)"@de	0
+COL title VAL  "Tv Led 32\" Lg 32LK510BPLD HD nero"@en	COL title VAL  "TV LED LG 32LK510BPLD - 32'/81.28CM- HD 1366X768-DVB-AUDIO 10W-USB-2XHDMI-VIRTUAL SURROUND - A+"@en	1
+COL title VAL  "65\" Q70T Series QLED 4K UHD Smart TV QN65Q70TAFXZA (2020 Model)"@de	COL title VAL  "65\" Class GX Series with Gallery Design 4K UHD TV Smart OLED with HDR OLED65GXPUA (2020 Model)"@en	0
+COL title VAL  "Samsung QN65Q70T 65\" QLED 4K Smart TV"@vi	COL title VAL  "Samsung QN65Q70TAFXZA 65\" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	1
+COL title VAL  "SAMSUNG QN55Q60TAF 55 Inch 4K UHD QLED HDR Smart TV - 54.6 Inch Diagonal"@en	COL title VAL  "LG GXPUA 65" HDR 4K UHD Smart OLED TV (2020)"@de	0
+COL title VAL  "Samsung QN50Q60T 50'' HDR 4K UHD Smart QLED TV (2020)"@id	COL title VAL  "65" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	0
+COL title VAL  "LG GX 65 inch Class with Gallery Design 4K Smart OLED TV w/AI ThinQ® (64.5'' Diag)"@en	COL title VAL  "65\" Class GX Series with Gallery Design 4K UHD TV Smart OLED with HDR OLED65GXPUA (2020 Model)"@en	1
+COL title VAL  "65\" Q70T Series QLED 4K UHD Smart TV QN65Q70TAFXZA (2020 Model)"@de	COL title VAL  "LG GXPUA 65" HDR 4K UHD Smart OLED TV (2020)"@de	0
+COL title VAL  "LG GXPUA 65" HDR 4K UHD Smart OLED TV (2020)"@de	COL title VAL  "Samsung QN65Q70T 65\" QLED 4K Smart TV"@vi	0
+COL title VAL  "Samsung QN65Q70T 65\" QLED 4K Smart TV"@vi	COL title VAL  "65\" Q70T Series QLED 4K UHD Smart TV QN65Q70TAFXZA (2020 Model)"@de	1
+COL title VAL  "65\" Q70T Series QLED 4K UHD Smart TV QN65Q70TAFXZA (2020 Model)"@de	COL title VAL  "LG C7 Series OLED55C7P - 55\" OLED Smart TV - 4K UltraHD"@de	0
+COL title VAL  "Samsung QN50Q60T 50'' HDR 4K UHD Smart QLED TV (2020)"@id	COL title VAL  "Samsung QN50Q60T 50\" QLED 4K Smart TV"@vi	1
+COL title VAL  "Samsung QN65Q70TA 65'' HDR UHD Smart QLED TV (2020)"@vi	COL title VAL  "65\" Q70T Series QLED 4K UHD Smart TV QN65Q70TAFXZA (2020 Model)"@de	1
+COL title VAL  "Samsung QN50Q60T 50\" QLED 4K Smart TV"@vi	COL title VAL  "43\" 2020 Q60T 4K Smart QLED TV"@en	1
+COL title VAL  "65" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	COL title VAL  "Samsung QN65Q70T 65\" QLED 4K Smart TV"@vi	1
+COL title VAL  "Samsung QN65Q70TAFXZA 65\" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	COL title VAL  "Samsung QN65Q70TA 65'' HDR UHD Smart QLED TV (2020)"@vi	1
+COL title VAL  "65\" Class GX Series with Gallery Design 4K UHD TV Smart OLED with HDR OLED65GXPUA (2020 Model)"@en	COL title VAL  "SAMSUNG 65-inch Class QLED Q70T Series - 4K UHDDual LED Quantum HDR Smart TV with Alexa Built-in (QN65Q70TAFXZA, 2020 Model)"@en	0
+COL title VAL  "Samsung QN65Q70TAFXZA 65\" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	COL title VAL  "LG GXPUA 65" HDR 4K UHD Smart OLED TV (2020)"@de	0
+COL title VAL  "SAMSUNG QN55Q60TAF 55 Inch 4K UHD QLED HDR Smart TV - 54.6 Inch Diagonal"@en	COL title VAL  "Samsung QN50Q60T 50\" QLED 4K Smart TV"@vi	1
+COL title VAL  "Samsung QN65Q70TAFXZA 65\" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	COL title VAL  "65" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	1
+COL title VAL  "LG 32LK510BPLD 32" (81 cm), HD LED, 1366 x 768 pixels, DVB-T2/C/S2, Black"@ca	COL title VAL  "TV LED LG 32LK510BPLD - 32'/81.28CM- HD 1366X768-DVB-AUDIO 10W-USB-2XHDMI-VIRTUAL SURROUND - A+"@en	1
+COL title VAL  "43\" 2020 Q60T 4K Smart QLED TV"@en	COL title VAL  "65" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	0
+COL title VAL  "LG GXPUA 65" HDR 4K UHD Smart OLED TV (2020)"@de	COL title VAL  "Samsung QN65Q70TA 65'' HDR UHD Smart QLED TV (2020)"@vi	0
+COL title VAL  "LG GXPUA 65" HDR 4K UHD Smart OLED TV (2020)"@de	COL title VAL  "65\" Class GX Series with Gallery Design 4K UHD TV Smart OLED with HDR OLED65GXPUA (2020 Model)"@en	1
+COL title VAL  "Samsung QN50Q60T 50'' HDR 4K UHD Smart QLED TV (2020)"@id	COL title VAL  "Samsung QN65Q70TAFXZA 65\" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	0
+COL title VAL  "43\" 2020 Q60T 4K Smart QLED TV"@en	COL title VAL  "65\" Q70T Series QLED 4K UHD Smart TV QN65Q70TAFXZA (2020 Model)"@de	0
+COL title VAL  "LG GXPUA 65" HDR 4K UHD Smart OLED TV (2020)"@de	COL title VAL  "Samsung QN50Q60T 50\" QLED 4K Smart TV"@vi	0
+COL title VAL  "Samsung QN65Q70TAFXZA 65\" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	COL title VAL  "SAMSUNG QN55Q60TAF 55 Inch 4K UHD QLED HDR Smart TV - 54.6 Inch Diagonal"@en	0
+COL title VAL  "LG GX 65 inch Class with Gallery Design 4K Smart OLED TV w/AI ThinQ® (64.5'' Diag)"@en	COL title VAL  "43\" 2020 Q60T 4K Smart QLED TV"@en	0
+COL title VAL  "Tv Led 32\" Lg 32LK510BPLD HD nero"@en	COL title VAL  "LG GXPUA 65" HDR 4K UHD Smart OLED TV (2020)"@de	0
+COL title VAL  "Samsung QN65Q70T 65\" QLED 4K Smart TV"@vi	COL title VAL  "Samsung QN50Q60T 50'' HDR 4K UHD Smart QLED TV (2020)"@id	0
+COL title VAL  "Samsung QN65Q70T 65\" QLED 4K Smart TV"@vi	COL title VAL  "SAMSUNG 65-inch Class QLED Q70T Series - 4K UHDDual LED Quantum HDR Smart TV with Alexa Built-in (QN65Q70TAFXZA, 2020 Model)"@en	1
+COL title VAL  "Tv Led 32\" Lg 32LK510BPLD HD nero"@en	COL title VAL  "LG 32LK510BPLD 32" (81 cm), HD LED, 1366 x 768 pixels, DVB-T2/C/S2, Black"@ca	1
+COL title VAL  "SAMSUNG QN55Q60TAF 55 Inch 4K UHD QLED HDR Smart TV - 54.6 Inch Diagonal"@en	COL title VAL  "43\" 2020 Q60T 4K Smart QLED TV"@en	1
+COL title VAL  "Samsung QN65Q70TA 65'' HDR UHD Smart QLED TV (2020)"@vi	COL title VAL  "65" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	1
+COL title VAL  "LG C7 Series OLED55C7P - 55\" OLED Smart TV - 4K UltraHD"@de	COL title VAL  "Tv Led 32\" Lg 32LK510BPLD HD nero"@en	0
+COL title VAL  "LG C7 Series OLED55C7P - 55\" OLED Smart TV - 4K UltraHD"@de	COL title VAL  "LG GX 65 inch Class with Gallery Design 4K Smart OLED TV w/AI ThinQ® (64.5'' Diag)"@en	1
+COL title VAL  "Samsung QN65Q70TAFXZA 65\" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	COL title VAL  "65\" Q70T Series QLED 4K UHD Smart TV QN65Q70TAFXZA (2020 Model)"@de	1
+COL title VAL  "LG GX 65 inch Class with Gallery Design 4K Smart OLED TV w/AI ThinQ® (64.5'' Diag)"@en	COL title VAL  "65" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	0
+COL title VAL  "Samsung QN65Q70TA 65'' HDR UHD Smart QLED TV (2020)"@vi	COL title VAL  "SAMSUNG 65-inch Class QLED Q70T Series - 4K UHDDual LED Quantum HDR Smart TV with Alexa Built-in (QN65Q70TAFXZA, 2020 Model)"@en	1
+COL title VAL  "LG GXPUA 65" HDR 4K UHD Smart OLED TV (2020)"@de	COL title VAL  "LG GX 65 inch Class with Gallery Design 4K Smart OLED TV w/AI ThinQ® (64.5'' Diag)"@en	1
+COL title VAL  "Samsung QN65Q70TAFXZA 65\" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	COL title VAL  "Samsung QN50Q60T 50\" QLED 4K Smart TV"@vi	0
+COL title VAL  "LG C7 Series OLED55C7P - 55\" OLED Smart TV - 4K UltraHD"@de	COL title VAL  "65\" Class GX Series with Gallery Design 4K UHD TV Smart OLED with HDR OLED65GXPUA (2020 Model)"@en	1
+COL title VAL  "SAMSUNG 65-inch Class QLED Q70T Series - 4K UHDDual LED Quantum HDR Smart TV with Alexa Built-in (QN65Q70TAFXZA, 2020 Model)"@en	COL title VAL  "65" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	1
+COL title VAL  "Samsung QN65Q70TA 65'' HDR UHD Smart QLED TV (2020)"@vi	COL title VAL  "Samsung QN65Q70T 65\" QLED 4K Smart TV"@vi	1
+COL title VAL  "LG GXPUA 65" HDR 4K UHD Smart OLED TV (2020)"@de	COL title VAL  "43\" 2020 Q60T 4K Smart QLED TV"@en	0
+COL title VAL  "SAMSUNG 65-inch Class QLED Q70T Series - 4K UHDDual LED Quantum HDR Smart TV with Alexa Built-in (QN65Q70TAFXZA, 2020 Model)"@en	COL title VAL  "Samsung QN50Q60T 50'' HDR 4K UHD Smart QLED TV (2020)"@id	0
+COL title VAL  "65\" Q70T Series QLED 4K UHD Smart TV QN65Q70TAFXZA (2020 Model)"@de	COL title VAL  "65" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	1
+COL title VAL  "43\" 2020 Q60T 4K Smart QLED TV"@en	COL title VAL  "LG C7 Series OLED55C7P - 55\" OLED Smart TV - 4K UltraHD"@de	0
+COL title VAL  "Samsung QN50Q60T 50'' HDR 4K UHD Smart QLED TV (2020)"@id	COL title VAL  "SAMSUNG QN55Q60TAF 55 Inch 4K UHD QLED HDR Smart TV - 54.6 Inch Diagonal"@en	1
+COL title VAL  "65" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	COL title VAL  "65\" Class GX Series with Gallery Design 4K UHD TV Smart OLED with HDR OLED65GXPUA (2020 Model)"@en	0
+COL title VAL  "Samsung QN50Q60T 50\" QLED 4K Smart TV"@vi	COL title VAL  "Samsung QN65Q70T 65\" QLED 4K Smart TV"@vi	0
+COL title VAL  "43\" 2020 Q60T 4K Smart QLED TV"@en	COL title VAL  "Samsung QN50Q60T 50'' HDR 4K UHD Smart QLED TV (2020)"@id	1
+COL title VAL  "Samsung QN50Q60T 50'' HDR 4K UHD Smart QLED TV (2020)"@id	COL title VAL  "Samsung QN65Q70TA 65'' HDR UHD Smart QLED TV (2020)"@vi	0

@@ -1,0 +1,55 @@
+COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	1
+COL title VAL  "iXpand, 64GB, USB 3.0 USB-nøgle USB Type-A / Lightning 3.2 Gen 1 (3.1 Gen 1) Sort, Sølv"@no	COL title VAL  "64GB SanDisk iXpand V2 USB Flash Drive for iPhone and iPad lightning"@en	1
+COL title VAL  "Samsung 46\" LH46UHFCLBB Full HD Slim Videowall Display"@de	COL title VAL  "Samsung Smart Signage UH46F5 116,8cm(46") LED black"@tl	1
+COL title VAL  "Charger Apple 30W USB-C Power Adapter (Macbook) MR2A2"@en	COL title VAL  "MX2E2ZM/A Apple Watch Magnetic Charger to USB Cable (1m)"@en	0
+COL title VAL  "Apple zasilacz 30W USB-C do MacBook 12''/iPhone/iPad"@pl	COL title VAL  "Apple 30W USB-C adapter MR2A2ZM/A RETAIL PACK"@en	1
+COL title VAL  "Apple Watch Magnetic Charging Cable (1m)"@en	COL title VAL  "Apple 87W USB-C Power Adapter (MX0J2ZM/A)"@en	0
+COL title VAL  "iPhone 6s Screen - New / Fix Kit / Black / Yeni / New / Fix Kit / White / Yeni / New / Part Only / Black / Yeni / New / Part Only / White / Yeni"@en	COL title VAL  "iPhone XR Screen - Fix Kit / New / Part Only / New"@en	0
+COL title VAL  "Apple - 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina Display) - White"@en	COL title VAL  "Apple 60W MagSafe Power Adapter (for MacBook and 13-inch MacBook Pro)"@en	0
+COL title VAL  "Apple USB-C Power Adapter - 30W (for MacBook)"@en	COL title VAL  "Apple 60W MagSafe Power Adapter (for MacBook and 13-inch MacBook Pro)"@en	0
+COL title VAL  "Samsung LH46UHFCLBB/EN 46" Full HD LED Large Format Display"@en	COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Yeni / Part and Adhesive / Yeni"@en	0
+COL title VAL  "Charger Apple 30W USB-C Power Adapter (Macbook) MR2A2"@en	COL title VAL  "Apple 60W MagSafe Power Adapter (for MacBook and 13-inch MacBook Pro)"@en	0
+COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Nuevo / Part Only / Nuevo"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Yeni / Part Only / Yeni"@en	1
+COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	1
+COL title VAL  "Apple 87W USB-C Power Adapter (MX0J2ZM/A)"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter Macbook 60w Magsafe2 Power Adapter"@en	0
+COL title VAL  "SanDisk iXpand 64GB USB 3.0"@sv	COL title VAL  "SanDisk iXpand Flash Drive 64GB for iPhone and iPad, Black/Silver, (SDIX30N-064G-GN6NN)"@en	1
+COL title VAL  "Xiaomi Redmi Note 8T (64GB/4GB) Gris Dual SIM"@ro	COL title VAL  "Redmi Note 8T 4GB RAM 64GB ROM Global Version Grey"@de	1
+COL title VAL  "96W USB-C Power Adapter"@en	COL title VAL  "Apple USB-C Power Adapter - 30W (for MacBook)"@en	0
+COL title VAL  "Apple MD565LL/A 60W MagSafe 2 Power Adapter"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter Macbook 60w Magsafe2 Power Adapter"@en	1
+COL title VAL  "Apple 30 W USB-C Power Adapter"@en	COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	0
+COL title VAL  "Samsung A515 Galaxy A51 Dual Sim (black) -128 GB - EU"@tl	COL title VAL  "Samsung Galaxy A51 4GB 128GB 6.5″ Azul"@tl	0
+COL title VAL  "Apple 60W MagSafe Power Adapter"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter Macbook 60w Magsafe2 Power Adapter"@en	0
+COL title VAL  "Apple 60W Magsafe 2 Power Adapter MD565LL/A B&H Photo Video"@en	COL title VAL  "Apple MD565LL/A 60W MagSafe 2 Power Adapter"@en	1
+COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Nieuw / Part and Adhesive / Nieuw"@en	COL title VAL  "iFixit iPhone 5s Replacement Battery Kit"@en	1
+COL title VAL  "APPLE APPLE 60W MAGSAFE 2 POWER ADAPTER"@en	COL title VAL  "Apple 30W USB-C adapter MR2A2ZM/A RETAIL PACK"@en	0
+COL title VAL  "Apple 60W MagSafe 2 Power Adapter Macbook 60w Magsafe2 Power Adapter"@en	COL title VAL  "Apple MagSafe 2 - power adapter - 60 Watt"@en	1
+COL title VAL  "SanDisk iXpand 64GB USB 3.0"@sv	COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	1
+COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / New / Part and Adhesive / New"@en	COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Neuf / Part and Adhesive / Neuf"@en	0
+COL title VAL  "APPLE - WATCH MAGNETIC CHARGING CABLE 1 M ACCS"@en	COL title VAL  "Apple Watch Magnetic Charging Cable (1m)"@en	1
+COL title VAL  "MX2E2ZM/A Apple Watch Magnetic Charger to USB Cable (1m)"@en	COL title VAL  "Apple 87W USB-C Power Adapter (MX0J2ZM/A)"@en	0
+COL title VAL  "Apple USB-C Power Adapter - 30W (for MacBook)"@en	COL title VAL  "Apple 60W MagSafe Power Adapter"@en	0
+COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / новое / Part and Adhesive / новое"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / 신상 / Part Only / 신상"@en	0
+COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	COL title VAL  "APPLE - 96W USB-C POWER ADAPTER . ACCS"@en	0
+COL title VAL  "iPhone 4S Screen - New / Fix Kit / Black / 新品 / New / Fix Kit / White / 新品 / New / Part Only / Black / 新品 / New / Part Only / White / 新品"@en	COL title VAL  "iPhone XR Screen - Fix Kit / New / Part Only / New"@en	0
+COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	COL title VAL  "SanDisk iXpand Flash Drive 64GB USB for iPhone Lightning Connector"@en	1
+COL title VAL  "Smartphone Samsung Galaxy A51 4GB 128GB Preto"@en	COL title VAL  "Smartphone Samsung Galaxy A31 64GB 4GB RAM Dual SIM Prism Crush Blue"@en	0
+COL title VAL  "Samsung A515 Galaxy A51 Dual Sim (black) -128 GB - EU"@tl	COL title VAL  "Samsung A315 Galaxy A31 Dual Sim (blue) - 64 GB - EU"@tl	0
+COL title VAL  "Apple USB-C Power Adapter - 30W (for MacBook)"@en	COL title VAL  "Charger Apple 30W USB-C Power Adapter (Macbook) MR2A2"@en	1
+COL title VAL  "Apple MD565LL/A 60W MagSafe 2 Power Adapter"@en	COL title VAL  "Apple 87W USB-C Power Adapter (MX0J2ZM/A)"@en	0
+COL title VAL  "Apple - 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina Display) - White"@en	COL title VAL  "Apple MagSafe 2 - power adapter - 60 Watt"@en	1
+COL title VAL  "Apple 60W MagSafe Power Adapter MC461LL/A [MacBook & 13\" Pro]"@en	COL title VAL  "Apple USB-C Power Adapter - 30W (for MacBook)"@en	0
+COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Neuf / Part and Adhesive / Neuf"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Neuf / Part Only / Neuf"@en	0
+COL title VAL  "SMARTPHONE XIAOMI REDMI NOTE 9S 4GB 64GB AURORA BLUE 6,67\""@de	COL title VAL  "Smartphone Xiaomi Redmi Note 9 Pro 6GB 64GB 6.67'' verde tropical"@it	0
+COL title VAL  "SanDisk iXpand Flash Drive 64GB USB for iPhone Lightning Connector"@en	COL title VAL  "SanDisk iXpand Flash-Laufwerk für iPhone und iPad 64GB"@de	1
+COL title VAL  "iPhone 6s Screen - New / Fix Kit / Black / 新品 / New / Fix Kit / White / 新品 / New / Part Only / Black / 新品 / New / Part Only / White / 新品"@en	COL title VAL  "iPhone 4S Screen - New / Fix Kit / Black / 新品 / New / Fix Kit / White / 新品 / New / Part Only / Black / 新品 / New / Part Only / White / 新品"@en	0
+COL title VAL  "Charger Apple 30W USB-C Power Adapter (Macbook) MR2A2"@en	COL title VAL  "Apple zasilacz 30W USB-C do MacBook 12''/iPhone/iPad"@pl	1
+COL title VAL  "SanDisk, iXpand, flash drive, 64GB"@sv	COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	1
+COL title VAL  "Apple 30W USB Type-C Power Adapter"@en	COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	0
+COL title VAL  "iFixit iPhone 4 Replacement Battery, New - Fix Kit"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Neuf / Part Only / Neuf"@en	1
+COL title VAL  "Apple 87W USB-C Power Adapter (MX0J2ZM/A)"@en	COL title VAL  "Apple 30W USB-C adapter MR2A2ZM/A RETAIL PACK"@en	0
+COL title VAL  "iPhone SE Screen - Fix Kit / Black / New / Fix Kit / White / New / Part Only / Black / New / Part Only / White / New"@en	COL title VAL  "iPhone SE Screen - Fix Kit / Black / Yeni / Fix Kit / White / Yeni / Part Only / Black / Yeni / Part Only / White / Yeni"@en	1
+COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Nuovo / Part and Adhesive / Nuovo"@en	COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / New / Part and Adhesive / New"@en	1
+COL title VAL  "iFixit iPhone 5s Replacement Battery Kit"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / 신상 / Part Only / 신상"@en	0
+COL title VAL  "Belkin Belkin Mixit DuraTek Lightning to USB-A Kevlar Cable 1.2M - Gold"@en	COL title VAL  "Belkin Lightning to USB Cable - 3m - White"@en	0
+COL title VAL  "iPhone 7 Plus Lightning Connector Assembly - Gray / New / Fix Kit / Nieuw / White / New / Fix Kit / Nieuw / Black / New / Fix Kit / Nieuw / Gray / New / Part Only / Nieuw / White / New / Part Only / Nieuw / Black / New / Part Only / Nieuw"@en	COL title VAL  "iPhone 7 Plus Lightning Connector Assembly, New, Fix Kit - Grey"@en	1
+COL title VAL  "Apple Lightning to VGA Adapter"@en	COL title VAL  "Apple Apple Lightning to VGA Adapter"@en	1

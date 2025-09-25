@@ -1,0 +1,125 @@
+COL title VAL  "McAllen 2-Piece Twin Quilt Set"@de	COL title VAL  "Sun Lounger, Wicker, Brown (Set of 2)"@en	0
+COL title VAL  "McAllen Signature Design by Ashley Quilt Set Twin"@en	COL title VAL  "7 Piece Outdoor Furniture Set"@ro	0
+COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer - Silver"@de	COL title VAL  "Samsung RS68N8941SL American Style Family Hub RS8000 Fridge Freezer With Ice & Water - STAINLESS STEEL"@en	0
+COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - kold hvid"@et	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Kallvit"@en	COL title VAL  "PH TL-5 35W/830 HE"@pl	0
+COL title VAL  "9000 Series 8kg Heat Pump Dryer"@en	COL title VAL  "Fisher & Paykel WH8060J3 8kg Front Load Washing Machine"@en	0
+COL title VAL  "Blaze 40-inch 5-Burner LTE Gas Grill With Rear Burner and Built-in Lighting System"@de	COL title VAL  "Blaze Grill Cart for 40\" Gas Grill"@en	0
+COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	COL title VAL  "7 Piece Outdoor Furniture Set"@ro	0
+COL title VAL  "7 Piece Outdoor Furniture Set"@ro	COL title VAL  "Simpson - SWT7055LMWA - 7.0kg EZI Set Top Load Washer"@en	0
+COL title VAL  "McAllen Signature Design by Ashley Quilt Set Twin"@en	COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	0
+COL title VAL  "PHILIPS Trubice 35W/840 MASTER HE TL5"@en	COL title VAL  "Tuburi T16 / TL5 MASTER TL5 HE 14W/830 927926083055 PHILIPS"@id	0
+COL title VAL  "Blaze 35\" Stainless Steel Grill Cart for 5 Burner Traditional/LTE Gas Grills BLZ-5-CART"@en	COL title VAL  "Blaze 40-inch 5-Burner LTE Gas Grill With Rear Burner and Built-in Lighting System"@de	0
+COL title VAL  "Blaze Professional 34-Inch Grill Cart"@en	COL title VAL  "Blaze Grill Cart for 40\" Gas Grill"@en	0
+COL title VAL  "30\" Samsung Convection Single Oven with Steam Bake, 5.1 cu.f - NV51K6650SS"@en	COL title VAL  "30\" Double Wall Oven with Touch Screen and Frozen Bake Technology - Stainless Steel"@en	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Kallvit"@en	COL title VAL  "Tuburi T16 / TL5 MASTER TL5 HE 14W/830 927926083055 PHILIPS"@id	0
+COL title VAL  "Neff K1514X7GB 88cm Integrated In Column Larder Fridge"@en	COL title VAL  "Samsung RS68N8941SL American Style Fridge Freezer - Aluminium Finish"@de	0
+COL title VAL  "Fisher & Paykel WH8060J3 8kg Front Load Washing Machine"@en	COL title VAL  "Fisher & Paykel WH1060P1 10kg SmartDrive Front Load Washing Machine"@en	0
+COL title VAL  "Blaze 4 Burner LTE Grill Built-In Natural Gas Grill with Lights"@en	COL title VAL  "Blaze Professional 27" 2 Burner Grill"@de	0
+COL title VAL  "Whirlpool® 6.0 Cu. Ft. Gas Double Oven Range with Center Oval Burner WGG745S0FS"@en	COL title VAL  "Whirlpool WGG745S0FS 30 Inch Freestanding Gas Range"@en	1
+COL title VAL  "Tuburi T16 / TL5 MASTER TL5 HE 14W/830 927926083055 PHILIPS"@id	COL title VAL  "MASTER TL5 HE 14W/865 1SL"@en	0
+COL title VAL  "30\" Samsung Convection Single Oven with Steam Bake, 5.1 cu.f - NV51K6650SS"@en	COL title VAL  "Whirlpool® 6.0 Cu. Ft. Gas Double Oven Range with Center Oval Burner WGG745S0FS"@en	0
+COL title VAL  "Blaze 40\" Stainless Steel 5 Burner LTE Built-In Gas Grill w/ Rear Burner BLZ-5LTE2"@de	COL title VAL  "Blaze 4 Burner LTE Grill Built-In Natural Gas Grill with Lights"@en	0
+COL title VAL  "2x Sun Lounge Setting Chair Brown Wicker Day Bed Outdoor Furniture Garden Patio"@en	COL title VAL  "7 Pc Modular Outdoor Setting Sofa Lounge Set Patio Furniture Wicker Black Storage Cover"@en	0
+COL title VAL  "Blaze 34-Inch Grill Cart For: 3 Burner Professional Blaze Grill"@de	COL title VAL  "Blaze Grill Cart for 40\" Gas Grill"@en	0
+COL title VAL  "Blaze 34-Inch Grill Cart For: 3 Burner Professional Blaze Grill"@de	COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	0
+COL title VAL  "Whirlpool WOD51EC0HS 30\" Stainless Steel Electric Double Wall Oven"@en	COL title VAL  "SAMSUNG 30\" Single Wall Oven - Stainless (NV51K6650SS)"@de	0
+COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	COL title VAL  "Blaze Grill Cart for 40\" Gas Grill"@en	0
+COL title VAL  "Blaze 35\" Stainless Steel Grill Cart for 5 Burner Traditional/LTE Gas Grills BLZ-5-CART"@en	COL title VAL  "Blaze Grill Cart for 40\" Gas Grill"@en	1
+COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	COL title VAL  "Blaze Professional 27" 2 Burner Grill"@de	1
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Kallvit"@en	COL title VAL  "PHILIPS Trubice 35W/840 MASTER HE TL5"@en	0
+COL title VAL  "Simpson SWT7055LMWA 7kg Top Load Washer"@en	COL title VAL  "Fisher & Paykel WH1060P1 10kg SmartDrive Front Load Washing Machine"@en	0
+COL title VAL  "FLUORESCENTE T5 35w/830 145cm 3000k"@pl	COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	0
+COL title VAL  "Fisher & Paykel Front Loader Washing Machine, 8kg"@en	COL title VAL  "Fisher & Paykel WH8060J3 8kg Front Load Washing Machine"@en	1
+COL title VAL  "Lova Outdoor Black Canopy Lounge Set"@en	COL title VAL  "7 Pc Modular Outdoor Setting Sofa Lounge Set Patio Furniture Wicker Black Storage Cover"@en	0
+COL title VAL  "Simpson SWT7055LMWA 7kg Top Load Washer"@en	COL title VAL  "Fisher & Paykel WH8060J3 8kg Front Load Washing Machine"@en	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Kallvit"@en	COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	0
+COL title VAL  "PHILIPS Trubice 35W/840 MASTER HE TL5"@en	COL title VAL  "MASTER TL5 HE 14W/865 1SL"@en	0
+COL title VAL  "AEG 8kg 9000 Series Heat Pump Clothes Dryer"@en	COL title VAL  "9000 Series 8kg Heat Pump Dryer"@en	1
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - kold hvid"@et	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Kallvit"@en	1
+COL title VAL  "Neff K1514X7GB Built In Larder Fridge (In Column)"@de	COL title VAL  "Samsung RS68N8941SL American Style Fridge Freezer - Aluminium Finish"@de	0
+COL title VAL  "4 Burner Blaze LTE Grill with Lights (32\") - NG"@en	COL title VAL  "Blaze 4 Burner LTE Grill Built-In Natural Gas Grill with Lights"@en	1
+COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	COL title VAL  "Blaze 4 Burner LTE Grill Built-In Natural Gas Grill with Lights"@en	0
+COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	COL title VAL  "Outdoor Lounge Setting Patio Furniture Sofa Wicker Rattan Garden Chairs Black"@en	0
+COL title VAL  "Fisher & Paykel Front Loader Washing Machine, 8kg"@en	COL title VAL  "Fisher & Paykel WH1060P1 10kg SmartDrive Front Load Washing Machine"@en	0
+COL title VAL  "Whirlpool WOD51EC0HS 30\" Stainless Steel Electric Double Wall Oven"@en	COL title VAL  "30\" Double Wall Oven with Touch Screen and Frozen Bake Technology - Stainless Steel"@en	1
+COL title VAL  "Blaze 35\" Stainless Steel Grill Cart for 5 Burner Traditional/LTE Gas Grills BLZ-5-CART"@en	COL title VAL  "Blaze 34-Inch Grill Cart For: 3 Burner Professional Blaze Grill"@de	0
+COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	COL title VAL  "Neff K1514X7GB Built In Larder Fridge (In Column)"@de	0
+COL title VAL  "7 Pc Modular Outdoor Setting Sofa Lounge Set Patio Furniture Wicker Black Storage Cover"@en	COL title VAL  "9 Seater Wicker Sofa set - Black"@de	0
+COL title VAL  "4 Burner Blaze LTE Grill with Lights (32\") - NG"@en	COL title VAL  "Blaze Professional 27" 2 Burner Grill"@de	0
+COL title VAL  "Blaze Professional 34-Inch Grill Cart"@en	COL title VAL  "Blaze 34-Inch Grill Cart For: 3 Burner Professional Blaze Grill"@de	1
+COL title VAL  "Blaze 4 Burner LTE Grill Built-In Natural Gas Grill with Lights"@en	COL title VAL  "Whirlpool® 6.0 Cu. Ft. Gas Double Oven Range with Center Oval Burner WGG745S0FS"@en	0
+COL title VAL  "Outdoor Lounge Setting Patio Furniture Sofa Wicker Rattan Garden Chairs Black"@en	COL title VAL  "7 Pc Modular Outdoor Setting Sofa Lounge Set Patio Furniture Wicker Black Storage Cover"@en	0
+COL title VAL  "7 Pc Modular Outdoor Setting Sofa Lounge Set Patio Furniture Wicker Black Storage Cover"@en	COL title VAL  "Whirlpool WOD51EC0HS 30\" Stainless Steel Electric Double Wall Oven"@en	0
+COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	1
+COL title VAL  "Fisher & Paykel WH1060P1 10kg SmartDrive Front Load Washing Machine"@en	COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine - Factory Second (WH1060P1-FSA)"@en	1
+COL title VAL  "2x Sun Lounge Setting Chair Brown Wicker Day Bed Outdoor Furniture Garden Patio"@en	COL title VAL  "Sun Lounger, Wicker, Brown (Set of 2)"@en	1
+COL title VAL  "Blaze 34-Inch Grill Cart For: 3 Burner Professional Blaze Grill"@de	COL title VAL  "4 Burner Blaze LTE Grill with Lights (32\") - NG"@en	0
+COL title VAL  "PHILIPS Trubice 35W/840 MASTER HE TL5"@en	COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	1
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Kallvit"@en	COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	0
+COL title VAL  "SAMSUNG 30\" Single Wall Oven - Stainless (NV51K6650SS)"@de	COL title VAL  "30\" Double Wall Oven with Touch Screen and Frozen Bake Technology - Stainless Steel"@en	0
+COL title VAL  "7 Pc Modular Outdoor Setting Sofa Lounge Set Patio Furniture Wicker Black Storage Cover"@en	COL title VAL  "7 Piece Outdoor Furniture Set"@ro	1
+COL title VAL  "FLUORESCENTE T5 35w/830 145cm 3000k"@pl	COL title VAL  "PH TL-5 35W/830 HE"@pl	1
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Kallvit"@en	COL title VAL  "MASTER TL5 HE 14W/865 1SL"@en	0
+COL title VAL  "Blaze 40-inch 5-Burner LTE Gas Grill With Rear Burner and Built-in Lighting System"@de	COL title VAL  "Blaze 4 Burner LTE Grill Built-In Natural Gas Grill with Lights"@en	0
+COL title VAL  "KitchenAid 48\" 6-Burner Commercial-Style Gas Rangetop with Griddle in Stainless Steel KCGC558JSS"@en	COL title VAL  "Blaze 4 Burner LTE Grill Built-In Natural Gas Grill with Lights"@en	0
+COL title VAL  "Blaze 40-inch 5-Burner LTE Gas Grill With Rear Burner and Built-in Lighting System"@de	COL title VAL  "4 Burner Blaze LTE Grill with Lights (32\") - NG"@en	0
+COL title VAL  "30\" Double Wall Oven with Touch Screen and Frozen Bake Technology - Stainless Steel"@en	COL title VAL  "48\" 6 Burner Commercial Style Gas Rangetop with Chrome Infused Electric Griddle and Two Ultra Power Dual Flame Burners - Stainless Steel"@en	0
+COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	COL title VAL  "7 Piece Outdoor Furniture Set"@ro	0
+COL title VAL  "KitchenAid 48\" 6-Burner Commercial-Style Gas Rangetop with Griddle in Stainless Steel KCGC558JSS"@en	COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	0
+COL title VAL  "McAllen 2-Piece Twin Quilt Set"@de	COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	0
+COL title VAL  "30\" Samsung Convection Single Oven with Steam Bake, 5.1 cu.f - NV51K6650SS"@en	COL title VAL  "SAMSUNG 30\" Single Wall Oven - Stainless (NV51K6650SS)"@de	1
+COL title VAL  "Samsung RS8000 RS68N8220S9 American Fridge Freezer with SpaceMax"@en	COL title VAL  "Samsung RS68N8941SL American Style Family Hub RS8000 Fridge Freezer With Ice & Water - STAINLESS STEEL"@en	0
+COL title VAL  "Neff K1514X7GB 88cm Integrated In Column Larder Fridge"@en	COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer - Silver"@de	0
+COL title VAL  "7 Piece Outdoor Furniture Set"@ro	COL title VAL  "McAllen 2-Piece Twin Quilt Set"@de	0
+COL title VAL  "Gardeon 9 Seat Outdoor Dining Setting with Cover - Black"@en	COL title VAL  "Outdoor Lounge Setting Patio Furniture Sofa Wicker Rattan Garden Chairs Black"@en	0
+COL title VAL  "2x Sun Lounge Setting Chair Brown Wicker Day Bed Outdoor Furniture Garden Patio"@en	COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	0
+COL title VAL  "KitchenAid 48\" 6-Burner Commercial-Style Gas Rangetop with Griddle in Stainless Steel KCGC558JSS"@en	COL title VAL  "Blaze 40\" Stainless Steel 5 Burner LTE Built-In Gas Grill w/ Rear Burner BLZ-5LTE2"@de	0
+COL title VAL  "Outdoor Lounge Setting Patio Furniture Sofa Wicker Rattan Garden Chairs Black"@en	COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	0
+COL title VAL  "Outdoor Lounge Setting Patio Furniture Sofa Wicker Rattan Garden Chairs Black"@en	COL title VAL  "9 Seater Wicker Sofa set - Black"@de	0
+COL title VAL  "Samsung RS68N8941SL American Style Family Hub RS8000 Fridge Freezer With Ice & Water - STAINLESS STEEL"@en	COL title VAL  "SAMSUNG 30\" Single Wall Oven - Stainless (NV51K6650SS)"@de	0
+COL title VAL  "Neff K1514X7GB Built In Larder Fridge (In Column)"@de	COL title VAL  "Blaze 4 Burner LTE Grill Built-In Natural Gas Grill with Lights"@en	0
+COL title VAL  "Samsung RS68N8941SL American Style Fridge Freezer - Aluminium Finish"@de	COL title VAL  "Samsung RS68N8941SL American Style Family Hub RS8000 Fridge Freezer With Ice & Water - STAINLESS STEEL"@en	1
+COL title VAL  "Fisher & Paykel WH8060J3 8kg Front Load Washing Machine"@en	COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine - Factory Second (WH1060P1-FSA)"@en	0
+COL title VAL  "PHILIPS Trubice 35W/840 MASTER HE TL5"@en	COL title VAL  "PH TL-5 35W/830 HE"@pl	0
+COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	COL title VAL  "Blaze 40-inch 5-Burner LTE Gas Grill With Rear Burner and Built-in Lighting System"@de	0
+COL title VAL  "Gardeon 9 Seat Outdoor Dining Setting with Cover - Black"@en	COL title VAL  "9 Seater Wicker Sofa set - Black"@de	1
+COL title VAL  "Fisher & Paykel Front Loader Washing Machine, 8kg"@en	COL title VAL  "Simpson - SWT7055LMWA - 7.0kg EZI Set Top Load Washer"@en	0
+COL title VAL  "Simpson SWT7055LMWA 7kg Top Load Washer"@en	COL title VAL  "Simpson - SWT7055LMWA - 7.0kg EZI Set Top Load Washer"@en	1
+COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	COL title VAL  "Blaze 40\" Stainless Steel 5 Burner LTE Built-In Gas Grill w/ Rear Burner BLZ-5LTE2"@de	0
+COL title VAL  "Samsung RS68N8941SL American Style Fridge Freezer - Aluminium Finish"@de	COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer - Silver"@de	0
+COL title VAL  "Outdoor Lounge Setting Patio Furniture Sofa Wicker Rattan Garden Chairs Black"@en	COL title VAL  "2x Sun Lounge Setting Chair Brown Wicker Day Bed Outdoor Furniture Garden Patio"@en	0
+COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	0
+COL title VAL  "Fisher & Paykel Front Loader Washing Machine, 8kg"@en	COL title VAL  "9000 Series 8kg Heat Pump Dryer"@en	0
+COL title VAL  "MASTER TL5 HE 14W/865 1SL"@en	COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	1
+COL title VAL  "Tuburi T16 / TL5 MASTER TL5 HE 14W/830 927926083055 PHILIPS"@id	COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	1
+COL title VAL  "Gardeon 9 Seat Outdoor Dining Setting with Cover - Black"@en	COL title VAL  "7 Pc Modular Outdoor Setting Sofa Lounge Set Patio Furniture Wicker Black Storage Cover"@en	0
+COL title VAL  "Neff K1514X7GB Built In Larder Fridge (In Column)"@de	COL title VAL  "Neff K1514X7GB 88cm Integrated In Column Larder Fridge"@en	1
+COL title VAL  "FLUORESCENTE T5 35w/830 145cm 3000k"@pl	COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	0
+COL title VAL  "Lova Outdoor Black Canopy Lounge Set"@en	COL title VAL  "7 Piece Outdoor Furniture Set"@ro	0
+COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	COL title VAL  "Tuburi T16 / TL5 MASTER TL5 HE 14W/830 927926083055 PHILIPS"@id	0
+COL title VAL  "Whirlpool WOD51EC0HS 30\" Stainless Steel Electric Double Wall Oven"@en	COL title VAL  "30\" Samsung Convection Single Oven with Steam Bake, 5.1 cu.f - NV51K6650SS"@en	0
+COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	COL title VAL  "7 Pc Modular Outdoor Setting Sofa Lounge Set Patio Furniture Wicker Black Storage Cover"@en	0
+COL title VAL  "Gardeon 9 Seat Outdoor Dining Setting with Cover - Black"@en	COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	0
+COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	COL title VAL  "9 Seater Wicker Sofa set - Black"@de	0
+COL title VAL  "Blaze 40-inch 5-Burner LTE Gas Grill With Rear Burner and Built-in Lighting System"@de	COL title VAL  "Blaze 40\" Stainless Steel 5 Burner LTE Built-In Gas Grill w/ Rear Burner BLZ-5LTE2"@de	1
+COL title VAL  "Fisher & Paykel WH1060P1 10kg SmartDrive Front Load Washing Machine"@en	COL title VAL  "Simpson - SWT7055LMWA - 7.0kg EZI Set Top Load Washer"@en	0
+COL title VAL  "Fisher & Paykel Front Loader Washing Machine, 8kg"@en	COL title VAL  "Neff K1514X7GB Built In Larder Fridge (In Column)"@de	0
+COL title VAL  "Blaze 40\" Stainless Steel 5 Burner LTE Built-In Gas Grill w/ Rear Burner BLZ-5LTE2"@de	COL title VAL  "Blaze 35\" Stainless Steel Grill Cart for 5 Burner Traditional/LTE Gas Grills BLZ-5-CART"@en	0
+COL title VAL  "McAllen Signature Design by Ashley Quilt Set Twin"@en	COL title VAL  "McAllen 2-Piece Twin Quilt Set"@de	1
+COL title VAL  "Lova Outdoor Black Canopy Lounge Set"@en	COL title VAL  "Outdoor Lounge Setting Patio Furniture Sofa Wicker Rattan Garden Chairs Black"@en	1
+COL title VAL  "Blaze Professional 27" 2 Burner Grill"@de	COL title VAL  "Blaze 34-Inch Grill Cart For: 3 Burner Professional Blaze Grill"@de	0
+COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	COL title VAL  "Sun Lounger, Wicker, Brown (Set of 2)"@en	0
+COL title VAL  "Whirlpool WGG745S0FS 30 Inch Freestanding Gas Range"@en	COL title VAL  "Whirlpool WOD51EC0HS 30\" Stainless Steel Electric Double Wall Oven"@en	0
+COL title VAL  "FLUORESCENTE T5 35w/830 145cm 3000k"@pl	COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Kallvit"@en	COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	0
+COL title VAL  "48\" 6 Burner Commercial Style Gas Rangetop with Chrome Infused Electric Griddle and Two Ultra Power Dual Flame Burners - Stainless Steel"@en	COL title VAL  "KitchenAid 48\" 6-Burner Commercial-Style Gas Rangetop with Griddle in Stainless Steel KCGC558JSS"@en	1
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - kold hvid"@et	COL title VAL  "Tuburi T16 / TL5 MASTER TL5 HE 14W/830 927926083055 PHILIPS"@id	0
+COL title VAL  "Lova Outdoor Black Canopy Lounge Set"@en	COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	0
+COL title VAL  "PH TL-5 35W/830 HE"@pl	COL title VAL  "Tuburi T16 / TL5 MASTER TL5 HE 14W/830 927926083055 PHILIPS"@id	0
+COL title VAL  "Blaze Professional 27" 2 Burner Grill"@de	COL title VAL  "48\" 6 Burner Commercial Style Gas Rangetop with Chrome Infused Electric Griddle and Two Ultra Power Dual Flame Burners - Stainless Steel"@en	0
+COL title VAL  "4 Burner Blaze LTE Grill with Lights (32\") - NG"@en	COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	0
+COL title VAL  "Samsung RS8000 RS68N8220S9 American Fridge Freezer with SpaceMax"@en	COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer - Silver"@de	1
+COL title VAL  "Samsung RS68N8941SL American Style Fridge Freezer - Aluminium Finish"@de	COL title VAL  "Samsung RS8000 RS68N8220S9 American Fridge Freezer with SpaceMax"@en	0
+COL title VAL  "Whirlpool® 6.0 Cu. Ft. Gas Double Oven Range with Center Oval Burner WGG745S0FS"@en	COL title VAL  "KitchenAid 48\" 6-Burner Commercial-Style Gas Rangetop with Griddle in Stainless Steel KCGC558JSS"@en	0
+COL title VAL  "Sun Lounger, Wicker, Brown (Set of 2)"@en	COL title VAL  "9 Seater Wicker Sofa set - Black"@de	0

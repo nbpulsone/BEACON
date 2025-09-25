@@ -1,0 +1,15 @@
+COL title VAL  "Samsung 50\" 4K UHD HDR QLED Smart TV (QN50Q60TAFXZC)"@id	COL title VAL  "65\" LG OLED65GXPUA 4K HDR10 SMART AI OLED TV WITH THINQ"@de	0
+COL title VAL  "Samsung Q70T 65\" 4K QLED TV"@tl	COL title VAL  "Samsung QN65Q70TAFXZA 65 Class (64.5 Diag.) 4K Ultra HD HDR Smart QLED TV"@de	1
+COL title VAL  "LG OLED65GXPUA Alexa Built-in GX Series 65\" 4K Ultra HD Smart OLED TV"@de	COL title VAL  "Televizor LED LG 32LK510BPLD, 80 cm, Rezolutie HD, Game TV, Slot CI +, Negru"@ro	0
+COL title VAL  "Samsung Q70T 65\" 4K QLED TV"@tl	COL title VAL  "65\" LG OLED65GXPUA 4K HDR10 SMART AI OLED TV WITH THINQ"@de	0
+COL title VAL  "Samsung Q70T 65\" 4K QLED TV"@tl	COL title VAL  "Samsung 50\" 4K UHD HDR QLED Smart TV (QN50Q60TAFXZC)"@id	0
+COL title VAL  "50\" Q60T Series QLED 4K UHD Smart TV QN50Q60TAFXZA (2020 Model)"@de	COL title VAL  "LG OLED65GXPUA Alexa Built-in GX Series 65\" 4K Ultra HD Smart OLED TV"@de	0
+COL title VAL  "Samsung QN65Q70TAFXZA 65 Class (64.5 Diag.) 4K Ultra HD HDR Smart QLED TV"@de	COL title VAL  "50\" Q60T Series QLED 4K UHD Smart TV QN50Q60TAFXZA (2020 Model)"@de	0
+COL title VAL  "Samsung QN65Q70TAFXZA 65 Class (64.5 Diag.) 4K Ultra HD HDR Smart QLED TV"@de	COL title VAL  "Samsung 50\" 4K UHD HDR QLED Smart TV (QN50Q60TAFXZC)"@id	0
+COL title VAL  "LG OLED65GXPUA Alexa Built-in GX Series 65\" 4K Ultra HD Smart OLED TV"@de	COL title VAL  "Samsung 50\" 4K UHD HDR QLED Smart TV (QN50Q60TAFXZC)"@id	0
+COL title VAL  "LG 32LK510BPLD 32 inch TV best price"@en	COL title VAL  "65\" LG OLED65GXPUA 4K HDR10 SMART AI OLED TV WITH THINQ"@de	0
+COL title VAL  "Samsung QN65Q70TAFXZA 65 Class (64.5 Diag.) 4K Ultra HD HDR Smart QLED TV"@de	COL title VAL  "65\" LG OLED65GXPUA 4K HDR10 SMART AI OLED TV WITH THINQ"@de	0
+COL title VAL  "Samsung 50\" 4K UHD HDR QLED Smart TV (QN50Q60TAFXZC)"@id	COL title VAL  "50\" Q60T Series QLED 4K UHD Smart TV QN50Q60TAFXZA (2020 Model)"@de	1
+COL title VAL  "65\" LG OLED65GXPUA 4K HDR10 SMART AI OLED TV WITH THINQ"@de	COL title VAL  "LG OLED65GXPUA Alexa Built-in GX Series 65\" 4K Ultra HD Smart OLED TV"@de	1
+COL title VAL  "LG OLED65GXPUA Alexa Built-in GX Series 65\" 4K Ultra HD Smart OLED TV"@de	COL title VAL  "Samsung QN65Q70TAFXZA 65 Class (64.5 Diag.) 4K Ultra HD HDR Smart QLED TV"@de	0
+COL title VAL  "Televizor LED LG 32LK510BPLD, 80 cm, Rezolutie HD, Game TV, Slot CI +, Negru"@ro	COL title VAL  "LG 32LK510BPLD 32 inch TV best price"@en	1

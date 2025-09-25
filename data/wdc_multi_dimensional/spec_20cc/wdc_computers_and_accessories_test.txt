@@ -1,0 +1,332 @@
+COL title VAL  "SanDisk 64GB Extreme PRO CFexpress Card Type B"@en	COL title VAL  "MSI GeForce RTX 2070 SUPER VENTUS GP OC NVIDIA, 8 GB, GeForce RTX 2070 SUPER, GDDR6, PCI Express x16 3.0, Processor frequency 17"@en	0
+COL title VAL  "Razer Tartarus Chroma (RZ07-01510100-R3M1)"@en	COL title VAL  "Razer Tartarus Pro Gaming Keypad"@id	0
+COL title VAL  "ASUS GRAPHICS CARD DUAL RTX 2060S OC 8GB DDR6 1X HDMI 1X DVI-D 1 X DISPLAY PORT 2 X FAN MAX DISPLAY SUPPORT:4 450W 3 YEAR CARRY IN WARRANTY"@so	COL title VAL  "SVGA Asus GeForce RTX 2060 SUPER 8GB Dual OC Evo V2"@en	1
+COL title VAL  "WD My Passport 1TB USB 3.0 Portable Hard Drive - Black (WDBYNN0010BBK-WESN)"@en	COL title VAL  "WD MyPassport 4TB 2.5 USB3.0 Black"@en	0
+COL title VAL  "1TB Backup Plus Slim - Blue"@de	COL title VAL  "SEAGATE 1TBBACKUP PLUS SLIM RED EXTERNAL HARD DRIVE (STHN1000403)"@de	0
+COL title VAL  "Cooler Master MasterCase H500P ARGB Mesh Case"@en	COL title VAL  "CASE/PSU FAN COOLER MASTER MASTERFAN SF120M"@en	0
+COL title VAL  "Razer Tartarus Chroma (RZ07-01510100-R3M1)"@en	COL title VAL  "Razer Tartarus Chroma RGB Expert Gaming Keypad"@id	1
+COL title VAL  "LaCie Rugged Mini 2TB USB 3.0 / USB 2.0 Portable Hard Drive + 1mo Adobe CC All Apps"@en	COL title VAL  "HDD Extern Western Digital Elements Portable SE 500GB, 2.5', USB 3.0 (WDBUZG5000ABK)"@de	0
+COL title VAL  "HDD Seagate NAS IronWolfPro 10TB 3,5\" ST10000NE0008"@en	COL title VAL  "Seagate Exos 7E8 2TB 3.5\" SATA HDD/Hard Drive"@en	0
+COL title VAL  "Kingston HyperX 16GB FURY Black Heatsink (2 x 8GB) DDR4 2400MHz DIMM System Memory"@de	COL title VAL  "Kingston HyperX Fury HX318C10FK2/16 16GB (2x8GB) Blue"@en	0
+COL title VAL  "24\" 4Vu Widescreen Monitor Privacy Screen"@en	COL title VAL  "Targus ASF24WUSZ Privacy Widescreen Filter"@en	1
+COL title VAL  "WD My Passport 1TB USB 3.0 Portable Hard Drive - Black (WDBYNN0010BBK-WESN)"@en	COL title VAL  "LaCie Rugged Mini 2TB USB 3.0 / USB 2.0 Portable Hard Drive + 1mo Adobe CC All Apps"@en	0
+COL title VAL  "Palit GeForce RTX 2080 Ti GamingPro OC"@en	COL title VAL  "ASUS GeForce RTX 2060 SUPER DUAL EVO OC V2"@de	0
+COL title VAL  "HDD extern WD My Passport, 4TB, 2,5" USB 3.0, portocaliu"@en	COL title VAL  "WD My Passport 1TB USB 3.0 Portable Hard Drive - Black (WDBYNN0010BBK-WESN)"@en	0
+COL title VAL  "Seagate Backup Plus Slim STHN2000406hard drive - 2 TB - USB 3.0"@en	COL title VAL  "Disco Duro Externo Seagate Backup Plus Slim - 2TB - USB 3.0 - Mac/Win - Plata"@en	0
+COL title VAL  "COOLER MASTER MASTERLIQUID ML240L RGB CPU COOLER V2"@ca	COL title VAL  "CASE/PSU FAN COOLER MASTER MASTERFAN SF120M"@en	0
+COL title VAL  "Seagate IronWolf 10TB 3.5\" NAS Hard Drive (HDD)"@en	COL title VAL  "Seagate IronWolf Pro ST8000NE0004 disco duro interno 3.5\" 8000 GB Serial ATA III"@it	0
+COL title VAL  "WD BLACK 2TB MY PASSPORT PORTABLE USB3.0 HDD (WDBS4B0020BBK-WESN)-WRTY 3YRS W/WD"@de	COL title VAL  "WD My Passport WDBYFT0040BOR - harddisk - 4 TB - USB 3.0"@en	0
+COL title VAL  "Kingston HyperX Fury HX318C10FK2/16 16GB (2x8GB) Blue"@en	COL title VAL  "KINGSTON 16GB 1866MHz DDR3 CL10 DIMM (Kit of 2) HyperX Fury Series"@en	1
+COL title VAL  "Logitech Z337 2.1 Bluetooth PC Speaker"@en	COL title VAL  "HP 16GB 2Rx4 PC3 G8 Server Ram"@de	0
+COL title VAL  "Samsung 24\" Business Monitor S24E450M"@en	COL title VAL  "Philips E Line 272E1CA 27\" Full HD Curved Monitor"@en	0
+COL title VAL  "Patriot Memory P210 2.5\" 2000 GB SATA III SSD"@en	COL title VAL  "Silicon Power Ace A55 1000GB 2.5\" SATA III SSD"@en	0
+COL title VAL  "MSI GeForce RTX 2070 SUPER VENTUS GP OC NVIDIA, 8 GB, GeForce RTX 2070 SUPER, GDDR6, PCI Express x16 3.0, Processor frequency 17"@en	COL title VAL  "ASUS GeForce RTX 2060 SUPER DUAL EVO OC V2"@de	0
+COL title VAL  "LOGITECH MX Master 3 Advanced Wireless Mouse - MID GREY"@en	COL title VAL  "Cooler Master M510 Medium Gaming Mouse Mat"@en	0
+COL title VAL  "Seagate Exos 7E8 2TB 3.5\" SATA HDD/Hard Drive"@en	COL title VAL  "Seagate Exos ST2000NM000A 2 TB Hard Drive - Internal - SATA (SATA/600) - 7200rpm - 256 MB Buffer - 256-bit Encryption Standard"@en	1
+COL title VAL  "COOLER MASTER MASTERLIQUID ML240L RGB CPU COOLER V2"@ca	COL title VAL  "Cooler Master MASTERFAN MF200R RGB Cabinet Fan"@de	0
+COL title VAL  "HDD extern WD My Passport, 4TB, 2,5" USB 3.0, portocaliu"@en	COL title VAL  "WD MyPassport 4TB 2.5 USB3.0 Black"@en	0
+COL title VAL  "Kingston HyperX 16GB FURY Black Heatsink (2 x 8GB) DDR4 2400MHz DIMM System Memory"@de	COL title VAL  "Corsair Vengeance LPX Black 64GB (4x16GB) DDR4 PC4-21300 2666MHz Quad Channel Kit"@en	0
+COL title VAL  "Seagate Exos 7E8 2TB 3.5\" SATA HDD/Hard Drive"@en	COL title VAL  "Seagate IronWolf 10TB 3.5\" NAS Hard Drive (HDD)"@en	0
+COL title VAL  "Cooler Master MasterCase H500P ARGB Mesh Case"@en	COL title VAL  "Cooler Master M510 Medium Gaming Mouse Mat"@en	0
+COL title VAL  "CM / CoolerMaster MasterFan SF120M 12cm Fan with Patented Square Damping Fan Frames (MFZ-B2NN-20NPK-R1) (Warranty 2years with Local Distributor BanLeong)"@en	COL title VAL  "CASE/PSU FAN COOLER MASTER MASTERFAN SF120M"@en	1
+COL title VAL  "Palit NVIDIA GeForce RTX 2080 Ti 11GB GamingPro OC Turing Graphics Card"@en	COL title VAL  "Palit GeForce RTX 2080 Ti GamingPro OC"@en	1
+COL title VAL  "Corsair Vengeance 16GB 2x 8GB DDR3 1600MHz C9 RAM | Discount Computer Needs"@en	COL title VAL  "3M - PRIVACY FILTER APPLE MACBOOK AGNAP001 FILTER MACBOOK PRO 13 ACCS"@en	0
+COL title VAL  "Patriot Memory P210 2.5\" 2000 GB SATA III SSD"@en	COL title VAL  "PATRIOT Memory DDR3 8GB PC3-12800 (1600MHz) DIMM - 8 GB - 1 x 8 GB - DDR3 - 1600 MHz - 240-pin DIMM"@en	0
+COL title VAL  "KINGSTON 16GB 1866MHz DDR3 CL10 DIMM (Kit of 2) HyperX Fury Series"@en	COL title VAL  "Kingston 16GB DDR4 2666MHz Kit(2x8GB) HyperX Fury Black Series"@de	0
+COL title VAL  "Intel Xeon Platinum 8180 Prosessor"@en	COL title VAL  "Intel Xeon Platinum 8180, S 3647, Skylake-SP, 28 Cores, 56 Threads, 2.5GHz, 3.2GHz Turbo, 38.5MB Cache, 205W, Retail"@en	1
+COL title VAL  "Seagate Dysk Expansion 8TB 3,5 STEB9000402 Black"@en	COL title VAL  "Hard Disk Drive portabil SEAGATE Backup Plus Slim STHN2000403, 2TB, USB 3.0, rosu"@en	0
+COL title VAL  "DDR4 HyperX Predator 16GB/2666 CL13"@en	COL title VAL  "16GB HyperX Predator DDR4 2666MHz, CL13, Black, DIMM Memory"@en	1
+COL title VAL  "MSI GeForce RTX 2070 SUPER VENTUS GP OC NVIDIA, 8 GB, GeForce RTX 2070 SUPER, GDDR6, PCI Express x16 3.0, Processor frequency 17"@en	COL title VAL  "MSI GeForce RTX 2070 SUPER VENTUS GP OC NVIDIA 8 Go GDDR6"@de	1
+COL title VAL  "WD BLACK 2TB MY PASSPORT PORTABLE USB3.0 HDD (WDBS4B0020BBK-WESN)-WRTY 3YRS W/WD"@de	COL title VAL  "HDD Extern Western Digital Elements Portable SE 500GB, 2.5', USB 3.0 (WDBUZG5000ABK)"@de	0
+COL title VAL  "Asus 43\" ROG Strix XG438Q, 3840x2160px, FreeSync2, VA - gaming monitor"@en	COL title VAL  "ASUS ROG Strix XG438Q 109,2 cm (43\") 3840 x 2160 Pixels 4K Ultra HD LED Zwart"@ca	1
+COL title VAL  "Patriot Signature Line 8GB DDR3 1600MHz Desktop Single Rank"@de	COL title VAL  "Corsair Vengeance 16GB (2x8GB) 1600MHz CL9 DDR3"@en	0
+COL title VAL  "Seagate IronWolf Pro 10 To"@en	COL title VAL  "Seagate IronWolf ST10000VN0004hard drive - 10 TB - SATA 6Gb/s"@en	0
+COL title VAL  "WD My Passport 1TB USB 3.0 Portable Hard Drive - Black (WDBYNN0010BBK-WESN)"@en	COL title VAL  "Lacie LaCie 2TB Rugged Mini portable hard drive USB3.0"@en	0
+COL title VAL  "HDD extern WD My Passport, 4TB, 2,5" USB 3.0, portocaliu"@en	COL title VAL  "WD My Passport WDBYFT0040BOR - harddisk - 4 TB - USB 3.0"@en	1
+COL title VAL  "Logitech MX Master 3 Computermuis - Grijs"@en	COL title VAL  "Galaxy A21s 3+32GB Sort"@so	0
+COL title VAL  "HDD extern WD My Passport, 4TB, 2,5" USB 3.0, portocaliu"@en	COL title VAL  "WD MY PASSPORT 1TB 2.5\" BLACK"@en	0
+COL title VAL  "Palit NVIDIA GeForce RTX 2080 Ti 11GB GamingPro OC Turing Graphics Card"@en	COL title VAL  "MSI GeForce RTX 2070 SUPER VENTUS GP OC NVIDIA 8 Go GDDR6"@de	0
+COL title VAL  "LOGITECH MX Master 3 Advanced Wireless Mouse - MID GREY"@en	COL title VAL  "Logitech MX Anywhere 2S mouse RF Wireless+Bluetooth 4000 DPI Right-hand"@en	0
+COL title VAL  "Seagate Backup Plus external hard drive 1000 GB Blue"@en	COL title VAL  "Hard Disk Drive portabil SEAGATE Backup Plus Slim STHN2000403, 2TB, USB 3.0, rosu"@en	0
+COL title VAL  "CASE/PSU FAN COOLER MASTER MASTERFAN SF120M"@en	COL title VAL  "Cooler Master MF200R Hybrid Silent High Airflow RGB Rifle Bearing 200mm Case Fan"@en	0
+COL title VAL  "HD SEAGATE IRONWOLF 2 TB P/ NAS - ST2000VN004"@en	COL title VAL  "Seagate Backup Plus Slim STHN2000406hard drive - 2 TB - USB 3.0"@en	0
+COL title VAL  "Intel Xeon Gold 6130 / 2.1 GHz processor"@it	COL title VAL  "Seagate Expansion Desktop 8TB (STEB8000402)"@en	0
+COL title VAL  "Seagate IronWolf ST10000VN0004hard drive - 10 TB - SATA 6Gb/s"@en	COL title VAL  "Patriot Signature Line 8GB DDR3 1600MHz Desktop Single Rank"@de	0
+COL title VAL  "24\" 4Vu Widescreen Monitor Privacy Screen"@en	COL title VAL  "Apple Smart - screen cover for tablet"@en	0
+COL title VAL  "Patriot Signature Line 8GB DDR3 1600MHz Desktop Single Rank"@de	COL title VAL  "16GB HyperX FURY schwarz Single Rank DDR4-2400 DIMM CL15 Dual Kit"@de	0
+COL title VAL  "Patriot 2TB 2,5\" SATA SSD P210"@en	COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	0
+COL title VAL  "HyperX 16GB (2x8GB) 2666MHz CL16Fury Black"@en	COL title VAL  "Kingston HyperX Fury HX318C10FK2/16 16GB (2x8GB) Blue"@en	0
+COL title VAL  "Seagate IronWolf 10TB 3.5\" NAS Hard Drive (HDD)"@en	COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	0
+COL title VAL  "Kit Tastiera Mouse Wireless Logitech MK270 Nero"@en	COL title VAL  "Palit GeForce RTX 2080 Ti GamingPro OC"@en	0
+COL title VAL  "HyperX 16GB (2x8GB) 2666MHz CL16Fury Black"@en	COL title VAL  "Kingston 16GB DDR4 2666MHz Kit(2x8GB) HyperX Fury Black Series"@de	1
+COL title VAL  "LG 27GK750F-B 27\" TN G-Sync Compatible 2ms 240Hz Adaptive Sync 400 cd/m2 Gaming Monitor with HDMI 2.0 DisplayPort 1.2"@en	COL title VAL  "Asus Prime B450M-A/CSM AMD Ryzen 2 AM4 DDR4 HDMI DVI VGA M.2 USB 3.1 Gen2 mATX Motherboard"@en	0
+COL title VAL  "WD My Passport WDBYFT0040BOR - harddisk - 4 TB - USB 3.0"@en	COL title VAL  "Western Digital My Passport 4TB External USB 3.2 Gen 1 Portable Hard Drive (Black) (WDBPKJ0040BBK)"@en	0
+COL title VAL  "Intel Core i9-9980XE Prosessor"@it	COL title VAL  "Intel Xeon Platinum 8180 Prosessor"@en	0
+COL title VAL  "Cooler Master M510 Medium Gaming Mouse Mat"@en	COL title VAL  "Cooler Master MASTERFAN MF200R RGB Cabinet Fan"@de	0
+COL title VAL  "WD MY PASSPORT 1TB 2.5\" BLACK"@en	COL title VAL  "WD My Passport 1TB USB 3.0 Portable Hard Drive - Black (WDBYNN0010BBK-WESN)"@en	1
+COL title VAL  "1TB Backup Plus Slim - Blue"@de	COL title VAL  "Seagate Backup Plus external hard drive 1000 GB Blue"@en	1
+COL title VAL  "Seagate Backup Plus Slim STHN2000406hard drive - 2 TB - USB 3.0"@en	COL title VAL  "Hard Disk Drive portabil SEAGATE Backup Plus Slim STHN2000403, 2TB, USB 3.0, rosu"@en	0
+COL title VAL  "Razer Tartarus Chroma RGB Expert Gaming Keypad"@id	COL title VAL  "Razer BlackWidow X Tournament Edition Chroma Gaming Keyboard | RZ03-01770100-R3M1"@en	0
+COL title VAL  "16GB HyperX FURY schwarz Single Rank DDR4-2400 DIMM CL15 Dual Kit"@de	COL title VAL  "Kingston 16GB DDR4 2666MHz Kit(2x8GB) HyperX Fury Black Series"@de	0
+COL title VAL  "Intel Core i9-9980XE Prosessor"@it	COL title VAL  "Intel Core i9-9980XE - 9th gen Intel® Core™ i9 - 3 GHz - LGA 2066 - PC - 14 nm - i9-9980XE (BX80673I99980X)"@it	1
+COL title VAL  "Corsair Vengeance LPX schwarz Kit 64 GB, DDR4-2666, CL16"@de	COL title VAL  "Western Digital Elements 500GB 2.5 USB 3.0 External Black (WDBUZG5000ABK)"@de	0
+COL title VAL  "WD MyPassport 4TB 2.5 USB3.0 Black"@en	COL title VAL  "WD BLACK 2TB MY PASSPORT PORTABLE USB3.0 HDD (WDBS4B0020BBK-WESN)-WRTY 3YRS W/WD"@de	0
+COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	COL title VAL  "Silicon Power A55 1TB TLC SATA III 6Gb/s 2.5-inch Internal Solid State Drive"@en	0
+COL title VAL  "SEAGATE 1TBBACKUP PLUS SLIM RED EXTERNAL HARD DRIVE (STHN1000403)"@de	COL title VAL  "Seagate Backup Plus Slim Red 1tb"@en	1
+COL title VAL  "Patriot Memory P210 2.5\" 2000 GB SATA III SSD"@en	COL title VAL  "Patriot 2TB 2,5\" SATA SSD P210"@en	1
+COL title VAL  "WD MY PASSPORT 2TB EXTERNAL HDD"@en	COL title VAL  "WD BLACK 2TB MY PASSPORT PORTABLE USB3.0 HDD (WDBS4B0020BBK-WESN)-WRTY 3YRS W/WD"@de	1
+COL title VAL  "CM / CoolerMaster MasterFan SF120M 12cm Fan with Patented Square Damping Fan Frames (MFZ-B2NN-20NPK-R1) (Warranty 2years with Local Distributor BanLeong)"@en	COL title VAL  "ZOTAC Geforce RTX 2080Ti / 2080 Ti Blower 11GB (ZT-T20810A-10P) PCI-Ex16 Gaming Graphics Card (Local Warranty 3+2years upon registration)"@en	0
+COL title VAL  "SVGA Asus GeForce RTX 2060 SUPER 8GB Dual OC Evo V2"@en	COL title VAL  "Gigabyte GeForce RTX 2080 Super Turbo 8GB Graphics Card"@en	0
+COL title VAL  "Razer BlackWidow X Tournament Edition Chroma Gaming Keyboard | RZ03-01770100-R3M1"@en	COL title VAL  "Razer Tartarus Pro Gaming Keypad"@id	0
+COL title VAL  "Razer Tartarus Pro Chroma RGB Programmable Gaming Keypad - Black | RZ07-03110100-R3M1"@en	COL title VAL  "Razer Tartarus Pro Gaming Keypad"@id	1
+COL title VAL  "2TB Backup Plus Slim - Red"@de	COL title VAL  "Seagate Backup Plus Slim Red 1tb"@en	0
+COL title VAL  "Seagate Dysk Expansion 8TB 3,5 STEB9000402 Black"@en	COL title VAL  "Seagate Expansion Desktop 8TB (STEB8000402)"@en	1
+COL title VAL  "Razer BlackWidow X Tournament Edition Chroma Gaming Keyboard | RZ03-01770100-R3M1"@en	COL title VAL  "Razer BlackWidow X Tournament Edition Chroma"@en	1
+COL title VAL  "SEAGATE 2TBBACKUP PLUS SLIM SILVER EXTERNAL HARD DRIVE (STHN2000401)"@de	COL title VAL  "Hard Disk Drive portabil SEAGATE Backup Plus Slim STHN2000403, 2TB, USB 3.0, rosu"@en	0
+COL title VAL  "HP 16GB Dual Rank x4 PC3-12800R (DDR3-1600) 1.5V Memory Dimm"@en	COL title VAL  "KINGSTON 16GB 1866MHz DDR3 CL10 DIMM (Kit of 2) HyperX Fury Series"@en	0
+COL title VAL  "Seagate IronWolf Pro ST8000NE0004 disco duro interno 3.5\" 8000 GB Serial ATA III"@it	COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	0
+COL title VAL  "MSI GeForce RTX 2070 SUPER VENTUS GP OC NVIDIA 8 Go GDDR6"@de	COL title VAL  "ASUS GeForce RTX 2060 SUPER DUAL EVO OC V2"@de	0
+COL title VAL  "HD SEAGATE IRONWOLF 2 TB P/ NAS - ST2000VN004"@en	COL title VAL  "Seagate IronWolf Pro 10 To"@en	0
+COL title VAL  "Silicon Power Ace A55 1000GB 2.5\" SATA III SSD"@en	COL title VAL  "Silicon Power A55 1TB TLC SATA III 6Gb/s 2.5-inch Internal Solid State Drive"@en	1
+COL title VAL  "Asus Prime B450M-A/CSM mATX Motherboard - AMD X470 Chipset - Socket AM4 - 4 x Dual-Channel DDR4-3600 OC - 64 GB DDR4 max Memory - Windows 10 64-bit"@en	COL title VAL  "HP 16GB Dual Rank x4 PC3-12800R (DDR3-1600) 1.5V Memory Dimm"@en	0
+COL title VAL  "HP 23.8-inch FHD IPS Monitor"@en	COL title VAL  "HP VH240a 1080p IPS LED Monitor with Built-in Speaker"@en	1
+COL title VAL  "Cooler Master M510 Medium Gaming Mouse Mat"@en	COL title VAL  "COOLER MASTER MASTERLIQUID ML240L RGB CPU COOLER V2"@ca	0
+COL title VAL  "PATRIOT Memory DDR3 8GB PC3-12800 (1600MHz) DIMM - 8 GB - 1 x 8 GB - DDR3 - 1600 MHz - 240-pin DIMM"@en	COL title VAL  "Intel Xeon Platinum 8180, S 3647, Skylake-SP, 28 Cores, 56 Threads, 2.5GHz, 3.2GHz Turbo, 38.5MB Cache, 205W, Retail"@en	0
+COL title VAL  "WD MyPassport 4TB 2.5 USB3.0 Black"@en	COL title VAL  "WD MY PASSPORT 2TB EXTERNAL HDD"@en	0
+COL title VAL  "Western Digital My Passport 4TB External USB 3.2 Gen 1 Portable Hard Drive (Black) (WDBPKJ0040BBK)"@en	COL title VAL  "Western Digital Elements 500GB 2.5 USB 3.0 External Black (WDBUZG5000ABK)"@de	0
+COL title VAL  "KINGSTON 16GB 1866MHz DDR3 CL10 DIMM (Kit of 2) HyperX Fury Series"@en	COL title VAL  "16GB HyperX Predator DDR4 2666MHz, CL13, Black, DIMM Memory"@en	0
+COL title VAL  "Seagate IronWolf Pro ST8000NE0004 disco duro interno 3.5\" 8000 GB Serial ATA III"@it	COL title VAL  "Logitech tastiera +MOUSE Wireless Desktop MK270 nera usb (COMBO) -"@sv	0
+COL title VAL  "Razer BlackWidow X Tournament Edition Chroma"@en	COL title VAL  "SEAGATE 2TBBACKUP PLUS SLIM SILVER EXTERNAL HARD DRIVE (STHN2000401)"@de	0
+COL title VAL  "LaCie Rugged Mini 2TB USB 3.0 / USB 2.0 Portable Hard Drive + 1mo Adobe CC All Apps"@en	COL title VAL  "Western Digital My Passport 4TB External USB 3.2 Gen 1 Portable Hard Drive (Black) (WDBPKJ0040BBK)"@en	0
+COL title VAL  "Cooler Master MF200R Hybrid Silent High Airflow RGB Rifle Bearing 200mm Case Fan"@en	COL title VAL  "COOLER MASTER MASTERLIQUID ML240L RGB CPU COOLER V2"@ca	0
+COL title VAL  "Karta VGA Asus ROG Strix GeForce® GTX 1650 OC 4GB GDDR6 128bit 2xHDMI+2xDP PCIe3.0"@de	COL title VAL  "ASUS GRAPHICS CARD DUAL RTX 2060S OC 8GB DDR6 1X HDMI 1X DVI-D 1 X DISPLAY PORT 2 X FAN MAX DISPLAY SUPPORT:4 450W 3 YEAR CARRY IN WARRANTY"@so	0
+COL title VAL  "2TB Backup Plus Slim - Red"@de	COL title VAL  "Disco Duro Externo Seagate Backup Plus Slim - 2TB - USB 3.0 - Mac/Win - Plata"@en	0
+COL title VAL  "WD MY PASSPORT 1TB 2.5\" BLACK"@en	COL title VAL  "WD BLACK 2TB MY PASSPORT PORTABLE USB3.0 HDD (WDBS4B0020BBK-WESN)-WRTY 3YRS W/WD"@de	0
+COL title VAL  "Corsair Vengeance 16GB (2x8GB) 1600MHz CL9 DDR3"@en	COL title VAL  "Corsair Vengeance LPX schwarz Kit 64 GB, DDR4-2666, CL16"@de	0
+COL title VAL  "Seagate Backup Plus Slim 2 To Grey"@en	COL title VAL  "1TB Backup Plus Slim - Blue"@de	0
+COL title VAL  "HP 16GB 2Rx4 PC3 G8 Server Ram"@de	COL title VAL  "Corsair Vengeance 16GB 2x 8GB DDR3 1600MHz C9 RAM | Discount Computer Needs"@en	0
+COL title VAL  "Lacie LaCie 2TB Rugged Mini portable hard drive USB3.0"@en	COL title VAL  "Cooler Master MASTERFAN MF200R RGB Cabinet Fan"@de	0
+COL title VAL  "Asus 43\" ROG Strix XG438Q, 3840x2160px, FreeSync2, VA - gaming monitor"@en	COL title VAL  "ASUS Scheda Madre ROG STRIX B460-I GAMING Intel"@de	0
+COL title VAL  "Western Digital My Passport 4TB External USB 3.2 Gen 1 Portable Hard Drive (Black) (WDBPKJ0040BBK)"@en	COL title VAL  "WD MyPassport 4TB 2.5 USB3.0 Black"@en	1
+COL title VAL  "HDD Seagate NAS IronWolfPro 10TB 3,5\" ST10000NE0008"@en	COL title VAL  "Seagate Dysk Expansion 8TB 3,5 STEB9000402 Black"@en	0
+COL title VAL  "WD MY PASSPORT 1TB 2.5\" BLACK"@en	COL title VAL  "Patriot 2TB 2,5\" SATA SSD P210"@en	0
+COL title VAL  "Hard Disk Drive portabil SEAGATE Backup Plus Slim STHN2000403, 2TB, USB 3.0, rosu"@en	COL title VAL  "HD SEAGATE IRONWOLF 2 TB P/ NAS - ST2000VN004"@en	0
+COL title VAL  "Palit NVIDIA GeForce RTX 2080 Ti 11GB GamingPro OC Turing Graphics Card"@en	COL title VAL  "Gigabyte GeForce RTX 2080 Super Turbo 8GB Graphics Card"@en	0
+COL title VAL  "3M - PRIVACY FILTER APPLE MACBOOK AGNAP001 FILTER MACBOOK PRO 13 ACCS"@en	COL title VAL  "Targus ASF24WUSZ Privacy Widescreen Filter"@en	0
+COL title VAL  "ZOTAC Geforce RTX 2080Ti / 2080 Ti Blower 11GB (ZT-T20810A-10P) PCI-Ex16 Gaming Graphics Card (Local Warranty 3+2years upon registration)"@en	COL title VAL  "Zotac Gaming Geforce RTX 2080 TI Blower 11GB GDDR6 352-bit Gaming Graphics Card, metal backplate, ZT-T20810A-10P"@en	1
+COL title VAL  "Cooler Master MASTERFAN MF200R RGB Cabinet Fan"@de	COL title VAL  "COOLER MASTER CASE H500P MESH ARGB MID TOWER, SIDE PANEL, MICROATX-MINI ITX, 2XUSB 3.2, 2XUSB 2.0, 1X3.5MM AUDIO JACK, 1X3.5MM MIC JACK, 1XARGB CONTROLLER, 1XARGB 2-TO-3 SPLITTER, 2X200MM ARGB FAN FRONT, 1X140MM ARGB FAN REAR, NERO"@en	0
+COL title VAL  "PATRIOT Memory DDR3 8GB PC3-12800 (1600MHz) DIMM - 8 GB - 1 x 8 GB - DDR3 - 1600 MHz - 240-pin DIMM"@en	COL title VAL  "Patriot Signature Line 8GB DDR3 1600MHz Desktop Single Rank"@de	1
+COL title VAL  "Asus 43\" ROG Strix XG438Q, 3840x2160px, FreeSync2, VA - gaming monitor"@en	COL title VAL  "LED LG 27 Inch 27GK750F-B G-Sync Compatible Gaming Monitor"@en	0
+COL title VAL  "Patriot Memory P210 2.5\" 2000 GB SATA III SSD"@en	COL title VAL  "Silicon Power A55 1TB TLC SATA III 6Gb/s 2.5-inch Internal Solid State Drive"@en	0
+COL title VAL  "Logitech Z337 2.1 Bluetooth PC Speaker"@en	COL title VAL  "Logitech Bluetooth Mouse MX Anywhere 2S - EMEA - Midnight Teal"@en	0
+COL title VAL  "Logitech - 980-001263 - Z337 Speaker System"@de	COL title VAL  "Logitech Z337 2.1 Bluetooth PC Speaker"@en	1
+COL title VAL  "Seagate IronWolf ST10000VN0004hard drive - 10 TB - SATA 6Gb/s"@en	COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	0
+COL title VAL  "ASUS GRAPHICS CARD DUAL RTX 2060S OC 8GB DDR6 1X HDMI 1X DVI-D 1 X DISPLAY PORT 2 X FAN MAX DISPLAY SUPPORT:4 450W 3 YEAR CARRY IN WARRANTY"@so	COL title VAL  "ZOTAC Geforce RTX 2080Ti / 2080 Ti Blower 11GB (ZT-T20810A-10P) PCI-Ex16 Gaming Graphics Card (Local Warranty 3+2years upon registration)"@en	0
+COL title VAL  "Karta VGA Asus ROG Strix GeForce® GTX 1650 OC 4GB GDDR6 128bit 2xHDMI+2xDP PCIe3.0"@de	COL title VAL  "ASUS ROG-STRIX-GTX1650-O4GD6-GAMING STRIX GEFORCE GTX1650 OVERCLOCKED 4GB GDDR6"@de	1
+COL title VAL  "Silicon Power Ace A55 1000GB 2.5\" SATA III SSD"@en	COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	0
+COL title VAL  "SEAGATE 2TBBACKUP PLUS SLIM SILVER EXTERNAL HARD DRIVE (STHN2000401)"@de	COL title VAL  "Seagate Backup Plus Slim STHN2000406hard drive - 2 TB - USB 3.0"@en	0
+COL title VAL  "SEAGATE 2TBBACKUP PLUS SLIM SILVER EXTERNAL HARD DRIVE (STHN2000401)"@de	COL title VAL  "Seagate Exos ST2000NM000A 2 TB Hard Drive - Internal - SATA (SATA/600) - 7200rpm - 256 MB Buffer - 256-bit Encryption Standard"@en	0
+COL title VAL  "CASE/PSU FAN COOLER MASTER MASTERFAN SF120M"@en	COL title VAL  "COOLER MASTER CASE H500P MESH ARGB MID TOWER, SIDE PANEL, MICROATX-MINI ITX, 2XUSB 3.2, 2XUSB 2.0, 1X3.5MM AUDIO JACK, 1X3.5MM MIC JACK, 1XARGB CONTROLLER, 1XARGB 2-TO-3 SPLITTER, 2X200MM ARGB FAN FRONT, 1X140MM ARGB FAN REAR, NERO"@en	0
+COL title VAL  "Iiyama ProLite T2336MSC-B2AG - Full HD Touch Monitor"@en	COL title VAL  "Iiyama Prolite Touchscreen 23 InchT2336MSC-B2AG"@en	1
+COL title VAL  "SEAGATE 1TBBACKUP PLUS SLIM RED EXTERNAL HARD DRIVE (STHN1000403)"@de	COL title VAL  "SEAGATE 2TBBACKUP PLUS SLIM SILVER EXTERNAL HARD DRIVE (STHN2000401)"@de	0
+COL title VAL  "HDD extern WD My Passport, 4TB, 2,5" USB 3.0, portocaliu"@en	COL title VAL  "WD MY PASSPORT 2TB EXTERNAL HDD"@en	0
+COL title VAL  "Microsoft ARC Touch Mouse Black"@en	COL title VAL  "Microsoft Notebook Arc Touch Bluetrack PL2 Black"@en	1
+COL title VAL  "Seagate Backup Plus Slim Red 1tb"@en	COL title VAL  "Seagate Expansion Desktop 8TB (STEB8000402)"@en	0
+COL title VAL  "Asus 43\" ROG Strix XG438Q, 3840x2160px, FreeSync2, VA - gaming monitor"@en	COL title VAL  "Karta VGA Asus ROG Strix GeForce® GTX 1650 OC 4GB GDDR6 128bit 2xHDMI+2xDP PCIe3.0"@de	0
+COL title VAL  "SEAGATE 1TBBACKUP PLUS SLIM RED EXTERNAL HARD DRIVE (STHN1000403)"@de	COL title VAL  "Seagate IronWolf ST10000VN0004hard drive - 10 TB - SATA 6Gb/s"@en	0
+COL title VAL  "Asus ROG STRIX B460-I GAMING LGA 1200 Mini-ITX Motherboard"@en	COL title VAL  "Apple Smart Cover for 10.5‑inch iPad Air - Charcoal Gray"@en	0
+COL title VAL  "MSI GeForce RTX 2070 SUPER VENTUS GP OC NVIDIA, 8 GB, GeForce RTX 2070 SUPER, GDDR6, PCI Express x16 3.0, Processor frequency 17"@en	COL title VAL  "SanDisk CFexpress Extreme Pro 64GB"@en	0
+COL title VAL  "ASUS ROG-STRIX-GTX1650-O4GD6-GAMING STRIX GEFORCE GTX1650 OVERCLOCKED 4GB GDDR6"@de	COL title VAL  "Asus ROG STRIX B460-I GAMING LGA 1200 Mini-ITX Motherboard"@en	0
+COL title VAL  "Seagate Backup Plus Slim 2 To Grey"@en	COL title VAL  "2TB Backup Plus Slim - Red"@de	0
+COL title VAL  "Asus Prime B450M-A/CSM AMD Ryzen 2 AM4 DDR4 HDMI DVI VGA M.2 USB 3.1 Gen2 mATX Motherboard"@en	COL title VAL  "ASUS GRAPHICS CARD DUAL RTX 2060S OC 8GB DDR6 1X HDMI 1X DVI-D 1 X DISPLAY PORT 2 X FAN MAX DISPLAY SUPPORT:4 450W 3 YEAR CARRY IN WARRANTY"@so	0
+COL title VAL  "HDD Seagate NAS IronWolfPro 10TB 3,5\" ST10000NE0008"@en	COL title VAL  "Seagate IronWolf Pro 10 To"@en	1
+COL title VAL  "Asus Dual GeForce RTX 2060 Super EVO V2 OC 8GB Graphics Card"@en	COL title VAL  "Palit NVIDIA GeForce RTX 2080 Ti 11GB GamingPro OC Turing Graphics Card"@en	0
+COL title VAL  "ASUS Scheda Madre ROG STRIX B460-I GAMING Intel"@de	COL title VAL  "3M Anti-Glare Filter for Apple MacBook Pro 13inch (2016- model)"@en	0
+COL title VAL  "Seagate Backup Plus external hard drive 1000 GB Blue"@en	COL title VAL  "SEAGATE 1TBBACKUP PLUS SLIM RED EXTERNAL HARD DRIVE (STHN1000403)"@de	0
+COL title VAL  "16GB HyperX Predator DDR4 2666MHz, CL13, Black, DIMM Memory"@en	COL title VAL  "Kingston 16GB DDR4 2666MHz Kit(2x8GB) HyperX Fury Black Series"@de	0
+COL title VAL  "ZOTAC Geforce RTX 2080Ti / 2080 Ti Blower 11GB (ZT-T20810A-10P) PCI-Ex16 Gaming Graphics Card (Local Warranty 3+2years upon registration)"@en	COL title VAL  "Palit NVIDIA GeForce RTX 2080 Ti 11GB GamingPro OC Turing Graphics Card"@en	0
+COL title VAL  "HDD extern WD My Passport, 4TB, 2,5" USB 3.0, portocaliu"@en	COL title VAL  "WD BLACK 2TB MY PASSPORT PORTABLE USB3.0 HDD (WDBS4B0020BBK-WESN)-WRTY 3YRS W/WD"@de	0
+COL title VAL  "Razer Tartarus Chroma RGB Expert Gaming Keypad"@id	COL title VAL  "Razer Tartarus Pro Chroma RGB Programmable Gaming Keypad - Black | RZ07-03110100-R3M1"@en	0
+COL title VAL  "HDD Seagate NAS IronWolfPro 10TB 3,5\" ST10000NE0008"@en	COL title VAL  "HD SEAGATE IRONWOLF 2 TB P/ NAS - ST2000VN004"@en	0
+COL title VAL  "Logitech tastiera +MOUSE Wireless Desktop MK270 nera usb (COMBO) -"@sv	COL title VAL  "Kit Tastiera Mouse Wireless Logitech MK270 Nero"@en	1
+COL title VAL  "Corsair Vengeance 16GB 2x 8GB DDR3 1600MHz C9 RAM | Discount Computer Needs"@en	COL title VAL  "Corsair Vengeance 16GB (2x8GB) 1600MHz CL9 DDR3"@en	1
+COL title VAL  "Cooler Master MasterCase H500P ARGB Mesh Case"@en	COL title VAL  "COOLER MASTER MASTERLIQUID ML240L RGB CPU COOLER V2"@ca	0
+COL title VAL  "Samsung SE450 series S24E450M - monitor a led - 24 - 1920 x 1080 full hd (1080p) - tn - 250 cd/m² -"@en	COL title VAL  "Zotac Gaming Geforce RTX 2080 TI Blower 11GB GDDR6 352-bit Gaming Graphics Card, metal backplate, ZT-T20810A-10P"@en	0
+COL title VAL  "16GB HyperX Predator DDR4 2666MHz, CL13, Black, DIMM Memory"@en	COL title VAL  "Patriot Signature Line 8GB DDR3 1600MHz Desktop Single Rank"@de	0
+COL title VAL  "LOGITECH MX Master 3 Advanced Wireless Mouse - MID GREY"@en	COL title VAL  "Logitech MX Master 3 Computermuis - Grijs"@en	1
+COL title VAL  "DDR4 HyperX Predator 16GB/2666 CL13"@en	COL title VAL  "Kingston 16GB DDR4 2666MHz Kit(2x8GB) HyperX Fury Black Series"@de	0
+COL title VAL  "Razer BlackWidow X Tournament Edition Chroma Gaming Keyboard | RZ03-01770100-R3M1"@en	COL title VAL  "Cooler Master M510 Medium Gaming Mouse Mat"@en	0
+COL title VAL  "Seagate Backup Plus external hard drive 1000 GB Blue"@en	COL title VAL  "Seagate Exos ST2000NM000A 2 TB Hard Drive - Internal - SATA (SATA/600) - 7200rpm - 256 MB Buffer - 256-bit Encryption Standard"@en	0
+COL title VAL  "Seagate Backup Plus Slim 2 To Grey"@en	COL title VAL  "Disco Duro Externo Seagate Backup Plus Slim - 2TB - USB 3.0 - Mac/Win - Plata"@en	0
+COL title VAL  "SanDisk CFexpress Extreme Pro 64GB"@en	COL title VAL  "SanDisk 64GB Extreme PRO CFexpress Card Type B"@en	1
+COL title VAL  "SanDisk CFexpress Extreme Pro 64GB"@en	COL title VAL  "Razer Tartarus Pro Gaming Keypad"@id	0
+COL title VAL  "LED LG 27 Inch 27GK750F-B G-Sync Compatible Gaming Monitor"@en	COL title VAL  "LG 27GK750F-B 27\" TN G-Sync Compatible 2ms 240Hz Adaptive Sync 400 cd/m2 Gaming Monitor with HDMI 2.0 DisplayPort 1.2"@en	1
+COL title VAL  "Logitech MX Anywhere 2S mouse RF Wireless+Bluetooth 4000 DPI Right-hand"@en	COL title VAL  "Logitech Bluetooth Mouse MX Anywhere 2S - EMEA - Midnight Teal"@en	1
+COL title VAL  "Disco Duro Externo Seagate Backup Plus Slim - 2TB - USB 3.0 - Mac/Win - Plata"@en	COL title VAL  "Seagate Backup Plus Slim Red 1tb"@en	0
+COL title VAL  "WD My Passport 1TB USB 3.0 Portable Hard Drive - Black (WDBYNN0010BBK-WESN)"@en	COL title VAL  "WD My Passport WDBYFT0040BOR - harddisk - 4 TB - USB 3.0"@en	0
+COL title VAL  "Palit GeForce RTX 2080 Ti GamingPro OC"@en	COL title VAL  "Aorus GeForce RTX 2080 SUPER TURBO 8G Graphics Card"@en	0
+COL title VAL  "Intel Xeon Platinum 8180 Prosessor"@en	COL title VAL  "Intel Xeon Gold, 6130, 16 Core, 32 Threads, 22M, 2.1Ghz, 3647, 3Yr Wty"@en	0
+COL title VAL  "Cooler Master MasterAccessory MP510 Medium Gaming Mouse Pad"@en	COL title VAL  "Asus Dual GeForce RTX 2060 Super EVO V2 OC 8GB Graphics Card"@en	0
+COL title VAL  "COOLER MASTER MASTERLIQUID ML240L RGB CPU COOLER V2"@ca	COL title VAL  "Cooler Master MasterLiquid ML240L RGB V2 240mm Liquid CPU Cooler MLW-D24M-A18PC-R2 | PCByte"@en	1
+COL title VAL  "Kingston HyperX Fury HX318C10FK2/16 16GB (2x8GB) Blue"@en	COL title VAL  "Kingston 16GB DDR4 2666MHz Kit(2x8GB) HyperX Fury Black Series"@de	0
+COL title VAL  "Razer Tartarus Pro Chroma RGB Programmable Gaming Keypad - Black | RZ07-03110100-R3M1"@en	COL title VAL  "Razer Tartarus Chroma (RZ07-01510100-R3M1)"@en	0
+COL title VAL  "SDS2/512GB sdXc Canvas SelectP"@en	COL title VAL  "Kingston Canvas Select Plus 512GB SD"@en	1
+COL title VAL  "Samsung 24\" Business Monitor S24E450M"@en	COL title VAL  "24\" 4Vu Widescreen Monitor Privacy Screen"@en	0
+COL title VAL  "Samsung SE450 series S24E450M - monitor a led - 24 - 1920 x 1080 full hd (1080p) - tn - 250 cd/m² -"@en	COL title VAL  "Samsung 24\" Business Monitor S24E450M"@en	1
+COL title VAL  "Razer Tartarus Chroma RGB Expert Gaming Keypad"@id	COL title VAL  "Razer Tartarus Pro Gaming Keypad"@id	0
+COL title VAL  "Cooler Master MASTERFAN MF200R RGB Cabinet Fan"@de	COL title VAL  "Apple Smart - screen cover for tablet"@en	0
+COL title VAL  "HP 16GB 2Rx4 PC3 G8 Server Ram"@de	COL title VAL  "DDR4 HyperX Predator 16GB/2666 CL13"@en	0
+COL title VAL  "LOGITECH MX Master 3 Advanced Wireless Mouse - MID GREY"@en	COL title VAL  "Logitech Bluetooth Mouse MX Anywhere 2S - EMEA - Midnight Teal"@en	0
+COL title VAL  "HP 16GB 2Rx4 PC3 G8 Server Ram"@de	COL title VAL  "HP 16GB Dual Rank x4 PC3-12800R (DDR3-1600) 1.5V Memory Dimm"@en	1
+COL title VAL  "Seagate Exos ST2000NM000A 2 TB Hard Drive - Internal - SATA (SATA/600) - 7200rpm - 256 MB Buffer - 256-bit Encryption Standard"@en	COL title VAL  "Seagate IronWolf ST10000VN0004hard drive - 10 TB - SATA 6Gb/s"@en	0
+COL title VAL  "Zotac Gaming Geforce RTX 2080 TI Blower 11GB GDDR6 352-bit Gaming Graphics Card, metal backplate, ZT-T20810A-10P"@en	COL title VAL  "Gigabyte GeForce RTX 2080 Super Turbo 8GB Graphics Card"@en	0
+COL title VAL  "2TB Backup Plus Slim - Red"@de	COL title VAL  "Hard Disk Drive portabil SEAGATE Backup Plus Slim STHN2000403, 2TB, USB 3.0, rosu"@en	1
+COL title VAL  "Western Digital Elements 500GB 2.5 USB 3.0 External Black (WDBUZG5000ABK)"@de	COL title VAL  "WD MyPassport 4TB 2.5 USB3.0 Black"@en	0
+COL title VAL  "Philips E Line 272E1CA 27\" Full HD Curved Monitor"@en	COL title VAL  "Philips E Line 272E1CA/00 LED display 68,6 cm (27\") Full HD LCD Gebogen Mat Zwart monitor"@en	1
+COL title VAL  "Logitech MX Master 3 Computermuis - Grijs"@en	COL title VAL  "Logitech - 980-001263 - Z337 Speaker System"@de	0
+COL title VAL  "Seagate Backup Plus Slim 2 To Grey"@en	COL title VAL  "Seagate Backup Plus Slim STHN2000406hard drive - 2 TB - USB 3.0"@en	1
+COL title VAL  "16GB HyperX FURY schwarz Single Rank DDR4-2400 DIMM CL15 Dual Kit"@de	COL title VAL  "KINGSTON 16GB 1866MHz DDR3 CL10 DIMM (Kit of 2) HyperX Fury Series"@en	0
+COL title VAL  "HDD Extern Western Digital Elements Portable SE 500GB, 2.5', USB 3.0 (WDBUZG5000ABK)"@de	COL title VAL  "Western Digital Elements 500GB 2.5 USB 3.0 External Black (WDBUZG5000ABK)"@de	1
+COL title VAL  "Seagate IronWolf 10TB 3.5\" NAS Hard Drive (HDD)"@en	COL title VAL  "Seagate IronWolf ST10000VN0004hard drive - 10 TB - SATA 6Gb/s"@en	1
+COL title VAL  "Razer Tartarus Chroma (RZ07-01510100-R3M1)"@en	COL title VAL  "Razer BlackWidow X Tournament Edition Chroma Gaming Keyboard | RZ03-01770100-R3M1"@en	0
+COL title VAL  "8TB - Seagate Enterprise Ironwolf Pro SATA - ST8000NE0004"@en	COL title VAL  "Seagate IronWolf Pro ST8000NE0004 disco duro interno 3.5\" 8000 GB Serial ATA III"@it	1
+COL title VAL  "LEZYNE ALLOY Drive CO2 16gr Black"@en	COL title VAL  "Lezyne Alloy Drive CO2 schwarz"@de	1
+COL title VAL  "Intel Core i9-9980XE - 9th gen Intel® Core™ i9 - 3 GHz - LGA 2066 - PC - 14 nm - i9-9980XE (BX80673I99980X)"@it	COL title VAL  "Intel Xeon Gold 6130 / 2.1 GHz processor"@it	0
+COL title VAL  "Western Digital My Passport 4TB External USB 3.2 Gen 1 Portable Hard Drive (Black) (WDBPKJ0040BBK)"@en	COL title VAL  "HDD Extern Western Digital Elements Portable SE 500GB, 2.5', USB 3.0 (WDBUZG5000ABK)"@de	0
+COL title VAL  "Seagate IronWolf Pro 10 To"@en	COL title VAL  "8TB - Seagate Enterprise Ironwolf Pro SATA - ST8000NE0004"@en	0
+COL title VAL  "Seagate Backup Plus Slim Red 1tb"@en	COL title VAL  "1TB Backup Plus Slim - Blue"@de	0
+COL title VAL  "PATRIOT Memory DDR3 8GB PC3-12800 (1600MHz) DIMM - 8 GB - 1 x 8 GB - DDR3 - 1600 MHz - 240-pin DIMM"@en	COL title VAL  "HP 16GB Dual Rank x4 PC3-12800R (DDR3-1600) 1.5V Memory Dimm"@en	0
+COL title VAL  "Kingston 16GB DDR4 2666MHz Kit(2x8GB) HyperX Fury Black Series"@de	COL title VAL  "Kingston HyperX 16GB FURY Black Heatsink (2 x 8GB) DDR4 2400MHz DIMM System Memory"@de	0
+COL title VAL  "Lacie LaCie 2TB Rugged Mini portable hard drive USB3.0"@en	COL title VAL  "LaCie Rugged Mini 2TB USB 3.0 / USB 2.0 Portable Hard Drive + 1mo Adobe CC All Apps"@en	1
+COL title VAL  "Razer Tartarus Pro Chroma RGB Programmable Gaming Keypad - Black | RZ07-03110100-R3M1"@en	COL title VAL  "Razer BlackWidow X Tournament Edition Chroma"@en	0
+COL title VAL  "Kingston HyperX 16GB FURY Black Heatsink (2 x 8GB) DDR4 2400MHz DIMM System Memory"@de	COL title VAL  "PATRIOT Memory DDR3 8GB PC3-12800 (1600MHz) DIMM - 8 GB - 1 x 8 GB - DDR3 - 1600 MHz - 240-pin DIMM"@en	0
+COL title VAL  "Samsung SE450 series S24E450M - monitor a led - 24 - 1920 x 1080 full hd (1080p) - tn - 250 cd/m² -"@en	COL title VAL  "Iiyama ProLite T2336MSC-B2AG - Full HD Touch Monitor"@en	0
+COL title VAL  "Corsair Vengeance 16GB (2x8GB) 1600MHz CL9 DDR3"@en	COL title VAL  "HyperX 16GB (2x8GB) 2666MHz CL16Fury Black"@en	0
+COL title VAL  "Palit GeForce RTX 2080 Ti GamingPro OC"@en	COL title VAL  "Zotac Gaming Geforce RTX 2080 TI Blower 11GB GDDR6 352-bit Gaming Graphics Card, metal backplate, ZT-T20810A-10P"@en	0
+COL title VAL  "Seagate IronWolf 10TB 3.5\" NAS Hard Drive (HDD)"@en	COL title VAL  "HDD Seagate NAS IronWolfPro 10TB 3,5\" ST10000NE0008"@en	0
+COL title VAL  "Asus 43\" ROG Strix XG438Q, 3840x2160px, FreeSync2, VA - gaming monitor"@en	COL title VAL  "Palit NVIDIA GeForce RTX 2080 Ti 11GB GamingPro OC Turing Graphics Card"@en	0
+COL title VAL  "ASUS GRAPHICS CARD DUAL RTX 2060S OC 8GB DDR6 1X HDMI 1X DVI-D 1 X DISPLAY PORT 2 X FAN MAX DISPLAY SUPPORT:4 450W 3 YEAR CARRY IN WARRANTY"@so	COL title VAL  "Asus Dual GeForce RTX 2060 Super EVO V2 OC 8GB Graphics Card"@en	0
+COL title VAL  "Seagate Backup Plus Slim Red 1tb"@en	COL title VAL  "Seagate Backup Plus Slim STHN2000406hard drive - 2 TB - USB 3.0"@en	0
+COL title VAL  "Hard Disk Drive portabil SEAGATE Backup Plus Slim STHN2000403, 2TB, USB 3.0, rosu"@en	COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	0
+COL title VAL  "Palit NVIDIA GeForce RTX 2080 Ti 11GB GamingPro OC Turing Graphics Card"@en	COL title VAL  "Aorus GeForce RTX 2080 SUPER TURBO 8G Graphics Card"@en	0
+COL title VAL  "HDD extern WD My Passport, 4TB, 2,5" USB 3.0, portocaliu"@en	COL title VAL  "Western Digital Elements 500GB 2.5 USB 3.0 External Black (WDBUZG5000ABK)"@de	0
+COL title VAL  "Samsung SE450 series S24E450M - monitor a led - 24 - 1920 x 1080 full hd (1080p) - tn - 250 cd/m² -"@en	COL title VAL  "LG 27GK750F-B 27\" TN G-Sync Compatible 2ms 240Hz Adaptive Sync 400 cd/m2 Gaming Monitor with HDMI 2.0 DisplayPort 1.2"@en	0
+COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	COL title VAL  "Patriot Memory P210 2.5\" 2000 GB SATA III SSD"@en	0
+COL title VAL  "Seagate Expansion Desktop 8TB (STEB8000402)"@en	COL title VAL  "8TB - Seagate Enterprise Ironwolf Pro SATA - ST8000NE0004"@en	0
+COL title VAL  "Western Digital My Passport 4TB External USB 3.2 Gen 1 Portable Hard Drive (Black) (WDBPKJ0040BBK)"@en	COL title VAL  "Asus Prime B450M-A/CSM AMD Ryzen 2 AM4 DDR4 HDMI DVI VGA M.2 USB 3.1 Gen2 mATX Motherboard"@en	0
+COL title VAL  "Cooler Master MasterLiquid ML240L RGB V2 240mm Liquid CPU Cooler MLW-D24M-A18PC-R2 | PCByte"@en	COL title VAL  "Cooler Master MASTERFAN MF200R RGB Cabinet Fan"@de	0
+COL title VAL  "Seagate IronWolf 10TB 3.5\" NAS Hard Drive (HDD)"@en	COL title VAL  "Hard Disk Drive portabil SEAGATE Backup Plus Slim STHN2000403, 2TB, USB 3.0, rosu"@en	0
+COL title VAL  "SVGA Asus GeForce RTX 2060 SUPER 8GB Dual OC Evo V2"@en	COL title VAL  "Asus Dual GeForce RTX 2060 Super EVO V2 OC 8GB Graphics Card"@en	0
+COL title VAL  "LaCie Rugged Mini 2TB USB 3.0 / USB 2.0 Portable Hard Drive + 1mo Adobe CC All Apps"@en	COL title VAL  "Hard Disk Drive portabil SEAGATE Backup Plus Slim STHN2000403, 2TB, USB 3.0, rosu"@en	0
+COL title VAL  "HDD extern WD My Passport, 4TB, 2,5" USB 3.0, portocaliu"@en	COL title VAL  "Western Digital My Passport 4TB External USB 3.2 Gen 1 Portable Hard Drive (Black) (WDBPKJ0040BBK)"@en	0
+COL title VAL  "16GB HyperX FURY schwarz Single Rank DDR4-2400 DIMM CL15 Dual Kit"@de	COL title VAL  "DDR4 HyperX Predator 16GB/2666 CL13"@en	0
+COL title VAL  "Cooler Master MASTERFAN MF200R RGB Cabinet Fan"@de	COL title VAL  "CASE/PSU FAN COOLER MASTER MASTERFAN SF120M"@en	0
+COL title VAL  "1TB Backup Plus Slim - Blue"@de	COL title VAL  "Microsoft Notebook Arc Touch Bluetrack PL2 Black"@en	0
+COL title VAL  "KINGSTON 16GB 1866MHz DDR3 CL10 DIMM (Kit of 2) HyperX Fury Series"@en	COL title VAL  "Corsair Vengeance 16GB (2x8GB) 1600MHz CL9 DDR3"@en	0
+COL title VAL  "Cooler Master MasterCase H500P ARGB Mesh Case"@en	COL title VAL  "Cooler Master MASTERFAN MF200R RGB Cabinet Fan"@de	0
+COL title VAL  "Corsair Vengeance LPX schwarz Kit 64 GB, DDR4-2666, CL16"@de	COL title VAL  "DDR4 HyperX Predator 16GB/2666 CL13"@en	0
+COL title VAL  "Logitech tastiera +MOUSE Wireless Desktop MK270 nera usb (COMBO) -"@sv	COL title VAL  "LOGITECH MX Master 3 Advanced Wireless Mouse - MID GREY"@en	0
+COL title VAL  "Kingston HyperX 16GB FURY Black Heatsink (2 x 8GB) DDR4 2400MHz DIMM System Memory"@de	COL title VAL  "16GB HyperX FURY schwarz Single Rank DDR4-2400 DIMM CL15 Dual Kit"@de	1
+COL title VAL  "Seagate Exos 7E8 2TB 3.5\" SATA HDD/Hard Drive"@en	COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	0
+COL title VAL  "Cooler Master MasterAccessory MP510 Medium Gaming Mouse Pad"@en	COL title VAL  "CASE/PSU FAN COOLER MASTER MASTERFAN SF120M"@en	0
+COL title VAL  "Intel Xeon Gold, 6130, 16 Core, 32 Threads, 22M, 2.1Ghz, 3647, 3Yr Wty"@en	COL title VAL  "Intel Xeon Platinum 8180, S 3647, Skylake-SP, 28 Cores, 56 Threads, 2.5GHz, 3.2GHz Turbo, 38.5MB Cache, 205W, Retail"@en	0
+COL title VAL  "Aorus GeForce RTX 2080 SUPER TURBO 8G Graphics Card"@en	COL title VAL  "ASUS GeForce RTX 2060 SUPER DUAL EVO OC V2"@de	0
+COL title VAL  "Cooler Master MasterCase H500P ARGB Mesh Case"@en	COL title VAL  "Microsoft ARC Touch Mouse Black"@en	0
+COL title VAL  "Seagate Backup Plus external hard drive 1000 GB Blue"@en	COL title VAL  "SEAGATE 2TBBACKUP PLUS SLIM SILVER EXTERNAL HARD DRIVE (STHN2000401)"@de	0
+COL title VAL  "Palit NVIDIA GeForce RTX 2080 Ti 11GB GamingPro OC Turing Graphics Card"@en	COL title VAL  "Zotac Gaming Geforce RTX 2080 TI Blower 11GB GDDR6 352-bit Gaming Graphics Card, metal backplate, ZT-T20810A-10P"@en	0
+COL title VAL  "Razer Tartarus Chroma RGB Expert Gaming Keypad"@id	COL title VAL  "8TB - Seagate Enterprise Ironwolf Pro SATA - ST8000NE0004"@en	0
+COL title VAL  "8TB - Seagate Enterprise Ironwolf Pro SATA - ST8000NE0004"@en	COL title VAL  "Seagate IronWolf ST10000VN0004hard drive - 10 TB - SATA 6Gb/s"@en	0
+COL title VAL  "MSI GeForce RTX 2070 SUPER VENTUS GP OC NVIDIA 8 Go GDDR6"@de	COL title VAL  "ZOTAC Geforce RTX 2080Ti / 2080 Ti Blower 11GB (ZT-T20810A-10P) PCI-Ex16 Gaming Graphics Card (Local Warranty 3+2years upon registration)"@en	0
+COL title VAL  "Razer Tartarus Chroma (RZ07-01510100-R3M1)"@en	COL title VAL  "Razer BlackWidow X Tournament Edition Chroma"@en	0
+COL title VAL  "HD SEAGATE IRONWOLF 2 TB P/ NAS - ST2000VN004"@en	COL title VAL  "Seagate IronWolf 2TB SATA III 3.5\" Hard Drive - 5900RPM, 64MB Cache"@en	1
+COL title VAL  "Aorus GeForce RTX 2080 SUPER TURBO 8G Graphics Card"@en	COL title VAL  "Gigabyte GeForce RTX 2080 Super Turbo 8GB Graphics Card"@en	1
+COL title VAL  "Asus Prime B450M-A/CSM AMD Ryzen 2 AM4 DDR4 HDMI DVI VGA M.2 USB 3.1 Gen2 mATX Motherboard"@en	COL title VAL  "Asus Prime B450M-A/CSM mATX Motherboard - AMD X470 Chipset - Socket AM4 - 4 x Dual-Channel DDR4-3600 OC - 64 GB DDR4 max Memory - Windows 10 64-bit"@en	1
+COL title VAL  "Patriot 2TB 2,5\" SATA SSD P210"@en	COL title VAL  "Silicon Power Ace A55 1000GB 2.5\" SATA III SSD"@en	0
+COL title VAL  "MSI GeForce RTX 2070 SUPER VENTUS GP OC NVIDIA, 8 GB, GeForce RTX 2070 SUPER, GDDR6, PCI Express x16 3.0, Processor frequency 17"@en	COL title VAL  "SVGA Asus GeForce RTX 2060 SUPER 8GB Dual OC Evo V2"@en	0
+COL title VAL  "Galaxy A21s 3+32GB Sort"@so	COL title VAL  "Samsung Galaxy A21s Dual SIM 32GB 3GB RAM SM-A217F/DS Black"@en	1
+COL title VAL  "Kingston HyperX 16GB FURY Black Heatsink (2 x 8GB) DDR4 2400MHz DIMM System Memory"@de	COL title VAL  "DDR4 HyperX Predator 16GB/2666 CL13"@en	0
+COL title VAL  "Asus Dual GeForce RTX 2060 Super EVO V2 OC 8GB Graphics Card"@en	COL title VAL  "Aorus GeForce RTX 2080 SUPER TURBO 8G Graphics Card"@en	0
+COL title VAL  "Cooler Master MF200R Hybrid Silent High Airflow RGB Rifle Bearing 200mm Case Fan"@en	COL title VAL  "Cooler Master MASTERFAN MF200R RGB Cabinet Fan"@de	1
+COL title VAL  "Corsair Vengeance LPX Black 64GB (4x16GB) DDR4 PC4-21300 2666MHz Quad Channel Kit"@en	COL title VAL  "Kingston 16GB DDR4 2666MHz Kit(2x8GB) HyperX Fury Black Series"@de	0
+COL title VAL  "HP 23.8-inch FHD IPS Monitor"@en	COL title VAL  "LED LG 27 Inch 27GK750F-B G-Sync Compatible Gaming Monitor"@en	0
+COL title VAL  "16GB HyperX Predator DDR4 2666MHz, CL13, Black, DIMM Memory"@en	COL title VAL  "HyperX 16GB (2x8GB) 2666MHz CL16Fury Black"@en	0
+COL title VAL  "Seagate Backup Plus Slim STHN2000406hard drive - 2 TB - USB 3.0"@en	COL title VAL  "Seagate IronWolf ST10000VN0004hard drive - 10 TB - SATA 6Gb/s"@en	0
+COL title VAL  "SEAGATE 2TBBACKUP PLUS SLIM SILVER EXTERNAL HARD DRIVE (STHN2000401)"@de	COL title VAL  "Seagate Backup Plus Slim Red 1tb"@en	0
+COL title VAL  "2TB Backup Plus Slim - Red"@de	COL title VAL  "SEAGATE 2TBBACKUP PLUS SLIM SILVER EXTERNAL HARD DRIVE (STHN2000401)"@de	0
+COL title VAL  "HP VH240a 1080p IPS LED Monitor with Built-in Speaker"@en	COL title VAL  "Samsung SE450 series S24E450M - monitor a led - 24 - 1920 x 1080 full hd (1080p) - tn - 250 cd/m² -"@en	0
+COL title VAL  "ASUS GeForce RTX 2060 SUPER DUAL EVO OC V2"@de	COL title VAL  "Asus Dual GeForce RTX 2060 Super EVO V2 OC 8GB Graphics Card"@en	1
+COL title VAL  "Seagate Backup Plus Slim 2 To Grey"@en	COL title VAL  "Seagate Backup Plus Slim Red 1tb"@en	0
+COL title VAL  "KINGSTON 16GB 1866MHz DDR3 CL10 DIMM (Kit of 2) HyperX Fury Series"@en	COL title VAL  "DDR4 HyperX Predator 16GB/2666 CL13"@en	0
+COL title VAL  "WD My Passport 1TB USB 3.0 Portable Hard Drive - Black (WDBYNN0010BBK-WESN)"@en	COL title VAL  "Hard Disk Drive portabil SEAGATE Backup Plus Slim STHN2000403, 2TB, USB 3.0, rosu"@en	0
+COL title VAL  "ASUS Scheda Madre ROG STRIX B460-I GAMING Intel"@de	COL title VAL  "ASUS ROG-STRIX-GTX1650-O4GD6-GAMING STRIX GEFORCE GTX1650 OVERCLOCKED 4GB GDDR6"@de	0
+COL title VAL  "Disco Duro Externo Seagate Backup Plus Slim - 2TB - USB 3.0 - Mac/Win - Plata"@en	COL title VAL  "SEAGATE 2TBBACKUP PLUS SLIM SILVER EXTERNAL HARD DRIVE (STHN2000401)"@de	1
+COL title VAL  "Kit Tastiera Mouse Wireless Logitech MK270 Nero"@en	COL title VAL  "LOGITECH MX Master 3 Advanced Wireless Mouse - MID GREY"@en	0
+COL title VAL  "Seagate IronWolf Pro 10 To"@en	COL title VAL  "Seagate Expansion Desktop 8TB (STEB8000402)"@en	0
+COL title VAL  "HD SEAGATE IRONWOLF 2 TB P/ NAS - ST2000VN004"@en	COL title VAL  "8TB - Seagate Enterprise Ironwolf Pro SATA - ST8000NE0004"@en	0
+COL title VAL  "HP 16GB Dual Rank x4 PC3-12800R (DDR3-1600) 1.5V Memory Dimm"@en	COL title VAL  "16GB HyperX FURY schwarz Single Rank DDR4-2400 DIMM CL15 Dual Kit"@de	0
+COL title VAL  "LaCie Rugged Mini 2TB USB 3.0 / USB 2.0 Portable Hard Drive + 1mo Adobe CC All Apps"@en	COL title VAL  "HDD extern WD My Passport, 4TB, 2,5" USB 3.0, portocaliu"@en	0
+COL title VAL  "Corsair Vengeance 16GB (2x8GB) 1600MHz CL9 DDR3"@en	COL title VAL  "Kingston 16GB DDR4 2666MHz Kit(2x8GB) HyperX Fury Black Series"@de	0
+COL title VAL  "1TB Backup Plus Slim - Blue"@de	COL title VAL  "2TB Backup Plus Slim - Red"@de	0
+COL title VAL  "LEZYNE ALLOY Drive CO2 16gr Black"@en	COL title VAL  "HyperX 16GB (2x8GB) 2666MHz CL16Fury Black"@en	0
+COL title VAL  "Disco Duro Externo Seagate Backup Plus Slim - 2TB - USB 3.0 - Mac/Win - Plata"@en	COL title VAL  "Hard Disk Drive portabil SEAGATE Backup Plus Slim STHN2000403, 2TB, USB 3.0, rosu"@en	0
+COL title VAL  "Asus ROG STRIX B460-I GAMING LGA 1200 Mini-ITX Motherboard"@en	COL title VAL  "Asus 43\" ROG Strix XG438Q, 3840x2160px, FreeSync2, VA - gaming monitor"@en	0
+COL title VAL  "Apple Smart Cover for 10.5‑inch iPad Air - Charcoal Gray"@en	COL title VAL  "Apple Smart - screen cover for tablet"@en	1
+COL title VAL  "Karta VGA Asus ROG Strix GeForce® GTX 1650 OC 4GB GDDR6 128bit 2xHDMI+2xDP PCIe3.0"@de	COL title VAL  "Cooler Master MasterCase H500P ARGB Mesh Case"@en	0
+COL title VAL  "16GB HyperX FURY schwarz Single Rank DDR4-2400 DIMM CL15 Dual Kit"@de	COL title VAL  "Corsair Vengeance LPX schwarz Kit 64 GB, DDR4-2666, CL16"@de	0
+COL title VAL  "ASUS GRAPHICS CARD DUAL RTX 2060S OC 8GB DDR6 1X HDMI 1X DVI-D 1 X DISPLAY PORT 2 X FAN MAX DISPLAY SUPPORT:4 450W 3 YEAR CARRY IN WARRANTY"@so	COL title VAL  "Asus Prime B450M-A/CSM mATX Motherboard - AMD X470 Chipset - Socket AM4 - 4 x Dual-Channel DDR4-3600 OC - 64 GB DDR4 max Memory - Windows 10 64-bit"@en	0
+COL title VAL  "Western Digital My Passport 4TB External USB 3.2 Gen 1 Portable Hard Drive (Black) (WDBPKJ0040BBK)"@en	COL title VAL  "WD My Passport 1TB USB 3.0 Portable Hard Drive - Black (WDBYNN0010BBK-WESN)"@en	0
+COL title VAL  "KINGSTON 16GB 1866MHz DDR3 CL10 DIMM (Kit of 2) HyperX Fury Series"@en	COL title VAL  "Kingston HyperX 16GB FURY Black Heatsink (2 x 8GB) DDR4 2400MHz DIMM System Memory"@de	0
+COL title VAL  "SVGA Asus GeForce RTX 2060 SUPER 8GB Dual OC Evo V2"@en	COL title VAL  "MSI GeForce RTX 2070 SUPER VENTUS GP OC NVIDIA 8 Go GDDR6"@de	0
+COL title VAL  "WD BLACK 2TB MY PASSPORT PORTABLE USB3.0 HDD (WDBS4B0020BBK-WESN)-WRTY 3YRS W/WD"@de	COL title VAL  "WD My Passport 1TB USB 3.0 Portable Hard Drive - Black (WDBYNN0010BBK-WESN)"@en	0
+COL title VAL  "Asus Dual GeForce RTX 2060 Super EVO V2 OC 8GB Graphics Card"@en	COL title VAL  "Gigabyte GeForce RTX 2080 Super Turbo 8GB Graphics Card"@en	0
+COL title VAL  "CM / CoolerMaster MasterFan SF120M 12cm Fan with Patented Square Damping Fan Frames (MFZ-B2NN-20NPK-R1) (Warranty 2years with Local Distributor BanLeong)"@en	COL title VAL  "Cooler Master MASTERFAN MF200R RGB Cabinet Fan"@de	0
+COL title VAL  "Cooler Master MasterAccessory MP510 Medium Gaming Mouse Pad"@en	COL title VAL  "Cooler Master M510 Medium Gaming Mouse Mat"@en	1
+COL title VAL  "DDR4 HyperX Predator 16GB/2666 CL13"@en	COL title VAL  "Kingston HyperX Fury HX318C10FK2/16 16GB (2x8GB) Blue"@en	0
+COL title VAL  "WD My Passport 1TB USB 3.0 Portable Hard Drive - Black (WDBYNN0010BBK-WESN)"@en	COL title VAL  "Western Digital Elements 500GB 2.5 USB 3.0 External Black (WDBUZG5000ABK)"@de	0
+COL title VAL  "WD BLACK 2TB MY PASSPORT PORTABLE USB3.0 HDD (WDBS4B0020BBK-WESN)-WRTY 3YRS W/WD"@de	COL title VAL  "Intel Xeon Gold, 6130, 16 Core, 32 Threads, 22M, 2.1Ghz, 3647, 3Yr Wty"@en	0
+COL title VAL  "Cooler Master MasterCase H500P ARGB Mesh Case"@en	COL title VAL  "COOLER MASTER CASE H500P MESH ARGB MID TOWER, SIDE PANEL, MICROATX-MINI ITX, 2XUSB 3.2, 2XUSB 2.0, 1X3.5MM AUDIO JACK, 1X3.5MM MIC JACK, 1XARGB CONTROLLER, 1XARGB 2-TO-3 SPLITTER, 2X200MM ARGB FAN FRONT, 1X140MM ARGB FAN REAR, NERO"@en	1
+COL title VAL  "MSI GeForce RTX 2070 SUPER VENTUS GP OC NVIDIA, 8 GB, GeForce RTX 2070 SUPER, GDDR6, PCI Express x16 3.0, Processor frequency 17"@en	COL title VAL  "ZOTAC Geforce RTX 2080Ti / 2080 Ti Blower 11GB (ZT-T20810A-10P) PCI-Ex16 Gaming Graphics Card (Local Warranty 3+2years upon registration)"@en	0
+COL title VAL  "Logitech Bluetooth Mouse MX Anywhere 2S - EMEA - Midnight Teal"@en	COL title VAL  "Logitech MX Master 3 Computermuis - Grijs"@en	0
+COL title VAL  "ASUS GeForce RTX 2060 SUPER DUAL EVO OC V2"@de	COL title VAL  "SVGA Asus GeForce RTX 2060 SUPER 8GB Dual OC Evo V2"@en	0
+COL title VAL  "ASUS Scheda Madre ROG STRIX B460-I GAMING Intel"@de	COL title VAL  "Intel Xeon Platinum 8180 Prosessor"@en	0
+COL title VAL  "Intel Xeon Gold, 6130, 16 Core, 32 Threads, 22M, 2.1Ghz, 3647, 3Yr Wty"@en	COL title VAL  "Intel Xeon Gold 6130 / 2.1 GHz processor"@it	1
+COL title VAL  "3M Anti-Glare Filter for Apple MacBook Pro 13inch (2016- model)"@en	COL title VAL  "Apple Smart - screen cover for tablet"@en	0
+COL title VAL  "Cooler Master MasterLiquid ML240L RGB V2 240mm Liquid CPU Cooler MLW-D24M-A18PC-R2 | PCByte"@en	COL title VAL  "CASE/PSU FAN COOLER MASTER MASTERFAN SF120M"@en	0
+COL title VAL  "Corsair Vengeance LPX schwarz Kit 64 GB, DDR4-2666, CL16"@de	COL title VAL  "HyperX 16GB (2x8GB) 2666MHz CL16Fury Black"@en	0
+COL title VAL  "Philips E Line 272E1CA 27\" Full HD Curved Monitor"@en	COL title VAL  "Iiyama ProLite T2336MSC-B2AG - Full HD Touch Monitor"@en	0
+COL title VAL  "Gigabyte GeForce RTX 2080 Super Turbo 8GB Graphics Card"@en	COL title VAL  "MSI GeForce RTX 2070 SUPER VENTUS GP OC NVIDIA, 8 GB, GeForce RTX 2070 SUPER, GDDR6, PCI Express x16 3.0, Processor frequency 17"@en	0
+COL title VAL  "WD BLACK 2TB MY PASSPORT PORTABLE USB3.0 HDD (WDBS4B0020BBK-WESN)-WRTY 3YRS W/WD"@de	COL title VAL  "LG 27GK750F-B 27\" TN G-Sync Compatible 2ms 240Hz Adaptive Sync 400 cd/m2 Gaming Monitor with HDMI 2.0 DisplayPort 1.2"@en	0
+COL title VAL  "Asus Dual GeForce RTX 2060 Super EVO V2 OC 8GB Graphics Card"@en	COL title VAL  "MSI GeForce RTX 2070 SUPER VENTUS GP OC NVIDIA 8 Go GDDR6"@de	0
+COL title VAL  "Corsair Vengeance LPX Black 64GB (4x16GB) DDR4 PC4-21300 2666MHz Quad Channel Kit"@en	COL title VAL  "Corsair Vengeance LPX schwarz Kit 64 GB, DDR4-2666, CL16"@de	1
+COL title VAL  "SEAGATE 1TBBACKUP PLUS SLIM RED EXTERNAL HARD DRIVE (STHN1000403)"@de	COL title VAL  "2TB Backup Plus Slim - Red"@de	0
+COL title VAL  "Seagate IronWolf Pro ST8000NE0004 disco duro interno 3.5\" 8000 GB Serial ATA III"@it	COL title VAL  "Patriot Memory P210 2.5\" 2000 GB SATA III SSD"@en	0
+COL title VAL  "Corsair Vengeance 16GB 2x 8GB DDR3 1600MHz C9 RAM | Discount Computer Needs"@en	COL title VAL  "Patriot Signature Line 8GB DDR3 1600MHz Desktop Single Rank"@de	0
+COL title VAL  "Asus 43\" ROG Strix XG438Q, 3840x2160px, FreeSync2, VA - gaming monitor"@en	COL title VAL  "ASUS ROG-STRIX-GTX1650-O4GD6-GAMING STRIX GEFORCE GTX1650 OVERCLOCKED 4GB GDDR6"@de	0
+COL title VAL  "Cooler Master MF200R Hybrid Silent High Airflow RGB Rifle Bearing 200mm Case Fan"@en	COL title VAL  "Cooler Master MasterCase H500P ARGB Mesh Case"@en	0
+COL title VAL  "Razer BlackWidow X Tournament Edition Chroma Gaming Keyboard | RZ03-01770100-R3M1"@en	COL title VAL  "Razer Tartarus Pro Chroma RGB Programmable Gaming Keypad - Black | RZ07-03110100-R3M1"@en	0
+COL title VAL  "SVGA Asus GeForce RTX 2060 SUPER 8GB Dual OC Evo V2"@en	COL title VAL  "Palit GeForce RTX 2080 Ti GamingPro OC"@en	0
+COL title VAL  "Asus ROG STRIX B460-I GAMING LGA 1200 Mini-ITX Motherboard"@en	COL title VAL  "ASUS Scheda Madre ROG STRIX B460-I GAMING Intel"@de	1
+COL title VAL  "WD MY PASSPORT 1TB 2.5\" BLACK"@en	COL title VAL  "WD MyPassport 4TB 2.5 USB3.0 Black"@en	0
+COL title VAL  "Kit Tastiera Mouse Wireless Logitech MK270 Nero"@en	COL title VAL  "Logitech - 980-001263 - Z337 Speaker System"@de	0
+COL title VAL  "SEAGATE 1TBBACKUP PLUS SLIM RED EXTERNAL HARD DRIVE (STHN1000403)"@de	COL title VAL  "Hard Disk Drive portabil SEAGATE Backup Plus Slim STHN2000403, 2TB, USB 3.0, rosu"@en	0
+COL title VAL  "HD SEAGATE IRONWOLF 2 TB P/ NAS - ST2000VN004"@en	COL title VAL  "Seagate IronWolf ST10000VN0004hard drive - 10 TB - SATA 6Gb/s"@en	0
+COL title VAL  "WD MY PASSPORT 1TB 2.5\" BLACK"@en	COL title VAL  "WD MY PASSPORT 2TB EXTERNAL HDD"@en	0
+COL title VAL  "Cooler Master MasterAccessory MP510 Medium Gaming Mouse Pad"@en	COL title VAL  "Cooler Master MasterCase H500P ARGB Mesh Case"@en	0
+COL title VAL  "Apple Smart - screen cover for tablet"@en	COL title VAL  "Logitech Bluetooth Mouse MX Anywhere 2S - EMEA - Midnight Teal"@en	0
+COL title VAL  "Razer Tartarus Chroma RGB Expert Gaming Keypad"@id	COL title VAL  "Palit GeForce RTX 2080 Ti GamingPro OC"@en	0
+COL title VAL  "Cooler Master M510 Medium Gaming Mouse Mat"@en	COL title VAL  "CASE/PSU FAN COOLER MASTER MASTERFAN SF120M"@en	0
+COL title VAL  "SVGA Asus GeForce RTX 2060 SUPER 8GB Dual OC Evo V2"@en	COL title VAL  "Aorus GeForce RTX 2080 SUPER TURBO 8G Graphics Card"@en	0
+COL title VAL  "HDD extern WD My Passport, 4TB, 2,5" USB 3.0, portocaliu"@en	COL title VAL  "HDD Extern Western Digital Elements Portable SE 500GB, 2.5', USB 3.0 (WDBUZG5000ABK)"@de	0
+COL title VAL  "1TB Backup Plus Slim - Blue"@de	COL title VAL  "Hard Disk Drive portabil SEAGATE Backup Plus Slim STHN2000403, 2TB, USB 3.0, rosu"@en	0
+COL title VAL  "Corsair Vengeance 16GB (2x8GB) 1600MHz CL9 DDR3"@en	COL title VAL  "Corsair Vengeance LPX Black 64GB (4x16GB) DDR4 PC4-21300 2666MHz Quad Channel Kit"@en	0
+COL title VAL  "Seagate Backup Plus Slim STHN2000406hard drive - 2 TB - USB 3.0"@en	COL title VAL  "1TB Backup Plus Slim - Blue"@de	0
+COL title VAL  "WD My Passport WDBYFT0040BOR - harddisk - 4 TB - USB 3.0"@en	COL title VAL  "Aorus GeForce RTX 2080 SUPER TURBO 8G Graphics Card"@en	0
+COL title VAL  "ASUS Scheda Madre ROG STRIX B460-I GAMING Intel"@de	COL title VAL  "Karta VGA Asus ROG Strix GeForce® GTX 1650 OC 4GB GDDR6 128bit 2xHDMI+2xDP PCIe3.0"@de	0
+COL title VAL  "Intel Xeon Gold, 6130, 16 Core, 32 Threads, 22M, 2.1Ghz, 3647, 3Yr Wty"@en	COL title VAL  "Intel Core i9-9980XE Prosessor"@it	0
+COL title VAL  "Seagate Backup Plus Slim STHN2000406hard drive - 2 TB - USB 3.0"@en	COL title VAL  "Western Digital Elements 500GB 2.5 USB 3.0 External Black (WDBUZG5000ABK)"@de	0
+COL title VAL  "Intel Xeon Platinum 8180 Prosessor"@en	COL title VAL  "Intel Xeon Gold 6130 / 2.1 GHz processor"@it	0
+COL title VAL  "16GB HyperX Predator DDR4 2666MHz, CL13, Black, DIMM Memory"@en	COL title VAL  "Kingston HyperX 16GB FURY Black Heatsink (2 x 8GB) DDR4 2400MHz DIMM System Memory"@de	0
+COL title VAL  "Seagate Dysk Expansion 8TB 3,5 STEB9000402 Black"@en	COL title VAL  "Seagate IronWolf 10TB 3.5\" NAS Hard Drive (HDD)"@en	0
+COL title VAL  "3M Anti-Glare Filter for Apple MacBook Pro 13inch (2016- model)"@en	COL title VAL  "3M - PRIVACY FILTER APPLE MACBOOK AGNAP001 FILTER MACBOOK PRO 13 ACCS"@en	1
+COL title VAL  "Disco Duro Externo Seagate Backup Plus Slim - 2TB - USB 3.0 - Mac/Win - Plata"@en	COL title VAL  "3M - PRIVACY FILTER APPLE MACBOOK AGNAP001 FILTER MACBOOK PRO 13 ACCS"@en	0
+COL title VAL  "Silicon Power A55 1TB TLC SATA III 6Gb/s 2.5-inch Internal Solid State Drive"@en	COL title VAL  "Seagate IronWolf Pro ST8000NE0004 disco duro interno 3.5\" 8000 GB Serial ATA III"@it	0

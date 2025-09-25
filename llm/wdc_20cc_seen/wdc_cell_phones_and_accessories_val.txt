@@ -1,0 +1,41 @@
+COL title VAL  "Apple 30W USB Type-C Power Adapter"@en	COL title VAL  "Apple USB-C Power Adapter 96W"@en	0
+COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Neuf / Part and Adhesive / Neuf"@en	COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / New / Part and Adhesive / New"@en	1
+COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Yeni / Part and Adhesive / Yeni"@en	COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Neuf / Part and Adhesive / Neuf"@en	0
+COL title VAL  "Apple 30W USB Type-C Power Adapter"@en	COL title VAL  "Apple 30 W USB-C Power Adapter"@en	1
+COL title VAL  "MagSafe 1 Replacement 60W Power Adapter Charger A1344 For Macbook"@en	COL title VAL  "Apple 30W USB Type-C Power Adapter"@en	0
+COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Neuf / Part and Adhesive / Neuf"@en	COL title VAL  "64GB SanDisk iXpand V2 USB Flash Drive for iPhone and iPad lightning"@en	0
+COL title VAL  "Apple 30W USB Type-C Power Adapter"@en	COL title VAL  "APPLE - 96W USB-C POWER ADAPTER . ACCS"@en	0
+COL title VAL  "Apple 30 W USB-C Power Adapter"@en	COL title VAL  "Apple MagSafe 2 60W Power Adapter"@en	0
+COL title VAL  "Apple Apple Lightning to VGA Adapter MD825ZM/A"@en	COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	0
+COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Neuf / Part Only / Neuf"@en	COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Yeni / Part and Adhesive / Yeni"@en	0
+COL title VAL  "Apple MagSafe 2 60W Power Adapter"@en	COL title VAL  "Apple 30W USB Type-C Power Adapter"@en	0
+COL title VAL  "Apple 30W USB Type-C Power Adapter"@en	COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	0
+COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina display)"@en	0
+COL title VAL  "Samsung LH46UHFCLBB/EN 46" Full HD LED Large Format Display"@en	COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Yeni / Part and Adhesive / Yeni"@en	0
+COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Neuf / Part and Adhesive / Neuf"@en	COL title VAL  "64GB SanDisk iXpand V2 USB Flash Drive for iPhone and iPad lightning"@en	0
+COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	COL title VAL  "APPLE - 96W USB-C POWER ADAPTER . ACCS"@en	0
+COL title VAL  "iFixit iPhone 4 Replacement Battery, New - Fix Kit"@en	COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Neuf / Part and Adhesive / Neuf"@en	0
+COL title VAL  "Apple 30 W USB-C Power Adapter"@en	COL title VAL  "Apple USB-C Power Adapter 96W"@en	0
+COL title VAL  "Apple 30 W USB-C Power Adapter"@en	COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	0
+COL title VAL  "APPLE - 96W USB-C POWER ADAPTER . ACCS"@en	COL title VAL  "Apple USB-C Power Adapter 96W"@en	1
+COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Neuf / Part Only / Neuf"@en	COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Neuf / Part and Adhesive / Neuf"@en	0
+COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Neuf / Part Only / Neuf"@en	COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / New / Part and Adhesive / New"@en	0
+COL title VAL  "iFixit iPhone 4 Replacement Battery, New - Fix Kit"@en	COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / New / Part and Adhesive / New"@en	0
+COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Neuf / Part and Adhesive / Neuf"@en	COL title VAL  "iFixit iPhone 4 Replacement Battery, New - Fix Kit"@en	0
+COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	COL title VAL  "MagSafe 1 Replacement 60W Power Adapter Charger A1344 For Macbook"@en	1
+COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Neuf / Part and Adhesive / Neuf"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Neuf / Part Only / Neuf"@en	0
+COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Neuf / Part and Adhesive / Neuf"@en	COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Neuf / Part and Adhesive / Neuf"@en	0
+COL title VAL  "Apple Watch Magnetic Charging Cable (1 m)"@en	COL title VAL  "Apple Watch Magnetic Charge Cable, 1m"@en	1
+COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / New / Part and Adhesive / New"@en	COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Neuf / Part and Adhesive / Neuf"@en	0
+COL title VAL  "iFixit iPhone 4 Replacement Battery, New - Fix Kit"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Neuf / Part Only / Neuf"@en	1
+COL title VAL  "Apple Lightning To VGA Adaptor White"@en	COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	0
+COL title VAL  "APPLE - 96W USB-C POWER ADAPTER . ACCS"@en	COL title VAL  "Apple 30 W USB-C Power Adapter"@en	0
+COL title VAL  "Xiaomi Redmi Note 8T Dual Sim 4/64GBMoonshadow Grey"@en	COL title VAL  "Xiaomi Redmi Note 8T 4+64 GB Gris"@ro	1
+COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Yeni / Part and Adhesive / Yeni"@en	COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Neuf / Part and Adhesive / Neuf"@en	1
+COL title VAL  "Apple MagSafe 2 60W Power Adapter"@en	COL title VAL  "MagSafe 1 Replacement 60W Power Adapter Charger A1344 For Macbook"@en	0
+COL title VAL  "Apple MagSafe 2 60W Power Adapter"@en	COL title VAL  "Apple 60W MagSafe 2 Power Adapter (MacBook Pro with 13-inch Retina display)"@en	1
+COL title VAL  "Samsung UH46F5 46\" D-LED DID LFD monitor"@tl	COL title VAL  "Samsung LH46UHFCLBB/EN 46" Full HD LED Large Format Display"@en	1
+COL title VAL  "Apple Lightning To VGA Adaptor White"@en	COL title VAL  "Apple Apple Lightning to VGA Adapter MD825ZM/A"@en	1
+COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Yeni / Part and Adhesive / Yeni"@en	COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / New / Part and Adhesive / New"@en	0
+COL title VAL  "APPLE APPLE 60W MAGSAFE POWER ADAPTER"@en	COL title VAL  "Apple MagSafe 2 60W Power Adapter"@en	0
+COL title VAL  "iXpand, 64GB, USB 3.0 USB-nøgle USB Type-A / Lightning 3.2 Gen 1 (3.1 Gen 1) Sort, Sølv"@no	COL title VAL  "64GB SanDisk iXpand V2 USB Flash Drive for iPhone and iPad lightning"@en	1

@@ -1,0 +1,14 @@
+COL title VAL  "DJI Mavic | Car Charger | Spare Part 6"@en	COL title VAL  "DJI Mavic Air - Car Charger (Part 4)"@en	0
+COL title VAL  "DJI - Mavic 2 Part 11 Car Charger"@en	COL title VAL  "DJI Mavic Air - Part 15 Travel Bag"@en	0
+COL title VAL  "DJI - Mavic 2 Part 11 Car Charger"@en	COL title VAL  "DJI Mavic | Car Charger | Spare Part 6"@en	0
+COL title VAL  "DJI DJI Drone AccessoryMavic Air Part 4 Car Charger Retail CP.PT.00000120.01"@en	COL title VAL  "DJI DJI Mavic 2 Part11 Car Charger CP.MA.00000057.01"@en	0
+COL title VAL  "DJI Mavic Air - Part 15 Travel Bag"@en	COL title VAL  "DJI Mavic Air - Car Charger (Part 4)"@en	0
+COL title VAL  "DJI Mavic Air - Car Charger (Part 4)"@en	COL title VAL  "DJI DJI Drone AccessoryMavic Air Part 4 Car Charger Retail CP.PT.00000120.01"@en	1
+COL title VAL  "DJI Mavic Air - Car Charger (Part 4)"@en	COL title VAL  "DJI DJI Mavic 2 Part11 Car Charger CP.MA.00000057.01"@en	0
+COL title VAL  "SanDisk iXpand Flash-Laufwerk für iPhone und iPad 64GB"@de	COL title VAL  "SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive"@de	1
+COL title VAL  "Samsung 46\" LH46UHFCLBB Full HD Slim Videowall Display"@de	COL title VAL  "Samsung UH46F5 UHF5 Series - 46\" LED-display - Full HD"@de	1
+COL title VAL  "DJI DJI Mavic 2 Part11 Car Charger CP.MA.00000057.01"@en	COL title VAL  "DJI - Mavic 2 Part 11 Car Charger"@en	1
+COL title VAL  "DJI - Mavic 2 Part 11 Car Charger"@en	COL title VAL  "DJI Mavic Air - Car Charger (Part 4)"@en	0
+COL title VAL  "DJI DJI Drone AccessoryMavic Air Part 4 Car Charger Retail CP.PT.00000120.01"@en	COL title VAL  "DJI Mavic | Car Charger | Spare Part 6"@en	0
+COL title VAL  "DJI Mavic | Car Charger | Spare Part 6"@en	COL title VAL  "DJI Mavic Air - Part 15 Travel Bag"@en	1
+COL title VAL  "DJI Mavic | Car Charger | Spare Part 6"@en	COL title VAL  "DJI DJI Mavic 2 Part11 Car Charger CP.MA.00000057.01"@en	0

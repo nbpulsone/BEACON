@@ -1,0 +1,25 @@
+COL title VAL  "Karty Darkness Ablaze Elite Trainer"@de	COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Booster Pack"@en	0
+COL title VAL  "The Pokemon Company Pokemon TCG: Sword & Shield - Rebel Clash Booster Pack"@en	COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Booster Pack"@en	0
+COL title VAL  "Pokemon Pokemon Rebel Clash Booster"@en	COL title VAL  "Pokemon Pokemon Sword and Shield Booster"@en	0
+COL title VAL  "Pokemon Pokemon Rebel Clash 3 Pack Blister"@en	COL title VAL  "The Pokemon Company Pokemon TCG: Sword & Shield - Rebel Clash Booster Pack"@en	0
+COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Booster Pack"@en	COL title VAL  "S&S1: Sword & Shield Booster Pack"@af	0
+COL title VAL  "Pokemon Pokemon Sword and Shield Booster"@en	COL title VAL  "S&S1: Sword & Shield Booster Pack"@af	1
+COL title VAL  "Pokemon Pokemon Sword and Shield Booster"@en	COL title VAL  "Pokémon TCG: Sword & Shield Darkness Ablaze Booster Pack (3/$12.75)"@de	0
+COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Three Blister"@en	COL title VAL  "The Pokemon Company Pokemon TCG: Sword & Shield - Rebel Clash Booster Pack"@en	0
+COL title VAL  "Pokemon Pokemon Sword and Shield Booster"@en	COL title VAL  "The Pokemon Company Pokemon TCG: Sword & Shield - Rebel Clash Booster Pack"@en	0
+COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Three Blister"@en	COL title VAL  "Pokemon Pokemon Rebel Clash 3 Pack Blister"@en	1
+COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Booster Pack"@en	COL title VAL  "Pokemon Pokemon Rebel Clash Booster"@en	0
+COL title VAL  "Pokemon Pokemon Rebel Clash Booster"@en	COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Three Blister"@en	0
+COL title VAL  "Pokemon: Sword & Shield 3: Darkness Ablaze: Elite Trainer Box"@de	COL title VAL  "Pokémon TCG: Sword & Shield Darkness Ablaze Booster Pack (3/$12.75)"@de	0
+COL title VAL  "Pokemon: Sword & Shield 3: Darkness Ablaze: Elite Trainer Box"@de	COL title VAL  "The Pokemon Company Pokemon TCG: Sword & Shield - Rebel Clash Booster Pack"@en	0
+COL title VAL  "Pokemon Pokemon Sword and Shield Booster"@en	COL title VAL  "Pokemon: Sword & Shield 3: Darkness Ablaze: Elite Trainer Box"@de	0
+COL title VAL  "The Pokemon Company Pokemon TCG: Sword & Shield - Rebel Clash Booster Pack"@en	COL title VAL  "Pokemon Pokemon Rebel Clash Booster"@en	1
+COL title VAL  "Pokemon Pokemon Rebel Clash 3 Pack Blister"@en	COL title VAL  "Pokemon Pokemon Sword and Shield Booster"@en	0
+COL title VAL  "Pokémon TCG: Sword & Shield Darkness Ablaze Booster Pack (3/$12.75)"@de	COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Booster Pack"@en	1
+COL title VAL  "Pokémon TCG: Sword & Shield Darkness Ablaze Booster Pack (3/$12.75)"@de	COL title VAL  "The Pokemon Company Pokemon TCG: Sword & Shield - Rebel Clash Booster Pack"@en	0
+COL title VAL  "S&S1: Sword & Shield Booster Pack"@af	COL title VAL  "Pokémon TCG: Sword & Shield Darkness Ablaze Booster Pack (3/$12.75)"@de	0
+COL title VAL  "Pokemon Pokemon Sword and Shield Booster"@en	COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Booster Pack"@en	0
+COL title VAL  "Pokemon: Sword & Shield 3: Darkness Ablaze: Elite Trainer Box"@de	COL title VAL  "Karty Darkness Ablaze Elite Trainer"@de	1
+COL title VAL  "Pokemon Pokemon Rebel Clash 3 Pack Blister"@en	COL title VAL  "Pokemon Pokemon Rebel Clash Booster"@en	0
+COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Booster Pack"@en	COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Three Blister"@en	0
+COL title VAL  "Pokemon Pokemon Sword and Shield Booster"@en	COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Three Blister"@en	0

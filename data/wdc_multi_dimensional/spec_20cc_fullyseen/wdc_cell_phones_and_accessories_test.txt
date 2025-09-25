@@ -1,0 +1,44 @@
+COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Nuovo / Part Only / Nuovo"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / New / Part Only / New"@en	1
+COL title VAL  "iFixit iPhone 6s Replacement Battery Kit - Kit with tools"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Nuovo / Part Only / Nuovo"@en	0
+COL title VAL  "Apple USB-C Power Adapter - 96W (MacBook Pro 16 Touch Bar)"@en	COL title VAL  "Apple USB-C 30W Power Adapter *poistuva*"@en	0
+COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Nuevo / Part and Adhesive / Nuevo"@en	COL title VAL  "iFixit iPhone 6s Replacement Battery Kit - Kit with tools"@en	1
+COL title VAL  "TELEFONO MOVIL SMARTPHONE XIAOMI REDMI NOTE 8T GREY - 6.3PULGADAS - 64GB ROM - 4GB RAM - 48+8+2+2"@en	COL title VAL  "TELEFONO MOVIL XIAOMI REDMI NOTE 8T 4+64GB GREY.-"@vi	1
+COL title VAL  "Apple USB-C 30W Power Adapter *poistuva*"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	0
+COL title VAL  "Apple USB-C Power Adapter - 96W (MacBook Pro 16 Touch Bar)"@en	COL title VAL  "Apple USB-C Power Adapter 96W за MacBook Pro 16\""@en	1
+COL title VAL  "Apple USB-C 30W Power Adapter *poistuva*"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	0
+COL title VAL  "Apple USB-C Power Adapter 96W за MacBook Pro 16\""@en	COL title VAL  "Apple USB-C 30W Power Adapter *poistuva*"@en	0
+COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Nuevo / Part and Adhesive / Nuevo"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / New / Part Only / New"@en	0
+COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	COL title VAL  "Apple USB-C Power Adapter 96W за MacBook Pro 16\""@en	0
+COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	COL title VAL  "Apple MagSafe - power adapter - 60 Watt"@en	1
+COL title VAL  "iFixit iPhone 6s Replacement Battery Kit - Kit with tools"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / New / Part Only / New"@en	0
+COL title VAL  "Apple Apple 60W MagSafe 2 Power Adapter MD565LL/A"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	1
+COL title VAL  "Apple Inst. Lightning to VGA Adapter"@en	COL title VAL  "Apple USB-C 30W Power Adapter *poistuva*"@en	0
+COL title VAL  "Apple USB-C Power Adapter - 96W (MacBook Pro 16 Touch Bar)"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	0
+COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Yeni / Part and Adhesive / Yeni"@en	COL title VAL  "iFixit iPhone 6s Replacement Battery Kit - Kit with tools"@en	0
+COL title VAL  "Apple MX2E2ZM/A smartwatch accessory Charging cable White"@en	COL title VAL  "Apple Apple Watch Magnetic Charging 1m"@en	1
+COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / New / Part Only / New"@en	COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / 신상 / Part and Adhesive / 신상"@en	0
+COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / 신상 / Part and Adhesive / 신상"@en	COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Yeni / Part and Adhesive / Yeni"@en	1
+COL title VAL  "Apple USB-C - power adapter - 30 Watt"@en	COL title VAL  "Apple USB-C Power Adapter - 96W (MacBook Pro 16 Touch Bar)"@en	0
+COL title VAL  "Genuine SanDiskiXpand Flash Drive 64GB - iPhone lightning connector"@en	COL title VAL  "SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive"@de	1
+COL title VAL  "Apple USB-C Power Adapter 96W за MacBook Pro 16\""@en	COL title VAL  "Apple USB-C - power adapter - 30 Watt"@en	0
+COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Nuevo / Part and Adhesive / Nuevo"@en	COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Yeni / Part and Adhesive / Yeni"@en	0
+COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Nuovo / Part Only / Nuovo"@en	COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Nuevo / Part and Adhesive / Nuevo"@en	0
+COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	COL title VAL  "Apple Apple 60W MagSafe 2 Power Adapter MD565LL/A"@en	0
+COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / 신상 / Part and Adhesive / 신상"@en	COL title VAL  "iPhone 6s Replacement Battery - Fix Kit with Adhesive / Nuevo / Part and Adhesive / Nuevo"@en	0
+COL title VAL  "Apple MX2E2ZM/A smartwatch accessory Charging cable White"@en	COL title VAL  "Apple Apple 60W MagSafe 2 Power Adapter MD565LL/A"@en	0
+COL title VAL  "Samsung UH46F5 46\" LED Full HD Nero display professionale"@en	COL title VAL  "Samsung 46" Public Display UH46F5"@tl	1
+COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / Nuovo / Part Only / Nuovo"@en	COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Yeni / Part and Adhesive / Yeni"@en	0
+COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	COL title VAL  "Apple USB-C - power adapter - 30 Watt"@en	0
+COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	0
+COL title VAL  "Apple Inst. Lightning to VGA Adapter"@en	COL title VAL  "Apple® Lightning® to VGA Adapter"@en	1
+COL title VAL  "Apple MagSafe - power adapter - 60 Watt"@en	COL title VAL  "Apple USB-C Power Adapter 96W за MacBook Pro 16\""@en	0
+COL title VAL  "iPhone 5s Replacement Battery - Fix Kit / Yeni / Part and Adhesive / Yeni"@en	COL title VAL  "iPhone 4 Replacement Battery - Fix Kit / New / Part Only / New"@en	0
+COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	COL title VAL  "Apple Apple Watch Magnetic Charging 1m"@en	0
+COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	COL title VAL  "Apple USB-C Power Adapter 96W за MacBook Pro 16\""@en	0
+COL title VAL  "Apple Apple 60W MagSafe 2 Power Adapter MD565LL/A"@en	COL title VAL  "Apple MagSafe - power adapter - 60 Watt"@en	0
+COL title VAL  "Apple Apple 60W MagSafe 2 Power Adapter MD565LL/A"@en	COL title VAL  "Apple USB-C 30W Power Adapter *poistuva*"@en	0
+COL title VAL  "Apple USB-C - power adapter - 30 Watt"@en	COL title VAL  "Apple USB-C 30W Power Adapter *poistuva*"@en	1
+COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 1 Power Adapter - A1344 (MC461LL/A)"@en	COL title VAL  "Apple USB-C - power adapter - 30 Watt"@en	0
+COL title VAL  "Apple MagSafe - power adapter - 60 Watt"@en	COL title VAL  "Apple USB-C 30W Power Adapter *poistuva*"@en	0
+COL title VAL  "Apple USB-C Power Adapter - 96W (MacBook Pro 16 Touch Bar)"@en	COL title VAL  "Apple Apple MacBook Charger 60W MagSafe 2 Power Adapter - A1435 (MD565LL/A)"@en	0
+COL title VAL  "Apple USB-C - power adapter - 30 Watt"@en	COL title VAL  "Apple MagSafe - power adapter - 60 Watt"@en	0

@@ -1,0 +1,22 @@
+COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5\" to 1.25\" in Diameter"@en	COL title VAL  "RAM-D-235U - RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter"@en	0
+COL title VAL  "Steering Stem Mount Base - RAM 342"@de	COL title VAL  "RAM Motorbike Stem 25mm (1\") Ball (RAM-B-342U)"@de	1
+COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5to 1.25in Diameter"@en	COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	0
+COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5\" to 1.25\" in Diameter"@en	COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	0
+COL title VAL  "RAM Mounts RAM-B-309-7U Motorcycle Handlebar Combination Base For Brake/Clutch Reservoir"@en	COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5to 1.25in Diameter"@en	0
+COL title VAL  "RAM MOUNTS (RAM-B-289U Triple 1'' Ball Base"@en	COL title VAL  "RAM Triple 1\" Ball Adapter"@en	1
+COL title VAL  "RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter"@en	COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5\" to 1.25\" in Diameter"@en	0
+COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	COL title VAL  "RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter"@en	0
+COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5\" to 1.25\" in Diameter"@en	COL title VAL  "RAM MOUNTS (RAM-B-289U Triple 1'' Ball Base"@en	0
+COL title VAL  "RAM MOUNTS (RAM-B-289U Triple 1'' Ball Base"@en	COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	0
+COL title VAL  "RAM MOUNTS (RAM-B-289U Triple 1'' Ball Base"@en	COL title VAL  "Steering Stem Mount Base - RAM 342"@de	0
+COL title VAL  "RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter"@en	COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5to 1.25in Diameter"@en	0
+COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5\" to 1.25\" in Diameter"@en	COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5to 1.25in Diameter"@en	1
+COL title VAL  "RAM Mounts RAM-B-309-7U Motorcycle Handlebar Combination Base For Brake/Clutch Reservoir"@en	COL title VAL  "RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter"@en	0
+COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	COL title VAL  "RAM Mounts RAM-B-309-7U Motorcycle Handlebar Combination Base For Brake/Clutch Reservoir"@en	1
+COL title VAL  "RAM Mounts RAM-B-309-7U Motorcycle Handlebar Combination Base For Brake/Clutch Reservoir"@en	COL title VAL  "Steering Stem Mount Base - RAM 342"@de	0
+COL title VAL  "RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter"@en	COL title VAL  "RAM-D-235U - RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter"@en	1
+COL title VAL  "RAM Motorbike Stem 25mm (1\") Ball (RAM-B-342U)"@de	COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	0
+COL title VAL  "RAM MOUNTS (RAM-B-289U Triple 1'' Ball Base"@en	COL title VAL  "RAM Motorbike Stem 25mm (1\") Ball (RAM-B-342U)"@de	0
+COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5to 1.25in Diameter"@en	COL title VAL  "RAM MOUNTS (RAM-B-289U Triple 1'' Ball Base"@en	0
+COL title VAL  "RAM Mounts RAM-B-309-7U Motorcycle Handlebar Combination Base For Brake/Clutch Reservoir"@en	COL title VAL  "RAM MOUNTS (RAM-B-289U Triple 1'' Ball Base"@en	0
+COL title VAL  "RAM Motorbike Stem 25mm (1\") Ball (RAM-B-342U)"@de	COL title VAL  "RAM Triple 1\" Ball Adapter"@en	0

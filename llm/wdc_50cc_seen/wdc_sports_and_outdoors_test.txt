@@ -1,0 +1,240 @@
+COL title VAL  "Dura-Ace 9100 11-Speed Cassette 11-25T"@en	COL title VAL  "Shimano 105 R7000 Rear Derailleur - 11 Speed"@en	0
+COL title VAL  "Road Disc Organic Brake Pads"@en	COL title VAL  "Shimano Shimano M05 Resin Disc Brake Pads and Spring for Deore BR-M515, BR- M515LA and Nexave BR-C601 Calipers"@en	0
+COL title VAL  "Maxxis Dissector EXO 3c WideTrail"@en	COL title VAL  "Maxxis High Roller II 27.5" Tire - 3C MT EXO TR / 2.4""@en	0
+COL title VAL  "Maxxis Maxxis Dissector Tire 29"@en	COL title VAL  "Maxxis Maxxis, Aggressor, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	0
+COL title VAL  "RAM-201U-B - RAM Short Double Socket Arm for 1.5\" Balls (Overall Length: 3.5\")"@en	COL title VAL  "RAM® Double Socket Arm C Ball B Length"@en	1
+COL title VAL  "Maxxis High Roller II 27.5x2.3 DC/EXO/TR Tire"@en	COL title VAL  "HIGH ROLLER II27.5x2.50 WT AR 3CT/EXO/TR"@en	0
+COL title VAL  "Tire Assegai 27.5x2.50\" Wt 3c Maxx Terra Exo + 120TPI Tubeless Ready Black Maxxis Tyres, MTB 27.5 Bike"@en	COL title VAL  "Maxxis Assegai, Tire, 29''x2.50, Folding, Tubeless Ready, 3C Maxx Grip, Double Down, Wide Trail, 120x2TPI, Black"@en	0
+COL title VAL  "Maxxis Maxxis, High Roller II, 27.5''x2.50, Folding, 3C Maxx Terra, EXO, Wide Trail, 60TPI, Black"@en	COL title VAL  "High Roller II 27.5 x 2.40 60 TPI Folding 3C Maxx Terra ExO / TR tyre"@en	0
+COL title VAL  "RAM® Double Socket Arm C Ball B Length"@en	COL title VAL  "UNPKG RAM DBL SOCKET ARM B BALL C LENGTH"@en	0
+COL title VAL  "Maxxis Assegai, Tire, Folding, Tubeless Ready, 3C Maxx Terra, EXO+, Wide Trail, 120TPI"@en	COL title VAL  "Maxxis Assegai, Tire, 29''x2.50, Folding, Tubeless Ready, 3C Maxx Grip, Double Down, Wide Trail, 120x2TPI, Black"@en	0
+COL title VAL  "Shimano Ultegra R8000 11-28 11 Speed Cassette"@it	COL title VAL  "Shimano 105 R7000 Rear Derailleur - 11 Speed"@en	0
+COL title VAL  "R550 SPD SL Road Pedals"@en	COL title VAL  "Shimano PD-7000 105 Carbon SPD-SL"@tl	0
+COL title VAL  "RAM® Double Socket Arm C Ball B Length"@en	COL title VAL  "RAM Double Socket Clamp Arm SHORT"@en	0
+COL title VAL  "RAM mount short plastic socket arm"@en	COL title VAL  "RAM-201U-B - RAM Short Double Socket Arm for 1.5\" Balls (Overall Length: 3.5\")"@en	0
+COL title VAL  "Garmin Vivoactive 010-01769-10 Vívoactive 3 Watch"@en	COL title VAL  "Maxxis Maxxis Dissector Tire 29"@en	0
+COL title VAL  "AGGRESSOR 29 X 2.3 FOLDING 60TPI EXO TR"@ca	COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	0
+COL title VAL  "WTB WTB Byway Tire - 650b x 47, TCS Tubeless, Folding, Black"@en	COL title VAL  "Maxxis Maxxis, Aggressor, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	0
+COL title VAL  "Maxxis Maxxis, High Roller II, 27.5''x2.50, Folding, 3C Maxx Terra, EXO, Wide Trail, 60TPI, Black"@en	COL title VAL  "Maxxis Assegai, Tire, Folding, Tubeless Ready, 3C Maxx Terra, EXO+, Wide Trail, 120TPI"@en	0
+COL title VAL  "Shimano PD-7000 105 Carbon SPD-SL"@tl	COL title VAL  "R7000 SPD-SL Carbon Road Pedals"@en	1
+COL title VAL  "Ardent Race Bike Tire: 27.5 x 2.35\", Folding, 120tpi, 3C, EXO, Tubeless Ready"@en	COL title VAL  "AGGRESSOR 29 X 2.3 FOLDING 60TPI EXO TR"@ca	0
+COL title VAL  "Tire Assegai 27.5x2.50\" Wt 3c Maxx Terra Exo + 120TPI Tubeless Ready Black Maxxis Tyres, MTB 27.5 Bike"@en	COL title VAL  "Maxxis Maxxis, High Roller II, 27.5''x2.50, Folding, 3C Maxx Terra, EXO, Wide Trail, 60TPI, Black"@en	0
+COL title VAL  "Maxxis Minion DHR II 29" x 2.4" 60TPI Tire - 3C MG DH"@en	COL title VAL  "Maxxis Assegai, Tire, 29''x2.50, Folding, Tubeless Ready, 3C Maxx Grip, Double Down, Wide Trail, 120x2TPI, Black"@en	0
+COL title VAL  "Shimano Shimano M05 Resin Disc Brake Pads and Spring for Deore BR-M515, BR- M515LA and Nexave BR-C601 Calipers"@en	COL title VAL  "Shimano J04C XTR BR-M9000 Metal Disc Brake Pads w/Fins"@en	0
+COL title VAL  "SRAM NX 12 Speed Shifter"@en	COL title VAL  "SRAM SRAM NX Eagle 12 Speed Shifter"@en	1
+COL title VAL  "Shimano Shimano CHAIN - Dura-Ace, ULTEGRA, 105 - 10-SPEED - CN-6701 - W/PIN 116 LINK"@so	COL title VAL  "Shimano - CLEATS SH-10 FIXED RED"@so	0
+COL title VAL  "SRAM AM BRAKE PAD GUIDE/TRL STLSIN 1 SET"@en	COL title VAL  "SPD SL Cleats - Pair - Self Aligning / Black & Yellow"@en	0
+COL title VAL  "Garmin Forerunner 245 Music Black (010-02120-30)"@de	COL title VAL  "Garmin VENU Smartwatch Black 010-02173-12 Leather Strap"@en	0
+COL title VAL  "RAM 2.5\" Round Base with the AMPs Hole Pattern & 1\" Ball"@en	COL title VAL  "RAM Mount 9\" Arm for 1.5\" Ball"@en	0
+COL title VAL  "Llanta Assegai 29X2.50 WT AR 3CG/DD/TR 120TPI"@ca	COL title VAL  "HIGH ROLLER II27.5x2.50 WT AR 3CT/EXO/TR"@en	0
+COL title VAL  "Shimano Pedal PD-RS500 SL Black"@en	COL title VAL  "Shimano Shimano PD-R550 SPD-SL Pedal"@tl	0
+COL title VAL  "RAM Mount 9\" Arm for 1.5\" Ball"@en	COL title VAL  "RAM Long Double Socket Arm for 1\" Balls"@en	0
+COL title VAL  "MINION DHR II 29 X 2.30 3C TERRA TR DD FOLD"@en	COL title VAL  "AGGRESSOR 29 X 2.3 FOLDING 60TPI EXO TR"@ca	0
+COL title VAL  "Shimano Ultegra R8000 11-28 11 Speed Cassette"@it	COL title VAL  "Shimano Shimano CHAIN - Dura-Ace, ULTEGRA, 105 - 10-SPEED - CN-6701 - W/PIN 116 LINK"@so	0
+COL title VAL  "SRAM SRAM NX Eagle 12 Speed Shifter"@en	COL title VAL  "Garmin Venu 010-02173-12 Venu montre"@ro	0
+COL title VAL  "MINION DHR II 29 X 2.30 3C TERRA TR DD FOLD"@en	COL title VAL  "Maxxis Dissector EXO 3c WideTrail"@en	0
+COL title VAL  "Maxxis High Roller II 650b 27.5\" Dual Compound EXO Folding Tubeless Ready Mountain Bike Tyre"@en	COL title VAL  "Maxxis High Roller II 27.5" Tire - 3C MT EXO TR / 2.4""@en	0
+COL title VAL  "RAM Composite Suction Cup Base w 1\" Ball (RAP-B-224-1U)"@en	COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with B Size 1\" Ball"@en	1
+COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	COL title VAL  "Maxxis Maxxis, Aggressor, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	0
+COL title VAL  "Shimano PD-RS500 Road Pedal"@id	COL title VAL  "Road Disc Organic Brake Pads"@en	0
+COL title VAL  "Maxxis Minion DHR II 29\" DD/3C/TR"@en	COL title VAL  "Maxxis Minion DHR II 29" x 2.4" 60TPI Tire - 3C MG DH"@en	0
+COL title VAL  "RAM-Mounts Long Double Socket Verbindungsarm RAM-201U-D"@de	COL title VAL  "RAM® Double Socket Arm C Ball B Length"@en	0
+COL title VAL  "Garmin GPSMAP 66s Multi Satellite Handheld with Sensors"@en	COL title VAL  "Garmin GPSMAP 66s Handheld Sat Nav Multisatellite GPS"@en	1
+COL title VAL  "Rammount Round Plate with Ball"@en	COL title VAL  "Maxxis Minion DHR II 29\" DD/3C/TR"@en	0
+COL title VAL  "RAM 2.5\" Round Base with the AMPs Hole Pattern & 1\" Ball"@en	COL title VAL  "RAM Composite Suction Cup Base w 1\" Ball (RAP-B-224-1U)"@en	0
+COL title VAL  "Maxxis Maxxis, Aggressor, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	COL title VAL  "Ardent Race Bike Tire: 27.5 x 2.35\", Folding, 120tpi, 3C, EXO, Tubeless Ready"@en	0
+COL title VAL  "RAM-201U-B - RAM Short Double Socket Arm for 1.5\" Balls (Overall Length: 3.5\")"@en	COL title VAL  "UNPKG RAM DBL SOCKET ARM B BALL A LENGTH"@en	0
+COL title VAL  "RAM® Double Socket Arm C Ball B Length"@en	COL title VAL  "UNPKG RAM DBL SOCKET ARM B BALL A LENGTH"@en	0
+COL title VAL  "SRAM SRAM NX Eagle 12 Speed Shifter"@en	COL title VAL  "SRAM Power Link 9 Speed Gold"@en	0
+COL title VAL  "Garmin Venu 010-02173-12 Venu montre"@ro	COL title VAL  "Garmin VENU Smartwatch Black 010-02173-12 Leather Strap"@en	1
+COL title VAL  "Garmin Venu 010-02173-12 Venu montre"@ro	COL title VAL  "Garmin GPSMAP 66s Handheld Sat Nav Multisatellite GPS"@en	0
+COL title VAL  "Maxxis High Roller II Tire - 29 x 2.5, Tubeless, Folding, Black, 3C Maxx Terra, DD, Wide Trail"@en	COL title VAL  "Maxxis Assegai, Tire, 29''x2.50, Folding, Tubeless Ready, 3C Maxx Grip, Double Down, Wide Trail, 120x2TPI, Black"@en	0
+COL title VAL  "Shimano Pedal PD-RS500 SL Black"@en	COL title VAL  "Shimano PD-RS500 Road Pedal"@id	1
+COL title VAL  "Garmin Forerunner 245 Music Sports Watch (Black)"@de	COL title VAL  "Garmin Forerunner 245 Music Black (010-02120-30)"@de	1
+COL title VAL  "Shimano Shimano CHAIN - Dura-Ace, ULTEGRA, 105 - 10-SPEED - CN-6701 - W/PIN 116 LINK"@so	COL title VAL  "SRAM Power Link 9 Speed Gold"@en	0
+COL title VAL  "Maxxis Minion DHR II 29\" DD/3C/TR"@en	COL title VAL  "Llanta Assegai 29X2.50 WT AR 3CG/DD/TR 120TPI"@ca	0
+COL title VAL  "Shimano XT MT800 Hollowtech II BB92mm Bottom Bracket"@en	COL title VAL  "Shimano XT BB-MT800 Press Fit 89.5/92mm Bottom Bracket"@en	1
+COL title VAL  "Shimano Shimano PD-R550 SPD-SL Pedal"@tl	COL title VAL  "Shimano CLEATS SHIMANO SPD SL SM-SH10"@so	0
+COL title VAL  "Maxxis Maxxis Dissector Tire 29"@en	COL title VAL  "Maxxis Maxxis Ardent Race Tire 27.5"@en	0
+COL title VAL  "RAM Mount 9\" Arm for 1.5\" Ball"@en	COL title VAL  "RAM-Mounts Long Double Socket Verbindungsarm RAM-201U-D"@de	1
+COL title VAL  "AGGRESSOR 29 X 2.3 FOLDING 60TPI EXO TR"@ca	COL title VAL  "Maxxis Maxxis, Aggressor, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	1
+COL title VAL  "RAM Mount 9\" Arm for 1.5\" Ball"@en	COL title VAL  "RAM-201U-B - RAM Short Double Socket Arm for 1.5\" Balls (Overall Length: 3.5\")"@en	0
+COL title VAL  "Maxxis Maxxis Dissector Tire 29"@en	COL title VAL  "Maxxis Dissector EXO 3c WideTrail"@en	1
+COL title VAL  "SRAM Guide and Avid Trail Disc Brake Pads Steel Backed Sintered Compound"@en	COL title VAL  "Plaquettes - Road disc, Level A1 (17-19) -Sintered/steel"@en	0
+COL title VAL  "Shimano XT MT800 Hollowtech II BB92mm Bottom Bracket"@en	COL title VAL  "Shimano Bottom Bracket MT800 Hollowtech II Set 68/73mm"@en	0
+COL title VAL  "R550 SPD SL Road Pedals"@en	COL title VAL  "Shimano Pedal PD-RS500 SL Black"@en	0
+COL title VAL  "MINION DHR II 29 X 2.30 3C TERRA TR DD FOLD"@en	COL title VAL  "Maxxis High Roller II Tire - 29 x 2.5, Tubeless, Folding, Black, 3C Maxx Terra, DD, Wide Trail"@en	0
+COL title VAL  "SRAM NX 12 Speed Shifter"@en	COL title VAL  "SRAM Sram PowerLink 9 sp"@pl	0
+COL title VAL  "PASTIGLIE ORG-STEEL ROAD/LEVEL ULTIM."@en	COL title VAL  "Road Disc Organic Brake Pads"@en	1
+COL title VAL  "Garmin VENU Smartwatch Black 010-02173-12 Leather Strap"@en	COL title VAL  "Garmin Forerunner 245 Music Sports Watch (Black)"@de	0
+COL title VAL  "Shimano Shimano M05 Resin Disc Brake Pads and Spring for Deore BR-M515, BR- M515LA and Nexave BR-C601 Calipers"@en	COL title VAL  "Shimano Deore BRM515 Cable Actuated Disc Brake Pads"@en	1
+COL title VAL  "Shimano Dura-Ace CS-R9100 11 Speed Cassette (Silver/Grey) (11-28T)"@en	COL title VAL  "Dura-Ace 9100 11-Speed Cassette 11-25T"@en	0
+COL title VAL  "RAM mount short plastic socket arm"@en	COL title VAL  "UNPKG RAM DBL SOCKET ARM B BALL C LENGTH"@en	0
+COL title VAL  "SPD SL Cleats - Pair - Self Aligning / Black & Yellow"@en	COL title VAL  "Shimano SPD SM-SH11 yellow cleat set"@en	1
+COL title VAL  "RAM mount short plastic socket arm"@en	COL title VAL  "RAM Double Socket Clamp Arm SHORT"@en	0
+COL title VAL  "SRAM HRD Level TLM/Ultimate Brake Pads"@en	COL title VAL  "Road Disc Organic Brake Pads"@en	0
+COL title VAL  "Shimano PD-RS500 Road Pedal"@id	COL title VAL  "Shimano BB-MT800 Threaded Bottom Bracket"@en	0
+COL title VAL  "Shimano Deore BRM515 Cable Actuated Disc Brake Pads"@en	COL title VAL  "SRAM Guide and Avid Trail Disc Brake Pads Steel Backed Sintered Compound"@en	0
+COL title VAL  "Shimano CLEATS SHIMANO SPD SL SM-SH10"@so	COL title VAL  "Shimano Pedal PD-RS500 SL Black"@en	0
+COL title VAL  "High Roller II 27.5 x 2.40 60 TPI Folding 3C Maxx Terra ExO / TR tyre"@en	COL title VAL  "Tire Assegai 27.5x2.50\" Wt 3c Maxx Terra Exo + 120TPI Tubeless Ready Black Maxxis Tyres, MTB 27.5 Bike"@en	0
+COL title VAL  "Llanta Assegai 29X2.50 WT AR 3CG/DD/TR 120TPI"@ca	COL title VAL  "R550 SPD SL Road Pedals"@en	0
+COL title VAL  "Black / 29 inch / 60 TPI 2-Ply Foldable | 3CG / DH / TR"@en	COL title VAL  "Maxxis Minion DHR II 29" x 2.4" 60TPI Tire - 3C MG DH"@en	1
+COL title VAL  "Shimano J04C XTR BR-M9000 Metal Disc Brake Pads w/Fins"@en	COL title VAL  "Shimano Metal Disk Fren Balatası Ice-Tech J04C"@en	1
+COL title VAL  "RAM Short Composite Clamp Arm B Size (RAP-B-201U-A)"@en	COL title VAL  "RAM mount short plastic socket arm"@en	1
+COL title VAL  "Maxxis Assegai, Tire, Folding, Tubeless Ready, 3C Maxx Terra, EXO+, Wide Trail, 120TPI"@en	COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	0
+COL title VAL  "UNPKG RAM DBL SOCKET ARM B BALL A LENGTH"@en	COL title VAL  "UNPKG RAM DBL SOCKET ARM B BALL C LENGTH"@en	0
+COL title VAL  "Shimano Shimano PD-R550 SPD-SL Pedal"@tl	COL title VAL  "R550 SPD SL Road Pedals"@en	1
+COL title VAL  "Maxxis High Roller II 27.5" Tire - 3C MT EXO TR / 2.4""@en	COL title VAL  "Maxxis High Roller II Tire - 29 x 2.5, Tubeless, Folding, Black, 3C Maxx Terra, DD, Wide Trail"@en	0
+COL title VAL  "Shimano BB-MT800 Threaded Bottom Bracket"@en	COL title VAL  "Garmin GPSMAP 66s Handheld Sat Nav Multisatellite GPS"@en	0
+COL title VAL  "Shimano 105 RD-R7000 GS Rear Derailleur"@en	COL title VAL  "Shimano 105 R7000 Rear Derailleur - 11 Speed"@en	1
+COL title VAL  "Shimano Dura Ace R9100 11-Speed Cassette"@en	COL title VAL  "Shimano Dura-Ace CS-R9100 11 Speed Cassette (Silver/Grey) (11-28T)"@en	1
+COL title VAL  "Garmin Venu 010-02173-12 Venu montre"@ro	COL title VAL  "RAM-Mounts Long Double Socket Verbindungsarm RAM-201U-D"@de	0
+COL title VAL  "Maxxis High Roller II 27.5" Tire - 3C MT EXO TR / 2.4""@en	COL title VAL  "Tire Assegai 27.5x2.50\" Wt 3c Maxx Terra Exo + 120TPI Tubeless Ready Black Maxxis Tyres, MTB 27.5 Bike"@en	0
+COL title VAL  "Reifen Maxxis 29x2.50 Highroller II DoubleDown"@en	COL title VAL  "Llanta Assegai 29X2.50 WT AR 3CG/DD/TR 120TPI"@ca	0
+COL title VAL  "Shimano Ultegra CS-R8000 11sp Cassette 11-28T"@it	COL title VAL  "Shimano Dura-Ace CS-R9100 11 Speed Cassette (Silver/Grey) (11-28T)"@en	0
+COL title VAL  "Garmin GPSMAP 66s Multi Satellite Handheld with Sensors"@en	COL title VAL  "Rammount Round Plate with Ball"@en	0
+COL title VAL  "Maxxis Assegai, Tire, Folding, Tubeless Ready, 3C Maxx Terra, EXO+, Wide Trail, 120TPI"@en	COL title VAL  "Maxxis Dissector EXO 3c WideTrail"@en	0
+COL title VAL  "Dura-Ace 9100 11-Speed Cassette 11-25T"@en	COL title VAL  "Shimano HG901 Dura Ace XTR 11 Speed Bicycle Bike Chain"@en	0
+COL title VAL  "Garmin Venu 010-02173-12 Venu montre"@ro	COL title VAL  "Garmin GPSMAP 66s Multi Satellite Handheld with Sensors"@en	0
+COL title VAL  "Shimano Dura-Ace CS-R9100 11 Speed Cassette (Silver/Grey) (11-28T)"@en	COL title VAL  "Shimano HG901 Dura Ace XTR 11 Speed Bicycle Bike Chain"@en	0
+COL title VAL  "Shimano Deore XT Shadow+ RD-M786 3x10 Long MTB Rear Derailleur Black"@en	COL title VAL  "SRAM SRAM NX Eagle 12 Speed Shifter"@en	0
+COL title VAL  "Shimano J04C XTR BR-M9000 Metal Disc Brake Pads w/Fins"@en	COL title VAL  "Shimano Deore BRM515 Cable Actuated Disc Brake Pads"@en	0
+COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	COL title VAL  "WTB WTB Byway Tire - 650b x 47, TCS Tubeless, Folding, Black"@en	1
+COL title VAL  "Relógio Garmin Vivoactive 010-01769-10 Vívoactive 3"@es	COL title VAL  "Garmin VENU Smartwatch Black 010-02173-12 Leather Strap"@en	0
+COL title VAL  "Shimano HG901 Dura Ace XTR 11 Speed Bicycle Bike Chain"@en	COL title VAL  "Shimano Shimano CHAIN - Dura-Ace, ULTEGRA, 105 - 10-SPEED - CN-6701 - W/PIN 116 LINK"@so	0
+COL title VAL  "Shimano Bottom Bracket MT800 Hollowtech II Set 68/73mm"@en	COL title VAL  "Shimano XT BB-MT800 Press Fit 89.5/92mm Bottom Bracket"@en	0
+COL title VAL  "SRAM NX 12 Speed Shifter"@en	COL title VAL  "SRAM Power Link 9 Speed Gold"@en	0
+COL title VAL  "Shimano PD-7000 105 Carbon SPD-SL"@tl	COL title VAL  "Shimano Pedal PD-RS500 SL Black"@en	0
+COL title VAL  "Maxxis High Roller II 27.5" Tire - 3C MT EXO TR / 2.4""@en	COL title VAL  "HIGH ROLLER II27.5x2.50 WT AR 3CT/EXO/TR"@en	0
+COL title VAL  "RAM-201U-B - RAM Short Double Socket Arm for 1.5\" Balls (Overall Length: 3.5\")"@en	COL title VAL  "Shimano 105 R7000 Rear Derailleur - 11 Speed"@en	0
+COL title VAL  "Maxxis High Roller II 27.5" Tire - 3C MT EXO TR / 2.4""@en	COL title VAL  "High Roller II 27.5 x 2.40 60 TPI Folding 3C Maxx Terra ExO / TR tyre"@en	1
+COL title VAL  "RAM-201U-B - RAM Short Double Socket Arm for 1.5\" Balls (Overall Length: 3.5\")"@en	COL title VAL  "RAM Double Socket Clamp Arm SHORT"@en	0
+COL title VAL  "UNPKG RAM DBL SOCKET ARM B BALL C LENGTH"@en	COL title VAL  "RAM Long Double Socket Arm for 1\" Balls"@en	1
+COL title VAL  "RAM-201U-B - RAM Short Double Socket Arm for 1.5\" Balls (Overall Length: 3.5\")"@en	COL title VAL  "RAM Long Double Socket Arm for 1\" Balls"@en	0
+COL title VAL  "Dura-Ace 9100 11-Speed Cassette 11-25T"@en	COL title VAL  "CN-HG901 Chain 11-speed road/mtb SIL-TEC"@en	0
+COL title VAL  "High Roller II 27.5 x 2.40 60 TPI Folding 3C Maxx Terra ExO / TR tyre"@en	COL title VAL  "Maxxis High Roller II Tire - 29 x 2.5, Tubeless, Folding, Black, 3C Maxx Terra, DD, Wide Trail"@en	0
+COL title VAL  "Shimano 105 R7000 Rear Derailleur - 11 Speed"@en	COL title VAL  "Shimano HG901 Dura Ace XTR 11 Speed Bicycle Bike Chain"@en	0
+COL title VAL  "Shimano Deore BRM515 Cable Actuated Disc Brake Pads"@en	COL title VAL  "Road Disc Organic Brake Pads"@en	0
+COL title VAL  "High Roller II 27.5 x 2.40 60 TPI Folding 3C Maxx Terra ExO / TR tyre"@en	COL title VAL  "Maxxis High Roller II 27.5x2.3 DC/EXO/TR Tire"@en	0
+COL title VAL  "Shimano Dura-Ace CS-R9100 11 Speed Cassette (Silver/Grey) (11-28T)"@en	COL title VAL  "Kazeta Shimano 11 CS-R9100 11-25"@sw	0
+COL title VAL  "PASTIGLIE ORG-STEEL ROAD/LEVEL ULTIM."@en	COL title VAL  "RAM mount short plastic socket arm"@en	0
+COL title VAL  "Garmin Vivoactive 010-01769-10 Vívoactive 3 Watch"@en	COL title VAL  "Garmin Forerunner 245 Music Black (010-02120-30)"@de	0
+COL title VAL  "Kazeta Shimano 11 CS-R9100 11-25"@sw	COL title VAL  "Shimano Ultegra CS-R8000 11sp Cassette 11-28T"@it	0
+COL title VAL  "Shimano Deore XT Shadow+ RD-M786 3x10 Long MTB Rear Derailleur Black"@en	COL title VAL  "Shimano 105 RD-R7000 GS Rear Derailleur"@en	0
+COL title VAL  "Shimano Dura Ace R9100 11-Speed Cassette"@en	COL title VAL  "Shimano 105 R7000 Rear Derailleur - 11 Speed"@en	0
+COL title VAL  "Shimano PD-RS500 Road Pedal"@id	COL title VAL  "R7000 SPD-SL Carbon Road Pedals"@en	0
+COL title VAL  "Shimano Dura-Ace CS-R9100 11 Speed Cassette (Silver/Grey) (11-28T)"@en	COL title VAL  "Shimano Ultegra R8000 11-28 11 Speed Cassette"@it	0
+COL title VAL  "CN-HG901 Chain 11-speed road/mtb SIL-TEC"@en	COL title VAL  "Shimano Shimano CHAIN - Dura-Ace, ULTEGRA, 105 - 10-SPEED - CN-6701 - W/PIN 116 LINK"@so	0
+COL title VAL  "Plaquettes - Road disc, Level A1 (17-19) -Sintered/steel"@en	COL title VAL  "PASTIGLIE ORG-STEEL ROAD/LEVEL ULTIM."@en	0
+COL title VAL  "RAM-201U-B - RAM Short Double Socket Arm for 1.5\" Balls (Overall Length: 3.5\")"@en	COL title VAL  "UNPKG RAM DBL SOCKET ARM B BALL C LENGTH"@en	0
+COL title VAL  "RAM 2.5\" Round Base with the AMPs Hole Pattern & 1\" Ball"@en	COL title VAL  "Rammount Round Plate with Ball"@en	1
+COL title VAL  "Shimano Bottom Bracket MT800 Hollowtech II Set 68/73mm"@en	COL title VAL  "Shimano SPD SM-SH11 yellow cleat set"@en	0
+COL title VAL  "SRAM Sram PowerLink 9 sp"@pl	COL title VAL  "SRAM Guide and Avid Trail Disc Brake Pads Steel Backed Sintered Compound"@en	0
+COL title VAL  "Shimano PD-7000 105 Carbon SPD-SL"@tl	COL title VAL  "Shimano Shimano PD-R550 SPD-SL Pedal"@tl	0
+COL title VAL  "Kazeta Shimano 11 CS-R9100 11-25"@sw	COL title VAL  "Dura-Ace 9100 11-Speed Cassette 11-25T"@en	1
+COL title VAL  "Garmin Vivoactive 010-01769-10 Vívoactive 3 Watch"@en	COL title VAL  "Garmin Forerunner 245 Music Sports Watch (Black)"@de	0
+COL title VAL  "SRAM HRD Level TLM/Ultimate Brake Pads"@en	COL title VAL  "SRAM AM BRAKE PAD GUIDE/TRL STLSIN 1 SET"@en	0
+COL title VAL  "Maxxis Maxxis, High Roller II, 27.5''x2.50, Folding, 3C Maxx Terra, EXO, Wide Trail, 60TPI, Black"@en	COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	0
+COL title VAL  "Maxxis Minion DHR II 29\" DD/3C/TR"@en	COL title VAL  "Maxxis High Roller II Tire - 29 x 2.5, Tubeless, Folding, Black, 3C Maxx Terra, DD, Wide Trail"@en	0
+COL title VAL  "Shimano Dura Ace R9100 11-Speed Cassette"@en	COL title VAL  "Shimano Ultegra R8000 11-28 11 Speed Cassette"@it	0
+COL title VAL  "Reifen Maxxis 29x2.50 Highroller II DoubleDown"@en	COL title VAL  "Maxxis Maxxis, High Roller II, 27.5''x2.50, Folding, 3C Maxx Terra, EXO, Wide Trail, 60TPI, Black"@en	0
+COL title VAL  "SRAM Guide and Avid Trail Disc Brake Pads Steel Backed Sintered Compound"@en	COL title VAL  "Shimano J04C XTR BR-M9000 Metal Disc Brake Pads w/Fins"@en	0
+COL title VAL  "RAM-Mounts Long Double Socket Verbindungsarm RAM-201U-D"@de	COL title VAL  "Shimano - CLEATS SH-10 FIXED RED"@so	0
+COL title VAL  "Shimano XT MT800 Hollowtech II BB92mm Bottom Bracket"@en	COL title VAL  "RAM Mount 9\" Arm for 1.5\" Ball"@en	0
+COL title VAL  "R550 SPD SL Road Pedals"@en	COL title VAL  "R7000 SPD-SL Carbon Road Pedals"@en	0
+COL title VAL  "RAM Short Composite Clamp Arm B Size (RAP-B-201U-A)"@en	COL title VAL  "RAM® Double Socket Arm C Ball B Length"@en	0
+COL title VAL  "Kazeta Shimano 11 CS-R9100 11-25"@sw	COL title VAL  "Shimano Metal Disk Fren Balatası Ice-Tech J04C"@en	0
+COL title VAL  "Shimano SPD SM-SH11 yellow cleat set"@en	COL title VAL  "Shimano CLEATS SHIMANO SPD SL SM-SH10"@so	0
+COL title VAL  "Maxxis Maxxis, High Roller II, 27.5''x2.50, Folding, 3C Maxx Terra, EXO, Wide Trail, 60TPI, Black"@en	COL title VAL  "Maxxis High Roller II Tire - 29 x 2.5, Tubeless, Folding, Black, 3C Maxx Terra, DD, Wide Trail"@en	0
+COL title VAL  "RAM Double Socket Clamp Arm SHORT"@en	COL title VAL  "RAM-Mounts Long Double Socket Verbindungsarm RAM-201U-D"@de	0
+COL title VAL  "Shimano Shimano CHAIN - Dura-Ace, ULTEGRA, 105 - 10-SPEED - CN-6701 - W/PIN 116 LINK"@so	COL title VAL  "Shimano Dura Ace R9100 11-Speed Cassette"@en	0
+COL title VAL  "CN-HG901 Chain 11-speed road/mtb SIL-TEC"@en	COL title VAL  "Shimano HG901 Dura Ace XTR 11 Speed Bicycle Bike Chain"@en	1
+COL title VAL  "Shimano Deore XT Shadow+ RD-M786 3x10 Long MTB Rear Derailleur Black"@en	COL title VAL  "Shimano XT BB-MT800 Press Fit 89.5/92mm Bottom Bracket"@en	0
+COL title VAL  "Maxxis Minion DHR II 29" x 2.4" 60TPI Tire - 3C MG DH"@en	COL title VAL  "Maxxis Maxxis Dissector Tire 29"@en	0
+COL title VAL  "Shimano Shimano PD-R550 SPD-SL Pedal"@tl	COL title VAL  "Shimano SPD SM-SH11 yellow cleat set"@en	0
+COL title VAL  "SHIMANO Adaptateur Frein Disc 160mm AV SM-MA90-F160 Post/Standard"@de	COL title VAL  "Shimano CLEATS SHIMANO SPD SL SM-SH10"@so	0
+COL title VAL  "Shimano Pedal PD-RS500 SL Black"@en	COL title VAL  "Shimano J04C XTR BR-M9000 Metal Disc Brake Pads w/Fins"@en	0
+COL title VAL  "SM-MA90-F160-PS ADAPTER 160mm CALIPER: POST MOUNT: A-STD FRONT"@en	COL title VAL  "SHIMANO Adaptateur Frein Disc 160mm AV SM-MA90-F160 Post/Standard"@de	1
+COL title VAL  "Maxxis Assegai, Tire, 29''x2.50, Folding, Tubeless Ready, 3C Maxx Grip, Double Down, Wide Trail, 120x2TPI, Black"@en	COL title VAL  "Maxxis Maxxis, Aggressor, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	0
+COL title VAL  "RAM-Mounts Long Double Socket Verbindungsarm RAM-201U-D"@de	COL title VAL  "RAM Long Double Socket Arm for 1\" Balls"@en	0
+COL title VAL  "MINION DHR II 29 X 2.30 3C TERRA TR DD FOLD"@en	COL title VAL  "Black / 29 inch / 60 TPI 2-Ply Foldable | 3CG / DH / TR"@en	0
+COL title VAL  "RAM Long Double Socket Arm for 1\" Balls"@en	COL title VAL  "RAM Double Socket Clamp Arm SHORT"@en	0
+COL title VAL  "Reifen Maxxis 29x2.50 Highroller II DoubleDown"@en	COL title VAL  "Maxxis High Roller II Tire - 29 x 2.5, Tubeless, Folding, Black, 3C Maxx Terra, DD, Wide Trail"@en	1
+COL title VAL  "Maxxis High Roller II Tire - 29 x 2.5, Tubeless, Folding, Black, 3C Maxx Terra, DD, Wide Trail"@en	COL title VAL  "Maxxis Assegai, Tire, Folding, Tubeless Ready, 3C Maxx Terra, EXO+, Wide Trail, 120TPI"@en	0
+COL title VAL  "MINION DHR II 29 X 2.30 3C TERRA TR DD FOLD"@en	COL title VAL  "Maxxis Minion DHR II 29" x 2.4" 60TPI Tire - 3C MG DH"@en	0
+COL title VAL  "Maxxis Assegai, Tire, 29''x2.50, Folding, Tubeless Ready, 3C Maxx Grip, Double Down, Wide Trail, 120x2TPI, Black"@en	COL title VAL  "Llanta Assegai 29X2.50 WT AR 3CG/DD/TR 120TPI"@ca	1
+COL title VAL  "RAM Double Socket Clamp Arm SHORT"@en	COL title VAL  "RAM Short Composite Clamp Arm B Size (RAP-B-201U-A)"@en	0
+COL title VAL  "SRAM HRD Level TLM/Ultimate Brake Pads"@en	COL title VAL  "Plaquettes - Road disc, Level A1 (17-19) -Sintered/steel"@en	1
+COL title VAL  "SRAM Guide and Avid Trail Disc Brake Pads Steel Backed Sintered Compound"@en	COL title VAL  "SRAM AM BRAKE PAD GUIDE/TRL STLSIN 1 SET"@en	1
+COL title VAL  "Ardent Race Bike Tire: 27.5 x 2.35\", Folding, 120tpi, 3C, EXO, Tubeless Ready"@en	COL title VAL  "Maxxis High Roller II 650b 27.5\" Dual Compound EXO Folding Tubeless Ready Mountain Bike Tyre"@en	0
+COL title VAL  "Shimano - CLEATS SH-10 FIXED RED"@so	COL title VAL  "Shimano 105 RD-R7000 GS Rear Derailleur"@en	0
+COL title VAL  "Reifen Maxxis 29x2.50 Highroller II DoubleDown"@en	COL title VAL  "Maxxis High Roller II 27.5" Tire - 3C MT EXO TR / 2.4""@en	0
+COL title VAL  "Maxxis Assegai, Tire, Folding, Tubeless Ready, 3C Maxx Terra, EXO+, Wide Trail, 120TPI"@en	COL title VAL  "Ardent Race Bike Tire: 27.5 x 2.35\", Folding, 120tpi, 3C, EXO, Tubeless Ready"@en	0
+COL title VAL  "High Roller II 27.5 x 2.40 60 TPI Folding 3C Maxx Terra ExO / TR tyre"@en	COL title VAL  "Black / 29 inch / 60 TPI 2-Ply Foldable | 3CG / DH / TR"@en	0
+COL title VAL  "AGGRESSOR 29 X 2.3 FOLDING 60TPI EXO TR"@ca	COL title VAL  "Maxxis Minion DHR II 29" x 2.4" 60TPI Tire - 3C MG DH"@en	0
+COL title VAL  "R550 SPD SL Road Pedals"@en	COL title VAL  "Shimano CLEATS SHIMANO SPD SL SM-SH10"@so	0
+COL title VAL  "RAM® Double Socket Arm C Ball B Length"@en	COL title VAL  "RAM Long Double Socket Arm for 1\" Balls"@en	0
+COL title VAL  "Maxxis Minion DHR II 29\" DD/3C/TR"@en	COL title VAL  "Maxxis High Roller II 27.5" Tire - 3C MT EXO TR / 2.4""@en	0
+COL title VAL  "Shimano Ultegra R8000 11-28 11 Speed Cassette"@it	COL title VAL  "Shimano, Ultegra CN-6701, Chain, 10sp., 116 links"@en	0
+COL title VAL  "Road Disc Organic Brake Pads"@en	COL title VAL  "Shimano J04C XTR BR-M9000 Metal Disc Brake Pads w/Fins"@en	0
+COL title VAL  "Relógio Garmin Vivoactive 010-01769-10 Vívoactive 3"@es	COL title VAL  "Garmin Venu 010-02173-12 Venu montre"@ro	0
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with B Size 1\" Ball"@en	COL title VAL  "SRAM AM BRAKE PAD GUIDE/TRL STLSIN 1 SET"@en	0
+COL title VAL  "Shimano 105 RD-R7000 GS Rear Derailleur"@en	COL title VAL  "Shimano PD-7000 105 Carbon SPD-SL"@tl	0
+COL title VAL  "R550 SPD SL Road Pedals"@en	COL title VAL  "PASTIGLIE ORG-STEEL ROAD/LEVEL ULTIM."@en	0
+COL title VAL  "RAM Mount 9\" Arm for 1.5\" Ball"@en	COL title VAL  "RAM Double Socket Clamp Arm SHORT"@en	0
+COL title VAL  "Shimano Metal Disk Fren Balatası Ice-Tech J04C"@en	COL title VAL  "Shimano PD-RS500 Road Pedal"@id	0
+COL title VAL  "Ardent Race Bike Tire: 27.5 x 2.35\", Folding, 120tpi, 3C, EXO, Tubeless Ready"@en	COL title VAL  "Maxxis Maxxis Ardent Race Tire 27.5"@en	1
+COL title VAL  "Maxxis Assegai, Tire, Folding, Tubeless Ready, 3C Maxx Terra, EXO+, Wide Trail, 120TPI"@en	COL title VAL  "Maxxis Maxxis, Aggressor, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	0
+COL title VAL  "Maxxis High Roller II 27.5" Tire - 3C MT EXO TR / 2.4""@en	COL title VAL  "Maxxis Maxxis, High Roller II, 27.5''x2.50, Folding, 3C Maxx Terra, EXO, Wide Trail, 60TPI, Black"@en	0
+COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	COL title VAL  "Maxxis High Roller II Tire - 29 x 2.5, Tubeless, Folding, Black, 3C Maxx Terra, DD, Wide Trail"@en	0
+COL title VAL  "PASTIGLIE ORG-STEEL ROAD/LEVEL ULTIM."@en	COL title VAL  "SRAM HRD Level TLM/Ultimate Brake Pads"@en	0
+COL title VAL  "SPD SL Cleats - Pair - Self Aligning / Black & Yellow"@en	COL title VAL  "R7000 SPD-SL Carbon Road Pedals"@en	0
+COL title VAL  "Shimano BB-MT800 Threaded Bottom Bracket"@en	COL title VAL  "Shimano Bottom Bracket MT800 Hollowtech II Set 68/73mm"@en	1
+COL title VAL  "Maxxis High Roller II 27.5" Tire - 3C MT EXO TR / 2.4""@en	COL title VAL  "Maxxis Maxxis Ardent Race Tire 27.5"@en	0
+COL title VAL  "Maxxis High Roller II 650b 27.5\" Dual Compound EXO Folding Tubeless Ready Mountain Bike Tyre"@en	COL title VAL  "Maxxis High Roller II 27.5x2.3 DC/EXO/TR Tire"@en	1
+COL title VAL  "RAM Double Socket Clamp Arm SHORT"@en	COL title VAL  "UNPKG RAM DBL SOCKET ARM B BALL C LENGTH"@en	0
+COL title VAL  "RAM mount short plastic socket arm"@en	COL title VAL  "Rammount Round Plate with Ball"@en	0
+COL title VAL  "Maxxis Minion DHR II 29\" DD/3C/TR"@en	COL title VAL  "Maxxis Maxxis Dissector Tire 29"@en	0
+COL title VAL  "Shimano CLEATS SHIMANO SPD SL SM-SH10"@so	COL title VAL  "Shimano PD-7000 105 Carbon SPD-SL"@tl	0
+COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	COL title VAL  "High Roller II 27.5 x 2.40 60 TPI Folding 3C Maxx Terra ExO / TR tyre"@en	0
+COL title VAL  "Shimano J04C XTR BR-M9000 Metal Disc Brake Pads w/Fins"@en	COL title VAL  "Shimano XT BB-MT800 Press Fit 89.5/92mm Bottom Bracket"@en	0
+COL title VAL  "Shimano Ultegra R8000 11-28 11 Speed Cassette"@it	COL title VAL  "Dura-Ace 9100 11-Speed Cassette 11-25T"@en	0
+COL title VAL  "Maxxis High Roller II 27.5x2.3 DC/EXO/TR Tire"@en	COL title VAL  "Maxxis Maxxis Ardent Race Tire 27.5"@en	0
+COL title VAL  "R7000 SPD-SL Carbon Road Pedals"@en	COL title VAL  "Shimano Shimano PD-R550 SPD-SL Pedal"@tl	0
+COL title VAL  "Maxxis Maxxis, High Roller II, 27.5''x2.50, Folding, 3C Maxx Terra, EXO, Wide Trail, 60TPI, Black"@en	COL title VAL  "HIGH ROLLER II27.5x2.50 WT AR 3CT/EXO/TR"@en	1
+COL title VAL  "Relógio Garmin Vivoactive 010-01769-10 Vívoactive 3"@es	COL title VAL  "Garmin Forerunner 245 Music Black (010-02120-30)"@de	0
+COL title VAL  "Garmin Venu 010-02173-12 Venu montre"@ro	COL title VAL  "Garmin Vivoactive 010-01769-10 Vívoactive 3 Watch"@en	0
+COL title VAL  "Shimano BB-MT800 Threaded Bottom Bracket"@en	COL title VAL  "Shimano XT BB-MT800 Press Fit 89.5/92mm Bottom Bracket"@en	0
+COL title VAL  "Maxxis Assegai, Tire, 29''x2.50, Folding, Tubeless Ready, 3C Maxx Grip, Double Down, Wide Trail, 120x2TPI, Black"@en	COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	0
+COL title VAL  "Shimano - CLEATS SH-10 FIXED RED"@so	COL title VAL  "Shimano CLEATS SHIMANO SPD SL SM-SH10"@so	1
+COL title VAL  "Tire Assegai 27.5x2.50\" Wt 3c Maxx Terra Exo + 120TPI Tubeless Ready Black Maxxis Tyres, MTB 27.5 Bike"@en	COL title VAL  "Maxxis Assegai, Tire, Folding, Tubeless Ready, 3C Maxx Terra, EXO+, Wide Trail, 120TPI"@en	1
+COL title VAL  "SRAM Sram PowerLink 9 sp"@pl	COL title VAL  "SRAM Power Link 9 Speed Gold"@en	1
+COL title VAL  "Shimano XT MT800 Hollowtech II BB92mm Bottom Bracket"@en	COL title VAL  "Shimano BB-MT800 Threaded Bottom Bracket"@en	0
+COL title VAL  "SRAM HRD Level TLM/Ultimate Brake Pads"@en	COL title VAL  "SRAM Guide and Avid Trail Disc Brake Pads Steel Backed Sintered Compound"@en	0
+COL title VAL  "Shimano Deore XT Shadow+ RD-M786 3x10 Long MTB Rear Derailleur Black"@en	COL title VAL  "M786 SHADOW PLUS: N/A, SGS"@de	1
+COL title VAL  "RAM Composite Suction Cup Base w 1\" Ball (RAP-B-224-1U)"@en	COL title VAL  "RAM Short Composite Clamp Arm B Size (RAP-B-201U-A)"@en	0
+COL title VAL  "UNPKG RAM DBL SOCKET ARM B BALL A LENGTH"@en	COL title VAL  "RAM Double Socket Clamp Arm SHORT"@en	1
+COL title VAL  "RAM 2.5\" Round Base with the AMPs Hole Pattern & 1\" Ball"@en	COL title VAL  "RAM-201U-B - RAM Short Double Socket Arm for 1.5\" Balls (Overall Length: 3.5\")"@en	0
+COL title VAL  "Shimano, Ultegra CN-6701, Chain, 10sp., 116 links"@en	COL title VAL  "Shimano Shimano CHAIN - Dura-Ace, ULTEGRA, 105 - 10-SPEED - CN-6701 - W/PIN 116 LINK"@so	1
+COL title VAL  "Road Disc Organic Brake Pads"@en	COL title VAL  "SRAM Guide and Avid Trail Disc Brake Pads Steel Backed Sintered Compound"@en	0
+COL title VAL  "Ardent Race Bike Tire: 27.5 x 2.35\", Folding, 120tpi, 3C, EXO, Tubeless Ready"@en	COL title VAL  "High Roller II 27.5 x 2.40 60 TPI Folding 3C Maxx Terra ExO / TR tyre"@en	0
+COL title VAL  "Kšiltovka New Era NFL Los Angeles Rams 9Fifty"@lt	COL title VAL  "Cappello New Era NFL LA Rams 9Fifty Cap"@en	1
+COL title VAL  "Maxxis Maxxis, High Roller II, Tire, 29''x2.30, Folding, Tubeless Ready, Dual, EXO, 60TPI, Black"@en	COL title VAL  "Maxxis High Roller II 650b 27.5\" Dual Compound EXO Folding Tubeless Ready Mountain Bike Tyre"@en	0
+COL title VAL  "SPD SL Cleats - Pair - Self Aligning / Black & Yellow"@en	COL title VAL  "Shimano CLEATS SHIMANO SPD SL SM-SH10"@so	0
+COL title VAL  "MINION DHR II 29 X 2.30 3C TERRA TR DD FOLD"@en	COL title VAL  "Maxxis Minion DHR II 29\" DD/3C/TR"@en	1
+COL title VAL  "Shimano PD-RS500 Road Pedal"@id	COL title VAL  "Shimano Shimano PD-R550 SPD-SL Pedal"@tl	0
+COL title VAL  "Maxxis Maxxis, High Roller II, 27.5''x2.50, Folding, 3C Maxx Terra, EXO, Wide Trail, 60TPI, Black"@en	COL title VAL  "Maxxis High Roller II 650b 27.5\" Dual Compound EXO Folding Tubeless Ready Mountain Bike Tyre"@en	0
+COL title VAL  "Shimano Ultegra R8000 11-28 11 Speed Cassette"@it	COL title VAL  "Shimano Ultegra CS-R8000 11sp Cassette 11-28T"@it	1
+COL title VAL  "Tire Assegai 27.5x2.50\" Wt 3c Maxx Terra Exo + 120TPI Tubeless Ready Black Maxxis Tyres, MTB 27.5 Bike"@en	COL title VAL  "Ardent Race Bike Tire: 27.5 x 2.35\", Folding, 120tpi, 3C, EXO, Tubeless Ready"@en	0
+COL title VAL  "Relógio Garmin Vivoactive 010-01769-10 Vívoactive 3"@es	COL title VAL  "Garmin Vivoactive 010-01769-10 Vívoactive 3 Watch"@en	1
+COL title VAL  "AGGRESSOR 29 X 2.3 FOLDING 60TPI EXO TR"@ca	COL title VAL  "High Roller II 27.5 x 2.40 60 TPI Folding 3C Maxx Terra ExO / TR tyre"@en	0
+COL title VAL  "Shimano, Ultegra CN-6701, Chain, 10sp., 116 links"@en	COL title VAL  "CN-HG901 Chain 11-speed road/mtb SIL-TEC"@en	0
+COL title VAL  "Maxxis High Roller II 27.5x2.3 DC/EXO/TR Tire"@en	COL title VAL  "Maxxis High Roller II 27.5" Tire - 3C MT EXO TR / 2.4""@en	0
+COL title VAL  "Kazeta Shimano 11 CS-R9100 11-25"@sw	COL title VAL  "Shimano Ultegra R8000 11-28 11 Speed Cassette"@it	0
+COL title VAL  "Shimano Dura Ace R9100 11-Speed Cassette"@en	COL title VAL  "Shimano HG901 Dura Ace XTR 11 Speed Bicycle Bike Chain"@en	0
+COL title VAL  "Black / 29 inch / 60 TPI 2-Ply Foldable | 3CG / DH / TR"@en	COL title VAL  "AGGRESSOR 29 X 2.3 FOLDING 60TPI EXO TR"@ca	0
+COL title VAL  "R7000 SPD-SL Carbon Road Pedals"@en	COL title VAL  "Shimano Pedal PD-RS500 SL Black"@en	0
+COL title VAL  "RAM Short Composite Clamp Arm B Size (RAP-B-201U-A)"@en	COL title VAL  "UNPKG RAM DBL SOCKET ARM B BALL A LENGTH"@en	0
+COL title VAL  "R7000 SPD-SL Carbon Road Pedals"@en	COL title VAL  "Shimano CLEATS SHIMANO SPD SL SM-SH10"@so	0
+COL title VAL  "Shimano Dura Ace R9100 11-Speed Cassette"@en	COL title VAL  "Dura-Ace 9100 11-Speed Cassette 11-25T"@en	0
+COL title VAL  "Tire Assegai 27.5x2.50\" Wt 3c Maxx Terra Exo + 120TPI Tubeless Ready Black Maxxis Tyres, MTB 27.5 Bike"@en	COL title VAL  "Llanta Assegai 29X2.50 WT AR 3CG/DD/TR 120TPI"@ca	0

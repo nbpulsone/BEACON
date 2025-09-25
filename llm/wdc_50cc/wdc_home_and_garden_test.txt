@@ -1,0 +1,222 @@
+COL title VAL  "9 Seater Wicker Sofa set - Black"@de	COL title VAL  "Gardeon 7PC Sofa Set with Storage Cover Outdoor Furniture Wicker"@en	0
+COL title VAL  "Whirlpool WOD51EC0HS 30\" Stainless Steel Electric Double Wall Oven"@en	COL title VAL  "SAMSUNG 30\" Single Wall Oven - Stainless (NV51K6650SS)"@de	0
+COL title VAL  "Bosch PCH6A5B90 60cm Serie 6 4 Burner FlameSelect Gas Hob - STAINLESS STEEL"@de	COL title VAL  "KitchenAid® 48'' 6-Burner Commercial-Style Gas Rangetop with Griddle KCGC558JSS"@en	0
+COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	COL title VAL  "Gardeon 4-piece Wicker Outdoor Set - Black"@de	0
+COL title VAL  "9000 Series 8kg Heat Pump Dryer"@en	COL title VAL  "Fisher & Paykel 8kg Condensor Clothes Dryer"@en	0
+COL title VAL  "Bosch PCH6A5B90 60cm Serie 6 4 Burner FlameSelect Gas Hob - STAINLESS STEEL"@de	COL title VAL  "KitchenAid 48\" 6-Burner Commercial-Style Gas Rangetop with Griddle in Stainless Steel KCGC558JSS"@en	0
+COL title VAL  "10.0 cu. ft. Smart Double Wall Oven with Touchscreen"@en	COL title VAL  "Whirlpool WOD51EC0HS 30\" Stainless Steel Electric Double Wall Oven"@en	1
+COL title VAL  "Whirlpool WGG745S0FS 30 Inch Freestanding Gas Range"@en	COL title VAL  "Butcher GRID 2Bliss Ready 29-inch"@en	0
+COL title VAL  "Fisher & Paykel 8kg Condensor Clothes Dryer"@en	COL title VAL  "FISHER & PAYKEL 10KG FRONT LOADER WASHER"@de	0
+COL title VAL  "Fisher & Paykel 9kg Heat Pump Condensing Dryer with LCD Screen"@en	COL title VAL  "AEG 8kg Heat Pump Dryer with AbsoluteCare System"@en	0
+COL title VAL  "Samsung RS68N8941SL American Style Family Hub RS8000 Fridge Freezer With Ice & Water - STAINLESS STEEL"@en	COL title VAL  "KitchenAid 48\" 6-Burner Commercial-Style Gas Rangetop with Griddle in Stainless Steel KCGC558JSS"@en	0
+COL title VAL  "ELECTROLUX EDH803BEWA 8KG HEAT-PUMP DRYER (5 TICKS)"@de	COL title VAL  "AEG 8kg Heat Pump Dryer with AbsoluteCare System"@en	0
+COL title VAL  "Samsung 9Kg heat Pump Dryer White"@en	COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	0
+COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	COL title VAL  "MASTER TL5 HE 14W/865 1SL"@en	1
+COL title VAL  "Samsung BRB260130WW Integrated 70/30 Frost Free Fridge Freezer"@de	COL title VAL  "Samsung RS68N8941SL American Style Family Hub RS8000 Fridge Freezer With Ice & Water - STAINLESS STEEL"@en	0
+COL title VAL  "SAMSUNG Family Hub RS8000 RS68N8941SL American-Style Smart Fridge Freezer – Aluminium Share Sh"@en	COL title VAL  "Samsung BRB260130WW Integrated 70/30 Frost Free Fridge Freezer"@de	0
+COL title VAL  "Neff T26DS49NO Gas Hob with knobs and casy iron pan supports T26DS49N0"@en	COL title VAL  "Bosch Serie 6 PCH6A5B90 4 Burner Gas Hob"@de	0
+COL title VAL  "AEG 8kg Front Load Dryer"@en	COL title VAL  "Simpson SWF7025EQWA 7kg Front Load Washer"@en	0
+COL title VAL  "MASTER TL5 HE 14W/865 1SL"@en	COL title VAL  "MASTER TL5 HE 35W 840 G5"@de	0
+COL title VAL  "Electrolux 8kg UltimateCare 800 Heat Pump Dryer with WiFi Enable"@en	COL title VAL  "Samsung 9Kg heat Pump Dryer White"@en	0
+COL title VAL  "AEG 8kg Front Load Dyer"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Cool White"@en	0
+COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Warm White"@en	COL title VAL  "PH TL-5 35W/830 HE"@pl	0
+COL title VAL  "7 Piece Outdoor Furniture Set"@ro	COL title VAL  "Gardeon 7PC Sofa Set with Storage Cover Outdoor Furniture Wicker"@en	1
+COL title VAL  "AEG 8kg Heat Pump Dryer with AbsoluteCare System"@en	COL title VAL  "Samsung DV90N8289AW 9kg Heat Pump DV8800 Condenser Tumble Dryer - WHITE"@de	0
+COL title VAL  "MASTER TL5 HE 35W 840 G5"@de	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Blanco Frio"@en	0
+COL title VAL  "PE Wicker Daybed Sun Lounge Setting Pool Chair Sofa Bed Lounger Outdoor Furniture"@en	COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	0
+COL title VAL  "Gardeon 9 Seat Outdoor Dining Setting with Cover - Black"@en	COL title VAL  "Gardeon 7PC Sofa Set with Storage Cover Outdoor Furniture Wicker"@en	0
+COL title VAL  "7kg Fisher & Paykel Vented Dryer"@no	COL title VAL  "FISHER & PAYKEL 10KG FRONT LOADER WASHER"@de	0
+COL title VAL  "Hotpoint BIWMHG71284 7kg 1200 Spin Integrated Washing Machine"@en	COL title VAL  "Bosch WAU28S80GB iDOS Washing Machine in White 1400rpm 8Kg A+++ Rated"@en	0
+COL title VAL  "Blomberg LWF174310W 7kg Washing Machine"@de	COL title VAL  "Hotpoint BIWMHG71284 7kg 1200 Spin Integrated Washing Machine"@en	0
+COL title VAL  "SAMSUNG Family Hub RS8000 RS68N8941SL American-Style Smart Fridge Freezer – Aluminium Share Sh"@en	COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer"@de	0
+COL title VAL  "Simpson 7kg EZI Set Top Load Washing Machine MODEL: SWT7055LMWA"@en	COL title VAL  "7kg Simpson Top Load Washing Machine"@en	1
+COL title VAL  "7kg Simpson Top Load Washing Machine"@en	COL title VAL  "Hotpoint BIWMHG71284 7kg 1200 Spin Integrated Washing Machine"@en	0
+COL title VAL  "FISHER & PAYKEL 10KG FRONT LOADER WASHER"@de	COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	1
+COL title VAL  "AEG 8kg Heat Pump Dryer with AbsoluteCare System"@en	COL title VAL  "AEG 8kg Front Load Dyer"@en	1
+COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	COL title VAL  "7 Piece Outdoor Furniture Set"@ro	0
+COL title VAL  "Fisher & Paykel 9kg Heat Pump Condensing Dryer with LCD Screen"@en	COL title VAL  "Samsung 9Kg heat Pump Dryer White"@en	0
+COL title VAL  "PE Wicker Daybed Sun Lounge Setting Pool Chair Sofa Bed Lounger Outdoor Furniture"@en	COL title VAL  "2x Sun Lounge Setting Chair Brown Wicker Day Bed Outdoor Furniture Garden Patio"@en	0
+COL title VAL  "Neff T26DS49N0 60cm Gas Hob"@en	COL title VAL  "Bosch Serie 6 PCH6A5B90 4 Burner Gas Hob"@de	0
+COL title VAL  "Samsung DV90N8289AW 9kg Heat Pump DV8800 Condenser Tumble Dryer - WHITE"@de	COL title VAL  "9000 Series 8kg Heat Pump Dryer"@en	0
+COL title VAL  "Blomberg LWF174310W 7kg Washing Machine"@de	COL title VAL  "Bosch WIW28500GB Built In Washing Machine"@de	0
+COL title VAL  "Bosch WIW28500GB Built In Washing Machine"@de	COL title VAL  "McAllen Signature Design by Ashley Quilt Set Twin"@en	0
+COL title VAL  "Simpson SWF7025EQWA 7kg Front Load Washer"@en	COL title VAL  "AEG 8kg Front Load Dyer"@en	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Cool White"@en	COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	0
+COL title VAL  "Fisher & Paykel 8kg Condensor Clothes Dryer"@en	COL title VAL  "7kg Fisher & Paykel Vented Dryer"@no	0
+COL title VAL  "4-piece Wicker Outdoor Set - Black"@en	COL title VAL  "9 Seater Wicker Sofa set - Black"@de	0
+COL title VAL  "Blomberg LWF174310W 7kg 1400 Spin Washing Machine - White - A+++"@de	COL title VAL  "Bosch Serie 8 WIW28500GB Integrated Washing Machine - White"@de	0
+COL title VAL  "30" Single Wall Oven in Stainless Steel"@de	COL title VAL  "McAllen Signature Design by Ashley Quilt Set Twin"@en	0
+COL title VAL  "SAMSUNG Family Hub RS8000 RS68N8941SL American-Style Smart Fridge Freezer – Aluminium Share Sh"@en	COL title VAL  "Samsung RS68N8941SL American Style Family Hub RS8000 Fridge Freezer With Ice & Water - STAINLESS STEEL"@en	1
+COL title VAL  "MASTER TL5 HE 35W 840 G5"@de	COL title VAL  "Whirlpool WGG745S0FS 30 Inch Freestanding Gas Range"@en	0
+COL title VAL  "Fisher & Paykel WH8060J3 8kg Front Load Washing Machine"@en	COL title VAL  "7kg Simpson Top Load Washing Machine"@en	0
+COL title VAL  "Gardeon 4-piece Wicker Outdoor Set - Black"@de	COL title VAL  "Lova Outdoor Black Canopy Lounge Set"@en	0
+COL title VAL  "10.0 cu. ft. Smart Double Wall Oven with Touchscreen"@en	COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	0
+COL title VAL  "9000 Series 8kg Heat Pump Dryer"@en	COL title VAL  "AEG 8kg Front Load Dryer"@en	1
+COL title VAL  "Whirlpool Double Oven Gas Range - 6.0 cu. ft. Stainless Steel"@en	COL title VAL  "Whirlpool WGG745S0FS 30 Inch Freestanding Gas Range"@en	1
+COL title VAL  "30" Single Wall Oven in Stainless Steel"@de	COL title VAL  "Whirlpool Double Oven Gas Range - 6.0 cu. ft. Stainless Steel"@en	0
+COL title VAL  "PH TL-5 35W/830 HE"@pl	COL title VAL  "Bosch Serie 6 PCH6A5B90 4 Burner Gas Hob"@de	0
+COL title VAL  "Bosch WAU28S80GB iDOS Washing Machine in White 1400rpm 8Kg A+++ Rated"@en	COL title VAL  "Blomberg LWF174310W 7kg 1400 Spin Washing Machine - White - A+++"@de	0
+COL title VAL  "Neff K1514X7GB Built In Larder Fridge"@de	COL title VAL  "Samsung BRB260130WW Frost Free Built In Fridge Freezer - A+ Energy Rated"@de	0
+COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	COL title VAL  "7kg Fisher & Paykel Vented Dryer"@no	0
+COL title VAL  "Electrolux 8kg UltimateCare 800 Heat Pump Dryer with WiFi Enable"@en	COL title VAL  "9000 Series 8kg Heat Pump Dryer"@en	0
+COL title VAL  "Electrolux 8kg UltimateCare 800 Heat Pump Dryer with WiFi Enable"@en	COL title VAL  "ELECTROLUX EDH803BEWA 8KG HEAT-PUMP DRYER (5 TICKS)"@de	1
+COL title VAL  "Bosch Serie 6 WAU28S80GB i-DOS Washing Machine"@de	COL title VAL  "Bosch Serie 8 WIW28500GB Integrated Washing Machine - White"@de	0
+COL title VAL  "4-piece Wicker Outdoor Set - Black"@en	COL title VAL  "Lova Outdoor Black Canopy Lounge Set"@en	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Cool White"@en	COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	0
+COL title VAL  "Simpson 7kg EZI Set Top Load Washing Machine MODEL: SWT7055LMWA"@en	COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	0
+COL title VAL  "Blomberg LWF174310W 7kg 1400 Spin Washing Machine - White - A+++"@de	COL title VAL  "Simpson SWF7025EQWA Ezi Set 7kg Front Load Washing Machine"@en	0
+COL title VAL  "Simpson SWF7025EQWA Ezi Set 7kg Front Load Washing Machine"@en	COL title VAL  "7kg Simpson Top Load Washing Machine"@en	0
+COL title VAL  "Lova Outdoor Black Canopy Lounge Set"@en	COL title VAL  "7 Piece Outdoor Furniture Set"@ro	0
+COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	COL title VAL  "MASTER TL5 HE 14W/865 1SL"@en	0
+COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Warm White"@en	1
+COL title VAL  "Neff T26DS49N0 60cm Gas Hob"@en	COL title VAL  "Neff T26DS49NO Gas Hob with knobs and casy iron pan supports T26DS49N0"@en	1
+COL title VAL  "MASTER TL5 HE 14W/865 1SL"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Cool White"@en	0
+COL title VAL  "Fisher & Paykel 8kg Condensor Clothes Dryer"@en	COL title VAL  "Fisher & Paykel DE7060G1 7kg Vented Dryer"@no	0
+COL title VAL  "Samsung BRB260130WW Integrated 70/30 Frost Free Fridge Freezer"@de	COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer"@de	0
+COL title VAL  "7kg Simpson Top Load Washing Machine"@en	COL title VAL  "Bosch WIW28500GB Built In Washing Machine"@de	0
+COL title VAL  "9000 Series 8kg Heat Pump Dryer"@en	COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	0
+COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Warm White"@en	0
+COL title VAL  "Samsung BRB260130WW Integrated 70/30 Frost Free Fridge Freezer"@de	COL title VAL  "Samsung NoFrost Freestanding American Fridge Freezer - Inox | RS68N8220S9"@en	0
+COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Warm White"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Cool White"@en	0
+COL title VAL  "9 Seater Wicker Sofa set - Black"@de	COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	0
+COL title VAL  "4-piece Wicker Outdoor Set - Black"@en	COL title VAL  "7 Piece Outdoor Furniture Set"@ro	0
+COL title VAL  "Butcher GRID 2Bliss Ready 29-inch"@en	COL title VAL  "SPECIALIZED BUTCHER GRID 2BR TIRE 29X2.3"@so	1
+COL title VAL  "SAMSUNG 30\" Single Wall Oven - Stainless (NV51K6650SS)"@de	COL title VAL  "Samsung BRB260130WW Integrated 70/30 Frost Free Fridge Freezer"@de	0
+COL title VAL  "Weber Genesis II E-330"@de	COL title VAL  "Genesis II E-330 Gas Grill LP Smoke"@de	1
+COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer"@de	COL title VAL  "Samsung RS68N8941SL American Style Family Hub RS8000 Fridge Freezer With Ice & Water - STAINLESS STEEL"@en	0
+COL title VAL  "ELECTROLUX EDH803BEWA 8KG HEAT-PUMP DRYER (5 TICKS)"@de	COL title VAL  "9000 Series 8kg Heat Pump Dryer"@en	0
+COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Warm White"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Blanco Frio"@en	0
+COL title VAL  "KitchenAid® 48'' 6-Burner Commercial-Style Gas Rangetop with Griddle KCGC558JSS"@en	COL title VAL  "KitchenAid 48\" 6-Burner Commercial-Style Gas Rangetop with Griddle in Stainless Steel KCGC558JSS"@en	1
+COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	COL title VAL  "AEG 8kg Front Load Dryer"@en	0
+COL title VAL  "Blomberg LWF174310W 7kg Washing Machine"@de	COL title VAL  "Blomberg LWF174310W 7kg 1400 Spin Washing Machine - White - A+++"@de	1
+COL title VAL  "7 Piece Outdoor Furniture Set"@ro	COL title VAL  "McAllen - Multi - Twin Quilt Set"@de	0
+COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	COL title VAL  "7kg Fisher & Paykel Vented Dryer"@no	0
+COL title VAL  "Hotpoint BIWMHG71284 7kg 1200 Spin Integrated Washing Machine"@en	COL title VAL  "Blomberg LWF174310W 7kg 1400 Spin Washing Machine - White - A+++"@de	0
+COL title VAL  "KitchenAid 48\" 6-Burner Commercial-Style Gas Rangetop with Griddle in Stainless Steel KCGC558JSS"@en	COL title VAL  "30" Single Wall Oven in Stainless Steel"@de	0
+COL title VAL  "Samsung 9Kg heat Pump Dryer White"@en	COL title VAL  "Samsung DV90N8289AW 9kg Heat Pump DV8800 Condenser Tumble Dryer - WHITE"@de	1
+COL title VAL  "Neff K1514X7GB 88cm Integrated In Column Larder Fridge"@en	COL title VAL  "Neff T26DS49N0 60cm Gas Hob"@en	0
+COL title VAL  "Samsung NoFrost Freestanding American Fridge Freezer - Inox | RS68N8220S9"@en	COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer"@de	1
+COL title VAL  "FISHER & PAYKEL SMARTDRIVE 8KG FRONT LOADER"@de	COL title VAL  "Fisher & Paykel DE8060P2 8kg SmartTouch Condenser Dryer"@de	0
+COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	COL title VAL  "7kg Simpson Top Load Washing Machine"@en	0
+COL title VAL  "Simpson SWF7025EQWA Ezi Set 7kg Front Load Washing Machine"@en	COL title VAL  "Simpson 7kg EZI Set Top Load Washing Machine MODEL: SWT7055LMWA"@en	0
+COL title VAL  "Neff T26DS49N0 60cm Gas Hob"@en	COL title VAL  "F&P 90cm Gas Cooktop (CG905DWNGFCX3)"@nl	0
+COL title VAL  "FLUORESCENTE T5 35w/830 145cm 3000k"@pl	COL title VAL  "PH TL-5 35W/830 HE"@pl	1
+COL title VAL  "9000 Series 8kg Heat Pump Dryer"@en	COL title VAL  "AEG 8kg Heat Pump Dryer with AbsoluteCare System"@en	0
+COL title VAL  "Blomberg LWF174310W 7kg Washing Machine"@de	COL title VAL  "Simpson SWF7025EQWA Ezi Set 7kg Front Load Washing Machine"@en	0
+COL title VAL  "PE Wicker Daybed Sun Lounge Setting Pool Chair Sofa Bed Lounger Outdoor Furniture"@en	COL title VAL  "Lova Outdoor Black Canopy Lounge Set"@en	1
+COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	COL title VAL  "Gardeon 7PC Sofa Set with Storage Cover Outdoor Furniture Wicker"@en	0
+COL title VAL  "Samsung BRB260130WW Frost Free Built In Fridge Freezer - A+ Energy Rated"@de	COL title VAL  "Samsung NoFrost Freestanding American Fridge Freezer - Inox | RS68N8220S9"@en	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Blanco Frio"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Cool White"@en	1
+COL title VAL  "Whirlpool WGG745S0FS 30 Inch Freestanding Gas Range"@en	COL title VAL  "Neff T26DS49N0 60cm Gas Hob"@en	0
+COL title VAL  "Fisher & Paykel DE8060P2 8kg SmartTouch Condenser Dryer"@de	COL title VAL  "7kg Fisher & Paykel Vented Dryer"@no	0
+COL title VAL  "Fisher & Paykel 8kg Condensor Clothes Dryer"@en	COL title VAL  "Fisher & Paykel DE8060P2 8kg SmartTouch Condenser Dryer"@de	1
+COL title VAL  "Simpson SWF7025EQWA 7kg Front Load Washer"@en	COL title VAL  "FISHER & PAYKEL SMARTDRIVE 8KG FRONT LOADER"@de	0
+COL title VAL  "SAMSUNG Family Hub RS8000 RS68N8941SL American-Style Smart Fridge Freezer – Aluminium Share Sh"@en	COL title VAL  "Samsung NoFrost Freestanding American Fridge Freezer - Inox | RS68N8220S9"@en	0
+COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	COL title VAL  "Fisher & Paykel 9kg Heat Pump Condensing Dryer with LCD Screen"@en	1
+COL title VAL  "Sun Lounger, Wicker, Brown (Set of 2)"@en	COL title VAL  "PE Wicker Daybed Sun Lounge Setting Pool Chair Sofa Bed Lounger Outdoor Furniture"@en	0
+COL title VAL  "7 Piece Outdoor Furniture Set"@ro	COL title VAL  "Gardeon 4-piece Wicker Outdoor Set - Black"@de	0
+COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	COL title VAL  "7 Piece Outdoor Furniture Set"@ro	0
+COL title VAL  "Whirlpool WOD51EC0HS 30\" Stainless Steel Electric Double Wall Oven"@en	COL title VAL  "Whirlpool Double Oven Gas Range - 6.0 cu. ft. Stainless Steel"@en	0
+COL title VAL  "Electrolux 8kg UltimateCare 800 Heat Pump Dryer with WiFi Enable"@en	COL title VAL  "AEG 8kg Heat Pump Dryer with AbsoluteCare System"@en	0
+COL title VAL  "Bosch PCH6A5B90 60cm Serie 6 4 Burner FlameSelect Gas Hob - STAINLESS STEEL"@de	COL title VAL  "Whirlpool Double Oven Gas Range - 6.0 cu. ft. Stainless Steel"@en	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Cool White"@en	COL title VAL  "FLUORESCENTE T5 35w/830 145cm 3000k"@pl	0
+COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer"@de	COL title VAL  "Samsung BRB260130WW Frost Free Built In Fridge Freezer - A+ Energy Rated"@de	0
+COL title VAL  "MASTER TL5 HE 35W 840 G5"@de	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Cool White"@en	0
+COL title VAL  "Hotpoint BIWMHG71284 7kg 1200 Spin Integrated Washing Machine"@en	COL title VAL  "Simpson SWF7025EQWA Ezi Set 7kg Front Load Washing Machine"@en	0
+COL title VAL  "Sun Lounger, Wicker, Brown (Set of 2)"@en	COL title VAL  "9 Seater Wicker Sofa set - Black"@de	0
+COL title VAL  "Simpson SWF7025EQWA Ezi Set 7kg Front Load Washing Machine"@en	COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	0
+COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	COL title VAL  "Fisher & Paykel DE7060G1 7kg Vented Dryer"@no	0
+COL title VAL  "Bosch Serie 6 WAU28S80GB i-DOS Washing Machine"@de	COL title VAL  "Bosch WAU28S80GB iDOS Washing Machine in White 1400rpm 8Kg A+++ Rated"@en	1
+COL title VAL  "Bosch WAU28S80GB iDOS Washing Machine in White 1400rpm 8Kg A+++ Rated"@en	COL title VAL  "Samsung BRB260130WW Frost Free Built In Fridge Freezer - A+ Energy Rated"@de	0
+COL title VAL  "FLUORESCENTE T5 35w/830 145cm 3000k"@pl	COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Warm White"@en	0
+COL title VAL  "Genesis II E-330 Gas Grill LP Smoke"@de	COL title VAL  "Neff T26DS49N0 60cm Gas Hob"@en	0
+COL title VAL  "Whirlpool WOD51EC0HS 30\" Stainless Steel Electric Double Wall Oven"@en	COL title VAL  "Fisher & Paykel WH8060J3 8kg Front Load Washing Machine"@en	0
+COL title VAL  "Hotpoint BI WMHG 71284 UK Integrated Washing Machine - White"@en	COL title VAL  "Blomberg LWF174310W 7kg 1400 Spin Washing Machine - White - A+++"@de	0
+COL title VAL  "2x Sun Lounge Setting Chair Brown Wicker Day Bed Outdoor Furniture Garden Patio"@en	COL title VAL  "Gardeon 4-piece Wicker Outdoor Set - Black"@de	0
+COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	1
+COL title VAL  "Whirlpool WGG745S0FS 30 Inch Freestanding Gas Range"@en	COL title VAL  "Whirlpool WOD51EC0HS 30\" Stainless Steel Electric Double Wall Oven"@en	0
+COL title VAL  "Bosch PCH6A5B90 60cm Serie 6 4 Burner FlameSelect Gas Hob - STAINLESS STEEL"@de	COL title VAL  "Bosch Serie 6 PCH6A5B90 4 Burner Gas Hob"@de	1
+COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	0
+COL title VAL  "Neff K1514X7GB Built In Larder Fridge"@de	COL title VAL  "Neff K1514X7GB 88cm Integrated In Column Larder Fridge"@en	1
+COL title VAL  "FISHER & PAYKEL SMARTDRIVE 8KG FRONT LOADER"@de	COL title VAL  "AEG 8kg Front Load Dryer"@en	0
+COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	COL title VAL  "4-piece Wicker Outdoor Set - Black"@en	0
+COL title VAL  "F&P 90cm Gas Cooktop (CG905DWNGFCX3)"@nl	COL title VAL  "Whirlpool WGG745S0FS 30 Inch Freestanding Gas Range"@en	0
+COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	COL title VAL  "FLUORESCENTE T5 35w/830 145cm 3000k"@pl	0
+COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	COL title VAL  "Fisher & Paykel 8kg Condensor Clothes Dryer"@en	0
+COL title VAL  "Gardeon 4-piece Wicker Outdoor Set - Black"@de	COL title VAL  "Gardeon 9 Seat Outdoor Dining Setting with Cover - Black"@en	0
+COL title VAL  "Samsung BRB260130WW Frost Free Built In Fridge Freezer - A+ Energy Rated"@de	COL title VAL  "Samsung BRB260130WW Integrated 70/30 Frost Free Fridge Freezer"@de	1
+COL title VAL  "AEG 8kg Front Load Dyer"@en	COL title VAL  "Fisher & Paykel WH8060J3 8kg Front Load Washing Machine"@en	0
+COL title VAL  "Samsung 9Kg heat Pump Dryer White"@en	COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	0
+COL title VAL  "Fisher & Paykel WH8060J3 8kg Front Load Washing Machine"@en	COL title VAL  "MASTER TL5 HE 35W 840 G5"@de	0
+COL title VAL  "Simpson SWF7025EQWA 7kg Front Load Washer"@en	COL title VAL  "Simpson SWF7025EQWA Ezi Set 7kg Front Load Washing Machine"@en	1
+COL title VAL  "Hotpoint BI WMHG 71284 UK Integrated Washing Machine - White"@en	COL title VAL  "Hotpoint BIWMHG71284 7kg 1200 Spin Integrated Washing Machine"@en	1
+COL title VAL  "Gas on Steel Cooktop, 90cm, Flush Fit"@en	COL title VAL  "Bosch PCH6A5B90 60cm Serie 6 4 Burner FlameSelect Gas Hob - STAINLESS STEEL"@de	0
+COL title VAL  "Whirlpool Double Oven Gas Range - 6.0 cu. ft. Stainless Steel"@en	COL title VAL  "4-piece Wicker Outdoor Set - Black"@en	0
+COL title VAL  "Neff T26DS49NO Gas Hob with knobs and casy iron pan supports T26DS49N0"@en	COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Warm White"@en	0
+COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	COL title VAL  "2x Sun Lounge Setting Chair Brown Wicker Day Bed Outdoor Furniture Garden Patio"@en	0
+COL title VAL  "Gas on Steel Cooktop, 90cm, Flush Fit"@en	COL title VAL  "Whirlpool Double Oven Gas Range - 6.0 cu. ft. Stainless Steel"@en	0
+COL title VAL  "FISHER & PAYKEL SMARTDRIVE 8KG FRONT LOADER"@de	COL title VAL  "7kg Fisher & Paykel Vented Dryer"@no	0
+COL title VAL  "FISHER & PAYKEL 10KG FRONT LOADER WASHER"@de	COL title VAL  "FISHER & PAYKEL SMARTDRIVE 8KG FRONT LOADER"@de	0
+COL title VAL  "Hotpoint BI WMHG 71284 UK Integrated Washing Machine - White"@en	COL title VAL  "Bosch Serie 8 WIW28500GB Integrated Washing Machine - White"@de	0
+COL title VAL  "Whirlpool Double Oven Gas Range - 6.0 cu. ft. Stainless Steel"@en	COL title VAL  "KitchenAid 48\" 6-Burner Commercial-Style Gas Rangetop with Griddle in Stainless Steel KCGC558JSS"@en	0
+COL title VAL  "Samsung BRB260130WW Frost Free Built In Fridge Freezer - A+ Energy Rated"@de	COL title VAL  "Samsung RS68N8941SL American Style Family Hub RS8000 Fridge Freezer With Ice & Water - STAINLESS STEEL"@en	0
+COL title VAL  "FISHER & PAYKEL SMARTDRIVE 8KG FRONT LOADER"@de	COL title VAL  "Fisher & Paykel 8kg Condensor Clothes Dryer"@en	0
+COL title VAL  "Gardeon 4-piece Wicker Outdoor Set - Black"@de	COL title VAL  "KitchenAid® 48'' 6-Burner Commercial-Style Gas Rangetop with Griddle KCGC558JSS"@en	0
+COL title VAL  "FLUORESCENTE T5 35w/830 145cm 3000k"@pl	COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	0
+COL title VAL  "Bosch Serie 6 WAU28S80GB i-DOS Washing Machine"@de	COL title VAL  "Bosch Serie 6 PCH6A5B90 4 Burner Gas Hob"@de	0
+COL title VAL  "Samsung 9Kg heat Pump Dryer White"@en	COL title VAL  "9000 Series 8kg Heat Pump Dryer"@en	0
+COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	COL title VAL  "FISHER & PAYKEL SMARTDRIVE 8KG FRONT LOADER"@de	0
+COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Blanco Frio"@en	0
+COL title VAL  "Gardeon 7PC Sofa Set with Storage Cover Outdoor Furniture Wicker"@en	COL title VAL  "2x Sun Lounge Setting Chair Brown Wicker Day Bed Outdoor Furniture Garden Patio"@en	0
+COL title VAL  "Whirlpool Double Oven Gas Range - 6.0 cu. ft. Stainless Steel"@en	COL title VAL  "KitchenAid® 48'' 6-Burner Commercial-Style Gas Rangetop with Griddle KCGC558JSS"@en	0
+COL title VAL  "Bosch WIW28500GB Built In Washing Machine"@de	COL title VAL  "Bosch WAU28S80GB iDOS Washing Machine in White 1400rpm 8Kg A+++ Rated"@en	0
+COL title VAL  "Fisher & Paykel WH8060J3 8kg Front Load Washing Machine"@en	COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	0
+COL title VAL  "22.5in Master Touch Black"@de	COL title VAL  "Weber® 22\" Master Touch Charcoal Grill"@en	1
+COL title VAL  "Electrolux 8kg UltimateCare 800 Heat Pump Dryer with WiFi Enable"@en	COL title VAL  "Bosch Serie 6 PCH6A5B90 4 Burner Gas Hob"@de	0
+COL title VAL  "MASTER TL5 HE 35W 840 G5"@de	COL title VAL  "PH TL-5 35W/830 HE"@pl	0
+COL title VAL  "Samsung 9Kg heat Pump Dryer White"@en	COL title VAL  "ELECTROLUX EDH803BEWA 8KG HEAT-PUMP DRYER (5 TICKS)"@de	0
+COL title VAL  "Lova Outdoor Black Canopy Lounge Set"@en	COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	0
+COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Warm White"@en	COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	0
+COL title VAL  "Neff K1514X7GB 88cm Integrated In Column Larder Fridge"@en	COL title VAL  "Samsung BRB260130WW Integrated 70/30 Frost Free Fridge Freezer"@de	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Cool White"@en	COL title VAL  "PH TL-5 35W/830 HE"@pl	0
+COL title VAL  "Gas on Steel Cooktop, 90cm, Flush Fit"@en	COL title VAL  "F&P 90cm Gas Cooktop (CG905DWNGFCX3)"@nl	1
+COL title VAL  "Bosch PCH6A5B90 60cm Serie 6 4 Burner FlameSelect Gas Hob - STAINLESS STEEL"@de	COL title VAL  "Neff T26DS49N0 60cm Gas Hob"@en	0
+COL title VAL  "Fisher & Paykel WH8060J3 8kg Front Load Washing Machine"@en	COL title VAL  "Simpson SWF7025EQWA Ezi Set 7kg Front Load Washing Machine"@en	0
+COL title VAL  "Blomberg LWF174310W 7kg 1400 Spin Washing Machine - White - A+++"@de	COL title VAL  "7kg Simpson Top Load Washing Machine"@en	0
+COL title VAL  "Whirlpool Double Oven Gas Range - 6.0 cu. ft. Stainless Steel"@en	COL title VAL  "10.0 cu. ft. Smart Double Wall Oven with Touchscreen"@en	0
+COL title VAL  "Bosch Serie 6 WAU28S80GB i-DOS Washing Machine"@de	COL title VAL  "Blomberg LWF174310W 7kg Washing Machine"@de	0
+COL title VAL  "Gardeon 9 Seat Outdoor Dining Setting with Cover - Black"@en	COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	0
+COL title VAL  "F&P 90cm Gas Cooktop (CG905DWNGFCX3)"@nl	COL title VAL  "MASTER TL5 HE 35W 840 G5"@de	0
+COL title VAL  "SAMSUNG 30\" Single Wall Oven - Stainless (NV51K6650SS)"@de	COL title VAL  "30" Single Wall Oven in Stainless Steel"@de	1
+COL title VAL  "Blomberg LWF174310W 7kg 1400 Spin Washing Machine - White - A+++"@de	COL title VAL  "Fisher & Paykel WH8060J3 8kg Front Load Washing Machine"@en	0
+COL title VAL  "Fisher & Paykel DE8060P2 8kg SmartTouch Condenser Dryer"@de	COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	0
+COL title VAL  "AEG 8kg Front Load Dyer"@en	COL title VAL  "AEG 8kg Front Load Dryer"@en	0
+COL title VAL  "Fisher & Paykel WH8060J3 8kg Front Load Washing Machine"@en	COL title VAL  "FISHER & PAYKEL SMARTDRIVE 8KG FRONT LOADER"@de	1
+COL title VAL  "Gardeon 7PC Sofa Set with Storage Cover Outdoor Furniture Wicker"@en	COL title VAL  "PE Wicker Daybed Sun Lounge Setting Pool Chair Sofa Bed Lounger Outdoor Furniture"@en	0
+COL title VAL  "Bosch Serie 6 PCH6A5B90 4 Burner Gas Hob"@de	COL title VAL  "KitchenAid 48\" 6-Burner Commercial-Style Gas Rangetop with Griddle in Stainless Steel KCGC558JSS"@en	0
+COL title VAL  "Blomberg LWF174310W 7kg Washing Machine"@de	COL title VAL  "Simpson 7kg EZI Set Top Load Washing Machine MODEL: SWT7055LMWA"@en	0
+COL title VAL  "Fisher & Paykel 9kg Heat Pump Condensing Dryer with LCD Screen"@en	COL title VAL  "Electrolux 8kg UltimateCare 800 Heat Pump Dryer with WiFi Enable"@en	0
+COL title VAL  "2x Sun Lounge Setting Chair Brown Wicker Day Bed Outdoor Furniture Garden Patio"@en	COL title VAL  "Sun Lounger, Wicker, Brown (Set of 2)"@en	1
+COL title VAL  "Bosch WIW28500GB Built In Washing Machine"@de	COL title VAL  "Bosch Serie 6 WAU28S80GB i-DOS Washing Machine"@de	0
+COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	COL title VAL  "FLUORESCENTE T5 35w/830 145cm 3000k"@pl	0
+COL title VAL  "FISHER & PAYKEL 10KG FRONT LOADER WASHER"@de	COL title VAL  "Simpson SWF7025EQWA 7kg Front Load Washer"@en	0
+COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	COL title VAL  "Samsung DV90N8289AW 9kg Heat Pump DV8800 Condenser Tumble Dryer - WHITE"@de	0
+COL title VAL  "Hotpoint BI WMHG 71284 UK Integrated Washing Machine - White"@en	COL title VAL  "Bosch WIW28500GB Built In Washing Machine"@de	0
+COL title VAL  "PH TL-5 35W/830 HE"@pl	COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	0
+COL title VAL  "4-piece Wicker Outdoor Set - Black"@en	COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	0
+COL title VAL  "Bosch WIW28500GB Built In Washing Machine"@de	COL title VAL  "Bosch Serie 8 WIW28500GB Integrated Washing Machine - White"@de	1
+COL title VAL  "7kg Simpson Top Load Washing Machine"@en	COL title VAL  "Simpson SWF7025EQWA 7kg Front Load Washer"@en	0
+COL title VAL  "MASTER TL5 HE 14W/865 1SL"@en	COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Warm White"@en	0
+COL title VAL  "4-piece Wicker Outdoor Set - Black"@en	COL title VAL  "Sun Lounger, Wicker, Brown (Set of 2)"@en	0
+COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	COL title VAL  "MASTER TL5 HE 35W 840 G5"@de	1
+COL title VAL  "Gardeon 4-piece Wicker Outdoor Set - Black"@de	COL title VAL  "4-piece Wicker Outdoor Set - Black"@en	1
+COL title VAL  "7kg Simpson Top Load Washing Machine"@en	COL title VAL  "MASTER TL5 HE 14W/865 1SL"@en	0
+COL title VAL  "FISHER & PAYKEL 10KG FRONT LOADER WASHER"@de	COL title VAL  "Fisher & Paykel WH8060J3 8kg Front Load Washing Machine"@en	0
+COL title VAL  "Blomberg LWF174310W 7kg Washing Machine"@de	COL title VAL  "7kg Simpson Top Load Washing Machine"@en	0
+COL title VAL  "7kg Fisher & Paykel Vented Dryer"@no	COL title VAL  "Fisher & Paykel DE7060G1 7kg Vented Dryer"@no	1
+COL title VAL  "9 Seater Wicker Sofa set - Black"@de	COL title VAL  "Gardeon 9 Seat Outdoor Dining Setting with Cover - Black"@en	1
+COL title VAL  "7 Piece Outdoor Furniture Set"@ro	COL title VAL  "2x Sun Lounge Setting Chair Brown Wicker Day Bed Outdoor Furniture Garden Patio"@en	0
+COL title VAL  "McAllen - Multi - Twin Quilt Set"@de	COL title VAL  "McAllen Signature Design by Ashley Quilt Set Twin"@en	1
+COL title VAL  "AEG 8kg Heat Pump Dryer with AbsoluteCare System"@en	COL title VAL  "Samsung 9Kg heat Pump Dryer White"@en	0
+COL title VAL  "Gardeon 4-piece Wicker Outdoor Set - Black"@de	COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	0
+COL title VAL  "Whirlpool WOD51EC0HS 30\" Stainless Steel Electric Double Wall Oven"@en	COL title VAL  "30" Single Wall Oven in Stainless Steel"@de	0

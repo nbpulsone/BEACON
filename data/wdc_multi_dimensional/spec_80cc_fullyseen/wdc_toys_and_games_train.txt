@@ -1,0 +1,139 @@
+COL title VAL  "Darkness Ablaze Elite Trainer Box - Pokémon TCG"@de	COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Trainer Box"@en	1
+COL title VAL  "Pokémon TCG Sword & Shield Darkness Ablaze"@en	COL title VAL  "Pokémon TCG: Sword & Shield-Rebel Clash 3 Booster Packs, Coin & Rayquaza Promo Card"@en	0
+COL title VAL  "POKEMON POKEMON REBEL CLASH BOOSTER PACK"@vi	COL title VAL  "Pokemon Sword & Shield Rebel Clash Booster"@en	1
+COL title VAL  "Pokemon Sword & Shield Booster pack"@en	COL title VAL  "Pokemon Booster Pack Sword & Shield"@af	1
+COL title VAL  "Pokemon Sword & Shield Booster pack"@en	COL title VAL  "Pokemon Booster Pack Pokemon Sword and Shield"@en	1
+COL title VAL  "Pokemon Darkness Ablaze Booster Pack"@de	COL title VAL  "Pokemon TCG: Sword & Shield - Darkness Ablaze Booster"@de	1
+COL title VAL  "Pokemon TCG: Sword & Shield 2 Rebel Clash Booster"@en	COL title VAL  "Pokemon Sword & Shield Rebel Clash Booster"@en	1
+COL title VAL  "Pokemon Booster Pack Sword & Shield"@af	COL title VAL  "Pokemon TCG: Sword & Shield Boosters"@af	1
+COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Booster"@en	COL title VAL  "PKM - Pokémon - Sword & Shield - Rebel Clash Booster"@en	1
+COL title VAL  "Pokemon TCG: Sword & Shield 2 Rebel Clash Booster"@en	COL title VAL  "Pokémon: Sword & Shield 2 - Rebel Clash Booster"@en	1
+COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER"@en	COL title VAL  "Pokemon Sword & Shield Booster pack"@en	0
+COL title VAL  "Pokemon Darkness Ablaze Booster Pack"@de	COL title VAL  "Pokemon Booster Pack Sword & Shield"@af	0
+COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Trainer Box"@en	COL title VAL  "Pokémon TCG Sword & Shield Darkness Ablaze"@en	0
+COL title VAL  "Pokemon TCG: Sword & Shield Boosters"@af	COL title VAL  "Pokemon Pokemon: Darkness Ablaze Bstr"@sl	0
+COL title VAL  "Pokémon TCG Sword & Shield Darkness Ablaze"@en	COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Booster"@en	0
+COL title VAL  "Pokemon Booster Pack Pokemon Sword and Shield"@en	COL title VAL  "Pokemon TCG:Sword and Shield Rebel Clash Three Booster Blister- Dural"@en	0
+COL title VAL  "Pokémon TCG Elite Trainer Box Darkness Ablaze"@de	COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Trainer Box"@en	1
+COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER RAYQUAZA"@en	COL title VAL  "POKEMON TCG SWORD AND SHIELD DARKNESS ABLAZE BOOSTER PACK"@de	0
+COL title VAL  "Pokémon TCG: Sword & Shield - Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Trainer Box"@en	1
+COL title VAL  "POKEMON TCG SWORD AND SHIELD DARKNESS ABLAZE BOOSTER PACK"@de	COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Booster"@en	0
+COL title VAL  "POKEMON TCG SWORD AND SHIELD DARKNESS ABLAZE BOOSTER PACK"@de	COL title VAL  "Pokemon Booster Pack Sword & Shield"@af	0
+COL title VAL  "Darkness Ablaze Elite Trainer Box - Pokémon TCG"@de	COL title VAL  "Pokémon TCG: Sword & Shield - Darkness Ablaze Elite Trainer Box"@de	1
+COL title VAL  "Pokémon TCG: Sword & Shield-Rebel Clash 3 Booster Packs, Coin & Rayquaza Promo Card"@en	COL title VAL  "Pokémon TCG Elite Trainer Box Darkness Ablaze"@de	0
+COL title VAL  "Pokemon Pokemon: Darkness Ablaze Bstr"@sl	COL title VAL  "POKEMON POKEMON REBEL CLASH BOOSTER PACK"@vi	0
+COL title VAL  "Pokémon TCG: Sword & Shield-Rebel Clash 3 Booster Packs, Coin & Rayquaza Promo Card"@en	COL title VAL  "Pokemon Booster Pack Pokemon Sword and Shield"@en	0
+COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER"@en	COL title VAL  "Pokemon Sword & Shield Rebel Clash Booster"@en	0
+COL title VAL  "Pokémon TCG Sword & Shield Darkness Ablaze"@en	COL title VAL  "Pokemon Pokemon: Darkness Ablaze Bstr"@sl	1
+COL title VAL  "Pokémon TCG Elite Trainer Box Darkness Ablaze"@de	COL title VAL  "Pokemon TCG: Sword & Shield 3 Darkness Ablaze Elite Trainer Box"@de	1
+COL title VAL  "Pokemon TCG: Sword & Shield - Darkness Ablaze Booster"@de	COL title VAL  "Pokémon TCG: Sword & Shield-Rebel Clash 3 Booster Packs, Coin & Rayquaza Promo Card"@en	0
+COL title VAL  "Pokémon TCG Elite Trainer Box Darkness Ablaze"@de	COL title VAL  "Darkness Ablaze Elite Trainer Box - Pokémon TCG"@de	1
+COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER RAYQUAZA"@en	COL title VAL  "Pokémon TCG: Sword & Shield-Rebel Clash 3 Booster Packs, Coin & Rayquaza Promo Card"@en	1
+COL title VAL  "Pokemon Booster Pack Sword & Shield"@af	COL title VAL  "Pokemon Pokemon Sword&Shield Booster"@af	1
+COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER"@en	COL title VAL  "Pokemon TCG Rebel Clash Booster Pack"@en	0
+COL title VAL  "Pokemon TCG: Sword & Shield - Darkness Ablaze Booster"@de	COL title VAL  "Pokemon TCG: Sword & Shield Boosters"@af	0
+COL title VAL  "Pokemon SWSH3: Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "Pokémon TCG: Sword & Shield - Darkness Ablaze Elite Trainer Box"@de	1
+COL title VAL  "Pokémon TCG Sword & Shield Darkness Ablaze"@en	COL title VAL  "Pokémon TCG Elite Trainer Box Darkness Ablaze"@de	0
+COL title VAL  "Pokemon TCG: Sword & Shield - Darkness Ablaze Booster"@de	COL title VAL  "Pokemon Pokemon Sword&Shield Booster"@af	0
+COL title VAL  "Pokemon TCG:Sword and Shield Rebel Clash Three Booster Blister- Dural"@en	COL title VAL  "Pokémon TCG: Sword & Shield-Rebel Clash 3 Booster Packs, Coin & Rayquaza Promo Card"@en	1
+COL title VAL  "Pokémon: Sword & Shield 2 - Rebel Clash Booster"@en	COL title VAL  "Pokemon Sword & Shield Booster pack"@en	0
+COL title VAL  "Pokemon Booster Pack Pokemon Sword and Shield"@en	COL title VAL  "Pokemon Pokemon Sword&Shield Booster"@af	1
+COL title VAL  "Pokemon Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "Pokemon TCG: Sword & Shield 3 Darkness Ablaze Elite Trainer Box"@de	1
+COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER"@en	COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Booster"@en	0
+COL title VAL  "Pokemon Booster Pack Pokemon Sword and Shield"@en	COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER RAYQUAZA"@en	0
+COL title VAL  "Pokemon TCG: Sword & Shield 2 Rebel Clash Booster"@en	COL title VAL  "Pokemon TCG Rebel Clash Booster Pack"@en	1
+COL title VAL  "Pokemon Sword & Shield Rebel Clash Booster"@en	COL title VAL  "Pokemon TCG Rebel Clash Booster Pack"@en	1
+COL title VAL  "Pokemon Pokemon: Darkness Ablaze Bstr"@sl	COL title VAL  "Pokemon Darkness Ablaze Elite Trainer Box"@de	0
+COL title VAL  "Pokemon Pokemon: Darkness Ablaze Bstr"@sl	COL title VAL  "Pokemon SWSH3: Darkness Ablaze Elite Trainer Box"@de	0
+COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Booster"@en	COL title VAL  "Pokémon TCG Elite Trainer Box Darkness Ablaze"@de	0
+COL title VAL  "Pokemon Booster Pack Sword & Shield"@af	COL title VAL  "Pokémon: Sword & Shield 2 - Rebel Clash Booster"@en	0
+COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Booster"@en	COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Trainer Box"@en	0
+COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Booster"@en	COL title VAL  "Pokémon TCG: Sword & Shield-Rebel Clash 3 Booster Packs, Coin & Rayquaza Promo Card"@en	0
+COL title VAL  "Pokemon Darkness Ablaze Booster Pack"@de	COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Trainer Box"@en	0
+COL title VAL  "Pokemon Pokemon Sword&Shield Booster"@af	COL title VAL  "Pokemon TCG: Sword & Shield Boosters"@af	1
+COL title VAL  "Pokemon Sword & Shield Booster pack"@en	COL title VAL  "Pokemon TCG: Sword & Shield Boosters"@af	1
+COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER"@en	COL title VAL  "Pokemon TCG:Sword and Shield Rebel Clash Three Booster Blister- Dural"@en	1
+COL title VAL  "Pokemon TCG: Sword & Shield 2 Rebel Clash Booster"@en	COL title VAL  "PKM - Pokémon - Sword & Shield - Rebel Clash Booster"@en	1
+COL title VAL  "Pokemon Pokemon: Darkness Ablaze Bstr"@sl	COL title VAL  "Pokemon TCG: Sword & Shield 3 Darkness Ablaze Elite Trainer Box"@de	0
+COL title VAL  "Pokémon TCG Sword & Shield Darkness Ablaze"@en	COL title VAL  "Darkness Ablaze Elite Trainer Box - Pokémon TCG"@de	0
+COL title VAL  "Pokemon Pokemon Sword&Shield Booster"@af	COL title VAL  "Pokémon: Sword & Shield 2 - Rebel Clash Booster"@en	0
+COL title VAL  "Pokémon TCG Elite Trainer Box Darkness Ablaze"@de	COL title VAL  "Pokemon Darkness Ablaze Elite Trainer Box"@de	1
+COL title VAL  "Darkness Ablaze Elite Trainer Box - Pokémon TCG"@de	COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER"@en	0
+COL title VAL  "Pokemon Sword & Shield Booster pack"@en	COL title VAL  "Pokemon Pokemon Sword&Shield Booster"@af	1
+COL title VAL  "POKEMON TCG SWORD AND SHIELD DARKNESS ABLAZE BOOSTER PACK"@de	COL title VAL  "Pokemon Darkness Ablaze Booster Pack"@de	1
+COL title VAL  "Pokémon: Sword & Shield 2 - Rebel Clash Booster"@en	COL title VAL  "Pokémon TCG Sword & Shield Darkness Ablaze"@en	0
+COL title VAL  "Pokemon Booster Pack Pokemon Sword and Shield"@en	COL title VAL  "Pokemon TCG: Sword & Shield Boosters"@af	1
+COL title VAL  "Pokémon TCG: Sword & Shield - Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "Pokemon TCG: Sword & Shield 3 Darkness Ablaze Elite Trainer Box"@de	1
+COL title VAL  "Pokemon Booster Pack Pokemon Sword and Shield"@en	COL title VAL  "Pokemon Booster Pack Sword & Shield"@af	1
+COL title VAL  "Pokemon TCG: Sword & Shield 2 Rebel Clash Booster"@en	COL title VAL  "POKEMON POKEMON REBEL CLASH BOOSTER PACK"@vi	1
+COL title VAL  "Pokemon Booster Pack Pokemon Sword and Shield"@en	COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Trainer Box"@en	0
+COL title VAL  "POKEMON POKEMON REBEL CLASH BOOSTER PACK"@vi	COL title VAL  "Pokemon Sword & Shield Booster pack"@en	0
+COL title VAL  "Pokemon Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Trainer Box"@en	1
+COL title VAL  "POKEMON TCG SWORD AND SHIELD DARKNESS ABLAZE BOOSTER PACK"@de	COL title VAL  "Pokemon TCG:Sword and Shield Rebel Clash Three Booster Blister- Dural"@en	0
+COL title VAL  "Pokemon SWSH3: Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Trainer Box"@en	1
+COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Trainer Box"@en	COL title VAL  "POKEMON TCG SWORD AND SHIELD DARKNESS ABLAZE BOOSTER PACK"@de	0
+COL title VAL  "Pokemon Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "Pokemon SWSH3: Darkness Ablaze Elite Trainer Box"@de	1
+COL title VAL  "Pokemon Booster Pack Pokemon Sword and Shield"@en	COL title VAL  "Pokemon Sword & Shield Rebel Clash Booster"@en	0
+COL title VAL  "Pokemon TCG: Sword & Shield 3 Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Booster"@en	0
+COL title VAL  "Pokemon Sword & Shield Rebel Clash Booster"@en	COL title VAL  "Pokemon Pokemon Sword&Shield Booster"@af	0
+COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Trainer Box"@en	COL title VAL  "Pokemon TCG: Sword & Shield Boosters"@af	0
+COL title VAL  "Pokemon TCG Rebel Clash Booster Pack"@en	COL title VAL  "PKM - Pokémon - Sword & Shield - Rebel Clash Booster"@en	1
+COL title VAL  "PKM - Pokémon - Sword & Shield - Rebel Clash Booster"@en	COL title VAL  "Pokémon: Sword & Shield 2 - Rebel Clash Booster"@en	1
+COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Booster"@en	COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER RAYQUAZA"@en	0
+COL title VAL  "Pokemon Pokemon: Darkness Ablaze Bstr"@sl	COL title VAL  "Pokemon TCG: Sword & Shield - Darkness Ablaze Booster"@de	1
+COL title VAL  "Pokemon Pokemon Sword&Shield Booster"@af	COL title VAL  "PKM - Pokémon - Sword & Shield - Rebel Clash Booster"@en	0
+COL title VAL  "Pokémon TCG Sword & Shield Darkness Ablaze"@en	COL title VAL  "PKM - Pokémon - Sword & Shield - Rebel Clash Booster"@en	0
+COL title VAL  "Pokémon: Sword & Shield 2 - Rebel Clash Booster"@en	COL title VAL  "POKEMON POKEMON REBEL CLASH BOOSTER PACK"@vi	1
+COL title VAL  "Pokemon Booster Pack Pokemon Sword and Shield"@en	COL title VAL  "Pokemon TCG: Sword & Shield - Darkness Ablaze Booster"@de	0
+COL title VAL  "Pokemon TCG: Sword & Shield - Darkness Ablaze Booster"@de	COL title VAL  "POKEMON TCG SWORD AND SHIELD DARKNESS ABLAZE BOOSTER PACK"@de	1
+COL title VAL  "Pokemon Sword & Shield Rebel Clash Booster"@en	COL title VAL  "PKM - Pokémon - Sword & Shield - Rebel Clash Booster"@en	1
+COL title VAL  "Pokemon Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "Darkness Ablaze Elite Trainer Box - Pokémon TCG"@de	1
+COL title VAL  "PKM - Pokémon - Sword & Shield - Rebel Clash Booster"@en	COL title VAL  "POKEMON POKEMON REBEL CLASH BOOSTER PACK"@vi	1
+COL title VAL  "Pokémon TCG Sword & Shield Darkness Ablaze"@en	COL title VAL  "Pokemon Pokemon Sword&Shield Booster"@af	0
+COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER"@en	COL title VAL  "Pokemon TCG: Sword & Shield 2 Rebel Clash Booster"@en	0
+COL title VAL  "POKEMON TCG SWORD AND SHIELD DARKNESS ABLAZE BOOSTER PACK"@de	COL title VAL  "Pokemon Sword & Shield Booster pack"@en	0
+COL title VAL  "Pokemon TCG: Sword & Shield - Darkness Ablaze Booster"@de	COL title VAL  "Pokemon TCG: Sword & Shield 2 Rebel Clash Booster"@en	0
+COL title VAL  "Pokemon Booster Pack Pokemon Sword and Shield"@en	COL title VAL  "POKEMON TCG SWORD AND SHIELD DARKNESS ABLAZE BOOSTER PACK"@de	0
+COL title VAL  "Pokémon: Sword & Shield 2 - Rebel Clash Booster"@en	COL title VAL  "Pokemon Sword & Shield Rebel Clash Booster"@en	1
+COL title VAL  "Pokémon TCG: Sword & Shield-Rebel Clash 3 Booster Packs, Coin & Rayquaza Promo Card"@en	COL title VAL  "PKM - Pokémon - Sword & Shield - Rebel Clash Booster"@en	0
+COL title VAL  "Pokemon TCG: Sword & Shield Boosters"@af	COL title VAL  "Pokemon TCG: Sword & Shield 2 Rebel Clash Booster"@en	0
+COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Booster"@en	COL title VAL  "Pokemon TCG: Sword & Shield 2 Rebel Clash Booster"@en	1
+COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Booster"@en	COL title VAL  "Pokémon: Sword & Shield 2 - Rebel Clash Booster"@en	1
+COL title VAL  "Pokemon Pokemon Sword&Shield Booster"@af	COL title VAL  "POKEMON TCG SWORD AND SHIELD DARKNESS ABLAZE BOOSTER PACK"@de	0
+COL title VAL  "Pokemon TCG:Sword and Shield Rebel Clash Three Booster Blister- Dural"@en	COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER RAYQUAZA"@en	1
+COL title VAL  "Pokemon Booster Pack Pokemon Sword and Shield"@en	COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Booster"@en	0
+COL title VAL  "Pokemon TCG: Sword & Shield 3 Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "Pokemon TCG: Sword & Shield - Darkness Ablaze Booster"@de	0
+COL title VAL  "Pokemon Darkness Ablaze Booster Pack"@de	COL title VAL  "POKEMON POKEMON REBEL CLASH BOOSTER PACK"@vi	0
+COL title VAL  "Pokemon Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "Pokémon TCG: Sword & Shield - Darkness Ablaze Elite Trainer Box"@de	1
+COL title VAL  "Darkness Ablaze Elite Trainer Box - Pokémon TCG"@de	COL title VAL  "Pokemon SWSH3: Darkness Ablaze Elite Trainer Box"@de	1
+COL title VAL  "Pokemon SWSH3: Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "Pokemon TCG: Sword & Shield 3 Darkness Ablaze Elite Trainer Box"@de	1
+COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER RAYQUAZA"@en	COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER"@en	1
+COL title VAL  "POKEMON TCG SWORD AND SHIELD DARKNESS ABLAZE BOOSTER PACK"@de	COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER"@en	0
+COL title VAL  "Pokémon TCG Sword & Shield Darkness Ablaze"@en	COL title VAL  "Pokemon TCG: Sword & Shield 3 Darkness Ablaze Elite Trainer Box"@de	0
+COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Booster"@en	COL title VAL  "Pokemon Sword & Shield Rebel Clash Booster"@en	1
+COL title VAL  "Pokemon Pokemon Sword&Shield Booster"@af	COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER"@en	0
+COL title VAL  "Pokemon Darkness Ablaze Booster Pack"@de	COL title VAL  "Pokémon TCG Sword & Shield Darkness Ablaze"@en	1
+COL title VAL  "Pokémon TCG: Sword & Shield - Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "Pokémon TCG Sword & Shield Darkness Ablaze"@en	0
+COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER"@en	COL title VAL  "Pokemon Booster Pack Sword & Shield"@af	0
+COL title VAL  "Darkness Ablaze Elite Trainer Box - Pokémon TCG"@de	COL title VAL  "Pokemon TCG: Sword & Shield 3 Darkness Ablaze Elite Trainer Box"@de	1
+COL title VAL  "POKEMON POKEMON REBEL CLASH BOOSTER PACK"@vi	COL title VAL  "Pokemon TCG Rebel Clash Booster Pack"@en	1
+COL title VAL  "Pokemon SWSH3: Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "Pokémon TCG Elite Trainer Box Darkness Ablaze"@de	1
+COL title VAL  "POKEMON POKEMON REBEL CLASH BOOSTER PACK"@vi	COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Booster"@en	1
+COL title VAL  "POKÉMON TCG Sword and Shield- Darkness Ablaze Trainer Box"@en	COL title VAL  "Pokemon TCG: Sword & Shield 3 Darkness Ablaze Elite Trainer Box"@de	1
+COL title VAL  "Pokémon TCG: Sword & Shield - Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "Pokémon TCG Elite Trainer Box Darkness Ablaze"@de	1
+COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER"@en	COL title VAL  "Pokémon TCG: Sword & Shield-Rebel Clash 3 Booster Packs, Coin & Rayquaza Promo Card"@en	1
+COL title VAL  "Pokemon Sword & Shield Rebel Clash Booster"@en	COL title VAL  "Pokemon SWSH3: Darkness Ablaze Elite Trainer Box"@de	0
+COL title VAL  "Pokémon TCG: Sword & Shield-Rebel Clash 3 Booster Packs, Coin & Rayquaza Promo Card"@en	COL title VAL  "Pokémon: Sword & Shield 2 - Rebel Clash Booster"@en	0
+COL title VAL  "Pokemon TCG: Sword & Shield - Darkness Ablaze Booster"@de	COL title VAL  "Pokémon TCG Sword & Shield Darkness Ablaze"@en	1
+COL title VAL  "Pokemon TCG:Sword and Shield Rebel Clash Three Booster Blister- Dural"@en	COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Booster"@en	0
+COL title VAL  "Pokemon TCG: Sword & Shield Boosters"@af	COL title VAL  "Pokemon Sword & Shield Rebel Clash Booster"@en	0
+COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER"@en	COL title VAL  "POKEMON POKEMON REBEL CLASH BOOSTER PACK"@vi	0
+COL title VAL  "Pokemon Pokemon: Darkness Ablaze Bstr"@sl	COL title VAL  "POKEMON TCG SWORD AND SHIELD DARKNESS ABLAZE BOOSTER PACK"@de	1
+COL title VAL  "Pokémon: Sword & Shield 2 - Rebel Clash Booster"@en	COL title VAL  "Pokemon TCG Rebel Clash Booster Pack"@en	1
+COL title VAL  "Pokemon Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "Pokemon Pokemon Sword&Shield Booster"@af	0
+COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Booster"@en	COL title VAL  "Pokémon TCG: Sword & Shield - Darkness Ablaze Elite Trainer Box"@de	0
+COL title VAL  "Pokemon Booster Pack Pokemon Sword and Shield"@en	COL title VAL  "POKEMON TCG: SWORD AND SHIELD REBEL CLASH THREE-BOOSTER BLISTER"@en	0
+COL title VAL  "Pokemon TCG Rebel Clash Booster Pack"@en	COL title VAL  "Pokémon TCG Sword And Shield- Rebel Clash Booster"@en	1
+COL title VAL  "Pokemon Pokemon: Darkness Ablaze Bstr"@sl	COL title VAL  "Pokemon Darkness Ablaze Booster Pack"@de	1
+COL title VAL  "Pokemon TCG: Sword & Shield Boosters"@af	COL title VAL  "Pokemon TCG: Sword & Shield 3 Darkness Ablaze Elite Trainer Box"@de	0
+COL title VAL  "Pokémon TCG Sword & Shield Darkness Ablaze"@en	COL title VAL  "POKEMON TCG SWORD AND SHIELD DARKNESS ABLAZE BOOSTER PACK"@de	1

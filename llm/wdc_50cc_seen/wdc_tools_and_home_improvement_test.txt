@@ -1,0 +1,10 @@
+COL title VAL  "Park Tool PH-1.2 P-Handle Hex Wrench Set"@en	COL title VAL  "PH-1.2 P-Handle Bike Hex Set with Holder"@de	1
+COL title VAL  "CFL SQUARE Brezel 16W 835 GR10Q 4-Pin"@de	COL title VAL  "CFL SQUARE 16 W/835 GR10Q"@so	1
+COL title VAL  "Park Tool Park Tool CT-5 Compact Chain Tool"@en	COL title VAL  "Park Tool PH-1.2 P-Handle Hex Wrench Set"@en	0
+COL title VAL  "Victron MultiPlus Compact Inverter Charger 12V/2000VA/80A"@en	COL title VAL  "Victron MultiPlus Compact 12/2000/80-30 230V VE.Bus"@en	1
+COL title VAL  "Park Tool BOTTOM BRKT CUP TOOL SHIM & ISIS CARTRIDGE (BBT2C)"@en	COL title VAL  "Park Tool CT-5, Portable chain Tool"@en	0
+COL title VAL  "BBT-22 Bottom Bracket Tool"@en	COL title VAL  "Park Tool BOTTOM BRKT CUP TOOL SHIM & ISIS CARTRIDGE (BBT2C)"@en	1
+COL title VAL  "Park Tool BOTTOM BRKT CUP TOOL SHIM & ISIS CARTRIDGE (BBT2C)"@en	COL title VAL  "Park Tool PH-1.2 P-Handle Hex Wrench Set"@en	0
+COL title VAL  "Victron MultiPlus Compact Inverter Charger 12V/2000VA/80A"@en	COL title VAL  "Park Tool Park Tool CT-5 Compact Chain Tool"@en	0
+COL title VAL  "Park Tool Park Tool CT-5 Compact Chain Tool"@en	COL title VAL  "Park Tool BOTTOM BRKT CUP TOOL SHIM & ISIS CARTRIDGE (BBT2C)"@en	0
+COL title VAL  "Park Tool Park Tool CT-5 Compact Chain Tool"@en	COL title VAL  "Park Tool CT-5, Portable chain Tool"@en	1

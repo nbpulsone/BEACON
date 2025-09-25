@@ -1,0 +1,40 @@
+COL title VAL  "TV LED 55 XIAOMI MI TV 4S 4K-UHD SMART TV - VERSION ESP"@de	COL title VAL  "SAMSUNG 50\" 4K UHD Smart QLED TV (QN50Q60T)"@en	0
+COL title VAL  "LED TV 55" PHILIPS 55PUS7304/12"@de	COL title VAL  "Philips 50\" Flachbild TV *DEMO* 50PUS7504 7500 Series - 50\" LED TV - LED - 4K"@de	0
+COL title VAL  "Philips 55PUS7304/12 55" (140 cm) 4K Slim LED TV"@vi	COL title VAL  "LED TV 55" PHILIPS 55PUS7304/12"@de	1
+COL title VAL  "55" Class TU7000 Crystal UHD 4K Smart TV (2020)"@en	COL title VAL  "SAMSUNG 50\" 4K UHD Smart QLED TV (QN50Q60T)"@en	0
+COL title VAL  "LED TV 55" PHILIPS 55PUS7304/12"@de	COL title VAL  "TV LED 55 XIAOMI MI TV 4S 4K-UHD SMART TV - VERSION ESP"@de	0
+COL title VAL  "55" Class TU7000 Crystal UHD 4K Smart TV (2020)"@en	COL title VAL  "TV LED 55 XIAOMI MI TV 4S 4K-UHD SMART TV - VERSION ESP"@de	0
+COL title VAL  "55 IN FLAT LED 4K TV"@en	COL title VAL  "LED TV 55" PHILIPS 55PUS7304/12"@de	0
+COL title VAL  "Philips 55PUS7304/12 55" (140 cm) 4K Slim LED TV"@vi	COL title VAL  "Lg Led 4K 49UK6300PLB AI"@en	0
+COL title VAL  "Philips 50\" Flachbild TV *DEMO* 50PUS7504 7500 Series - 50\" LED TV - LED - 4K"@de	COL title VAL  "LG 49\" 4K Ultra HD Flat LED Smart TV"@ca	0
+COL title VAL  "LG 49\" 4K Ultra HD Flat LED Smart TV"@ca	COL title VAL  "TV LED 55 XIAOMI MI TV 4S 4K-UHD SMART TV - VERSION ESP"@de	0
+COL title VAL  "Philips 50\" Flachbild TV *DEMO* 50PUS7504 7500 Series - 50\" LED TV - LED - 4K"@de	COL title VAL  "Lg Led 4K 49UK6300PLB AI"@en	0
+COL title VAL  "SAMSUNG 50\" 4K UHD Smart QLED TV (QN50Q60T)"@en	COL title VAL  "Samsung 50\" 4K UHD HDR QLED Smart TV (QN50Q60TAFXZC)"@id	1
+COL title VAL  "Samsung 50\" 4K UHD HDR QLED Smart TV (QN50Q60TAFXZC)"@id	COL title VAL  "LG 49\" 4K Ultra HD Flat LED Smart TV"@ca	0
+COL title VAL  "LG 49\" 4K Ultra HD Flat LED Smart TV"@ca	COL title VAL  "Lg Led 4K 49UK6300PLB AI"@en	1
+COL title VAL  "TV LED 55 XIAOMI MI TV 4S 4K-UHD SMART TV - VERSION ESP"@de	COL title VAL  "55 IN FLAT LED 4K TV"@en	0
+COL title VAL  "Philips 50\" Flachbild TV *DEMO* 50PUS7504 7500 Series - 50\" LED TV - LED - 4K"@de	COL title VAL  "Recenzie Televizor LED Smart Android Philips, 126 cm, 50PUS7504/12, 4K Ultra HD - Reduceri Pret"@ro	1
+COL title VAL  "SONY BRAVIA KDL32WE613BU 32\" HDR LED TV"@de	COL title VAL  "Sony BRAVIA KDL32WE613BU 32\" HD Ready HDR LED Smart TV with Freeview HD"@en	1
+COL title VAL  "55 IN FLAT LED 4K TV"@en	COL title VAL  "SONY BRAVIA KDL32WE613BU 32\" HDR LED TV"@de	0
+COL title VAL  "Philips 55PUS7304/12 55" (140 cm) 4K Slim LED TV"@vi	COL title VAL  "Philips 50\" Flachbild TV *DEMO* 50PUS7504 7500 Series - 50\" LED TV - LED - 4K"@de	0
+COL title VAL  "TV LED 55 XIAOMI MI TV 4S 4K-UHD SMART TV - VERSION ESP"@de	COL title VAL  "Samsung 50\" 4K UHD HDR QLED Smart TV (QN50Q60TAFXZC)"@id	0
+COL title VAL  "55 IN FLAT LED 4K TV"@en	COL title VAL  "55" Class TU7000 Crystal UHD 4K Smart TV (2020)"@en	1
+COL title VAL  "SAMSUNG 50\" 4K UHD Smart QLED TV (QN50Q60T)"@en	COL title VAL  "Philips 50\" Flachbild TV *DEMO* 50PUS7504 7500 Series - 50\" LED TV - LED - 4K"@de	0
+COL title VAL  "Smart TV Xiaomi Mi TV 4S 55\" 4K Ultra HD LED WiFi Zwart"@de	COL title VAL  "Sony BRAVIA KDL32WE613BU 32\" HD Ready HDR LED Smart TV with Freeview HD"@en	0
+COL title VAL  "SONY BRAVIA KDL32WE613BU 32\" HDR LED TV"@de	COL title VAL  "Samsung 50\" 4K UHD HDR QLED Smart TV (QN50Q60TAFXZC)"@id	0
+COL title VAL  "Philips 55PUS7304/12 55" (140 cm) 4K Slim LED TV"@vi	COL title VAL  "TV LED 55 XIAOMI MI TV 4S 4K-UHD SMART TV - VERSION ESP"@de	0
+COL title VAL  "LG 49\" 4K Ultra HD Flat LED Smart TV"@ca	COL title VAL  "Smart TV Xiaomi Mi TV 4S 55\" 4K Ultra HD LED WiFi Zwart"@de	0
+COL title VAL  "55 IN FLAT LED 4K TV"@en	COL title VAL  "LG 49\" 4K Ultra HD Flat LED Smart TV"@ca	0
+COL title VAL  "55" Class TU7000 Crystal UHD 4K Smart TV (2020)"@en	COL title VAL  "Samsung 50\" 4K UHD HDR QLED Smart TV (QN50Q60TAFXZC)"@id	0
+COL title VAL  "55 IN FLAT LED 4K TV"@en	COL title VAL  "Philips 55PUS7304/12 55" (140 cm) 4K Slim LED TV"@vi	0
+COL title VAL  "Philips 55PUS7304/12 55" (140 cm) 4K Slim LED TV"@vi	COL title VAL  "Recenzie Televizor LED Smart Android Philips, 126 cm, 50PUS7504/12, 4K Ultra HD - Reduceri Pret"@ro	0
+COL title VAL  "LG 49\" 4K Ultra HD Flat LED Smart TV"@ca	COL title VAL  "Sony BRAVIA KDL32WE613BU 32\" HD Ready HDR LED Smart TV with Freeview HD"@en	0
+COL title VAL  "SAMSUNG 50\" 4K UHD Smart QLED TV (QN50Q60T)"@en	COL title VAL  "LG 49\" 4K Ultra HD Flat LED Smart TV"@ca	0
+COL title VAL  "LED TV 55" PHILIPS 55PUS7304/12"@de	COL title VAL  "SONY BRAVIA KDL32WE613BU 32\" HDR LED TV"@de	0
+COL title VAL  "LG 49\" 4K Ultra HD Flat LED Smart TV"@ca	COL title VAL  "55" Class TU7000 Crystal UHD 4K Smart TV (2020)"@en	0
+COL title VAL  "LG 49\" 4K Ultra HD Flat LED Smart TV"@ca	COL title VAL  "Recenzie Televizor LED Smart Android Philips, 126 cm, 50PUS7504/12, 4K Ultra HD - Reduceri Pret"@ro	0
+COL title VAL  "Samsung 50\" 4K UHD HDR QLED Smart TV (QN50Q60TAFXZC)"@id	COL title VAL  "Sony BRAVIA KDL32WE613BU 32\" HD Ready HDR LED Smart TV with Freeview HD"@en	0
+COL title VAL  "Recenzie Televizor LED Smart Android Philips, 126 cm, 50PUS7504/12, 4K Ultra HD - Reduceri Pret"@ro	COL title VAL  "Smart TV Xiaomi Mi TV 4S 55\" 4K Ultra HD LED WiFi Zwart"@de	0
+COL title VAL  "55 IN FLAT LED 4K TV"@en	COL title VAL  "Lg Led 4K 49UK6300PLB AI"@en	0
+COL title VAL  "Philips 50\" Flachbild TV *DEMO* 50PUS7504 7500 Series - 50\" LED TV - LED - 4K"@de	COL title VAL  "TV LED 55 XIAOMI MI TV 4S 4K-UHD SMART TV - VERSION ESP"@de	0
+COL title VAL  "TV LED 55 XIAOMI MI TV 4S 4K-UHD SMART TV - VERSION ESP"@de	COL title VAL  "Smart TV Xiaomi Mi TV 4S 55\" 4K Ultra HD LED WiFi Zwart"@de	1

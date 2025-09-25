@@ -1,0 +1,40 @@
+COL title VAL  "Kape New Era Oakland Raiders HM Knitted Cap"@en	COL title VAL  "Bonnet New Era Oakland Raiders HM Knitted Cap"@en	1
+COL title VAL  "Gorra New Era NY Yankees 39Thirty Cap"@en	COL title VAL  "Cappello New Era NY Yankees 39Thirty Cap"@en	1
+COL title VAL  "Cap New Era Clean Trucker Chicago Bulls Cap"@en	COL title VAL  "Šiltovka New Era Clean Trucker Chicago Bulls Cap"@en	1
+COL title VAL  "Šilterica New Era NFL New Orleans Saints 9Fifty Cap"@en	COL title VAL  "New Era NY Yankees MLB 9Fifty Cap Baseball sapka"@en	0
+COL title VAL  "Cap New Era Clean Trucker Chicago Bulls Cap"@en	COL title VAL  "Šiltovka New Era Clean Trucker 2 NY Yankees Cap"@en	0
+COL title VAL  "Casquette New Era NY Yankees MLB 9Fifty Cap"@en	COL title VAL  "Sapca New Era Clean Trucker 2 NY Yankees Cap"@en	0
+COL title VAL  "Cappello New Era NY Yankees 39Thirty Cap"@en	COL title VAL  "Šiltovka New Era Clean Trucker 2 NY Yankees Cap"@en	0
+COL title VAL  "Šiltovka New Era Clean Trucker Chicago Bulls Cap"@en	COL title VAL  "Šiltovka New Era Clean Trucker 2 NY Yankees Cap"@en	0
+COL title VAL  "Dutch Doobadoo - Dutch Mask Art - Bubles"@en	COL title VAL  "Dutch Doobadoo Dutch Mask Art stencil Bubbles A5"@en	1
+COL title VAL  "Cap New Era Clean Trucker Chicago Bulls Cap"@en	COL title VAL  "Šilterica New Era NFL New Orleans Saints 9Fifty Cap"@en	0
+COL title VAL  "Cappello New Era NY Yankees 39Thirty Cap"@en	COL title VAL  "Šiltovka New Era Clean Trucker Chicago Bulls Cap"@en	0
+COL title VAL  "Cap New Era Clean Trucker Chicago Bulls Cap"@en	COL title VAL  "Sapca New Era Clean Trucker 2 NY Yankees Cap"@en	0
+COL title VAL  "Casquette New Era NY Yankees MLB 9Fifty Cap"@en	COL title VAL  "New Era NFL New Orleans Saints 9Fifty Cap Schwarz"@en	0
+COL title VAL  "Šilterica New Era NFL New Orleans Saints 9Fifty Cap"@en	COL title VAL  "Casquette New Era NY Yankees MLB 9Fifty Cap"@en	0
+COL title VAL  "Ray-Ban Square RB1971 91493F Silver/Clear Gradient Blue"@en	COL title VAL  "Ray Ban Women Sunglass Square Gradient Blue(Silver)"@de	1
+COL title VAL  "Cappello New Era NY Yankees 39Thirty Cap"@en	COL title VAL  "Sapca New Era Clean Trucker 2 NY Yankees Cap"@en	0
+COL title VAL  "Bonnet New Era Oakland Raiders HM Knitted Cap"@en	COL title VAL  "OAKLEY Radar EV Path Zonnebril"@en	0
+COL title VAL  "Cap New Era Clean Trucker Chicago Bulls Cap"@en	COL title VAL  "Bonnet New Era Oakland Raiders HM Knitted Cap"@en	0
+COL title VAL  "New Era NFL New Orleans Saints 9Fifty Cap Schwarz"@en	COL title VAL  "Gorra New Era NY Yankees 39Thirty Cap"@en	0
+COL title VAL  "Šiltovka New Era Clean Trucker 2 NY Yankees Cap"@en	COL title VAL  "New Era NY Yankees MLB 9Fifty Cap Baseball sapka"@en	0
+COL title VAL  "New Era NY Yankees MLB 9Fifty Cap Baseball sapka"@en	COL title VAL  "Sapca New Era Clean Trucker 2 NY Yankees Cap"@en	0
+COL title VAL  "Cappello New Era NY Yankees 39Thirty Cap"@en	COL title VAL  "Kape New Era Oakland Raiders HM Knitted Cap"@en	0
+COL title VAL  "Cap New Era Clean Trucker Chicago Bulls Cap"@en	COL title VAL  "Casquette New Era NY Yankees MLB 9Fifty Cap"@en	0
+COL title VAL  "Sapca New Era Clean Trucker 2 NY Yankees Cap"@en	COL title VAL  "Gorra New Era NY Yankees 39Thirty Cap"@en	0
+COL title VAL  "Ride 100% Speedcraft Sunglasses - Soft Tack Black - Hyper Red Multilayer Mirror Lens"@en	COL title VAL  "OAKLEY Radar EV Path Sunglasses"@id	0
+COL title VAL  "Šilterica New Era NFL New Orleans Saints 9Fifty Cap"@en	COL title VAL  "Gorra New Era NY Yankees 39Thirty Cap"@en	0
+COL title VAL  "Bonnet New Era Oakland Raiders HM Knitted Cap"@en	COL title VAL  "New Era NFL New Orleans Saints 9Fifty Cap Schwarz"@en	0
+COL title VAL  "Šiltovka New Era Clean Trucker 2 NY Yankees Cap"@en	COL title VAL  "Casquette New Era NY Yankees MLB 9Fifty Cap"@en	0
+COL title VAL  "Šiltovka New Era Clean Trucker 2 NY Yankees Cap"@en	COL title VAL  "Sapca New Era Clean Trucker 2 NY Yankees Cap"@en	1
+COL title VAL  "Gorra New Era NY Yankees 39Thirty Cap"@en	COL title VAL  "New Era NY Yankees MLB 9Fifty Cap Baseball sapka"@en	0
+COL title VAL  "Cappello New Era NY Yankees 39Thirty Cap"@en	COL title VAL  "Casquette New Era NY Yankees MLB 9Fifty Cap"@en	0
+COL title VAL  "Ride 100% Speedcraft Sunglasses - Soft Tack Black - Hyper Red Multilayer Mirror Lens"@en	COL title VAL  "100% SPEEDCRAFT - SOFT TACT BLACK - HIPER RED MULTILAYER MIRROR LENS"@en	1
+COL title VAL  "Šiltovka New Era Clean Trucker Chicago Bulls Cap"@en	COL title VAL  "Šilterica New Era NFL New Orleans Saints 9Fifty Cap"@en	0
+COL title VAL  "Cap New Era Clean Trucker Chicago Bulls Cap"@en	COL title VAL  "Kape New Era Oakland Raiders HM Knitted Cap"@en	0
+COL title VAL  "Šiltovka New Era Clean Trucker 2 NY Yankees Cap"@en	COL title VAL  "Šilterica New Era NFL New Orleans Saints 9Fifty Cap"@en	0
+COL title VAL  "Šilterica New Era NFL New Orleans Saints 9Fifty Cap"@en	COL title VAL  "New Era NFL New Orleans Saints 9Fifty Cap Schwarz"@en	1
+COL title VAL  "OAKLEY Radar EV Path Zonnebril"@en	COL title VAL  "OAKLEY Radar EV Path Sunglasses"@id	1
+COL title VAL  "Casquette New Era NY Yankees MLB 9Fifty Cap"@en	COL title VAL  "New Era NY Yankees MLB 9Fifty Cap Baseball sapka"@en	1
+COL title VAL  "New Era NY Yankees MLB 9Fifty Cap Baseball sapka"@en	COL title VAL  "New Era NFL New Orleans Saints 9Fifty Cap Schwarz"@en	0
+COL title VAL  "Casquette New Era NY Yankees MLB 9Fifty Cap"@en	COL title VAL  "Gorra New Era NY Yankees 39Thirty Cap"@en	0

@@ -1,0 +1,29 @@
+JELLYFISH RESULTS WITH NEW PROMPT:
+
+wdc_20cc: 
+Average F1 Score: 0.7274655384615385
+Weighted F1 Score: 0.67240575772419
+wdc_20cc_halfseen: 
+Average F1 Score: 0.6304347692307691
+Weighted F1 Score: 0.6600998262002232
+wdc_20cc_seen: 
+Average F1 Score: 0.6607853636363636
+Weighted F1 Score: 0.6365794707952146
+wdc_50cc: 
+Average F1 Score: 0.6016543333333332
+Weighted F1 Score: 0.6046108844949099
+wdc_50cc_halfseen: 
+Average F1 Score: 0.6660715000000001
+Weighted F1 Score: 0.6360747047445255
+wdc_50cc_seen: 
+Average F1 Score: 0.5945085833333333
+Weighted F1 Score: 0.6357961410788383
+wdc_80cc: 
+Average F1 Score: 0.6827601818181819
+Weighted F1 Score: 0.6282737314401622
+wdc_80cc_halfseen/: 
+Average F1 Score: 0.567359090909091
+Weighted F1 Score: 0.6307684254518071
+wdc_80cc_seen: 
+Average F1 Score: 0.5472537272727273
+Weighted F1 Score: 0.5700653336636935

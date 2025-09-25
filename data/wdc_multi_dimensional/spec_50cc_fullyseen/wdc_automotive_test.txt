@@ -1,0 +1,35 @@
+COL title VAL  "Suction Cup Base for Automotive Use - RAM-B-224-1U"@en	COL title VAL  "RAM 3.3\" Diameter Suction Cup Twist Lock Base with 1\" Ball"@en	1
+COL title VAL  "RAM Handlebar Mount 1.125 - 1.5\" C (RAM-408-112-15U)"@de	COL title VAL  "RAM Motorcycle Bar Mount UN7 X-Grip (RAM-B-408-75-1-UN7U)"@en	0
+COL title VAL  "Ram Mount Clutch/Brake U-Bolt Handlebar Mount with 1 Ball"@en	COL title VAL  "RAM 3.3\" Diameter Suction Cup Twist Lock Base with 1\" Ball"@en	0
+COL title VAL  "RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter"@en	COL title VAL  "Suction Cup Base for Automotive Use - RAM-B-224-1U"@en	0
+COL title VAL  "RAM Motorbike Stem 25mm (1 Inch) Ball"@de	COL title VAL  "Steering Stem Mount Base - RAM 342"@de	1
+COL title VAL  "RAM® Torque™ 3/4\" - 1\" Diameter Handlebar/Rail Base with 1\" Ball, Medium Arm and RAM® X-Grip® for Phones"@en	COL title VAL  "RAM Motorcycle Bar Mount UN7 X-Grip (RAM-B-408-75-1-UN7U)"@en	1
+COL title VAL  "RAM Motorcycle Bar Mount UN7 X-Grip (RAM-B-408-75-1-UN7U)"@en	COL title VAL  "RAM-B-149ZU RAM Mounts U-bolt Bike & Motorcycle Universal Mount 1\" Ball"@en	0
+COL title VAL  "RAM-B-149ZU RAM Mounts U-bolt Bike & Motorcycle Universal Mount 1\" Ball"@en	COL title VAL  "Ram Mount Clutch/Brake U-Bolt Handlebar Mount with 1 Ball"@en	0
+COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5to 1.25in Diameter"@en	COL title VAL  "RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter"@en	0
+COL title VAL  "RAM Mounts RAM-B-309-7U Motorcycle Handlebar Combination Base For Brake/Clutch Reservoir"@en	COL title VAL  "Ram Mount Clutch/Brake U-Bolt Handlebar Mount with 1 Ball"@en	1
+COL title VAL  "RAM Motorcycle Bar Mount UN7 X-Grip (RAM-B-408-75-1-UN7U)"@en	COL title VAL  "RAM Triple 1\" Ball Adapter - RAM-B-289U"@en	0
+COL title VAL  "RAM Double Suction Cup Base with Universal AMPs Hole Pattern - RAM-B-189BU"@en	COL title VAL  "Suction Cup Base for Automotive Use - RAM-B-224-1U"@en	0
+COL title VAL  "Ram Mout Triple Ball Adapter"@en	COL title VAL  "RAM Motorbike Stem 25mm (1 Inch) Ball"@de	0
+COL title VAL  "Ram Mount Clutch/Brake U-Bolt Handlebar Mount with 1 Ball"@en	COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5to 1.25in Diameter"@en	0
+COL title VAL  "RAM Double Suction Cup Base with Universal AMPs Hole Pattern - RAM-B-189BU"@en	COL title VAL  "RAM 3.3\" Diameter Suction Cup Twist Lock Base with 1\" Ball"@en	0
+COL title VAL  "RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter"@en	COL title VAL  "RAM® Torque™1 1/8\" - 1 1/2\" Diameter Handlebar/Rail Base with 1.5\" Ball"@en	0
+COL title VAL  "RAM® Torque™ 3/4\" - 1\" Diameter Handlebar/Rail Base with 1\" Ball, Medium Arm and RAM® X-Grip® for Phones"@en	COL title VAL  "RAM 3.3\" Diameter Suction Cup Twist Lock Base with 1\" Ball"@en	0
+COL title VAL  "RAM-B-149ZU RAM Mounts U-bolt Bike & Motorcycle Universal Mount 1\" Ball"@en	COL title VAL  "RAM Double U-Bolt Base w/ 2.25\" Ball"@en	0
+COL title VAL  "RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter"@en	COL title VAL  "RAM Double U-Bolt Base w/ 2.25\" Ball"@en	1
+COL title VAL  "Suction Cup Base for Automotive Use - RAM-B-224-1U"@en	COL title VAL  "RAM® Twist-Lock™ Dual Suction Cup Base"@en	0
+COL title VAL  "RAM Mounts RAM-B-309-7U Motorcycle Handlebar Combination Base For Brake/Clutch Reservoir"@en	COL title VAL  "RAM-B-149ZU RAM Mounts U-bolt Bike & Motorcycle Universal Mount 1\" Ball"@en	0
+COL title VAL  "RAM® Torque™1 1/8\" - 1 1/2\" Diameter Handlebar/Rail Base with 1.5\" Ball"@en	COL title VAL  "RAM Handlebar Mount 1.125 - 1.5\" C (RAM-408-112-15U)"@de	1
+COL title VAL  "Ram Mount Clutch/Brake U-Bolt Handlebar Mount with 1 Ball"@en	COL title VAL  "RAM Handlebar Mount 1.125 - 1.5\" C (RAM-408-112-15U)"@de	0
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Twist Lock Base with 1\" Ball"@en	COL title VAL  "RAM® Twist-Lock™ Dual Suction Cup Base"@en	0
+COL title VAL  "RAM Motorbike Stem 25mm (1 Inch) Ball"@de	COL title VAL  "RAM Triple 1\" Ball Adapter - RAM-B-289U"@en	0
+COL title VAL  "RAM Mounts RAM-B-309-7U Motorcycle Handlebar Combination Base For Brake/Clutch Reservoir"@en	COL title VAL  "Suction Cup Base for Automotive Use - RAM-B-224-1U"@en	0
+COL title VAL  "RAM Triple 1\" Ball Adapter - RAM-B-289U"@en	COL title VAL  "RAM Double Suction Cup Base with Universal AMPs Hole Pattern - RAM-B-189BU"@en	0
+COL title VAL  "RAM-B-149ZU RAM Mounts U-bolt Bike & Motorcycle Universal Mount 1\" Ball"@en	COL title VAL  "RAM Triple 1\" Ball Adapter - RAM-B-289U"@en	0
+COL title VAL  "Ram Mount Clutch/Brake U-Bolt Handlebar Mount with 1 Ball"@en	COL title VAL  "RAM Motorcycle Bar Mount UN7 X-Grip (RAM-B-408-75-1-UN7U)"@en	0
+COL title VAL  "RAM Double U-Bolt Base w/ 2.25\" Ball"@en	COL title VAL  "Ram Mount Clutch/Brake U-Bolt Handlebar Mount with 1 Ball"@en	0
+COL title VAL  "RAM® Torque™1 1/8\" - 1 1/2\" Diameter Handlebar/Rail Base with 1.5\" Ball"@en	COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5to 1.25in Diameter"@en	0
+COL title VAL  "RAM-B-149ZU RAM Mounts U-bolt Bike & Motorcycle Universal Mount 1\" Ball"@en	COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5to 1.25in Diameter"@en	1
+COL title VAL  "Ram Mout Triple Ball Adapter"@en	COL title VAL  "RAM Triple 1\" Ball Adapter - RAM-B-289U"@en	1
+COL title VAL  "RAM® Twist-Lock™ Dual Suction Cup Base"@en	COL title VAL  "RAM Double Suction Cup Base with Universal AMPs Hole Pattern - RAM-B-189BU"@en	1
+COL title VAL  "RAM® Torque™1 1/8\" - 1 1/2\" Diameter Handlebar/Rail Base with 1.5\" Ball"@en	COL title VAL  "RAM® Torque™ 3/4\" - 1\" Diameter Handlebar/Rail Base with 1\" Ball, Medium Arm and RAM® X-Grip® for Phones"@en	0

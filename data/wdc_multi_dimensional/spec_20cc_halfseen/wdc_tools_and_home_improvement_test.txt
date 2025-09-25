@@ -1,0 +1,37 @@
+COL title VAL  "Park Tool CT-6.3"@en	COL title VAL  "Park Tool CT-3.3 Chain Tool - Tool"@en	0
+COL title VAL  "Victron Energy MultiPlus Compact 12/2000/80-30 230V"@en	COL title VAL  "DeWALT DCD785C2 - 20V MAX* Lithium Ion Compact Hammerdrill"@en	0
+COL title VAL  "Victron Energy MultiPlus Compact 12/2000/80-30 230V"@en	COL title VAL  "MultiPlus Inverter/Charger C 12/2000/80-30"@de	1
+COL title VAL  "Park Tool CT-5 Chain Breaker"@en	COL title VAL  "Park Tool CT-6.3"@en	0
+COL title VAL  "Park Tool CT-6.3"@en	COL title VAL  "PARKTOOL DERIVE CHAINE CT-3.3"@vi	0
+COL title VAL  "Park Tool Park Tl, CT-5, Prtable chain Tl"@en	COL title VAL  "Park Tool CT-5 Chain Breaker"@en	1
+COL title VAL  "Park Tool PH-1.2 P-Handle Hex Wrench Set"@en	COL title VAL  "Park Tool Park Tool, TWS-2, Clés Torx repliables, T7, T9, T10, T15, T20, T25, T27, T30 et T40"@en	0
+COL title VAL  "Park Tool CT-6.3"@en	COL title VAL  "Park Tool Park Tool CT-3.2 Chain Tool"@en	0
+COL title VAL  "Park Tool CT-3.3 Chain Tool - Tool"@en	COL title VAL  "PARKTOOL DERIVE CHAINE CT-3.3"@vi	1
+COL title VAL  "Park Tool CT-3.3 Chain Tool - Tool"@en	COL title VAL  "PARK TOOL CRANK WRENCH 14MM SOCKET & 8MM HEX WRENCH CCW-5C"@en	0
+COL title VAL  "PARK TOOL CRANK WRENCH 14MM SOCKET & 8MM HEX WRENCH CCW-5C"@en	COL title VAL  "Park Tool Park Tool TWS-2 Folding Torx Wrench Set"@en	0
+COL title VAL  "Park Tool Park Tool CT-3.2 Chain Tool"@en	COL title VAL  "PARKTOOL DERIVE CHAINE CT-3.3"@vi	0
+COL title VAL  "PARK TOOL CRANK WRENCH 14MM SOCKET & 8MM HEX WRENCH CCW-5C"@en	COL title VAL  "Park Tool PH-1.2 P-Handle Hex Wrench Set"@en	0
+COL title VAL  "Folding Chain Tool with Peening Anvil"@en	COL title VAL  "Park Tool CT-5 Chain Breaker"@en	0
+COL title VAL  "Folding Chain Tool with Peening Anvil"@en	COL title VAL  "Park Tool Park Tool CT-3.2 Chain Tool"@en	0
+COL title VAL  "Dewalt Cordless Hammer Drill Kit - 20V Lithium-Ion - 1/2''"@de	COL title VAL  "Park Tool PH-1.2 P-Handle Hex Wrench Set"@en	0
+COL title VAL  "Park Tool Park Tool, TWS-2, Clés Torx repliables, T7, T9, T10, T15, T20, T25, T27, T30 et T40"@en	COL title VAL  "Park Tool CT-3.3 Chain Tool - Tool"@en	0
+COL title VAL  "Park Tool CT-3.3 Chain Tool - Tool"@en	COL title VAL  "Park Tool Park Tl, CT-5, Prtable chain Tl"@en	0
+COL title VAL  "Park Tool Park Tool CT-3.2 Chain Tool"@en	COL title VAL  "Park Tool CT-5 Chain Breaker"@en	0
+COL title VAL  "Folding Chain Tool with Peening Anvil"@en	COL title VAL  "Park Tool CT-3.3 Chain Tool - Tool"@en	0
+COL title VAL  "Park Tool Park Tool TWS-2 Folding Torx Wrench Set"@en	COL title VAL  "Park Tool PH-1.2 P-Handle Hex Wrench Set"@en	0
+COL title VAL  "Park Tool Park Tool CT-3.2 Chain Tool"@en	COL title VAL  "Park Tool Park Tl, CT-5, Prtable chain Tl"@en	0
+COL title VAL  "Park Tool CT-6.3"@en	COL title VAL  "Park Tool Park Tl, CT-5, Prtable chain Tl"@en	0
+COL title VAL  "Park Tool CT-5 Chain Breaker"@en	COL title VAL  "T‑3.2 Screw Type Bike Chain Tool"@en	0
+COL title VAL  "Folding Chain Tool with Peening Anvil"@en	COL title VAL  "Park Tool CT-6.3"@en	1
+COL title VAL  "Park Tool Park Tool, TWS-2, Clés Torx repliables, T7, T9, T10, T15, T20, T25, T27, T30 et T40"@en	COL title VAL  "Park Tool Park Tool CT-3.2 Chain Tool"@en	0
+COL title VAL  "PARK TOOL CRANK WRENCH 14MM SOCKET & 8MM HEX WRENCH CCW-5C"@en	COL title VAL  "CCW-5C Crank Bolt Bike Wrench"@nl	1
+COL title VAL  "T‑3.2 Screw Type Bike Chain Tool"@en	COL title VAL  "Park Tool CT-3.3 Chain Tool - Tool"@en	0
+COL title VAL  "PARK TOOL CRANK WRENCH 14MM SOCKET & 8MM HEX WRENCH CCW-5C"@en	COL title VAL  "Park Tool CT-6.3"@en	0
+COL title VAL  "Dewalt Cordless Hammer Drill Kit - 20V Lithium-Ion - 1/2''"@de	COL title VAL  "DeWALT DCD785C2 - 20V MAX* Lithium Ion Compact Hammerdrill"@en	1
+COL title VAL  "T‑3.2 Screw Type Bike Chain Tool"@en	COL title VAL  "CCW-5C Crank Bolt Bike Wrench"@nl	0
+COL title VAL  "Park Tool PH-1.2 P-Handle Hex Wrench Set"@en	COL title VAL  "PH-1.2 P-Handle Bike Hex Set with Holder"@de	1
+COL title VAL  "Park Tool CT-3.3 Chain Tool - Tool"@en	COL title VAL  "Park Tool Park Tool CT-3.2 Chain Tool"@en	0
+COL title VAL  "Park Tool Park Tool TWS-2 Folding Torx Wrench Set"@en	COL title VAL  "Park Tool CT-3.3 Chain Tool - Tool"@en	0
+COL title VAL  "Park Tool CT-5 Chain Breaker"@en	COL title VAL  "Park Tool CT-3.3 Chain Tool - Tool"@en	0
+COL title VAL  "Park Tool Park Tool, TWS-2, Clés Torx repliables, T7, T9, T10, T15, T20, T25, T27, T30 et T40"@en	COL title VAL  "Park Tool Park Tool TWS-2 Folding Torx Wrench Set"@en	1
+COL title VAL  "Park Tool Park Tool CT-3.2 Chain Tool"@en	COL title VAL  "T‑3.2 Screw Type Bike Chain Tool"@en	1

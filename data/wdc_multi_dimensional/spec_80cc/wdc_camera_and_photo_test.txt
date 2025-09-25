@@ -1,0 +1,169 @@
+COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	COL title VAL  "Manfrotto tripod kit MK190X3-3W1"@en	0
+COL title VAL  "Canon EF 70-200mm f/4L IS USM Telephoto Zoom Lens"@en	COL title VAL  "Canon EF-S 18-55mm f3.5-5.6 IS Lens"@en	0
+COL title VAL  "Nikon Multi-Power Battery Pack MB-N10 for Nikon Z 6 and Z 7"@en	COL title VAL  "Nikon EN-EL12 LI-ION BATTERY"@tl	0
+COL title VAL  "Manfrotto MK290LTA3-V Tripod Kit Video 290 Light"@en	COL title VAL  "290 LIGHT ALU BEFREE LIVE FLUID VIDEO HE"@vi	1
+COL title VAL  "Nikon Z6 + Nikkor Z 24-70mm f/4 S | 2 Years Warranty"@no	COL title VAL  "Nikon Z6 + 24-70mm F4"@et	1
+COL title VAL  "Nikon EN-EL9a Rechargeable Battery"@en	COL title VAL  "Nikon Nikon battery EN-EL12 (uses MH-65 charger)"@en	0
+COL title VAL  "Nikon EN-EL12 LI-ION BATTERY"@tl	COL title VAL  "Nikon EN-EL23 Rechargeable Battery, 3.8v 1850mah"@en	0
+COL title VAL  "Nikon EN-EL9a Rechargeable Battery"@en	COL title VAL  "Nikon EN-EL23 Rechargeable Battery, 3.8v 1850mah"@en	0
+COL title VAL  "Carl Zeiss Zeiss Batis 135mm f/2.8 Lens for Sony E Mount"@en	COL title VAL  "Zeiss Batis 135mm f/2.8 Sony E | 2 Years Warranty"@en	1
+COL title VAL  "TREPPIEDE MANFROTTO BEFREE ADVANCED GT IN CARBONIO ART.MKBFRTC4GT-BH"@en	COL title VAL  "Manfrotto tripod kit MK190X3-3W1"@en	0
+COL title VAL  "Nikon EN-EL9a Rechargeable Battery"@en	COL title VAL  "Nikon Battery Pack MB-N10"@sv	0
+COL title VAL  "HIKVISION DS-2DE4A225IW-DE 2MP IP-POE MINI PTZ 25X ZOOM 50M IR"@en	COL title VAL  "Camera dome IP Hikvision DS-2CD1123G0E-I, 2MP, lentila 2.8mm, IR 30m, H.265"@en	0
+COL title VAL  "Canon EF-S 18-55mm f3.5-5.6 IS Lens"@en	COL title VAL  "Canon EF-S 18-55mm f/3.5-5.6 IS II SLR Lens White Box"@en	1
+COL title VAL  "Canon EF 200mm f2 L IS USM"@en	COL title VAL  "Canon EF 70-200 / 4.0 L IS USM"@it	0
+COL title VAL  "135mm f/2.0L USM Telephoto Lens for Canon SLR Cameras 2520A004"@en	COL title VAL  "Canon EF 135mm f/2L USM Telephoto Lens"@en	1
+COL title VAL  "Nikon AF-S Nikkor 400mm f2.8 E FL ED VR | 2 Years Warranty"@no	COL title VAL  "Nikon AF-S NIKKOR 24-120mm f/4G ED VR Lens"@de	0
+COL title VAL  "Nikon AF-S 24-120mm f4G IF ED VR"@de	COL title VAL  "Nikon AF-S 24-70mm f2.8E ED VR"@et	0
+COL title VAL  "2MP 25x Starlight IR PTZ Network Camera - SD49225I-HC-S3 TOP NOTCH"@en	COL title VAL  "Camera dome IP Hikvision DS-2CD1123G0E-I, 2MP, lentila 2.8mm, IR 30m, H.265"@en	0
+COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	COL title VAL  "Manfrotto MK190X Aluminum 3 Section Kit 3w Head"@en	0
+COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	COL title VAL  "Manfrotto 055 XPRO Aluminium Stativ (3 Segmente) + XPRO Magnesium Kugelkopf 200PL - MK055XPRO3-BHQ2"@it	1
+COL title VAL  "Manfrotto MVK500190 XV Fluid Video Head with 190X Video Aluminium Tripod & Levelling Column Kit"@en	COL title VAL  "Manfrotto tripod kit MK190X3-3W1"@en	0
+COL title VAL  "Nikon EN-EL12 LI-ION BATTERY"@tl	COL title VAL  "Nikon EN-EL23 LI-ION BATTERY"@tl	0
+COL title VAL  "Canon EF 400mm f2.8L IS III USM Lens"@fr	COL title VAL  "Canon EF-M 11-22mm F4-5.6 IS M Mount Lens"@en	0
+COL title VAL  "Nikon Z6 + Nikkor Z 24-70mm f/4 S | 2 Years Warranty"@no	COL title VAL  "Nikon AF-S NIKKOR 24-120mm f/4G ED VR Lens"@de	0
+COL title VAL  "Camera de supraveghere Hikvision IP Speed Dome DS-2DE4225IW-DE 2MP"@en	COL title VAL  "Camera PTZ IP, 2MP, Ultra LOW LIght, Zoom optic 25X, IR 100 metri"@en	1
+COL title VAL  "Nikkor AF-S 105mm f/2.8 G IF-ED VR Micro"@da	COL title VAL  "Nikon AF-S Nikkor 400mm f2.8 E FL ED VR | 2 Years Warranty"@no	0
+COL title VAL  "Nikon AF-S 400mm f2.8E FL ED VR"@et	COL title VAL  "Nikon AF-S 24-70mm f2.8E ED VR"@et	0
+COL title VAL  "Nikon AF-S NIKKOR 24-120mm f/4G ED VR Lens"@de	COL title VAL  "Nikkor AF-S 105mm f/2.8 G IF-ED VR Micro"@da	0
+COL title VAL  "Nikon AF-S 24-70mm f2.8E ED VR"@et	COL title VAL  "Nikon AF-S 70-200mm VR f2.8E FL ED ZOOM (FX)"@de	0
+COL title VAL  "Nikon AF-S NIKKOR 24-120mm f/4G ED VR Lens"@de	COL title VAL  "Nikon AF-S 24-70mm f2.8E ED VR"@et	0
+COL title VAL  "Canon EF 70200mm f28L USM Telephoto Lens"@en	COL title VAL  "AFS 24-70 2.8VR NIKON LENS"@de	0
+COL title VAL  "HIKVISION DS-2DE4A225IW-DE 2MP IP-POE MINI PTZ 25X ZOOM 50M IR"@en	COL title VAL  "2MP 25x Starlight IR PTZ Network Camera - SD49225I-HC-S3 TOP NOTCH"@en	0
+COL title VAL  "Canon EF 400mm f/2.8L IS III USM Lens"@fr	COL title VAL  "135mm f/2.0L USM Telephoto Lens for Canon SLR Cameras 2520A004"@en	0
+COL title VAL  "Manfrotto MK290LTA3-V Tripod Kit Video 290 Light"@en	COL title VAL  "Manfrotto tripod kit MK190X3-3W1"@en	0
+COL title VAL  "Nikon AF-S 24-120mm f4G IF ED VR"@de	COL title VAL  "Nikon AF-S NIKKOR 24-120mm f/4G ED VR Lens"@de	1
+COL title VAL  "Canon EF 70-200 / 4.0 L IS USM"@it	COL title VAL  "Speed Dome IP Hikvision DS-2DF8236IX-AEL 2MP UltraLow, 5.7-205.2mm, IP67, IK10, IR 200m, Hi-PoE, slot microSD, autotracking"@en	0
+COL title VAL  "Canon EF 70-200mm f/4L IS USM Telephoto Zoom Lens"@en	COL title VAL  "Canon EF 400mm f2.8L IS III USM Lens"@fr	0
+COL title VAL  "Nikon EN-EL23 Rechargeable Battery, 3.8v 1850mah"@en	COL title VAL  "AFS 24-70 2.8VR NIKON LENS"@de	0
+COL title VAL  "RF 24-105MM F4-7.1 IS STM STANDARD ZOOM LENS FOR RF MOUNT CAMERAS - BLACK"@de	COL title VAL  "RF 24-105mm F4-7.1 IS STM Standard Zoom Lens for RF Mount Cameras 4111C002"@en	1
+COL title VAL  "Speed Dome IP Hikvision DS-2DF8236IX-AEL 2MP UltraLow, 5.7-205.2mm, IP67, IK10, IR 200m, Hi-PoE, slot microSD, autotracking"@en	COL title VAL  "Camera de supraveghere Hikvision IP Speed Dome DS-2DE4225IW-DE 2MP"@en	0
+COL title VAL  "EF 200mm f/2.8L II USM, CANON AUTHORIZED USA DEALER WARRANTY INCLUDED"@en	COL title VAL  "Canon EF 70-200mm f/2.8L USM Lens"@fr	0
+COL title VAL  "Manfrotto tripod kit MK190X3-3W1"@en	COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	0
+COL title VAL  "Nikon AF-S 400mm f2.8E FL ED VR"@et	COL title VAL  "Nikon AF-S Nikkor 400mm f2.8 E FL ED VR | 2 Years Warranty"@no	1
+COL title VAL  "Nikon AF-S 24-120mm f4G IF ED VR"@de	COL title VAL  "Nikon AF-S 70-200mm VR f2.8E FL ED ZOOM (FX)"@de	0
+COL title VAL  "Nikkor AF-S 105mm f/2.8 G IF-ED VR Micro"@da	COL title VAL  "Nikon AF-S 400mm f2.8E FL ED VR"@et	0
+COL title VAL  "NikonAF-S 105mm F2.8G VR IF-ED Micro Lens"@de	COL title VAL  "Nikon AF-S 24-70mm f2.8E ED VR"@et	0
+COL title VAL  "Nikon EN-EL9a Li-Ion Battery for D3000 and D5000 DSLR cameras"@en	COL title VAL  "Nikon EN-EL12 LI-ION BATTERY"@tl	0
+COL title VAL  "Canon EF 200mm f2.8 L USM MKII Lens"@fr	COL title VAL  "Canon EF 200mm f/2.0L IS USM Telephoto Lens"@en	0
+COL title VAL  "Canon EF 70200mm f28L USM Telephoto Lens"@en	COL title VAL  "Nikon AF-S NIKKOR 24-120mm f/4G ED VR Lens"@de	0
+COL title VAL  "HIKVISION DS-2DE4A225IW-DE 2MP IP-POE MINI PTZ 25X ZOOM 50M IR"@en	COL title VAL  "Speed Dome IP Hikvision DS-2DF8236IX-AEL 2MP UltraLow, 5.7-205.2mm, IP67, IK10, IR 200m, Hi-PoE, slot microSD, autotracking"@en	0
+COL title VAL  "AFS 24-70 2.8VR NIKON LENS"@de	COL title VAL  "Nikon AF-S 24-70mm f2.8E ED VR"@et	1
+COL title VAL  "Nikon EN-EL9a Rechargeable Battery"@en	COL title VAL  "Nikon EN-EL23 LI-ION BATTERY"@tl	0
+COL title VAL  "Canon EF 400mm f/2.8L IS III USM Lens"@fr	COL title VAL  "Canon EF 70-200mm f/4L IS USM Telephoto Zoom Lens"@en	0
+COL title VAL  "Nikon Z6 + Nikkor Z 24-70mm f/4 S | 2 Years Warranty"@no	COL title VAL  "Nikon Multi-Power Battery Pack MB-N10 for Nikon Z 6 and Z 7"@en	0
+COL title VAL  "Canon EF 70-200mm f/2.8L USM Lens"@fr	COL title VAL  "Canon EF 70200mm f28L USM Telephoto Lens"@en	1
+COL title VAL  "NikonAF-S 105mm F2.8G VR IF-ED Micro Lens"@de	COL title VAL  "Nikon AF-S 400mm f2.8E FL ED VR"@et	0
+COL title VAL  "Nikon EN-EL23 LI-ION BATTERY"@tl	COL title VAL  "Nikon Nikon battery EN-EL12 (uses MH-65 charger)"@en	0
+COL title VAL  "Nikon AF-S 70-200mm VR f2.8E FL ED ZOOM (FX)"@de	COL title VAL  "Nikon AF-S 400mm f2.8E FL ED VR"@et	0
+COL title VAL  "Manfrotto tripod kit MK190X3-3W1"@en	COL title VAL  "Manfrotto MKBFRTC4GT-BH Befree GT Travel Carbon Fibre Tripod with 496 Ball Head"@en	0
+COL title VAL  "Nikon EN-EL9a Li-Ion Battery for D3000 and D5000 DSLR cameras"@en	COL title VAL  "Nikon EN-EL9a Rechargeable Battery"@en	1
+COL title VAL  "Canon EF 200mm f/2.0L IS USM Telephoto Lens"@en	COL title VAL  "Canon EF 70200mm f28L USM Telephoto Lens"@en	0
+COL title VAL  "Canon EF 70-200mm f/4L IS USM Telephoto Zoom Lens"@en	COL title VAL  "Canon EF 200mm f2 L IS USM"@en	0
+COL title VAL  "135mm f/2.0L USM Telephoto Lens for Canon SLR Cameras 2520A004"@en	COL title VAL  "Canon EF 70-200mm f/2.8L USM Lens"@fr	0
+COL title VAL  "Nikkor AF-S 105mm f/2.8 G IF-ED VR Micro"@da	COL title VAL  "NikonAF-S 105mm F2.8G VR IF-ED Micro Lens"@de	1
+COL title VAL  "Canon EF 70-200 / 4.0 L IS USM"@it	COL title VAL  "Canon EF-M 11-22 / 4.0-5.6 IS STM"@en	0
+COL title VAL  "Nikon EN-EL12 LI-ION BATTERY"@tl	COL title VAL  "Nikon Nikon battery EN-EL12 (uses MH-65 charger)"@en	1
+COL title VAL  "Nikon AF-S 24-70mm f2.8E ED VR"@et	COL title VAL  "Nikon Z6 + Nikkor Z 24-70mm f/4 S | 2 Years Warranty"@no	0
+COL title VAL  "Camera dome IP Hikvision DS-2CD1123G0E-I, 2MP, lentila 2.8mm, IR 30m, H.265"@en	COL title VAL  "SD49225I-HC-S3 Speed Dome DAHUA. HDCVI 2Mp 25x IR 100m WDR S"@en	0
+COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	COL title VAL  "Manfrotto MK290LTA3-V Tripod Kit Video 290 Light"@en	0
+COL title VAL  "NikonAF-S 105mm F2.8G VR IF-ED Micro Lens"@de	COL title VAL  "Nikon AF-S NIKKOR 24-120mm f/4G ED VR Lens"@de	0
+COL title VAL  "Canon EF 200mm f2.8 L USM MKII Lens"@fr	COL title VAL  "Canon EF 200mm f2 L IS USM"@en	0
+COL title VAL  "Camera PTZ IP, 2MP, Ultra LOW LIght, Zoom optic 25X, IR 100 metri"@en	COL title VAL  "HIKVISION DS-2DE4A225IW-DE 2MP IP-POE MINI PTZ 25X ZOOM 50M IR"@en	0
+COL title VAL  "SD49225I-HC-S3 Speed Dome DAHUA. HDCVI 2Mp 25x IR 100m WDR S"@en	COL title VAL  "HIKVISION DS-2DE4A225IW-DE 2MP IP-POE MINI PTZ 25X ZOOM 50M IR"@en	0
+COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	0
+COL title VAL  "Carl Zeiss Zeiss Batis 135mm f/2.8 Lens for Sony E Mount"@en	COL title VAL  "RF 24-105mm F4-7.1 IS STM Standard Zoom Lens for RF Mount Cameras 4111C002"@en	0
+COL title VAL  "Canon EF-S 18-55mm f3.5-5.6 IS Lens"@en	COL title VAL  "Canon EF-M 11-22mm F4-5.6 IS M Mount Lens"@en	0
+COL title VAL  "Canon EF 400mm f/2.8L IS III USM Lens"@fr	COL title VAL  "EF 200mm f/2.8L II USM, CANON AUTHORIZED USA DEALER WARRANTY INCLUDED"@en	0
+COL title VAL  "Camera de supraveghere Hikvision IP Speed Dome DS-2DE4225IW-DE 2MP"@en	COL title VAL  "SD49225I-HC-S3 Speed Dome DAHUA. HDCVI 2Mp 25x IR 100m WDR S"@en	0
+COL title VAL  "Zeiss Batis 135mm f/2.8 Sony E | 2 Years Warranty"@en	COL title VAL  "Nikkor AF-S 105mm f/2.8 G IF-ED VR Micro"@da	0
+COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	COL title VAL  "Manfrotto MK290LTA3-V Tripod Kit Video 290 Light"@en	0
+COL title VAL  "Canon EF 200mm f2 L IS USM"@en	COL title VAL  "Canon EF 400mm f2.8L IS III USM Lens"@fr	0
+COL title VAL  "Canon EF 200mm f2 L IS USM"@en	COL title VAL  "Canon EF 400mm f/2.8L IS III USM Lens"@fr	0
+COL title VAL  "AFS 24-70 2.8VR NIKON LENS"@de	COL title VAL  "Canon EF 70-200mm f/2.8L USM Lens"@fr	0
+COL title VAL  "Canon EF 70-200mm f/2.8L USM Lens"@fr	COL title VAL  "Canon EF 135mm f/2L USM Telephoto Lens"@en	0
+COL title VAL  "Canon EF 70-200mm f/4L IS USM Telephoto Zoom Lens"@en	COL title VAL  "Canon EF 200mm f/2.0L IS USM Telephoto Lens"@en	0
+COL title VAL  "RF 24-105MM F4-7.1 IS STM STANDARD ZOOM LENS FOR RF MOUNT CAMERAS - BLACK"@de	COL title VAL  "Canon EF 70-200mm f/4L IS USM Telephoto Zoom Lens"@en	0
+COL title VAL  "Canon EF 70-200mm f/2.8L USM Lens"@fr	COL title VAL  "Canon EF 400mm f/2.8L IS III USM Lens"@fr	0
+COL title VAL  "Nikon EN-EL23 LI-ION BATTERY"@tl	COL title VAL  "Nikon EN-EL23 Rechargeable Battery, 3.8v 1850mah"@en	1
+COL title VAL  "Canon EF-M 11-22mm F4-5.6 IS M Mount Lens"@en	COL title VAL  "RF 24-105mm F4-7.1 IS STM Standard Zoom Lens for RF Mount Cameras 4111C002"@en	0
+COL title VAL  "Carl Zeiss Zeiss Batis 135mm f/2.8 Lens for Sony E Mount"@en	COL title VAL  "135mm f/2.0L USM Telephoto Lens for Canon SLR Cameras 2520A004"@en	0
+COL title VAL  "Canon EF 400mm f2.8L IS III USM Lens"@fr	COL title VAL  "Canon EF 200mm f/2.0L IS USM Telephoto Lens"@en	0
+COL title VAL  "Camera PTZ IP, 2MP, Ultra LOW LIght, Zoom optic 25X, IR 100 metri"@en	COL title VAL  "2MP Dark Fighter X PTZ Dome 36 X Optical Zoom"@en	0
+COL title VAL  "Camera dome IP Hikvision DS-2CD1123G0E-I, 2MP, lentila 2.8mm, IR 30m, H.265"@en	COL title VAL  "Camera PTZ IP, 2MP, Ultra LOW LIght, Zoom optic 25X, IR 100 metri"@en	0
+COL title VAL  "EF 200mm f/2.8L II USM, CANON AUTHORIZED USA DEALER WARRANTY INCLUDED"@en	COL title VAL  "Canon EF 200mm f2.8 L USM MKII Lens"@fr	1
+COL title VAL  "Manfrotto MK190X Aluminum 3 Section Kit 3w Head"@en	COL title VAL  "Manfrotto tripod kit MK190X3-3W1"@en	1
+COL title VAL  "Canon EF 200mm f2.8 L USM MKII Lens"@fr	COL title VAL  "Canon EF 400mm f/2.8L IS III USM Lens"@fr	0
+COL title VAL  "Speed Dome IP Hikvision DS-2DF8236IX-AEL 2MP UltraLow, 5.7-205.2mm, IP67, IK10, IR 200m, Hi-PoE, slot microSD, autotracking"@en	COL title VAL  "Camera dome IP Hikvision DS-2CD1123G0E-I, 2MP, lentila 2.8mm, IR 30m, H.265"@en	0
+COL title VAL  "2MP 25x Starlight IR PTZ Network Camera - SD49225I-HC-S3 TOP NOTCH"@en	COL title VAL  "SD49225I-HC-S3 Speed Dome DAHUA. HDCVI 2Mp 25x IR 100m WDR S"@en	1
+COL title VAL  "Canon EF 70-200 / 4.0 L IS USM"@it	COL title VAL  "290 LIGHT ALU BEFREE LIVE FLUID VIDEO HE"@vi	0
+COL title VAL  "2MP Dark Fighter X PTZ Dome 36 X Optical Zoom"@en	COL title VAL  "2MP 25x Starlight IR PTZ Network Camera - SD49225I-HC-S3 TOP NOTCH"@en	0
+COL title VAL  "HIKVISION DS-2DE4A225IW-DE 2MP IP-POE MINI PTZ 25X ZOOM 50M IR"@en	COL title VAL  "Camera de supraveghere Hikvision IP Speed Dome DS-2DE4225IW-DE 2MP"@en	0
+COL title VAL  "290 LIGHT ALU BEFREE LIVE FLUID VIDEO HE"@vi	COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	0
+COL title VAL  "Canon EF 70-200mm f/4L IS USM Telephoto Zoom Lens"@en	COL title VAL  "Canon EF 135mm f/2L USM Telephoto Lens"@en	0
+COL title VAL  "Canon EF-S 18-55mm f/3.5-5.6 IS II SLR Lens White Box"@en	COL title VAL  "Canon EF 400mm f/2.8L IS III USM Lens"@fr	0
+COL title VAL  "Canon EF 200mm f2 L IS USM"@en	COL title VAL  "Canon EF-M 11-22 / 4.0-5.6 IS STM"@en	0
+COL title VAL  "Canon EF 400mm f/2.8L IS III USM Lens"@fr	COL title VAL  "Canon EF 200mm f/2.0L IS USM Telephoto Lens"@en	0
+COL title VAL  "Nikon Battery Pack MB-N10"@sv	COL title VAL  "Nikon EN-EL23 Rechargeable Battery, 3.8v 1850mah"@en	0
+COL title VAL  "Canon EF 70-200mm f/4L IS USM Telephoto Zoom Lens"@en	COL title VAL  "Nikon EN-EL9a Li-Ion Battery for D3000 and D5000 DSLR cameras"@en	0
+COL title VAL  "Canon EF 200mm f2.8 L USM MKII Lens"@fr	COL title VAL  "Canon EF 400mm f2.8L IS III USM Lens"@fr	0
+COL title VAL  "Nikon EN-EL9a Li-Ion Battery for D3000 and D5000 DSLR cameras"@en	COL title VAL  "Nikon Multi-Power Battery Pack MB-N10 for Nikon Z 6 and Z 7"@en	0
+COL title VAL  "Nikon EN-EL23 Rechargeable Battery, 3.8v 1850mah"@en	COL title VAL  "Nikon Nikon battery EN-EL12 (uses MH-65 charger)"@en	0
+COL title VAL  "Canon EF 200mm f/2.0L IS USM Telephoto Lens"@en	COL title VAL  "135mm f/2.0L USM Telephoto Lens for Canon SLR Cameras 2520A004"@en	0
+COL title VAL  "Camera de supraveghere Hikvision IP Speed Dome DS-2DE4225IW-DE 2MP"@en	COL title VAL  "Camera dome IP Hikvision DS-2CD1123G0E-I, 2MP, lentila 2.8mm, IR 30m, H.265"@en	0
+COL title VAL  "Nikon AF-S 400mm f2.8E FL ED VR"@et	COL title VAL  "Nikon AF-S NIKKOR 24-120mm f/4G ED VR Lens"@de	0
+COL title VAL  "Canon EF-S 18-55mm f3.5-5.6 IS Lens"@en	COL title VAL  "Canon EF-M 11-22 / 4.0-5.6 IS STM"@en	0
+COL title VAL  "2MP Dark Fighter X PTZ Dome 36 X Optical Zoom"@en	COL title VAL  "HIKVISION DS-2DE4A225IW-DE 2MP IP-POE MINI PTZ 25X ZOOM 50M IR"@en	0
+COL title VAL  "Canon EF-M 11-22mm F4-5.6 IS M Mount Lens"@en	COL title VAL  "Canon EF-M 11-22 / 4.0-5.6 IS STM"@en	1
+COL title VAL  "Canon EF 70-200mm f/4L IS USM Telephoto Zoom Lens"@en	COL title VAL  "Canon EF 70-200 / 4.0 L IS USM"@it	1
+COL title VAL  "Nikkor AF-S 105mm f/2.8 G IF-ED VR Micro"@da	COL title VAL  "Nikon AF-S 24-70mm f2.8E ED VR"@et	0
+COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	COL title VAL  "2MP 25x Starlight IR PTZ Network Camera - SD49225I-HC-S3 TOP NOTCH"@en	0
+COL title VAL  "SD49225I-HC-S3 Speed Dome DAHUA. HDCVI 2Mp 25x IR 100m WDR S"@en	COL title VAL  "Speed Dome IP Hikvision DS-2DF8236IX-AEL 2MP UltraLow, 5.7-205.2mm, IP67, IK10, IR 200m, Hi-PoE, slot microSD, autotracking"@en	0
+COL title VAL  "Nikon Z6 + 24-70mm F4"@et	COL title VAL  "Nikon Multi-Power Battery Pack MB-N10 for Nikon Z 6 and Z 7"@en	0
+COL title VAL  "Autel Robotics EVO II Pro Gimbal Camera 1\" 6K Camera for EVO 2 Drones, In Stock"@en	COL title VAL  "Autel EVO II 6K Gimbal/Camera Only"@en	1
+COL title VAL  "Canon EF 70200mm f28L USM Telephoto Lens"@en	COL title VAL  "Canon EF 135mm f/2L USM Telephoto Lens"@en	0
+COL title VAL  "Manfrotto MKBFRTC4GT-BH Befree GT Travel Carbon Fibre Tripod with 496 Ball Head"@en	COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	0
+COL title VAL  "Nikon Z6 + Nikkor Z 24-70mm f/4 S | 2 Years Warranty"@no	COL title VAL  "Zeiss Batis 135mm f/2.8 Sony E | 2 Years Warranty"@en	0
+COL title VAL  "Canon EF 200mm f/2.0L IS USM Telephoto Lens"@en	COL title VAL  "Canon EF 135mm f/2L USM Telephoto Lens"@en	0
+COL title VAL  "Manfrotto MVK500190 XV Fluid Video Head with 190X Video Aluminium Tripod & Levelling Column Kit"@en	COL title VAL  "Manfrotto MK290LTA3-V Tripod Kit Video 290 Light"@en	0
+COL title VAL  "Nikon AF-S Nikkor 400mm f2.8 E FL ED VR | 2 Years Warranty"@no	COL title VAL  "Nikon AF-S 70-200mm VR f2.8E FL ED ZOOM (FX)"@de	0
+COL title VAL  "Canon EF 70-200 / 4.0 L IS USM"@it	COL title VAL  "Canon EF 200mm f2.8 L USM MKII Lens"@fr	0
+COL title VAL  "Canon EF 400mm f2.8L IS III USM Lens"@fr	COL title VAL  "Canon EF-S 18-55mm f3.5-5.6 IS Lens"@en	0
+COL title VAL  "TREPPIEDE MANFROTTO BEFREE ADVANCED GT IN CARBONIO ART.MKBFRTC4GT-BH"@en	COL title VAL  "Manfrotto MKBFRTC4GT-BH Befree GT Travel Carbon Fibre Tripod with 496 Ball Head"@en	1
+COL title VAL  "Nikon EN-EL23 LI-ION BATTERY"@tl	COL title VAL  "Nikon EN-EL9a Li-Ion Battery for D3000 and D5000 DSLR cameras"@en	0
+COL title VAL  "Canon EF 70-200mm f/4L IS USM Telephoto Zoom Lens"@en	COL title VAL  "Canon EF 70-200mm f/2.8L USM Lens"@fr	0
+COL title VAL  "HIKVISION DS-2CD1123G0E-I-2MP"@de	COL title VAL  "Camera de supraveghere Hikvision IP Speed Dome DS-2DE4225IW-DE 2MP"@en	0
+COL title VAL  "Canon EF 200mm f2.8 L USM MKII Lens"@fr	COL title VAL  "Canon EF 70-200mm f/2.8L USM Lens"@fr	0
+COL title VAL  "Nikon Battery Pack MB-N10"@sv	COL title VAL  "Nikon Nikon battery EN-EL12 (uses MH-65 charger)"@en	0
+COL title VAL  "Canon EF 200mm f/2.0L IS USM Telephoto Lens"@en	COL title VAL  "Canon EF 200mm f2 L IS USM"@en	1
+COL title VAL  "Nikon AF-S 24-70mm f2.8E ED VR"@et	COL title VAL  "Nikon AF-S Nikkor 400mm f2.8 E FL ED VR | 2 Years Warranty"@no	0
+COL title VAL  "Camera dome IP Hikvision DS-2CD1123G0E-I, 2MP, lentila 2.8mm, IR 30m, H.265"@en	COL title VAL  "HIKVISION DS-2CD1123G0E-I-2MP"@de	1
+COL title VAL  "AF-S VR 70-200 F2.8 FLD NIK LE"@de	COL title VAL  "Nikon AF-S 24-70mm f2.8E ED VR"@et	0
+COL title VAL  "Canon EF 200mm f/2.0L IS USM Telephoto Lens"@en	COL title VAL  "Canon EF 70-200mm f/2.8L USM Lens"@fr	0
+COL title VAL  "HIKVISION DS-2DE4A225IW-DE 2MP IP-POE MINI PTZ 25X ZOOM 50M IR"@en	COL title VAL  "HIKVISION DS-2CD1123G0E-I-2MP"@de	0
+COL title VAL  "Nikon AF-S 70-200mm VR f2.8E FL ED ZOOM (FX)"@de	COL title VAL  "AF-S VR 70-200 F2.8 FLD NIK LE"@de	1
+COL title VAL  "Nikon AF-S 70-200mm VR f2.8E FL ED ZOOM (FX)"@de	COL title VAL  "2MP 25x Starlight IR PTZ Network Camera - SD49225I-HC-S3 TOP NOTCH"@en	0
+COL title VAL  "Nikon AF-S Nikkor 400mm f2.8 E FL ED VR | 2 Years Warranty"@no	COL title VAL  "Nikon Z6 + Nikkor Z 24-70mm f/4 S | 2 Years Warranty"@no	0
+COL title VAL  "AF-S VR 70-200 F2.8 FLD NIK LE"@de	COL title VAL  "Nikon AF-S Nikkor 400mm f2.8 E FL ED VR | 2 Years Warranty"@no	0
+COL title VAL  "Canon EF 200mm f/2.0L IS USM Telephoto Lens"@en	COL title VAL  "Canon EF-S 18-55mm f3.5-5.6 IS Lens"@en	0
+COL title VAL  "Zeiss Batis 135mm f/2.8 Sony E | 2 Years Warranty"@en	COL title VAL  "Nikon AF-S Nikkor 400mm f2.8 E FL ED VR | 2 Years Warranty"@no	0
+COL title VAL  "Canon EF 70200mm f28L USM Telephoto Lens"@en	COL title VAL  "Canon EF 400mm f2.8L IS III USM Lens"@fr	0
+COL title VAL  "RF 24-105MM F4-7.1 IS STM STANDARD ZOOM LENS FOR RF MOUNT CAMERAS - BLACK"@de	COL title VAL  "Canon EF-M 11-22mm F4-5.6 IS M Mount Lens"@en	0
+COL title VAL  "Manfrotto MKBFRTC4GT-BH Befree GT Travel Carbon Fibre Tripod with 496 Ball Head"@en	COL title VAL  "Manfrotto MVK500190 XV Fluid Video Head with 190X Video Aluminium Tripod & Levelling Column Kit"@en	0
+COL title VAL  "2MP 25x Starlight IR PTZ Network Camera - SD49225I-HC-S3 TOP NOTCH"@en	COL title VAL  "Camera PTZ IP, 2MP, Ultra LOW LIght, Zoom optic 25X, IR 100 metri"@en	0
+COL title VAL  "Nikkor AF-S 105mm f/2.8 G IF-ED VR Micro"@da	COL title VAL  "Nikon AF-S 24-120mm f4G IF ED VR"@de	0
+COL title VAL  "HIKVISION DS-2DE4A225IW-DE 2MP IP-POE MINI PTZ 25X ZOOM 50M IR"@en	COL title VAL  "Hikvision DS-2DE4A225IW-DE - network surveillance camera"@en	1
+COL title VAL  "Canon EF 70-200mm f/2.8L USM Lens"@fr	COL title VAL  "Carl Zeiss Zeiss Batis 135mm f/2.8 Lens for Sony E Mount"@en	0
+COL title VAL  "Manfrotto 055 XPRO Aluminium Stativ (3 Segmente) + XPRO Magnesium Kugelkopf 200PL - MK055XPRO3-BHQ2"@it	COL title VAL  "Manfrotto MK190X Aluminum 3 Section Kit 3w Head"@en	0
+COL title VAL  "2MP Dark Fighter X PTZ Dome 36 X Optical Zoom"@en	COL title VAL  "Speed Dome IP Hikvision DS-2DF8236IX-AEL 2MP UltraLow, 5.7-205.2mm, IP67, IK10, IR 200m, Hi-PoE, slot microSD, autotracking"@en	1
+COL title VAL  "Nikon AF-S 24-120mm f4G IF ED VR"@de	COL title VAL  "Nikon Z6 + 24-70mm F4"@et	0
+COL title VAL  "Nikon Multi-Power Battery Pack MB-N10 for Nikon Z 6 and Z 7"@en	COL title VAL  "Nikon Battery Pack MB-N10"@sv	1
+COL title VAL  "Nikon EN-EL9a Rechargeable Battery"@en	COL title VAL  "Nikon EN-EL12 LI-ION BATTERY"@tl	0
+COL title VAL  "Hikvision DS-2DE4A225IW-DE - network surveillance camera"@en	COL title VAL  "Camera de supraveghere Hikvision IP Speed Dome DS-2DE4225IW-DE 2MP"@en	0
+COL title VAL  "Manfrotto MVK500190 XV Fluid Video Head with 190X Video Aluminium Tripod & Levelling Column Kit"@en	COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	1
+COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	COL title VAL  "Manfrotto MVK500190 XV Fluid Video Head with 190X Video Aluminium Tripod & Levelling Column Kit"@en	0
+COL title VAL  "Canon EF-M 11-22mm F4-5.6 IS M Mount Lens"@en	COL title VAL  "Canon EF-S 18-55mm f/3.5-5.6 IS II SLR Lens White Box"@en	0
+COL title VAL  "AFS 24-70 2.8VR NIKON LENS"@de	COL title VAL  "AF-S VR 70-200 F2.8 FLD NIK LE"@de	0
+COL title VAL  "Canon EF 400mm f/2.8L IS III USM Lens"@fr	COL title VAL  "Canon EF 400mm f2.8L IS III USM Lens"@fr	1
+COL title VAL  "Canon EF 70200mm f28L USM Telephoto Lens"@en	COL title VAL  "Canon EF 70-200mm f/4L IS USM Telephoto Zoom Lens"@en	0
+COL title VAL  "Canon EF 400mm f2.8L IS III USM Lens"@fr	COL title VAL  "Canon EF 70-200mm f/2.8L USM Lens"@fr	0

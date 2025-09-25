@@ -1,0 +1,518 @@
+COL title VAL  "TAG Heuer Carrera WAR1112.BA0601"@de	COL title VAL  "TAG Heuer Ladies White Mother Of Pearl Dial Carrera Watch"@en	0
+COL title VAL  "Seiko Prospex Monster \"Save the Ocean Special Edition\" SRPE09K1"@en	COL title VAL  "Citizen Promaster Sea (BJ8050-08E)"@de	0
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Diver Blue Watch 15710ST.OO.A027CA.01"@en	COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch 26470ST.OO.A030CA.01"@en	0
+COL title VAL  "Hamilton Men's H72585535 Khaki Field Skeleton Automatic Brown Leather Watch"@en	COL title VAL  "Seiko Presage Men's Brown Leather Strap Watch"@en	0
+COL title VAL  "Longines Heritage Classic Automatic Silver Dial Men's Watch"@en	COL title VAL  "Seiko 5 SNZF15K1 Automatic Men's Watch"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1094101103300"@en	COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1014171103100"@en	0
+COL title VAL  "TAG Heuer Automatic Watch WBE5114.FC8266"@en	COL title VAL  "TAG Heuer Autavia Men's Calibre 5 Chronometer Watch WBE5114.FC8266"@en	1
+COL title VAL  "Tissot PR 100 Gents Watch (Silver/Grey)"@en	COL title VAL  "Tissot T-Sport T-Race Cycle Watch T1114172744100"@en	0
+COL title VAL  "Citizen Mens Watch Khaki Canvas Strap Eco-Drive BU2055-08X"@en	COL title VAL  "Mens Citizen Eco-drive Gents Sports Strap Stainless Steel Watch AW1150-07A"@en	0
+COL title VAL  "Audemars Piguet Royal Oak Chronograph Titanium Watch Replica"@en	COL title VAL  "Buy Quality Replica Audemars Piguet Royal Oak Chronograph Gray Dail Watch 26331IP.OO.1220IP.01"@en	1
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1094101103300"@en	COL title VAL  "MENS TISSOT QUICKSTER CHRONOGRAPH WATCH T0954171106700"@vi	0
+COL title VAL  "CITIZEN BN0190-82E ECO DRIVE DIVER'S 200m."@de	COL title VAL  "Citizen Men's Eco Drive Stainless Steel Watch"@en	0
+COL title VAL  "Citizen Men's Eco Drive Stainless Steel Watch"@en	COL title VAL  "Mens Citizen Eco-drive Gents Sports Strap Stainless Steel Watch AW1150-07A"@en	0
+COL title VAL  "TAG Heuer Formula 1 Chronograph Quartz Black Dial Men's CAZ101"@en	COL title VAL  "Toccata Classic Men's White Dial Quartz Watch"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T0636171103700"@en	COL title VAL  "TISSOT T095.417.11.067.00 QUICKSTER"@vi	0
+COL title VAL  "Longines Heritage Classic Automatic Silver Dial Men's Watch"@en	COL title VAL  "Hamilton Jazzmaster Automatic Black Dial Stainless Steel Men's Watch - H32515535"@en	0
+COL title VAL  "Tissot PR 100 (2015) T101.410.11.031.00"@en	COL title VAL  "T1014171103100 Tissot PR 100 Chronograph"@en	0
+COL title VAL  "TAG HEUER AQUARACER Quartz 300 M - 43 mm WAY101A.FT6141"@de	COL title VAL  "TAG Heuer Aquaracer 43mm Mens Watch WAY101A.FT6141"@de	1
+COL title VAL  "Ice-Watch001256 ICE Skull Uhr"@en	COL title VAL  "Ice-Watch015929 015769 ICE Steel"@en	0
+COL title VAL  "Hamilton Khaki Aviation Automatic Black Mens Watch"@en	COL title VAL  "Seiko Prospex Automatic Divers 200M SPB053J1 Mens Watch"@en	0
+COL title VAL  "Citizen BN0190-82E Promaster Marine Eco-Drive Diver`s Watch"@en	COL title VAL  "CITIZEN BN0190-82E ECO DRIVE DIVER'S 200m."@de	1
+COL title VAL  "Seiko Presage Automatic SRP841 SRP841J1 SRP841J Japan Made Mens Watch"@en	COL title VAL  "Seiko Prospex Monster \"Save the Ocean Special Edition\" SRPE09K1"@en	0
+COL title VAL  "TAG Heuer Carrera WAR1112.BA0601"@de	COL title VAL  "TAG Heuer Carrera CAR2A1AB.FT6163"@ca	0
+COL title VAL  "Audemars Piguet Royal Oak Offshore Diver Stainless Steel 15710ST.OO.A027CA.01"@en	COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Diver Blue Watch 15710ST.OO.A027CA.01"@en	1
+COL title VAL  "Seiko Prospex Automatic Divers 200M SPB053J1 Mens Watch"@en	COL title VAL  "Seiko Presage Men's Brown Leather Strap Watch"@en	0
+COL title VAL  "seiko solar gents alarm chronograph watch"@en	COL title VAL  "Seiko Prospex SRPE09K1 Prospex watch"@en	0
+COL title VAL  "Reloj Automático Hombre Seiko 5 Neosports SNZF15K1 buzo acero"@sk	COL title VAL  "Seiko 5 SNZF15K1 Automatic Men's Watch"@en	1
+COL title VAL  "Hamilton Khaki Aviation Automatic Black Mens Watch"@en	COL title VAL  "Armani Exchange Mens Black Chronograph Strap Watch AX1326"@en	0
+COL title VAL  "Swiss Military Hanowa06-4280.09.009CH Undercover Uhr"@en	COL title VAL  "Swiss Military Hanowa06-4280.09.009CH Undercover montre"@en	1
+COL title VAL  "Tissot Gents PRC 200 Quartz Classic Black Leather Strap & Black Dial"@en	COL title VAL  "Tissot PR 100 Gents Watch (Silver/Grey)"@en	0
+COL title VAL  "Hamilton KHAKI FIELD AUTO 38MM H70455533"@et	COL title VAL  "Hamilton Watch Khaki Navy Scuba Auto"@sw	0
+COL title VAL  "TAG Heuer INDY500 LIMITED EDITION CARRERA CV201AS.FC6429 Replica"@de	COL title VAL  "Tag Heuer - Carrera Quartz on Steel Bracelet"@de	0
+COL title VAL  "Ice-Watch015929 015769 ICE Steel"@en	COL title VAL  "Tissot T-Sport T-Race Cycle Watch T1114172744100"@en	0
+COL title VAL  "Ice-Watch017330 ICE Steel Uhr"@en	COL title VAL  "Relógio Ice-Watch017330 ICE Steel"@en	1
+COL title VAL  "PAM 312 Luminor Marina 1950 3 Days in Steel"@en	COL title VAL  "Panerai Luminor 1950 Acciaio Automatic 3 Days Automatic Black Leather Watch PAM00312"@en	1
+COL title VAL  "Ice-Watch Ice-Kids 014426 ICE Ola Kids Watch"@en	COL title VAL  "Seiko Solar SSC141P1 Solar watch"@en	0
+COL title VAL  "Citizen AW1150-07A Eco-Drive Rubber Strap AR Watch"@en	COL title VAL  "Mens Citizen Eco-drive Gents Sports Strap Stainless Steel Watch AW1150-07A"@en	1
+COL title VAL  "Toccata Classic Men's White Dial Quartz Watch"@en	COL title VAL  "Raymond Weil 5485-STC-00300"@de	1
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1014171103100"@en	COL title VAL  "Tissot T-Classic Le Locle Automatic Lady Swiss Made Sapphire Crystal Watch"@en	0
+COL title VAL  "Tissot PR 100 Gents Watch (Silver/Grey)"@en	COL title VAL  "Raymond Weil Parsifal Silver Mens Watch"@de	0
+COL title VAL  "Swiss Military Hanowa06-5227.04.007 Airborne Uhr"@en	COL title VAL  "Swiss Military Hanowa06-3346.04.009 Day Date Classic watch"@en	0
+COL title VAL  "Seiko Presage Automatic SRP841 SRP841J1 SRP841J Japan Made Mens Watch"@en	COL title VAL  "Orologio Ice-Watch017127 ICE Pearl"@en	0
+COL title VAL  "TISSOT T095.417.11.067.00 QUICKSTER"@vi	COL title VAL  "MENS TISSOT QUICKSTER CHRONOGRAPH WATCH T0954171106700"@vi	1
+COL title VAL  "Audemars Piguet Royal Oak Offshore Jarno Trulli 26202AU.OO.D002CA.01 Replica"@en	COL title VAL  "Royal Oak Offshore Jarno Trulli - Limited to 500 pcs"@en	1
+COL title VAL  "Buy Quality Replica Panerai Luminor Base 8 Days Acciaio Mechanical Mens Watch PAM00561"@en	COL title VAL  "Panerai Luminor Base 8 Days"@id	1
+COL title VAL  "TUDOR Pelagos Titanium Steel (M25600TB-0001)"@et	COL title VAL  "Ice-Watch017330 ICE Steel Uhr"@en	0
+COL title VAL  "Relógio Ice-Watch017330 ICE Steel"@en	COL title VAL  "Ice-Watch016229 ICE Classic montre"@en	0
+COL title VAL  "TISSOT EVERYTIME MEDIUM T109.410.11.033.00 (T109.410.11.033.00)"@en	COL title VAL  "Tissot Mens T-Sport V8 Swissmatic White Dial Bracelet Watch T106.407.11.031.01"@en	0
+COL title VAL  "TAG Heuer Carrera CAR2A1AB.FT6163"@ca	COL title VAL  "Raymond Weil Parsifal Mens 41mm Quartz Classic Blue Dial Bracelet Watch"@en	0
+COL title VAL  "Heritage Advisor 42mm Titanium and Steel"@en	COL title VAL  "TUDOR Pelagos Titanium Steel (M25600TB-0001)"@et	0
+COL title VAL  "Citizen Corso World Time Perpetual Calendar"@en	COL title VAL  "Citizen Men's Eco-Drive World Timer leather Stainless Steel Watch AW1598-70X"@en	1
+COL title VAL  "Seiko Presage Men's Brown Leather Strap Watch"@en	COL title VAL  "Citizen Red Arrows Black Leather Strap Chronograph Watch"@en	0
+COL title VAL  "Omega Seamaster Aqua Terra 150M Quartz Watch - 28 mm Steel Case - White Mother-Of-Pearl Diamond Dial - 220.10.28.60.55.001"@en	COL title VAL  "Omega Seamaster Aqua Terra 150m Quartz 28mm Ladies Watch"@ca	1
+COL title VAL  "Citizen Eco Drive Men's Watch AT4004-52E"@en	COL title VAL  "Citizen BN0190-82E Promaster Marine Eco-Drive Diver`s Watch"@en	0
+COL title VAL  "Buy Quality Replica Omega Seamaster 1948 Central Seconds Watch 511.13.38.20.02.001"@en	COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial Master Chronometer 215.23.40.20.04.001"@en	0
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch 26470ST.OO.A030CA.01"@en	COL title VAL  "Audemars Piguet Royal Oak 67653 Quartz Frosted White Gold Pink Bracelet Watch Replica"@en	0
+COL title VAL  "Seiko Prospex Monster \"Save the Ocean Special Edition\" SRPE09K1"@en	COL title VAL  "seiko solar gents alarm chronograph watch"@en	0
+COL title VAL  "Ice-Watch017330 ICE Steel Uhr"@en	COL title VAL  "Ice-Watch016985 Duo Chic Uhr"@en	0
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch 26470ST.OO.A030CA.01"@en	COL title VAL  "Replica watch OMEGA Speedmaster Steel Chronograph Watch 311.12.42.30.01.001"@en	0
+COL title VAL  "Tag Heuer 36mm Ladies Mother of Pearl Carrera Watch"@en	COL title VAL  "TAG Heuer Carrera WAR1112.BA0601"@de	0
+COL title VAL  "Royal Oak Offshore Jarno Trulli - Limited to 500 pcs"@en	COL title VAL  "Audemars Piguet Royal Oak Chronograph Titanium Watch Replica"@en	0
+COL title VAL  "Heritage Classic Automatic Men's Watch"@en	COL title VAL  "Longines Heritage Classic Automatic Silver Dial Men's Watch"@en	1
+COL title VAL  "Audemars Piguet Royal Oak Offshore Jarno Trulli 26202AU.OO.D002CA.01 Replica"@en	COL title VAL  "Audemars Piguet Royal Oak Chronograph Titanium Watch Replica"@en	0
+COL title VAL  "Citizen Mens Watch Khaki Canvas Strap Eco-Drive BU2055-08X"@en	COL title VAL  "Citizen Eco Drive Men's Watch AT4004-52E"@en	0
+COL title VAL  "Replica watch OMEGA Speedmaster Steel Chronograph Watch 311.12.42.30.01.001"@en	COL title VAL  "Copy OMEGA Seamaster Steel Anti-magnetic 511.13.38.20.02.001"@en	0
+COL title VAL  "Hamilton Watch Khaki Navy Scuba Auto"@sw	COL title VAL  "Hamilton Khaki Aviation Automatic Black Mens Watch"@en	0
+COL title VAL  "Seiko Gents Automatic Prospex Diver's"@en	COL title VAL  "Seiko Prospex Automatic Divers 200M SRPB49K1 Mens Watch"@en	1
+COL title VAL  "TAG Heuer Automatic Watch WBE5114.FC8266"@en	COL title VAL  "Hamilton Watch Jazzmaster Auto Open Heart"@en	0
+COL title VAL  "Mens Citizen Eco-drive Gents Sports Strap Stainless Steel Watch AW1150-07A"@en	COL title VAL  "Citizen ARBlue Resin Date Display Stainless Steel Case AW1158-05L"@en	0
+COL title VAL  "Armani Exchange Mens Black Chronograph Strap Watch AX1326"@en	COL title VAL  "seiko solar gents alarm chronograph watch"@en	0
+COL title VAL  "Buy Quality Replica Panerai Luminor Base 8 Days Acciaio Mechanical Mens Watch PAM00561"@en	COL title VAL  "Buy Quality Replica Audemars Piguet Royal Oak Chronograph Gray Dail Watch 26331IP.OO.1220IP.01"@en	0
+COL title VAL  "Omega Speedmaster Co-Axial 38mm Ladies Watch O32423385002001"@en	COL title VAL  "Omega Seamaster Planet Ocean 600m Omega Co-Axial Master Chronometer 39.5mm - 215.23.40.20.04.001"@en	0
+COL title VAL  "Hamilton Viewmatic Auto Watch H32515145"@en	COL title VAL  "Hamilton Ventura XXL Watch H24655331"@en	0
+COL title VAL  "Tissot T-Race Chronograph Cycling Chronograph"@en	COL title VAL  "Tissot T111.417.37.441.06 T-Race Cycling Chronograph Black PVD 44mm"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T0636171103700"@en	COL title VAL  "Tissot Stainless Steel T-Sport Men's Watch - T1114173744106"@en	0
+COL title VAL  "Citizen Promaster BJ8050-08E Promaster Sea watch"@en	COL title VAL  "Citizen Promaster Sea (BJ8050-08E)"@de	1
+COL title VAL  "Tissot T111.417.37.441.04 T-Race Cycling Chronograph Black PVD 44mm"@en	COL title VAL  "TISSOT T-RACE CYCLING T111.417.37.441.05 (T111.417.37.441.05)"@vi	0
+COL title VAL  "TAG Heuer Formula 1 Quartz Black Ceramic Watch"@en	COL title VAL  "TAG Heuer Automatic Watch WBE5114.FC8266"@en	0
+COL title VAL  "Breitling Navitimer B01 Chronograph 43 Swissair Watch - Steel - Black Dial - Steel Bracelet - AB01211B1B1A1"@en	COL title VAL  "Hamilton Jazzmaster Automatic Black Dial Stainless Steel Men's Watch - H32515535"@en	0
+COL title VAL  "Citizen Navihawk A-T Eco-Drive Chronograph JY8037-50E Mens Watch"@en	COL title VAL  "Mens Citizen Eco-drive Gents Sports Strap Stainless Steel Watch AW1150-07A"@en	0
+COL title VAL  "TAG Heuer Formula 1 Aston Martin Red Bull Racing Max Verstappen Special Edition"@en	COL title VAL  "TAG Heuer Formula 1 Quartz Black Ceramic Watch"@en	1
+COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial"@en	COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial Master Chronometer 215.23.40.20.04.001"@en	0
+COL title VAL  "Buy Quality Replica Audemars Piguet Royal Oak Chronograph Gray Dail Watch 26331IP.OO.1220IP.01"@en	COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Diver Blue Watch 15710ST.OO.A027CA.01"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T0636171103700"@en	COL title VAL  "Tissot T111.417.37.441.06 T-Race Cycling Chronograph Black PVD 44mm"@en	0
+COL title VAL  "Tissot Stainless Steel T-Sport Men's Watch - T1114173744106"@en	COL title VAL  "Tissot T111.417.37.441.06 T-Race Cycling Chronograph Black PVD 44mm"@en	1
+COL title VAL  "TAG Heuer Calibre 16 Indy 500 – Automatic Chronograph - Limited Edition"@en	COL title VAL  "Tag Heuer - Carrera Quartz on Steel Bracelet"@de	0
+COL title VAL  "HAMILTON Khaki Field 38MM BRN Leather Automatic Men's Watch H70455533"@en	COL title VAL  "Hamilton Khaki Aviation Automatic Black Mens Watch"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean 600m Omega Co-Axial Master Chronometer 39.5mm - 215.23.40.20.04.001"@en	COL title VAL  "Buy Quality Replica Omega Speedmaster 38mm Co-Axial Green Bezel Watches 324.23.38.50.02.001"@en	0
+COL title VAL  "TISSOT V8 SWISSMATIC T106.407.11.031.01 (T106.407.11.031.01)"@vi	COL title VAL  "Tissot Mens T-Sport V8 Swissmatic White Dial Bracelet Watch T106.407.11.031.01"@en	1
+COL title VAL  "Gents Seiko Leather Presage Automatic"@en	COL title VAL  "Seiko Gents Automatic Prospex Diver's"@en	0
+COL title VAL  "Raymond Weil Parsifal Mens 41mm Quartz Classic Blue Dial Bracelet Watch"@en	COL title VAL  "Raymond Weil Parsifal Silver Mens Watch"@de	1
+COL title VAL  "Hamilton Navy Scuba H82315331 Black Rubber Strap Automatic Watch"@en	COL title VAL  "Hamilton Jazzmaster Automatic Black Dial Stainless Steel Men's Watch - H32515535"@en	0
+COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial Master Chronometer 215.23.40.20.04.001"@en	COL title VAL  "Buy Quality Replica Omega Speedmaster 38mm Co-Axial Green Bezel Watches 324.23.38.50.02.001"@en	0
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch 26470ST.OO.A030CA.01"@en	COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Frosted Gold Quartz Watch 67653BC.GG.1263BC.02"@en	0
+COL title VAL  "Hamilton Men's H72585535 Khaki Field Skeleton Automatic Brown Leather Watch"@en	COL title VAL  "Hamilton Khaki Aviation Automatic Black Mens Watch"@en	0
+COL title VAL  "Ice-Watch001256 ICE Skull Uhr"@en	COL title VAL  "Ice-Watch017330 ICE Steel Uhr"@en	0
+COL title VAL  "Ice-Watch015929 015769 ICE Steel"@en	COL title VAL  "Relógio Ice-Watch016229 ICE Classic"@en	0
+COL title VAL  "Seiko Solar SSC141P1 Solar watch"@en	COL title VAL  "Seiko 5 SNZF15K1 Automatic Men's Watch"@en	0
+COL title VAL  "Buy Quality Replica Omega Speedmaster 38mm Co-Axial Green Bezel Watches 324.23.38.50.02.001"@en	COL title VAL  "Replica watch OMEGA Speedmaster Steel Chronograph Watch 311.12.42.30.01.001"@en	0
+COL title VAL  "Seiko Presage Men's Brown Leather Strap Watch"@en	COL title VAL  "Seiko Prospex SRPE09K1 Prospex watch"@en	0
+COL title VAL  "Hamilton Watch Jazzmaster Auto Open Heart"@en	COL title VAL  "Heritage Classic Automatic Men's Watch"@en	0
+COL title VAL  "Audemars Piguet Royal Oak Offshore Diver Stainless Steel 15710ST.OO.A027CA.01"@en	COL title VAL  "AUDEMARS PIGUET ROYAL OAK OFFSHORE SELFWINDING CHRONOGRAPH STAINLESS STEEL 42MM MEN'S WATCH- Luxury Souq"@en	0
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch 26470ST.OO.A030CA.01"@en	COL title VAL  "Royal Oak Offshore Jarno Trulli - Limited to 500 pcs"@en	0
+COL title VAL  "Casio G-Shock G-STEEL BLACK GSTB100-1A"@en	COL title VAL  "Navitimer 8 Chronograph 43 Black Steel - Black"@en	0
+COL title VAL  "Buy Quality Replica Patek Philippe Tourbillon Minute Repeater Perpetual Calendar Watch 5207G-001"@en	COL title VAL  "Buy Quality Replica Omega Seamaster 1948 Central Seconds Watch 511.13.38.20.02.001"@en	0
+COL title VAL  "T1014171103100 Tissot PR 100 Chronograph"@en	COL title VAL  "Tissot PR 100 Gents Watch (Silver/Grey)"@en	0
+COL title VAL  "TAG Heuer Formula 1 Indy 500 Limited Edition Watch 43mm Mens Watch CAZ101V.BA0842"@en	COL title VAL  "TAG Heuer Calibre 16 Indy 500 – Automatic Chronograph - Limited Edition"@en	0
+COL title VAL  "Breitling NAVITIMER 1 B01 CHRONOGRAPH 43 SWISSAIR EDITIONS"@de	COL title VAL  "Breitling Navitimer B01 Chronograph 43 Swissair Watch - Steel - Black Dial - Steel Bracelet - AB01211B1B1A1"@en	1
+COL title VAL  "Navitimer 8 Chronograph 43 Black Steel - Black"@en	COL title VAL  "Panerai Luminor Base 8 Days"@id	0
+COL title VAL  "Ice-Watch017330 ICE Steel Uhr"@en	COL title VAL  "Correa Ice-Watch 015929 015769 ICE Steel"@en	0
+COL title VAL  "Omega Seamaster Aqua Terra 150M Quartz Watch - 28 mm Steel Case - White Mother-Of-Pearl Diamond Dial - 220.10.28.60.55.001"@en	COL title VAL  "Replica watch OMEGA Speedmaster Steel Chronograph Watch 311.12.42.30.01.001"@en	0
+COL title VAL  "Ice-Watch015929 015769 ICE Steel"@en	COL title VAL  "Correa Ice-Watch 015929 015769 ICE Steel"@en	1
+COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial"@en	COL title VAL  "Omega Seamaster Planet Ocean 600m Omega Co-Axial Master Chronometer 39.5mm - 215.23.40.20.04.001"@en	0
+COL title VAL  "Hamilton Jazzmaster Automatic Black Dial Stainless Steel Men's Watch - H32515535"@en	COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1094101103300"@en	0
+COL title VAL  "Zegarek ICE Watch 016985 DUO CHIC NUDE MEDIUM"@en	COL title VAL  "Ice-Watch015929 015769 ICE Steel"@en	0
+COL title VAL  "Relógio Ice-Watch016229 ICE Classic"@en	COL title VAL  "Ice-Watch016229 ICE Classic montre"@en	1
+COL title VAL  "Citizen Men's Eco-Drive World Timer leather Stainless Steel Watch AW1598-70X"@en	COL title VAL  "Citizen Eco Drive Men's Watch AT4004-52E"@en	0
+COL title VAL  "Citizen Red Arrows Black Leather Strap Chronograph Watch"@en	COL title VAL  "Citizen Men's Watch CA0080-03E"@de	1
+COL title VAL  "Omega Speedmaster Co-Axial 38mm Ladies Watch O32423385002001"@en	COL title VAL  "Buy Quality Replica Omega Speedmaster 38mm Co-Axial Green Bezel Watches 324.23.38.50.02.001"@en	1
+COL title VAL  "PELAGOS 42MM TITANIUM AND STEEL"@en	COL title VAL  "Heritage Advisor 42mm Titanium and Steel"@en	0
+COL title VAL  "Toccata Classic Men's White Dial Quartz Watch"@en	COL title VAL  "Omega Seamaster Aqua Terra 150M Quartz Watch - 28 mm Steel Case - White Mother-Of-Pearl Diamond Dial - 220.10.28.60.55.001"@en	0
+COL title VAL  "Citizen Men's Watch CA0080-03E"@de	COL title VAL  "TAG Heuer Autavia Men's Calibre 5 Chronometer Watch WBE5114.FC8266"@en	0
+COL title VAL  "Tissot PR 100 Gents Watch (Silver/Grey)"@en	COL title VAL  "MENS TISSOT QUICKSTER CHRONOGRAPH WATCH T0954171106700"@vi	0
+COL title VAL  "Copy OMEGA Seamaster Steel Anti-magnetic 511.13.38.20.02.001"@en	COL title VAL  "Buy Quality Replica Omega Speedmaster 38mm Co-Axial Green Bezel Watches 324.23.38.50.02.001"@en	0
+COL title VAL  "Citizen Navihawk A-T Eco-Drive Chronograph JY8037-50E Mens Watch"@en	COL title VAL  "Citizen Eco Drive Stiletto Men's Watch AR3074-54E"@en	0
+COL title VAL  "TAG Heuer Formula 1 Chronograph Quartz Black Dial Men's CAZ101"@en	COL title VAL  "TAG Heuer Formula 1 Aston Martin Red Bull Racing Max Verstappen Special Edition"@en	0
+COL title VAL  "T1014171103100 Tissot PR 100 Chronograph"@en	COL title VAL  "MENS TISSOT QUICKSTER CHRONOGRAPH WATCH T0954171106700"@vi	0
+COL title VAL  "Omega Seamaster Aqua Terra 150m Quartz 28mm Ladies Watch"@ca	COL title VAL  "Omega Speedmaster Co-Axial 38mm Ladies Watch O32423385002001"@en	0
+COL title VAL  "Ice-Watch016985 Duo Chic Uhr"@en	COL title VAL  "Zegarek ICE Watch 016985 DUO CHIC NUDE MEDIUM"@en	1
+COL title VAL  "Buy Quality Replica Panerai Luminor Base 8 Days Acciaio Mechanical Mens Watch PAM00561"@en	COL title VAL  "PAM 312 Luminor Marina 1950 3 Days in Steel"@en	0
+COL title VAL  "Tissot T-Race Cycling T111.417.27.441.00"@en	COL title VAL  "Tissot Mens T-Race Cycling Light Blue Watch T111.417.37.441.05"@en	0
+COL title VAL  "Gents Seiko Leather Presage Automatic"@en	COL title VAL  "Seiko Prospex Automatic Divers 200M"@en	0
+COL title VAL  "Tissot Stainless Steel T-Sport Men's Watch - T1114173744106"@en	COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1014171103100"@en	0
+COL title VAL  "TAG Heuer Calibre 16 Indy 500 – Automatic Chronograph - Limited Edition"@en	COL title VAL  "TAG Heuer INDY500 LIMITED EDITION CARRERA CV201AS.FC6429 Replica"@de	1
+COL title VAL  "Gents Seiko Leather Presage Automatic"@en	COL title VAL  "Armani Exchange Herrenarmbanduhr AX1326 Gents Outerbanks"@de	0
+COL title VAL  "Swiss Military Hanowa06-3346.04.009 Day Date Classic watch"@en	COL title VAL  "Swiss Military Hanowa06-3346.04.009 Day Date Classic montre"@en	1
+COL title VAL  "Replica watch OMEGA Speedmaster Steel Chronograph Watch 311.12.42.30.01.001"@en	COL title VAL  "AAA Replica Patek Philippe Calatrava Rose Gold Ladies Watch 7122/200R-001"@en	0
+COL title VAL  "TAG Heuer Aquaracer 43mm Mens Watch WAY101A.FT6141"@de	COL title VAL  "AAA Replica TAG Heuer Aquaracer 300M Watch WAY101E.FC8222"@en	0
+COL title VAL  "Seiko Prospex Automatic Divers 200M"@en	COL title VAL  "Heritage Advisor Automatic Men's Watch"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T0636171103700"@en	COL title VAL  "Heritage Classic Automatic Men's Watch"@en	0
+COL title VAL  "Hamilton Open Heart Watch H32565555"@en	COL title VAL  "Hamilton Viewmatic Auto Watch H32515145"@en	0
+COL title VAL  "Seiko Gents Automatic Prospex Diver's"@en	COL title VAL  "Tissot PR 100 Gents Watch (Silver/Grey)"@en	0
+COL title VAL  "Zegarek ICE Watch 016985 DUO CHIC NUDE MEDIUM"@en	COL title VAL  "Ice-Watch Ice-Kids 014426 ICE Ola Kids Watch"@en	0
+COL title VAL  "Tissot T048.417.27.057.00"@en	COL title VAL  "Tissot Mens T-Classic Tradition Bracelet Watch T063.617.11.037.00"@en	0
+COL title VAL  "Tissot T-Race Cycling T111.417.27.441.00"@en	COL title VAL  "Tissot T111.417.37.441.06 T-Race Cycling Chronograph Black PVD 44mm"@en	0
+COL title VAL  "Buy Quality Replica Omega Speedmaster 38mm Co-Axial Green Bezel Watches 324.23.38.50.02.001"@en	COL title VAL  "Buy Quality Replica Omega Seamaster 1948 Central Seconds Watch 511.13.38.20.02.001"@en	0
+COL title VAL  "Heritage Classic Automatic Men's Watch"@en	COL title VAL  "HAMILTON Khaki Field 38MM BRN Leather Automatic Men's Watch H70455533"@en	0
+COL title VAL  "AAA Replica Patek Philippe Calatrava Rose Gold Ladies Watch 7122/200R-001"@en	COL title VAL  "Patek Philippe Tourbillon Minute Repeater Perpetual Calendar hite Gold / Blue 5207G-001 Replica"@en	0
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Diver Blue Watch 15710ST.OO.A027CA.01"@en	COL title VAL  "Audemars Piguet Royal Oak 67653 Quartz Frosted White Gold Pink Bracelet Watch Replica"@en	0
+COL title VAL  "Hamilton Jazzmaster Automatic Black Dial Stainless Steel Men's Watch - H32515535"@en	COL title VAL  "Hamilton American Classic H32515535 Jazzmaster watch"@en	1
+COL title VAL  "Audemars Piguet Royal Oak Offshore Diver Stainless Steel 15710ST.OO.A027CA.01"@en	COL title VAL  "Buy Quality Replica Audemars Piguet Royal Oak Chronograph Gray Dail Watch 26331IP.OO.1220IP.01"@en	0
+COL title VAL  "Mens Citizen Eco-drive Gents Sports Strap Stainless Steel Watch AW1158-05L"@en	COL title VAL  "Citizen Men's Eco-Drive World Timer leather Stainless Steel Watch AW1598-70X"@en	0
+COL title VAL  "Seiko Prospex SRPE09K1 Prospex watch"@en	COL title VAL  "Seiko Prospex Automatic Divers 200M SRPB49K1 Mens Watch"@en	0
+COL title VAL  "Relógio Ice-Watch017127 ICE Pearl"@en	COL title VAL  "Relógio Ice-Watch016229 ICE Classic"@en	0
+COL title VAL  "Tissot T048.417.27.057.00"@en	COL title VAL  "TISSOT T-RACE CYCLING T111.417.37.441.05 (T111.417.37.441.05)"@vi	0
+COL title VAL  "Ice-Watch001256 ICE Skull Uhr"@en	COL title VAL  "Swiss Military Hanowa06-4280.09.009CH Undercover Uhr"@en	0
+COL title VAL  "Omega Seamaster 232.30.42.21.01.002"@et	COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial Master Chronometer 215.23.40.20.04.001"@en	0
+COL title VAL  "Buy Quality Replica Breitling Navitimer 8 Chronograph 43 Watch M13314101B1X1"@en	COL title VAL  "Breitling NAVITIMER 1 B01 CHRONOGRAPH 43 SWISSAIR EDITIONS"@de	0
+COL title VAL  "Seiko Prospex Automatic Divers 200M SPB053J1 Mens Watch"@en	COL title VAL  "Seiko Gents Automatic Prospex Diver's"@en	0
+COL title VAL  "Tissot T-Race Chronograph Cycling Chronograph"@en	COL title VAL  "TISSOT T-RACE CYCLING T111.417.37.441.05 (T111.417.37.441.05)"@vi	0
+COL title VAL  "TISSOT EVERYTIME MEDIUM T109.410.11.033.00 (T109.410.11.033.00)"@en	COL title VAL  "TISSOT V8 SWISSMATIC T106.407.11.031.01 (T106.407.11.031.01)"@vi	0
+COL title VAL  "Citizen Eco Drive Stiletto Men's Watch AR3074-54E"@en	COL title VAL  "Citizen Eco Drive Men's Watch AT4004-52E"@en	0
+COL title VAL  "Citizen Promaster Sea (BJ8050-08E)"@de	COL title VAL  "Citizen Corso World Time Perpetual Calendar"@en	0
+COL title VAL  "Seiko Prospex SRPE09K1 Prospex watch"@en	COL title VAL  "Seiko Solar SSC141P1 Solar watch"@en	0
+COL title VAL  "Tissot Mens T-Race Cycling Light Blue Watch T111.417.37.441.05"@en	COL title VAL  "Tissot T111.417.37.441.04 T-Race Cycling Chronograph Black PVD 44mm"@en	0
+COL title VAL  "Mens Citizen Eco-drive Gents Sports Strap Stainless Steel Watch AW1158-05L"@en	COL title VAL  "Citizen Eco Drive Stiletto Men's Watch AR3074-54E"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1014171103100"@en	COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T0636171103700"@en	0
+COL title VAL  "KHAKI AVIATION X-WIND DAY DATE AUTO"@so	COL title VAL  "Hamilton Watch Khaki Navy Scuba Auto"@sw	0
+COL title VAL  "Seiko Prospex SRPE09K1 Prospex watch"@en	COL title VAL  "Seiko Prospex Monster \"Save the Ocean Special Edition\" SRPE09K1"@en	1
+COL title VAL  "seiko solar gents alarm chronograph watch"@en	COL title VAL  "Seiko Solar SSC141P1 Solar watch"@en	1
+COL title VAL  "Citizen Mens Green Nylon Strap Grey Quartz Dial Military CrystalWatch - BU2055-08X"@en	COL title VAL  "Tissot Gents PRC 200 Quartz Classic Black Leather Strap & Black Dial"@en	0
+COL title VAL  "Mens Citizen Eco-drive Gents Sports Strap Stainless Steel Watch AW1150-07A"@en	COL title VAL  "Citizen Men's Eco-Drive World Timer leather Stainless Steel Watch AW1598-70X"@en	0
+COL title VAL  "TISSOT V8 SWISSMATIC T106.407.11.031.01 (T106.407.11.031.01)"@vi	COL title VAL  "Tissot PR 100 (2015) T101.410.11.031.00"@en	0
+COL title VAL  "Armani Exchange Mens Black Chronograph Strap Watch AX1326"@en	COL title VAL  "Citizen Red Arrows Black Leather Strap Chronograph Watch"@en	0
+COL title VAL  "Tissot T-Classic Le Locle Automatic Lady Swiss Made Sapphire Crystal Watch"@en	COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T0636171103700"@en	0
+COL title VAL  "MENS TISSOT QUICKSTER CHRONOGRAPH WATCH T0954171106700"@vi	COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T0636171103700"@en	0
+COL title VAL  "Citizen Men's Watch CA0080-03E"@de	COL title VAL  "Citizen Eco Drive Men's Watch AT4004-52E"@en	0
+COL title VAL  "Tissot T0554171605700 - T055.417.16.057.00"@en	COL title VAL  "Tissot T048.417.27.057.00"@en	0
+COL title VAL  "Copy OMEGA Seamaster Steel Anti-magnetic 511.13.38.20.02.001"@en	COL title VAL  "Omega Seamaster Planet Ocean 600m Omega Co-Axial Master Chronometer 39.5mm - 215.23.40.20.04.001"@en	0
+COL title VAL  "Citizen Eco Drive Men's Watch AT4004-52E"@en	COL title VAL  "Mens Citizen Eco-drive Gents Sports Strap Stainless Steel Watch AW1158-05L"@en	0
+COL title VAL  "Citizen Promaster BJ8050-08E Promaster Sea watch"@en	COL title VAL  "Seiko Prospex Monster \"Save the Ocean Special Edition\" SRPE09K1"@en	0
+COL title VAL  "Swiss Military Hanowa06-3346.04.009 Day Date Classic watch"@en	COL title VAL  "Swiss Military Hanowa06-4280.09.009CH Undercover montre"@en	0
+COL title VAL  "Hamilton American Classic H32515535 Jazzmaster watch"@en	COL title VAL  "Hamilton American Classic Ventura XXL Auto"@en	0
+COL title VAL  "Buy Quality Replica Patek Philippe Tourbillon Minute Repeater Perpetual Calendar Watch 5207G-001"@en	COL title VAL  "Patek Philippe Calatrava Ladies 7122/200R-001"@ca	0
+COL title VAL  "Seiko 5 SNZF15K1 Automatic Men's Watch"@en	COL title VAL  "Heritage Classic Automatic Men's Watch"@en	0
+COL title VAL  "Heritage Classic Automatic Men's Watch"@en	COL title VAL  "Heritage Advisor Automatic Men's Watch"@en	0
+COL title VAL  "Tissot T111.417.37.441.04 T-Race Cycling Chronograph Black PVD 44mm"@en	COL title VAL  "Tissot T-Sport T-Race Cycle Watch T1114172744100"@en	0
+COL title VAL  "Audemars Piguet Royal Oak Chronograph Titanium Watch Replica"@en	COL title VAL  "AUDEMARS PIGUET ROYAL OAK OFFSHORE SELFWINDING CHRONOGRAPH STAINLESS STEEL 42MM MEN'S WATCH- Luxury Souq"@en	0
+COL title VAL  "Longines Heritage Classic Automatic Silver Dial Men's Watch"@en	COL title VAL  "Toccata Classic Men's White Dial Quartz Watch"@en	0
+COL title VAL  "AAA Replica TAG Heuer Aquaracer 300M Watch WAY101E.FC8222"@en	COL title VAL  "TAG HEUER AQUARACER Quartz 300 M - 43 mm WAY101A.FT6141"@de	0
+COL title VAL  "Hamilton Jazzmaster Automatic Black Dial Stainless Steel Men's Watch - H32515535"@en	COL title VAL  "Hamilton Jazzmaster Viewmatic Auto Watch H32515145"@en	0
+COL title VAL  "Ice-Watch017330 ICE Steel Uhr"@en	COL title VAL  "Relógio Ice-Watch017127 ICE Pearl"@en	0
+COL title VAL  "Citizen Men's Eco Drive Stainless Steel Watch"@en	COL title VAL  "Mens Citizen Eco-drive Gents Sports Strap Stainless Steel Watch AW1158-05L"@en	0
+COL title VAL  "Buy Quality Replica Omega Seamaster 1948 Central Seconds Watch 511.13.38.20.02.001"@en	COL title VAL  "Hamilton American Classic Ventura XXL Auto"@en	0
+COL title VAL  "TISSOT V8 SWISSMATIC T106.407.11.031.01 (T106.407.11.031.01)"@vi	COL title VAL  "Tissot Le Locle T006.207.11.038.00"@fr	0
+COL title VAL  "PELAGOS 42MM TITANIUM AND STEEL"@en	COL title VAL  "TUDOR Pelagos Titanium Steel (M25600TB-0001)"@et	1
+COL title VAL  "Swiss Military Hanowa06-5227.04.007 Airborne watch"@en	COL title VAL  "Omega Seamaster 232.30.42.21.01.002"@et	0
+COL title VAL  "Swiss Military Hanowa06-5227.04.007 Airborne watch"@en	COL title VAL  "Aquaracer 300M Ceramic Bezel Calibre 5 Automatic Watch"@ca	0
+COL title VAL  "Tag Heuer Aquaracer quartz with khaki dial and khaki Nato strap."@en	COL title VAL  "TAG Heuer Formula 1 Chronograph Quartz Black Dial Men's CAZ101"@en	0
+COL title VAL  "TAG Heuer Formula 1 Indy 500 Limited Edition Watch 43mm Mens Watch CAZ101V.BA0842"@en	COL title VAL  "TAG HEUER AQUARACER Quartz 300 M - 43 mm WAY101A.FT6141"@de	0
+COL title VAL  "Tissot Mens T-Sport V8 Swissmatic White Dial Bracelet Watch T106.407.11.031.01"@en	COL title VAL  "Tissot Le Locle T006.207.11.038.00"@fr	0
+COL title VAL  "Replica watch OMEGA Speedmaster Steel Chronograph Watch 311.12.42.30.01.001"@en	COL title VAL  "Patek Philippe Tourbillon Minute Repeater Perpetual Calendar hite Gold / Blue 5207G-001 Replica"@en	0
+COL title VAL  "Buy Quality Replica Panerai Luminor Base 8 Days Acciaio Mechanical Mens Watch PAM00561"@en	COL title VAL  "MENS TISSOT QUICKSTER CHRONOGRAPH WATCH T0954171106700"@vi	0
+COL title VAL  "TAG Heuer Automatic Watch WBE5114.FC8266"@en	COL title VAL  "AAA Replica TAG Heuer Aquaracer 300M Watch WAY101E.FC8222"@en	0
+COL title VAL  "Citizen Men's Eco Drive Stainless Steel Watch"@en	COL title VAL  "Citizen Men's Eco-Drive World Timer leather Stainless Steel Watch AW1598-70X"@en	0
+COL title VAL  "TISSOT EVERYTIME MEDIUM T109.410.11.033.00 (T109.410.11.033.00)"@en	COL title VAL  "Tissot PR 100 (2015) T101.410.11.031.00"@en	0
+COL title VAL  "Swiss Military Hanowa06-3346.04.009 Day Date Classic montre"@en	COL title VAL  "Hamilton Viewmatic Auto Watch H32515145"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T0636171103700"@en	COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1094101103300"@en	0
+COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial Master Chronometer 215.23.40.20.04.001"@en	COL title VAL  "Omega Speedmaster Co-Axial 38mm Ladies Watch O32423385002001"@en	0
+COL title VAL  "Seiko Ladies Presage Cocktail - Sky Diving"@en	COL title VAL  "Gents Seiko Leather Presage Automatic"@en	0
+COL title VAL  "Citizen Men's Eco Drive Stainless Steel Watch"@en	COL title VAL  "AUDEMARS PIGUET ROYAL OAK OFFSHORE SELFWINDING CHRONOGRAPH STAINLESS STEEL 42MM MEN'S WATCH- Luxury Souq"@en	0
+COL title VAL  "Breitling NAVITIMER 1 B01 CHRONOGRAPH 43 SWISSAIR EDITIONS"@de	COL title VAL  "TAG Heuer Formula 1 Chronograph Quartz Black Dial Men's CAZ101"@en	0
+COL title VAL  "Citizen Eco Drive Men's Watch AT4004-52E"@en	COL title VAL  "Citizen Men's Eco-Drive ATOMIC TIMEKEEPING PERPETUAL CHRONO A‑T Bracelet Watch - Product Code - AT4004-52E"@en	1
+COL title VAL  "TISSOT T095.417.11.067.00 QUICKSTER"@vi	COL title VAL  "Tissot Mens T-Classic Tradition Bracelet Watch T063.617.11.037.00"@en	0
+COL title VAL  "Hamilton KHAKI FIELD AUTO 38MM H70455533"@et	COL title VAL  "Hamilton Men's H72585535 Khaki Field Skeleton Automatic Brown Leather Watch"@en	0
+COL title VAL  "Swiss Military Hanowa06-3346.04.009 Day Date Classic watch"@en	COL title VAL  "Buy Quality Replica Omega Speedmaster 38mm Co-Axial Green Bezel Watches 324.23.38.50.02.001"@en	0
+COL title VAL  "Ice-Watch016229 ICE Classic montre"@en	COL title VAL  "Relógio Ice-Watch017127 ICE Pearl"@en	0
+COL title VAL  "Tissot T-Race Cycling T111.417.27.441.00"@en	COL title VAL  "Tissot T111.417.37.441.04 T-Race Cycling Chronograph Black PVD 44mm"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T0636171103700"@en	COL title VAL  "Copy OMEGA Speedmaster Steel Chronograph 311.12.42.30.01.001"@en	0
+COL title VAL  "Panerai Luminor Base 8 Days"@id	COL title VAL  "Panerai Luminor 1950 Acciaio Automatic 3 Days Automatic Black Leather Watch PAM00312"@en	0
+COL title VAL  "HAMILTON Khaki Field 38MM BRN Leather Automatic Men's Watch H70455533"@en	COL title VAL  "Heritage Advisor Automatic Men's Watch"@en	0
+COL title VAL  "Seiko Gents Automatic Prospex Diver's"@en	COL title VAL  "Heritage Advisor Automatic Men's Watch"@en	0
+COL title VAL  "Patek Philippe Calatrava Ladies 7122/200R-001"@ca	COL title VAL  "Seiko Ladies Presage Cocktail - Sky Diving"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1094101103300"@en	COL title VAL  "Toccata Classic Men's White Dial Quartz Watch"@en	0
+COL title VAL  "Hamilton American Classic Ventura XXL Auto"@en	COL title VAL  "Hamilton Viewmatic Auto Watch H32515145"@en	0
+COL title VAL  "Armani Exchange Mens Black Chronograph Strap Watch AX1326"@en	COL title VAL  "Armani Exchange Herrenarmbanduhr AX1326 Gents Outerbanks"@de	1
+COL title VAL  "TAG Heuer Ladies White Mother Of Pearl Dial Carrera Watch"@en	COL title VAL  "TAG Heuer Carrera CAR2A1AB.FT6163"@ca	0
+COL title VAL  "Tissot Men's T0484172705700 'T-Race' Chronograph Black Rubber Watch"@en	COL title VAL  "Tissot T-Sport T-Race Cycle Watch T1114172744100"@en	0
+COL title VAL  "Hamilton Watch Khaki Navy Scuba Auto"@sw	COL title VAL  "HAMILTON Khaki Field 38MM BRN Leather Automatic Men's Watch H70455533"@en	0
+COL title VAL  "HAMILTON Khaki Field 38MM BRN Leather Automatic Men's Watch H70455533"@en	COL title VAL  "Seiko 5 SNZF15K1 Automatic Men's Watch"@en	0
+COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial Master Chronometer 215.23.40.20.04.001"@en	COL title VAL  "Casio G-SHOCK GSTB100-1A G-STEEL"@pt	0
+COL title VAL  "Relógio Ice-Watch017330 ICE Steel"@en	COL title VAL  "Relógio Ice-Watch016229 ICE Classic"@en	0
+COL title VAL  "Replica watch OMEGA Speedmaster Steel Chronograph Watch 311.12.42.30.01.001"@en	COL title VAL  "Copy OMEGA Speedmaster Steel Chronograph 311.12.42.30.01.001"@en	1
+COL title VAL  "Buy Quality Replica Breitling Navitimer 8 Chronograph 43 Watch M13314101B1X1"@en	COL title VAL  "Buy Quality Replica Panerai Luminor Base 8 Days Acciaio Mechanical Mens Watch PAM00561"@en	0
+COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial"@en	COL title VAL  "Omega Seamaster 232.30.42.21.01.002"@et	1
+COL title VAL  "Tissot T111.417.37.441.04 T-Race Cycling Chronograph Black PVD 44mm"@en	COL title VAL  "Tissot T111.417.37.441.06 T-Race Cycling Chronograph Black PVD 44mm"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1094101103300"@en	COL title VAL  "Tissot Mens T-Classic Tradition Bracelet Watch T063.617.11.037.00"@en	0
+COL title VAL  "Seiko Prospex Automatic Divers 200M"@en	COL title VAL  "Seiko Prospex SRPE09K1 Prospex watch"@en	0
+COL title VAL  "Citizen Mens Green Nylon Strap Grey Quartz Dial Military CrystalWatch - BU2055-08X"@en	COL title VAL  "Citizen Mens Watch Khaki Canvas Strap Eco-Drive BU2055-08X"@en	1
+COL title VAL  "Tissot Gents PRC 200 Quartz Classic Black Leather Strap & Black Dial"@en	COL title VAL  "Tissot T0554171605700 - T055.417.16.057.00"@en	1
+COL title VAL  "TISSOT EVERYTIME MEDIUM T109.410.11.033.00 (T109.410.11.033.00)"@en	COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1094101103300"@en	1
+COL title VAL  "Tissot Men's T0484172705700 'T-Race' Chronograph Black Rubber Watch"@en	COL title VAL  "Tissot Stainless Steel T-Sport Men's Watch - T1114173744106"@en	0
+COL title VAL  "Ice-Watch016229 ICE Classic montre"@en	COL title VAL  "Ice-Watch017330 ICE Steel Uhr"@en	0
+COL title VAL  "Tag Heuer - Carrera Quartz on Steel Bracelet"@de	COL title VAL  "TAG Heuer Carrera WAR1112.BA0601"@de	1
+COL title VAL  "Aquaracer 300M Ceramic Bezel Calibre 5 Automatic Watch"@ca	COL title VAL  "Seiko 5 SNZF15K1 Automatic Men's Watch"@en	0
+COL title VAL  "Ice-Watch001256 ICE Skull montre"@en	COL title VAL  "Ice-Watch Ice-Kids 014426 ICE Ola Kids montre"@en	0
+COL title VAL  "H72585535 Hamilton Khaki Field Skeleton Auto Watch"@de	COL title VAL  "KHAKI AVIATION X-WIND DAY DATE AUTO"@so	0
+COL title VAL  "Tissot Mens T-Classic Tradition Bracelet Watch T063.617.11.037.00"@en	COL title VAL  "Tissot Mens T-Sport V8 Swissmatic White Dial Bracelet Watch T106.407.11.031.01"@en	0
+COL title VAL  "Seiko Prospex Monster \"Save the Ocean Special Edition\" SRPE09K1"@en	COL title VAL  "Seiko Prospex Automatic Divers 200M SRPB49K1 Mens Watch"@en	0
+COL title VAL  "Swiss Military Hanowa06-3346.04.009 Day Date Classic watch"@en	COL title VAL  "Swiss Military Hanowa06-4280.09.009CH Undercover Uhr"@en	0
+COL title VAL  "Casio G-Shock G-STEEL BLACK GSTB100-1A"@en	COL title VAL  "Casio G-SHOCK GSTB100-1A G-STEEL"@pt	1
+COL title VAL  "Swiss Military Hanowa06-4280.09.009CH Undercover Uhr"@en	COL title VAL  "Swiss Military Hanowa06-5227.04.007 Airborne Uhr"@en	0
+COL title VAL  "Ice-Watch015929 015769 ICE Steel"@en	COL title VAL  "Relógio Ice-Watch017330 ICE Steel"@en	0
+COL title VAL  "Tissot T0554171605700 - T055.417.16.057.00"@en	COL title VAL  "Tissot T-Classic Le Locle Automatic Lady Swiss Made Sapphire Crystal Watch"@en	0
+COL title VAL  "Omega Seamaster 232.30.42.21.01.002"@et	COL title VAL  "Copy OMEGA Speedmaster Steel Chronograph 311.12.42.30.01.001"@en	0
+COL title VAL  "TAG Heuer Autavia Men's Calibre 5 Chronometer Watch WBE5114.FC8266"@en	COL title VAL  "Cheap Replica Tag Heuer Carrera Heuer 01 Aston Martin Watch CAR2A1AB.FT6163"@en	0
+COL title VAL  "Seiko Ladies Presage Cocktail - Sky Diving"@en	COL title VAL  "Seiko Solar SSC141P1 Solar watch"@en	0
+COL title VAL  "Omega Speedmaster Co-Axial 38mm Ladies Watch O32423385002001"@en	COL title VAL  "Replica watch OMEGA Speedmaster Steel Chronograph Watch 311.12.42.30.01.001"@en	0
+COL title VAL  "Reloj Automático Hombre Seiko 5 Neosports SNZF15K1 buzo acero"@sk	COL title VAL  "Seiko Gents Automatic Prospex Diver's"@en	0
+COL title VAL  "Raymond Weil Parsifal Silver Mens Watch"@de	COL title VAL  "Citizen AW1150-07A Eco-Drive Rubber Strap AR Watch"@en	0
+COL title VAL  "Ice-Watch001256 ICE Skull montre"@en	COL title VAL  "Ice-Watch001256 ICE Skull Uhr"@en	1
+COL title VAL  "Hamilton Watch Khaki Navy Scuba Auto"@sw	COL title VAL  "H72585535 Hamilton Khaki Field Skeleton Auto Watch"@de	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1014171103100"@en	COL title VAL  "Citizen Men's Eco Drive Stainless Steel Watch"@en	0
+COL title VAL  "KHAKI AVIATION X-WIND DAY DATE AUTO"@so	COL title VAL  "TAG Heuer INDY500 LIMITED EDITION CARRERA CV201AS.FC6429 Replica"@de	0
+COL title VAL  "Ice-Watch015929 015769 ICE Steel"@en	COL title VAL  "Ice-Watch001256 ICE Skull montre"@en	0
+COL title VAL  "Citizen Men's Eco Drive Stainless Steel Watch"@en	COL title VAL  "Citizen Eco Drive Stiletto Men's Watch AR3074-54E"@en	1
+COL title VAL  "AAA Replica Patek Philippe Calatrava Rose Gold Ladies Watch 7122/200R-001"@en	COL title VAL  "AAA Replica TAG Heuer Aquaracer 300M Watch WAY101E.FC8222"@en	0
+COL title VAL  "Citizen ARBlue Resin Date Display Stainless Steel Case AW1158-05L"@en	COL title VAL  "Mens Citizen Eco-drive Gents Sports Strap Stainless Steel Watch AW1158-05L"@en	1
+COL title VAL  "Citizen Red Arrows Black Leather Strap Chronograph Watch"@en	COL title VAL  "Hamilton Navy Scuba H82315331 Black Rubber Strap Automatic Watch"@en	0
+COL title VAL  "Citizen Men's Eco-Drive World Timer leather Stainless Steel Watch AW1598-70X"@en	COL title VAL  "Citizen Men's Eco-Drive ATOMIC TIMEKEEPING PERPETUAL CHRONO A‑T Bracelet Watch - Product Code - AT4004-52E"@en	0
+COL title VAL  "Raymond Weil Parsifal Mens 41mm Quartz Classic Blue Dial Bracelet Watch"@en	COL title VAL  "Tissot T111.417.37.441.04 T-Race Cycling Chronograph Black PVD 44mm"@en	0
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch 26470ST.OO.A030CA.01"@en	COL title VAL  "Audemars Piguet Royal Oak Chronograph Titanium Watch Replica"@en	0
+COL title VAL  "Hamilton KHAKI FIELD AUTO 38MM H70455533"@et	COL title VAL  "H72585535 Hamilton Khaki Field Skeleton Auto Watch"@de	0
+COL title VAL  "Omega Seamaster Aqua Terra 150M Quartz Watch - 28 mm Steel Case - White Mother-Of-Pearl Diamond Dial - 220.10.28.60.55.001"@en	COL title VAL  "Tissot T-Classic Le Locle Automatic Lady Swiss Made Sapphire Crystal Watch"@en	0
+COL title VAL  "Buy Quality Replica Patek Philippe Tourbillon Minute Repeater Perpetual Calendar Watch 5207G-001"@en	COL title VAL  "Buy Quality Replica Panerai Luminor Base 8 Days Acciaio Mechanical Mens Watch PAM00561"@en	0
+COL title VAL  "Citizen Men's Watch CA0080-03E"@de	COL title VAL  "Citizen Promaster BJ8050-08E Promaster Sea watch"@en	0
+COL title VAL  "TAG Heuer Formula 1 Chronograph Quartz Black Dial Men's CAZ101"@en	COL title VAL  "TAG Heuer Formula 1 Indy 500 Limited Edition Watch 43mm Mens Watch CAZ101V.BA0842"@en	1
+COL title VAL  "Seiko Presage Automatic SRP841 SRP841J1 SRP841J Japan Made Mens Watch"@en	COL title VAL  "Seiko Prospex Automatic Divers 200M SPB053J1 Mens Watch"@en	0
+COL title VAL  "Panerai Luminor 1950 Acciaio Automatic 3 Days Automatic Black Leather Watch PAM00312"@en	COL title VAL  "TAG Heuer Carrera WAR1112.BA0601"@de	0
+COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Frosted Gold Quartz Watch 67653BC.GG.1263BC.02"@en	COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Diver Blue Watch 15710ST.OO.A027CA.01"@en	0
+COL title VAL  "TAG Heuer Calibre 16 Indy 500 – Automatic Chronograph - Limited Edition"@en	COL title VAL  "Aquaracer Calibre 5 Automatic Ceramic Bezel"@ca	0
+COL title VAL  "Citizen Eco Drive Men's Watch AT4004-52E"@en	COL title VAL  "Citizen Men's Eco Drive Stainless Steel Watch"@en	0
+COL title VAL  "Royal Oak Offshore Jarno Trulli - Limited to 500 pcs"@en	COL title VAL  "Citizen Navihawk A-T Eco-Drive Chronograph JY8037-50E Mens Watch"@en	0
+COL title VAL  "Gents Seiko Leather Presage Automatic"@en	COL title VAL  "Hamilton Jazzmaster Viewmatic Auto Watch H32515145"@en	0
+COL title VAL  "Swiss Military Hanowa06-3346.04.009 Day Date Classic watch"@en	COL title VAL  "Tissot T-Classic Le Locle Automatic Lady Swiss Made Sapphire Crystal Watch"@en	0
+COL title VAL  "AAA Replica TAG Heuer Aquaracer 300M Watch WAY101E.FC8222"@en	COL title VAL  "Cheap Replica Tag Heuer Carrera Heuer 01 Aston Martin Watch CAR2A1AB.FT6163"@en	0
+COL title VAL  "Navitimer 8 Chronograph 43 Black Steel - Black"@en	COL title VAL  "Omega Seamaster Aqua Terra 150m Quartz 28mm Ladies Watch"@ca	0
+COL title VAL  "Seiko Gents Automatic Prospex Diver's"@en	COL title VAL  "Seiko Prospex Automatic Divers 200M"@en	0
+COL title VAL  "Swiss Military Hanowa06-5227.04.007 Airborne Uhr"@en	COL title VAL  "Aquaracer 300M Ceramic Bezel Calibre 5 Automatic Watch"@ca	0
+COL title VAL  "Seiko Prospex Automatic Divers 200M SPB053J1 Mens Watch"@en	COL title VAL  "Seiko Prospex Automatic Divers 200M SRPB49K1 Mens Watch"@en	0
+COL title VAL  "TAG Heuer Formula 1 Chronograph Quartz Black Dial Men's CAZ101"@en	COL title VAL  "TAG Heuer Formula 1 Quartz Black Ceramic Watch"@en	0
+COL title VAL  "Audemars Piguet Royal Oak Offshore Jarno Trulli 26202AU.OO.D002CA.01 Replica"@en	COL title VAL  "PAM 312 Luminor Marina 1950 3 Days in Steel"@en	0
+COL title VAL  "Toccata Classic Men's White Dial Quartz Watch"@en	COL title VAL  "Raymond Weil Parsifal Mens 41mm Quartz Classic Blue Dial Bracelet Watch"@en	0
+COL title VAL  "Audemars Piguet Royal Oak Chronograph Titanium Watch Replica"@en	COL title VAL  "Audemars Piguet Royal Oak 67653 Quartz Frosted White Gold Pink Bracelet Watch Replica"@en	0
+COL title VAL  "Hamilton Open Heart Watch H32565555"@en	COL title VAL  "Hamilton American Classic H32515535 Jazzmaster watch"@en	0
+COL title VAL  "Hamilton Jazzmaster Viewmatic Auto Watch H32515145"@en	COL title VAL  "Hamilton Viewmatic Auto Watch H32515145"@en	1
+COL title VAL  "Tag Heuer - Carrera Quartz on Steel Bracelet"@de	COL title VAL  "TAG Heuer Formula 1 Quartz Black Ceramic Watch"@en	0
+COL title VAL  "Citizen Corso World Time Perpetual Calendar"@en	COL title VAL  "Patek Philippe Tourbillon Minute Repeater Perpetual Calendar hite Gold / Blue 5207G-001 Replica"@en	0
+COL title VAL  "Ice-Watch016985 Duo Chic Uhr"@en	COL title VAL  "Relógio Ice-Watch017127 ICE Pearl"@en	0
+COL title VAL  "TISSOT T-RACE CYCLING T111.417.37.441.05 (T111.417.37.441.05)"@vi	COL title VAL  "Tissot T-Race Cycling T111.417.27.441.00"@en	0
+COL title VAL  "Swiss Military Hanowa06-5227.04.007 Airborne Uhr"@en	COL title VAL  "Swiss Military Hanowa06-3346.04.009 Day Date Classic montre"@en	0
+COL title VAL  "Tissot Men's T0484172705700 'T-Race' Chronograph Black Rubber Watch"@en	COL title VAL  "T1014171103100 Tissot PR 100 Chronograph"@en	0
+COL title VAL  "Citizen Red Arrows Black Leather Strap Chronograph Watch"@en	COL title VAL  "Citizen Navihawk A-T Eco-Drive Chronograph JY8037-50E Mens Watch"@en	0
+COL title VAL  "Tissot T-Sport T-Race Cycle Watch T1114172744100"@en	COL title VAL  "Tissot T-Race Chronograph Cycling Chronograph"@en	0
+COL title VAL  "Fascination 3 Light Silken Drum Pendant"@de	COL title VAL  "Uttermost 21908 Fascination 3 Light Silken Drum Pendant Light"@en	1
+COL title VAL  "Hamilton Khaki Aviation Automatic Black Mens Watch"@en	COL title VAL  "Panerai Luminor 1950 Acciaio Automatic 3 Days Automatic Black Leather Watch PAM00312"@en	0
+COL title VAL  "Swiss Military Hanowa06-4280.09.009CH Undercover Uhr"@en	COL title VAL  "Swiss Military Hanowa06-3346.04.009 Day Date Classic montre"@en	0
+COL title VAL  "Hamilton Watch Khaki Navy Scuba Auto"@sw	COL title VAL  "Hamilton Navy Scuba H82315331 Black Rubber Strap Automatic Watch"@en	1
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch 26470ST.OO.A030CA.01"@en	COL title VAL  "Audemars Piguet Royal Oak Offshore Diver Stainless Steel 15710ST.OO.A027CA.01"@en	0
+COL title VAL  "Ice-Watch001256 ICE Skull montre"@en	COL title VAL  "Ice-Watch016229 ICE Classic montre"@en	0
+COL title VAL  "Tissot Stainless Steel T-Sport Men's Watch - T1114173744106"@en	COL title VAL  "Tissot T-Sport T-Race Cycle Watch T1114172744100"@en	0
+COL title VAL  "Omega Seamaster 232.30.42.21.01.002"@et	COL title VAL  "Replica watch OMEGA Speedmaster Steel Chronograph Watch 311.12.42.30.01.001"@en	0
+COL title VAL  "Citizen Navihawk A-T Eco-Drive Chronograph JY8037-50E Mens Watch"@en	COL title VAL  "Citizen Mens Watch Khaki Canvas Strap Eco-Drive BU2055-08X"@en	0
+COL title VAL  "Ice-Watch001256 ICE Skull Uhr"@en	COL title VAL  "Relógio Ice-Watch016229 ICE Classic"@en	0
+COL title VAL  "Ice-Watch Ice-Kids 014426 ICE Ola Kids montre"@en	COL title VAL  "Ice-Watch016229 ICE Classic montre"@en	0
+COL title VAL  "Mens Citizen Navihawk AT Alarm Chronograph Radio Controlled Eco-Drive Watch JY8037-50E"@en	COL title VAL  "Citizen Mens Watch Khaki Canvas Strap Eco-Drive BU2055-08X"@en	0
+COL title VAL  "Toccata Classic Men's White Dial Quartz Watch"@en	COL title VAL  "Citizen Mens Green Nylon Strap Grey Quartz Dial Military CrystalWatch - BU2055-08X"@en	0
+COL title VAL  "Hamilton American Classic H32515535 Jazzmaster watch"@en	COL title VAL  "Hamilton Watch Jazzmaster Auto Open Heart"@en	0
+COL title VAL  "Ice-Watch015929 015769 ICE Steel"@en	COL title VAL  "Orologio Ice-Watch017127 ICE Pearl"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T0636171103700"@en	COL title VAL  "Citizen Men's Eco Drive Stainless Steel Watch"@en	0
+COL title VAL  "Navitimer 8 Chronograph 43 Black Steel - Black"@en	COL title VAL  "Breitling Navitimer B01 Chronograph 43 Swissair Watch - Steel - Black Dial - Steel Bracelet - AB01211B1B1A1"@en	0
+COL title VAL  "Citizen Men's Eco Drive Stainless Steel Watch"@en	COL title VAL  "Citizen Navihawk A-T Eco-Drive Chronograph JY8037-50E Mens Watch"@en	0
+COL title VAL  "Ice-Watch017330 ICE Steel Uhr"@en	COL title VAL  "Ice-Watch015929 015769 ICE Steel"@en	0
+COL title VAL  "Buy Quality Replica Audemars Piguet Royal Oak Chronograph Gray Dail Watch 26331IP.OO.1220IP.01"@en	COL title VAL  "Audemars Piguet Royal Oak Offshore Jarno Trulli 26202AU.OO.D002CA.01 Replica"@en	0
+COL title VAL  "Citizen Men's Watch CA0080-03E"@de	COL title VAL  "TAG Heuer Carrera WAR1112.BA0601"@de	0
+COL title VAL  "Tissot T048.417.27.057.00"@en	COL title VAL  "Tissot T-Race Cycling T111.417.27.441.00"@en	0
+COL title VAL  "Tissot Mens T-Race Cycling Light Blue Watch T111.417.37.441.05"@en	COL title VAL  "TISSOT T-RACE CYCLING T111.417.37.441.05 (T111.417.37.441.05)"@vi	1
+COL title VAL  "Seiko Prospex Automatic Divers 200M SRPB49K1 Mens Watch"@en	COL title VAL  "Seiko Presage Automatic SRP841 SRP841J1 SRP841J Japan Made Mens Watch"@en	0
+COL title VAL  "TAG Heuer Autavia Men's Calibre 5 Chronometer Watch WBE5114.FC8266"@en	COL title VAL  "TAG Heuer Formula 1 Chronograph Quartz Black Dial Men's CAZ101"@en	0
+COL title VAL  "Hamilton Watch Jazzmaster Auto Open Heart"@en	COL title VAL  "Hamilton Viewmatic Auto Watch H32515145"@en	0
+COL title VAL  "Ice-Watch Ice-Kids 014426 ICE Ola Kids Watch"@en	COL title VAL  "Ice-Watch Ice-Kids 014426 ICE Ola Kids montre"@en	1
+COL title VAL  "Omega Seamaster Aqua Terra 150M Quartz Watch - 28 mm Steel Case - White Mother-Of-Pearl Diamond Dial - 220.10.28.60.55.001"@en	COL title VAL  "TAG Heuer Ladies White Mother Of Pearl Dial Carrera Watch"@en	0
+COL title VAL  "Hamilton Ventura XXL Watch H24655331"@en	COL title VAL  "Hamilton Watch Jazzmaster Auto Open Heart"@en	0
+COL title VAL  "Swiss Military Hanowa06-4280.09.009CH Undercover montre"@en	COL title VAL  "Swiss Military Hanowa06-5227.04.007 Airborne Uhr"@en	0
+COL title VAL  "Swiss Military Hanowa06-5227.04.007 Airborne Uhr"@en	COL title VAL  "Swiss Military Hanowa06-5227.04.007 Airborne watch"@en	1
+COL title VAL  "TAG Heuer Formula 1 Quartz Black Ceramic Watch"@en	COL title VAL  "TAG Heuer Formula 1 Indy 500 Limited Edition Watch 43mm Mens Watch CAZ101V.BA0842"@en	0
+COL title VAL  "Replica watch OMEGA Speedmaster Steel Chronograph Watch 311.12.42.30.01.001"@en	COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T0636171103700"@en	0
+COL title VAL  "Relógio Ice-Watch017127 ICE Pearl"@en	COL title VAL  "Relógio Ice-Watch017330 ICE Steel"@en	0
+COL title VAL  "Tissot T111.417.37.441.06 T-Race Cycling Chronograph Black PVD 44mm"@en	COL title VAL  "Tissot Mens T-Race Cycling Light Blue Watch T111.417.37.441.05"@en	0
+COL title VAL  "Citizen Corso World Time Perpetual Calendar"@en	COL title VAL  "Citizen Men's Eco-Drive ATOMIC TIMEKEEPING PERPETUAL CHRONO A‑T Bracelet Watch - Product Code - AT4004-52E"@en	0
+COL title VAL  "Tissot T-Race Cycling T111.417.27.441.00"@en	COL title VAL  "Tissot T-Race Chronograph Cycling Chronograph"@en	0
+COL title VAL  "Relógio Ice-Watch017330 ICE Steel"@en	COL title VAL  "Ice-Watch001256 ICE Skull montre"@en	0
+COL title VAL  "Tissot Le Locle T006.207.11.038.00"@fr	COL title VAL  "Tissot T-Classic Le Locle Automatic Lady Swiss Made Sapphire Crystal Watch"@en	1
+COL title VAL  "TAG Heuer Carrera WAR1112.BA0601"@de	COL title VAL  "Cheap Replica Tag Heuer Carrera Heuer 01 Aston Martin Watch CAR2A1AB.FT6163"@en	0
+COL title VAL  "Swiss Military Hanowa06-3346.04.009 Day Date Classic watch"@en	COL title VAL  "Swiss Military Hanowa06-5227.04.007 Airborne watch"@en	0
+COL title VAL  "Ice-Watch016229 ICE Classic montre"@en	COL title VAL  "Ice-Watch015929 015769 ICE Steel"@en	0
+COL title VAL  "TAG Heuer Carrera CAR2A1AB.FT6163"@ca	COL title VAL  "Cheap Replica Tag Heuer Carrera Heuer 01 Aston Martin Watch CAR2A1AB.FT6163"@en	1
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T0636171103700"@en	COL title VAL  "T1014171103100 Tissot PR 100 Chronograph"@en	0
+COL title VAL  "Navitimer 8 Chronograph 43 Black Steel - Black"@en	COL title VAL  "Buy Quality Replica Breitling Navitimer 8 Chronograph 43 Watch M13314101B1X1"@en	1
+COL title VAL  "Buy Quality Replica Audemars Piguet Royal Oak Chronograph Gray Dail Watch 26331IP.OO.1220IP.01"@en	COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch 26470ST.OO.A030CA.01"@en	0
+COL title VAL  "Citizen AW1150-07A Eco-Drive Rubber Strap AR Watch"@en	COL title VAL  "Citizen Eco Drive Stiletto Men's Watch AR3074-54E"@en	0
+COL title VAL  "Copy OMEGA Seamaster Steel Anti-magnetic 511.13.38.20.02.001"@en	COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial Master Chronometer 215.23.40.20.04.001"@en	0
+COL title VAL  "Hamilton Jazzmaster Automatic Black Dial Stainless Steel Men's Watch - H32515535"@en	COL title VAL  "Hamilton Khaki Aviation Automatic Black Mens Watch"@en	0
+COL title VAL  "TISSOT T-RACE CYCLING T111.417.37.441.05 (T111.417.37.441.05)"@vi	COL title VAL  "TISSOT V8 SWISSMATIC T106.407.11.031.01 (T106.407.11.031.01)"@vi	0
+COL title VAL  "TISSOT T-RACE CYCLING T111.417.37.441.05 (T111.417.37.441.05)"@vi	COL title VAL  "Tissot T111.417.37.441.06 T-Race Cycling Chronograph Black PVD 44mm"@en	0
+COL title VAL  "Swiss Military Hanowa06-5227.04.007 Airborne watch"@en	COL title VAL  "Swiss Military Hanowa06-3346.04.009 Day Date Classic montre"@en	0
+COL title VAL  "Citizen Eco Drive Stiletto Men's Watch AR3074-54E"@en	COL title VAL  "Ice-Watch Ice-Kids 014426 ICE Ola Kids montre"@en	0
+COL title VAL  "TISSOT V8 SWISSMATIC T106.407.11.031.01 (T106.407.11.031.01)"@vi	COL title VAL  "Hamilton Men's H72585535 Khaki Field Skeleton Automatic Brown Leather Watch"@en	0
+COL title VAL  "TAG Heuer Automatic Watch WBE5114.FC8266"@en	COL title VAL  "TAG Heuer Aquaracer 43mm Mens Watch WAY101A.FT6141"@de	0
+COL title VAL  "CITIZEN BN0190-82E ECO DRIVE DIVER'S 200m."@de	COL title VAL  "Citizen Eco Drive Men's Watch AT4004-52E"@en	0
+COL title VAL  "Tissot T-Race Chronograph Cycling Chronograph"@en	COL title VAL  "MENS TISSOT QUICKSTER CHRONOGRAPH WATCH T0954171106700"@vi	0
+COL title VAL  "Heritage Advisor Automatic Men's Watch"@en	COL title VAL  "Heritage Advisor 42mm Titanium and Steel"@en	1
+COL title VAL  "Armani Exchange Mens Black Chronograph Strap Watch AX1326"@en	COL title VAL  "Hamilton Navy Scuba H82315331 Black Rubber Strap Automatic Watch"@en	0
+COL title VAL  "Seiko Prospex SRPE09K1 Prospex watch"@en	COL title VAL  "Reloj Automático Hombre Seiko 5 Neosports SNZF15K1 buzo acero"@sk	0
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch 26470ST.OO.A030CA.01"@en	COL title VAL  "Audemars Piguet Royal Oak Offshore Jarno Trulli 26202AU.OO.D002CA.01 Replica"@en	0
+COL title VAL  "Gents Seiko Leather Presage Automatic"@en	COL title VAL  "seiko solar gents alarm chronograph watch"@en	0
+COL title VAL  "Mens Citizen Eco-drive Gents Sports Strap Stainless Steel Watch AW1150-07A"@en	COL title VAL  "Mens Citizen Navihawk AT Alarm Chronograph Radio Controlled Eco-Drive Watch JY8037-50E"@en	0
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch 26470ST.OO.A030CA.01"@en	COL title VAL  "AUDEMARS PIGUET ROYAL OAK OFFSHORE SELFWINDING CHRONOGRAPH STAINLESS STEEL 42MM MEN'S WATCH- Luxury Souq"@en	1
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch 26470ST.OO.A030CA.01"@en	COL title VAL  "Citizen Corso World Time Perpetual Calendar"@en	0
+COL title VAL  "TAG Heuer Automatic Watch WBE5114.FC8266"@en	COL title VAL  "TAG Heuer Calibre 16 Indy 500 – Automatic Chronograph - Limited Edition"@en	0
+COL title VAL  "Tissot T111.417.37.441.04 T-Race Cycling Chronograph Black PVD 44mm"@en	COL title VAL  "Tissot Men's T0484172705700 'T-Race' Chronograph Black Rubber Watch"@en	0
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Diver Blue Watch 15710ST.OO.A027CA.01"@en	COL title VAL  "Audemars Piguet Royal Oak Offshore Jarno Trulli 26202AU.OO.D002CA.01 Replica"@en	0
+COL title VAL  "Buy Quality Replica Omega Seamaster 1948 Central Seconds Watch 511.13.38.20.02.001"@en	COL title VAL  "Copy OMEGA Seamaster Steel Anti-magnetic 511.13.38.20.02.001"@en	1
+COL title VAL  "Seiko Prospex Automatic Divers 200M SPB053J1 Mens Watch"@en	COL title VAL  "Seiko Solar SSC141P1 Solar watch"@en	0
+COL title VAL  "TISSOT T095.417.11.067.00 QUICKSTER"@vi	COL title VAL  "Tissot T048.417.27.057.00"@en	0
+COL title VAL  "Citizen AW1150-07A Eco-Drive Rubber Strap AR Watch"@en	COL title VAL  "Citizen Red Arrows Black Leather Strap Chronograph Watch"@en	0
+COL title VAL  "Audemars Piguet Royal Oak Offshore Diver Stainless Steel 15710ST.OO.A027CA.01"@en	COL title VAL  "Royal Oak Offshore Jarno Trulli - Limited to 500 pcs"@en	0
+COL title VAL  "Citizen BN0190-82E Promaster Marine Eco-Drive Diver`s Watch"@en	COL title VAL  "Citizen Promaster Sea (BJ8050-08E)"@de	0
+COL title VAL  "Tag Heuer 36mm Ladies Mother of Pearl Carrera Watch"@en	COL title VAL  "TAG Heuer Ladies White Mother Of Pearl Dial Carrera Watch"@en	1
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1014171103100"@en	COL title VAL  "Citizen ARBlue Resin Date Display Stainless Steel Case AW1158-05L"@en	0
+COL title VAL  "Gents Seiko Leather Presage Automatic"@en	COL title VAL  "Seiko Presage Men's Brown Leather Strap Watch"@en	1
+COL title VAL  "Omega Seamaster Aqua Terra 150m Quartz 28mm Ladies Watch"@ca	COL title VAL  "Omega Seamaster 232.30.42.21.01.002"@et	0
+COL title VAL  "Ice-Watch016229 ICE Classic montre"@en	COL title VAL  "Swiss Military Hanowa06-3346.04.009 Day Date Classic montre"@en	0
+COL title VAL  "TAG Heuer Automatic Watch WBE5114.FC8266"@en	COL title VAL  "TAG Heuer Ladies White Mother Of Pearl Dial Carrera Watch"@en	0
+COL title VAL  "TISSOT T095.417.11.067.00 QUICKSTER"@vi	COL title VAL  "TISSOT V8 SWISSMATIC T106.407.11.031.01 (T106.407.11.031.01)"@vi	0
+COL title VAL  "Tag Heuer 36mm Ladies Mother of Pearl Carrera Watch"@en	COL title VAL  "Tag Heuer - Carrera Quartz on Steel Bracelet"@de	0
+COL title VAL  "Raymond Weil 5485-STC-00300"@de	COL title VAL  "Raymond Weil Parsifal Mens 41mm Quartz Classic Blue Dial Bracelet Watch"@en	0
+COL title VAL  "Tissot PR 100 (2015) T101.410.11.031.00"@en	COL title VAL  "Tissot PR 100 Gents Watch (Silver/Grey)"@en	1
+COL title VAL  "Heritage Classic Automatic Men's Watch"@en	COL title VAL  "Toccata Classic Men's White Dial Quartz Watch"@en	0
+COL title VAL  "Gents Seiko Leather Presage Automatic"@en	COL title VAL  "Seiko Presage Automatic SRP841 SRP841J1 SRP841J Japan Made Mens Watch"@en	0
+COL title VAL  "PAM 312 Luminor Marina 1950 3 Days in Steel"@en	COL title VAL  "Panerai Luminor Base 8 Days"@id	0
+COL title VAL  "Orologio Ice-Watch017127 ICE Pearl"@en	COL title VAL  "Relógio Ice-Watch016229 ICE Classic"@en	0
+COL title VAL  "Citizen Navihawk A-T Eco-Drive Chronograph JY8037-50E Mens Watch"@en	COL title VAL  "Mens Citizen Navihawk AT Alarm Chronograph Radio Controlled Eco-Drive Watch JY8037-50E"@en	1
+COL title VAL  "Heritage Advisor Automatic Men's Watch"@en	COL title VAL  "TISSOT T095.417.11.067.00 QUICKSTER"@vi	0
+COL title VAL  "Seiko Prospex Automatic Divers 200M SPB053J1 Mens Watch"@en	COL title VAL  "TISSOT T-RACE CYCLING T111.417.37.441.05 (T111.417.37.441.05)"@vi	0
+COL title VAL  "Seiko Ladies Presage Cocktail - Sky Diving"@en	COL title VAL  "Seiko Prospex Automatic Divers 200M"@en	0
+COL title VAL  "Tissot T-Race Chronograph Cycling Chronograph"@en	COL title VAL  "Tissot T111.417.37.441.04 T-Race Cycling Chronograph Black PVD 44mm"@en	1
+COL title VAL  "Hamilton Khaki Aviation Automatic Black Mens Watch"@en	COL title VAL  "Hamilton Navy Scuba H82315331 Black Rubber Strap Automatic Watch"@en	0
+COL title VAL  "Raymond Weil Parsifal Silver Mens Watch"@de	COL title VAL  "Raymond Weil 5485-STC-00300"@de	0
+COL title VAL  "Zegarek ICE Watch 016985 DUO CHIC NUDE MEDIUM"@en	COL title VAL  "Correa Ice-Watch 015929 015769 ICE Steel"@en	0
+COL title VAL  "Orologio Ice-Watch017127 ICE Pearl"@en	COL title VAL  "Relógio Ice-Watch017330 ICE Steel"@en	0
+COL title VAL  "Tissot T048.417.27.057.00"@en	COL title VAL  "Tissot Men's T0484172705700 'T-Race' Chronograph Black Rubber Watch"@en	1
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T0636171103700"@en	COL title VAL  "Toccata Classic Men's White Dial Quartz Watch"@en	0
+COL title VAL  "Ice-Watch001256 ICE Skull montre"@en	COL title VAL  "Ice-Watch Ice-Kids 014426 ICE Ola Kids Watch"@en	0
+COL title VAL  "Tag Heuer 36mm Ladies Mother of Pearl Carrera Watch"@en	COL title VAL  "TAG Heuer Automatic Watch WBE5114.FC8266"@en	0
+COL title VAL  "Copy OMEGA Seamaster Steel Anti-magnetic 511.13.38.20.02.001"@en	COL title VAL  "Copy OMEGA Speedmaster Steel Chronograph 311.12.42.30.01.001"@en	0
+COL title VAL  "KHAKI AVIATION X-WIND DAY DATE AUTO"@so	COL title VAL  "Hamilton KHAKI FIELD AUTO 38MM H70455533"@et	0
+COL title VAL  "Tissot T-Race Cycling T111.417.27.441.00"@en	COL title VAL  "Tissot T-Sport T-Race Cycle Watch T1114172744100"@en	1
+COL title VAL  "Buy Quality Replica Patek Philippe Tourbillon Minute Repeater Perpetual Calendar Watch 5207G-001"@en	COL title VAL  "Citizen BN0190-82E Promaster Marine Eco-Drive Diver`s Watch"@en	0
+COL title VAL  "Buy Quality Replica Patek Philippe Tourbillon Minute Repeater Perpetual Calendar Watch 5207G-001"@en	COL title VAL  "Patek Philippe Tourbillon Minute Repeater Perpetual Calendar hite Gold / Blue 5207G-001 Replica"@en	1
+COL title VAL  "Ice-Watch001256 ICE Skull Uhr"@en	COL title VAL  "Ice-Watch016985 Duo Chic Uhr"@en	0
+COL title VAL  "Tissot Men's T0484172705700 'T-Race' Chronograph Black Rubber Watch"@en	COL title VAL  "MENS TISSOT QUICKSTER CHRONOGRAPH WATCH T0954171106700"@vi	0
+COL title VAL  "Hamilton Viewmatic Auto Watch H32515145"@en	COL title VAL  "Hamilton Jazzmaster Automatic Black Dial Stainless Steel Men's Watch - H32515535"@en	0
+COL title VAL  "Seiko 5 SNZF15K1 Automatic Men's Watch"@en	COL title VAL  "Seiko Presage Men's Brown Leather Strap Watch"@en	0
+COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Frosted Gold Quartz Watch 67653BC.GG.1263BC.02"@en	COL title VAL  "Audemars Piguet Royal Oak Chronograph Titanium Watch Replica"@en	0
+COL title VAL  "Patek Philippe Calatrava Ladies 7122/200R-001"@ca	COL title VAL  "AAA Replica Patek Philippe Calatrava Rose Gold Ladies Watch 7122/200R-001"@en	1
+COL title VAL  "Cheap Replica Tag Heuer Carrera Heuer 01 Aston Martin Watch CAR2A1AB.FT6163"@en	COL title VAL  "TAG Heuer INDY500 LIMITED EDITION CARRERA CV201AS.FC6429 Replica"@de	0
+COL title VAL  "Relógio Ice-Watch017330 ICE Steel"@en	COL title VAL  "Correa Ice-Watch 015929 015769 ICE Steel"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T0636171103700"@en	COL title VAL  "Casio G-SHOCK GSTB100-1A G-STEEL"@pt	0
+COL title VAL  "Ice-Watch016985 Duo Chic Uhr"@en	COL title VAL  "Ice-Watch016229 ICE Classic montre"@en	0
+COL title VAL  "Hamilton KHAKI FIELD AUTO 38MM H70455533"@et	COL title VAL  "HAMILTON Khaki Field 38MM BRN Leather Automatic Men's Watch H70455533"@en	1
+COL title VAL  "Tissot Men's T0484172705700 'T-Race' Chronograph Black Rubber Watch"@en	COL title VAL  "Breitling Navitimer B01 Chronograph 43 Swissair Watch - Steel - Black Dial - Steel Bracelet - AB01211B1B1A1"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean 600m Omega Co-Axial Master Chronometer 39.5mm - 215.23.40.20.04.001"@en	COL title VAL  "Tissot Gents PRC 200 Quartz Classic Black Leather Strap & Black Dial"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1014171103100"@en	COL title VAL  "Tissot Mens T-Classic Tradition Bracelet Watch T063.617.11.037.00"@en	0
+COL title VAL  "MENS TISSOT QUICKSTER CHRONOGRAPH WATCH T0954171106700"@vi	COL title VAL  "Armani Exchange Mens Black Chronograph Strap Watch AX1326"@en	0
+COL title VAL  "Mens Citizen Eco-drive Gents Sports Strap Stainless Steel Watch AW1150-07A"@en	COL title VAL  "Mens Citizen Eco-drive Gents Sports Strap Stainless Steel Watch AW1158-05L"@en	0
+COL title VAL  "AAA Replica TAG Heuer Aquaracer 300M Watch WAY101E.FC8222"@en	COL title VAL  "Tag Heuer Aquaracer quartz with khaki dial and khaki Nato strap."@en	1
+COL title VAL  "TAG Heuer Aquaracer 43mm Mens Watch WAY101A.FT6141"@de	COL title VAL  "TAG Heuer Formula 1 Indy 500 Limited Edition Watch 43mm Mens Watch CAZ101V.BA0842"@en	0
+COL title VAL  "Hamilton Khaki Aviation Automatic Black Mens Watch"@en	COL title VAL  "KHAKI AVIATION X-WIND DAY DATE AUTO"@so	1
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1014171103100"@en	COL title VAL  "T1014171103100 Tissot PR 100 Chronograph"@en	1
+COL title VAL  "TISSOT T095.417.11.067.00 QUICKSTER"@vi	COL title VAL  "Tissot Le Locle T006.207.11.038.00"@fr	0
+COL title VAL  "Omega Seamaster 232.30.42.21.01.002"@et	COL title VAL  "Swiss Military Hanowa06-5227.04.007 Airborne Uhr"@en	0
+COL title VAL  "AAA Replica Patek Philippe Calatrava Rose Gold Ladies Watch 7122/200R-001"@en	COL title VAL  "Buy Quality Replica Patek Philippe Tourbillon Minute Repeater Perpetual Calendar Watch 5207G-001"@en	0
+COL title VAL  "Citizen Promaster Sea (BJ8050-08E)"@de	COL title VAL  "Citizen Men's Watch CA0080-03E"@de	0
+COL title VAL  "Tissot PR 100 Gents Watch (Silver/Grey)"@en	COL title VAL  "seiko solar gents alarm chronograph watch"@en	0
+COL title VAL  "Hamilton Watch Jazzmaster Auto Open Heart"@en	COL title VAL  "Hamilton Open Heart Watch H32565555"@en	1
+COL title VAL  "Ice-Watch015929 015769 ICE Steel"@en	COL title VAL  "Relógio Ice-Watch017127 ICE Pearl"@en	0
+COL title VAL  "Hamilton Jazzmaster Viewmatic Auto Watch H32515145"@en	COL title VAL  "Hamilton Watch Jazzmaster Auto Open Heart"@en	0
+COL title VAL  "Armani Exchange Herrenarmbanduhr AX1326 Gents Outerbanks"@de	COL title VAL  "seiko solar gents alarm chronograph watch"@en	0
+COL title VAL  "Tissot Mens T-Classic Tradition Bracelet Watch T063.617.11.037.00"@en	COL title VAL  "Audemars Piguet Royal Oak Chronograph Titanium Watch Replica"@en	0
+COL title VAL  "Citizen Men's Eco Drive Stainless Steel Watch"@en	COL title VAL  "Citizen ARBlue Resin Date Display Stainless Steel Case AW1158-05L"@en	0
+COL title VAL  "Citizen AW1150-07A Eco-Drive Rubber Strap AR Watch"@en	COL title VAL  "Citizen Mens Watch Khaki Canvas Strap Eco-Drive BU2055-08X"@en	0
+COL title VAL  "Tissot Le Locle T006.207.11.038.00"@fr	COL title VAL  "Tissot PR 100 (2015) T101.410.11.031.00"@en	0
+COL title VAL  "TAG Heuer Carrera CAR2A1AB.FT6163"@ca	COL title VAL  "TAG Heuer INDY500 LIMITED EDITION CARRERA CV201AS.FC6429 Replica"@de	0
+COL title VAL  "Hamilton Men's H72585535 Khaki Field Skeleton Automatic Brown Leather Watch"@en	COL title VAL  "H72585535 Hamilton Khaki Field Skeleton Auto Watch"@de	1
+COL title VAL  "Relógio Ice-Watch017127 ICE Pearl"@en	COL title VAL  "Orologio Ice-Watch017127 ICE Pearl"@en	1
+COL title VAL  "Audemars Piguet Royal Oak Offshore Jarno Trulli 26202AU.OO.D002CA.01 Replica"@en	COL title VAL  "Audemars Piguet Royal Oak Offshore Diver Stainless Steel 15710ST.OO.A027CA.01"@en	0
+COL title VAL  "Hamilton Open Heart Watch H32565555"@en	COL title VAL  "Hamilton Ventura XXL Watch H24655331"@en	0
+COL title VAL  "Cheap Replica IWC Big Pilot's Chronograph Spitfire Watch IW387901"@en	COL title VAL  "IWC Pilot's Watch Chronograph Spitfire \"SIHH 2019\""@en	1
+COL title VAL  "Seiko Prospex Automatic Divers 200M"@en	COL title VAL  "Seiko Prospex Automatic Divers 200M SPB053J1 Mens Watch"@en	1
+COL title VAL  "Citizen Men's Eco Drive Stainless Steel Watch"@en	COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1094101103300"@en	0
+COL title VAL  "TAG HEUER AQUARACER Quartz 300 M - 43 mm WAY101A.FT6141"@de	COL title VAL  "Tissot PR 100 (2015) T101.410.11.031.00"@en	0
+COL title VAL  "TISSOT T095.417.11.067.00 QUICKSTER"@vi	COL title VAL  "Tissot T0554171605700 - T055.417.16.057.00"@en	0
+COL title VAL  "Breitling Navitimer B01 Chronograph 43 Swissair Watch - Steel - Black Dial - Steel Bracelet - AB01211B1B1A1"@en	COL title VAL  "Citizen Red Arrows Black Leather Strap Chronograph Watch"@en	0
+COL title VAL  "Tissot Men's T0484172705700 'T-Race' Chronograph Black Rubber Watch"@en	COL title VAL  "IWC Pilot's Watch Chronograph Spitfire \"SIHH 2019\""@en	0
+COL title VAL  "TAG Heuer Carrera CAR2A1AB.FT6163"@ca	COL title VAL  "TAG Heuer Automatic Watch WBE5114.FC8266"@en	0
+COL title VAL  "TAG Heuer Aquaracer 43mm Mens Watch WAY101A.FT6141"@de	COL title VAL  "Tag Heuer Aquaracer quartz with khaki dial and khaki Nato strap."@en	0
+COL title VAL  "TAG Heuer Carrera WAR1112.BA0601"@de	COL title VAL  "TAG Heuer INDY500 LIMITED EDITION CARRERA CV201AS.FC6429 Replica"@de	0
+COL title VAL  "Ice-Watch001256 ICE Skull montre"@en	COL title VAL  "Relógio Ice-Watch016229 ICE Classic"@en	0
+COL title VAL  "TAG Heuer Carrera CAR2A1AB.FT6163"@ca	COL title VAL  "Tag Heuer 36mm Ladies Mother of Pearl Carrera Watch"@en	0
+COL title VAL  "Mens Citizen Eco-drive Gents Sports Strap Stainless Steel Watch AW1150-07A"@en	COL title VAL  "Citizen Eco Drive Men's Watch AT4004-52E"@en	0
+COL title VAL  "MENS TISSOT QUICKSTER CHRONOGRAPH WATCH T0954171106700"@vi	COL title VAL  "TISSOT T-RACE CYCLING T111.417.37.441.05 (T111.417.37.441.05)"@vi	0
+COL title VAL  "Tag Heuer - Carrera Quartz on Steel Bracelet"@de	COL title VAL  "TAG Heuer Formula 1 Chronograph Quartz Black Dial Men's CAZ101"@en	0
+COL title VAL  "Citizen Eco Drive Men's Watch AT4004-52E"@en	COL title VAL  "Tissot Mens T-Race Cycling Light Blue Watch T111.417.37.441.05"@en	0
+COL title VAL  "Breitling NAVITIMER 1 B01 CHRONOGRAPH 43 SWISSAIR EDITIONS"@de	COL title VAL  "Hamilton Khaki Aviation Automatic Black Mens Watch"@en	0
+COL title VAL  "TISSOT T095.417.11.067.00 QUICKSTER"@vi	COL title VAL  "TISSOT EVERYTIME MEDIUM T109.410.11.033.00 (T109.410.11.033.00)"@en	0
+COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial"@en	COL title VAL  "Omega Speedmaster Co-Axial 38mm Ladies Watch O32423385002001"@en	0
+COL title VAL  "H72585535 Hamilton Khaki Field Skeleton Auto Watch"@de	COL title VAL  "Hamilton Viewmatic Auto Watch H32515145"@en	0
+COL title VAL  "Seiko Presage Automatic SRP841 SRP841J1 SRP841J Japan Made Mens Watch"@en	COL title VAL  "Seiko Ladies Presage Cocktail - Sky Diving"@en	1
+COL title VAL  "Audemars Piguet Royal Oak Chronograph Titanium Watch Replica"@en	COL title VAL  "Cheap Replica IWC Big Pilot's Chronograph Spitfire Watch IW387901"@en	0
+COL title VAL  "Tissot T-Sport T-Race Cycle Watch T1114172744100"@en	COL title VAL  "IWC Pilot's Watch Chronograph Spitfire \"SIHH 2019\""@en	0
+COL title VAL  "Panerai Luminor 1950 Acciaio Automatic 3 Days Automatic Black Leather Watch PAM00312"@en	COL title VAL  "Buy Quality Replica Panerai Luminor Base 8 Days Acciaio Mechanical Mens Watch PAM00561"@en	0
+COL title VAL  "Seiko Prospex Automatic Divers 200M"@en	COL title VAL  "Heritage Advisor 42mm Titanium and Steel"@en	0
+COL title VAL  "Aquaracer Calibre 5 Automatic Ceramic Bezel"@ca	COL title VAL  "TAG Heuer Formula 1 Quartz Black Ceramic Watch"@en	0
+COL title VAL  "Citizen Eco Drive Stiletto Men's Watch AR3074-54E"@en	COL title VAL  "Citizen Men's Eco-Drive World Timer leather Stainless Steel Watch AW1598-70X"@en	0
+COL title VAL  "Seiko Solar SSC141P1 Solar watch"@en	COL title VAL  "Ice-Watch Ice-Kids 014426 ICE Ola Kids montre"@en	0
+COL title VAL  "Seiko Prospex SRPE09K1 Prospex watch"@en	COL title VAL  "Seiko Prospex Automatic Divers 200M SPB053J1 Mens Watch"@en	0
+COL title VAL  "Tissot Stainless Steel T-Sport Men's Watch - T1114173744106"@en	COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1094101103300"@en	0
+COL title VAL  "Citizen Men's Eco-Drive ATOMIC TIMEKEEPING PERPETUAL CHRONO A‑T Bracelet Watch - Product Code - AT4004-52E"@en	COL title VAL  "Citizen Navihawk A-T Eco-Drive Chronograph JY8037-50E Mens Watch"@en	0
+COL title VAL  "Swiss Military Hanowa06-4280.09.009CH Undercover montre"@en	COL title VAL  "Swiss Military Hanowa06-3346.04.009 Day Date Classic montre"@en	0
+COL title VAL  "Patek Philippe Tourbillon Minute Repeater Perpetual Calendar hite Gold / Blue 5207G-001 Replica"@en	COL title VAL  "Audemars Piguet Royal Oak 67653 Quartz Frosted White Gold Pink Bracelet Watch Replica"@en	0
+COL title VAL  "Tissot T-Race Chronograph Cycling Chronograph"@en	COL title VAL  "Tissot Men's T0484172705700 'T-Race' Chronograph Black Rubber Watch"@en	0
+COL title VAL  "Hamilton Men's H72585535 Khaki Field Skeleton Automatic Brown Leather Watch"@en	COL title VAL  "HAMILTON Khaki Field 38MM BRN Leather Automatic Men's Watch H70455533"@en	0
+COL title VAL  "TAG Heuer Formula 1 Aston Martin Red Bull Racing Max Verstappen Special Edition"@en	COL title VAL  "Cheap Replica Tag Heuer Carrera Heuer 01 Aston Martin Watch CAR2A1AB.FT6163"@en	0
+COL title VAL  "Hamilton Khaki Aviation Automatic Black Mens Watch"@en	COL title VAL  "Hamilton KHAKI FIELD AUTO 38MM H70455533"@et	0
+COL title VAL  "Buy Quality Replica Omega Seamaster 1948 Central Seconds Watch 511.13.38.20.02.001"@en	COL title VAL  "Omega Speedmaster Co-Axial 38mm Ladies Watch O32423385002001"@en	0
+COL title VAL  "Tissot Men's T0484172705700 'T-Race' Chronograph Black Rubber Watch"@en	COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1094101103300"@en	0
+COL title VAL  "Breitling Navitimer B01 Chronograph 43 Swissair Watch - Steel - Black Dial - Steel Bracelet - AB01211B1B1A1"@en	COL title VAL  "Buy Quality Replica Breitling Navitimer 8 Chronograph 43 Watch M13314101B1X1"@en	0
+COL title VAL  "Citizen Men's Eco-Drive ATOMIC TIMEKEEPING PERPETUAL CHRONO A‑T Bracelet Watch - Product Code - AT4004-52E"@en	COL title VAL  "TAG Heuer Formula 1 Aston Martin Red Bull Racing Max Verstappen Special Edition"@en	0
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Diver Blue Watch 15710ST.OO.A027CA.01"@en	COL title VAL  "Audemars Piguet Royal Oak Chronograph Titanium Watch Replica"@en	0
+COL title VAL  "Citizen Mens Watch Khaki Canvas Strap Eco-Drive BU2055-08X"@en	COL title VAL  "Mens Citizen Eco-drive Gents Sports Strap Stainless Steel Watch AW1158-05L"@en	0
+COL title VAL  "Longines Heritage Classic Automatic Silver Dial Men's Watch"@en	COL title VAL  "Heritage Advisor Automatic Men's Watch"@en	0
+COL title VAL  "Hamilton Watch Khaki Navy Scuba Auto"@sw	COL title VAL  "Hamilton American Classic Ventura XXL Auto"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1014171103100"@en	COL title VAL  "Casio G-Shock G-STEEL BLACK GSTB100-1A"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T0636171103700"@en	COL title VAL  "Tissot Mens T-Classic Tradition Bracelet Watch T063.617.11.037.00"@en	1
+COL title VAL  "Tissot T-Classic Le Locle Automatic Lady Swiss Made Sapphire Crystal Watch"@en	COL title VAL  "Citizen ARBlue Resin Date Display Stainless Steel Case AW1158-05L"@en	0
+COL title VAL  "AAA Replica TAG Heuer Aquaracer 300M Watch WAY101E.FC8222"@en	COL title VAL  "TAG Heuer Formula 1 Indy 500 Limited Edition Watch 43mm Mens Watch CAZ101V.BA0842"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Watch - T1094101103300"@en	COL title VAL  "Heritage Classic Automatic Men's Watch"@en	0
+COL title VAL  "Citizen Men's Eco Drive Stainless Steel Watch"@en	COL title VAL  "Tissot Stainless Steel T-Sport Men's Watch - T1114173744106"@en	0
+COL title VAL  "Swiss Military Hanowa06-4280.09.009CH Undercover Uhr"@en	COL title VAL  "Citizen Corso World Time Perpetual Calendar"@en	0
+COL title VAL  "Correa Ice-Watch 015929 015769 ICE Steel"@en	COL title VAL  "Ice-Watch Ice-Kids 014426 ICE Ola Kids Watch"@en	0
+COL title VAL  "Citizen Men's Eco Drive Stainless Steel Watch"@en	COL title VAL  "Citizen Men's Watch CA0080-03E"@de	0
+COL title VAL  "PELAGOS 42MM TITANIUM AND STEEL"@en	COL title VAL  "Relógio Ice-Watch017330 ICE Steel"@en	0
+COL title VAL  "Citizen Men's Eco-Drive ATOMIC TIMEKEEPING PERPETUAL CHRONO A‑T Bracelet Watch - Product Code - AT4004-52E"@en	COL title VAL  "Citizen Men's Eco Drive Stainless Steel Watch"@en	0
+COL title VAL  "Audemars Piguet Royal Oak 67653 Quartz Frosted White Gold Pink Bracelet Watch Replica"@en	COL title VAL  "Cheap Replica Audemars Piguet Royal Oak Frosted Gold Quartz Watch 67653BC.GG.1263BC.02"@en	1
+COL title VAL  "Hamilton Ventura XXL Watch H24655331"@en	COL title VAL  "Hamilton American Classic Ventura XXL Auto"@en	1
+COL title VAL  "Hamilton Viewmatic Auto Watch H32515145"@en	COL title VAL  "Hamilton Watch Khaki Navy Scuba Auto"@sw	0
+COL title VAL  "Hamilton American Classic H32515535 Jazzmaster watch"@en	COL title VAL  "Hamilton Jazzmaster Viewmatic Auto Watch H32515145"@en	0
+COL title VAL  "Heritage Advisor Automatic Men's Watch"@en	COL title VAL  "Seiko Prospex Automatic Divers 200M SPB053J1 Mens Watch"@en	0
+COL title VAL  "Tissot T0554171605700 - T055.417.16.057.00"@en	COL title VAL  "Tissot T-Race Cycling T111.417.27.441.00"@en	0
+COL title VAL  "TAG Heuer Carrera CAR2A1AB.FT6163"@ca	COL title VAL  "Tag Heuer - Carrera Quartz on Steel Bracelet"@de	0
+COL title VAL  "Heritage Advisor Automatic Men's Watch"@en	COL title VAL  "Seiko 5 SNZF15K1 Automatic Men's Watch"@en	0
+COL title VAL  "Patek Philippe Tourbillon Minute Repeater Perpetual Calendar hite Gold / Blue 5207G-001 Replica"@en	COL title VAL  "Patek Philippe Calatrava Ladies 7122/200R-001"@ca	0
+COL title VAL  "TAG Heuer Autavia Men's Calibre 5 Chronometer Watch WBE5114.FC8266"@en	COL title VAL  "Seiko 5 SNZF15K1 Automatic Men's Watch"@en	0
+COL title VAL  "Aquaracer Calibre 5 Automatic Ceramic Bezel"@ca	COL title VAL  "Aquaracer 300M Ceramic Bezel Calibre 5 Automatic Watch"@ca	1
+COL title VAL  "Hamilton Jazzmaster Automatic Black Dial Stainless Steel Men's Watch - H32515535"@en	COL title VAL  "Citizen Men's Eco Drive Stainless Steel Watch"@en	0
+COL title VAL  "Omega Seamaster Planet Ocean 600m Omega Co-Axial Master Chronometer 39.5mm - 215.23.40.20.04.001"@en	COL title VAL  "Seamaster Planet Ocean 600 M Omega Co-Axial Master Chronometer 215.23.40.20.04.001"@en	1
+COL title VAL  "AAA Replica Audemars Piguet Royal Oak Offshore Selfwinding Chronograph Watch 26470ST.OO.A030CA.01"@en	COL title VAL  "AAA Replica TAG Heuer Aquaracer 300M Watch WAY101E.FC8222"@en	0

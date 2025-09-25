@@ -1,0 +1,507 @@
+COL title VAL  "8 Port Gigabit Easy Smart Switch With Po E"@en	COL title VAL  "Jabra Engage 75 Mono - Most powerful professional wireless headsets"@en	0
+COL title VAL  "MikroTik RouterBoard Cloud Core Router - 36 Core CPU - 16GB RAM - CCR1036-12G-4S-EM"@en	COL title VAL  "Cisco Catalyst 3650-24TS24-port 1-/100/1000 Managed Switch"@en	0
+COL title VAL  "TP-Link TL-SG1008 8xRJ45 10/100/1000Mbps"@en	COL title VAL  "TL-WA901ND - 10/100/POE/WiFi N 3 antennes"@de	0
+COL title VAL  "Jabra BIZ„˘ 2400 II DuoNEXT GENERATION - IP Wideband-Headset (QD) Type: 82 E-STD, Noice-Cancelling microphone boom: FreeSpin"@en	COL title VAL  "Jabra Biz 2400 II Mono 3-1, NC, 82 mic, Wideband, QD"@en	0
+COL title VAL  "Startech USB 3.0 Gigabit Adapter"@de	COL title VAL  "APC - SMT1500RMI2UCSMARTUPS 1500VA LCD RM 2U 230V SmartC"@de	0
+COL title VAL  "JABRA - EVOLVE 40 UC Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	COL title VAL  "JABRA Evolve 40 UC USB - Mono"@pt	0
+COL title VAL  "Jabra Evolve 75 UC Stereo - Headset - on-ear - Bluetooth - wireless - active noise canceling - USB"@en	COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	0
+COL title VAL  "Switch TP-Link TL-SG108PE"@en	COL title VAL  "TP-Link TL-SF1024D 24port Switch"@en	0
+COL title VAL  "TP-LINK Wireless-AC1200 Router Archer C1200"@en	COL title VAL  "TP-Link Archer C60 AC1350 WiFi DualBand Router (5172131971)"@de	0
+COL title VAL  "NEW Cisco WS-C2960XR-48FPS-I 48 10/100/1000 Port Ethernet Switch"@en	COL title VAL  "Cisco Catalyst 3650-24TS24-port 1-/100/1000 Managed Switch"@en	0
+COL title VAL  "Blackmagic Design ATEM Production Studio 4K Switcher"@en	COL title VAL  "Blackmagic Design ATEM 2 M/E Production Studio 4K SWATEMPSW2ME4K"@en	0
+COL title VAL  "Jabra Evolve 20 SE Mono MS USB Corded PC Headset"@en	COL title VAL  "Jabra EVOLVE 80 MS Stereo"@de	0
+COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	COL title VAL  "APC Smart UPS 1500VA LCD 230V with Smart"@en	0
+COL title VAL  "TP-Link EAP110 Auranet Access Point 300Mps"@en	COL title VAL  "Hikvision 4-ports 100Mbps Unmanaged PoE Switch (DS-3E0105P-E)"@en	0
+COL title VAL  "Ubiquiti Networks POE-24-12W 24V PoE adapter & injector"@en	COL title VAL  "Hikvision Unmanaged Switch: 24 POE Ports, 100Mbps"@en	0
+COL title VAL  "WS-C2960XR-48FPS-I - 48 Port 2960-XR Switch"@en	COL title VAL  "Cisco WS-C2960-48TT-L 48-Port Managed Ethernet Switch"@en	0
+COL title VAL  "WS-C2960-24TC-L Cisco Catalyst 2960 Network Switch (Refurb)"@en	COL title VAL  "WS-C2960XR-48FPS-I - 48 Port 2960-XR Switch"@en	0
+COL title VAL  "Switch Netgear - ProSafe Gigabit SmartSwitch 48porte"@en	COL title VAL  "Switch ethernet Netgear GS108E Metal 8 Ports Gigabit"@de	0
+COL title VAL  "Cisco Ws-c3650-48fd-l (ws-c3650-48fd-l) Cisco Catalyst 3650 48 Port Full Poe 2x10g Uplink Lan Base"@en	COL title VAL  "WS-C3750X-24T-SCatalyst 3750X 24 Port Data IP Base"@en	0
+COL title VAL  "Atomos Coiled Full HDMI to Full HDMI Cable (30-45cm)"@en	COL title VAL  "Atomos Coiled Full HDMI to Full HDMI Cable (30cm) - ATOMCAB010"@en	1
+COL title VAL  "WS-C3750X-24T-S Cisco Catalyst 3750X 24 Port Data IP Base. Refurbished."@en	COL title VAL  "Cisco Catalyst 3650-24T 24 Ports Manageable Layer 3 Switch"@en	0
+COL title VAL  "Cisco WS-C2960-48TT-L 48-Port Managed Ethernet Switch"@en	COL title VAL  "Cisco WS-C3750G-48PS-E Catalyst 48-Port Network Switch"@en	0
+COL title VAL  "HIKVISION 16CH TURBO DVR 16IP & 16 BNC"@en	COL title VAL  "DVR HIKVISION 16 channel-1080p"@it	0
+COL title VAL  "Hikvision DS-3E0105P-E SWITCH"@et	COL title VAL  "TP-Link EAP110 Auranet Access Point 300Mps"@en	0
+COL title VAL  "TP-Link TL-SG1016DE 16Port Gigabit Desktop Switch"@en	COL title VAL  "Desktop Switch TP-Link TL-SG116E RJ45 32 Gbps Black (16 Ports)"@en	0
+COL title VAL  "JABRA Biz 2300 Noise Canceling - Stereo"@en	COL title VAL  "Jabra BIZ 2300 Duo USB UC"@es	1
+COL title VAL  "TP-Link EAP225-Outdoor Wireless-AC1200 MU-MIMO Gigabit Indoor/Outdoor Access Point (Warranty 3years with TPLink SG)"@en	COL title VAL  "TP-LINK Wireless-AC1200 Router Archer C1200"@en	0
+COL title VAL  "Mixer video Blackmagic ATEM 2 M/E Production Studio 4K Video Switcher"@en	COL title VAL  "APPLE - Airpods Pro 2019 MWP22TY/A White"@en	0
+COL title VAL  "Jabra BIZ 2300 USB MS Mono - headset"@en	COL title VAL  "Jabra BIZ 2300 Duo USB UC"@es	0
+COL title VAL  "APC Smart-UPS SRT 10000VA SRT10KXLI"@de	COL title VAL  "APC Smart-UPS X 3000VA Rack/TowerLCD"@en	0
+COL title VAL  "TP-Link 24-Port Gigabit Switch 24 Gigabit Rj-45 Ports (10/100/1000) Auto-Mdi (X) 19 Inrack Mountable (1U) Steel Housing Energy-Efficiency Control"@en	COL title VAL  "TP-Link EAP110 300Mbps Wireless N300 Ceiling Mount Access Point 1x1Gbps RJ45 PoE 1x Console Port 2x4dBi Omni Internal Antenna"@en	0
+COL title VAL  "TP-LINK TL-SG1016DE 16-Port Gigabit Easy Smart Switch"@en	COL title VAL  "TP-Link TL-SG1016DE 16Port Gigabit Desktop Switch"@en	1
+COL title VAL  "Omada EAP225 Outdoor, Access Point"@pt	COL title VAL  "TP-Link EAP110 Auranet Access Point 300Mps"@en	0
+COL title VAL  "APC - Schneider SMART-UPS 5000VA 230V RACKMOUNT/TOWER"@de	COL title VAL  "APC - SMART-UPS 1000VA LCD 230V WITH SMARTCONNECT IN"@de	0
+COL title VAL  "Switch TL-SG1008 8 porturi"@en	COL title VAL  "JetStream 8-Port Gigabit Smart Switch"@en	0
+COL title VAL  "Switch TP-LINK - 5-port metal gigabit switch - switch - 5 porte - unmanaged tl-sg105"@en	COL title VAL  "TP-LINK T1500G-10MPS netwerk-switch Managed L2 Gigabit Ethernet (10/100/1000) Zwart 1U Power over Ethernet (PoE)"@en	0
+COL title VAL  "TP-LINK Wireless-N300 Range Extender TL-WA860RE"@de	COL title VAL  "TP-Link TL-WA860RE N300 universal range extender"@sv	1
+COL title VAL  "HIKVISION DS-7204HQHI-K1 2MP TVI 4 CHANNEL TURBO 4.0 DVR"@en	COL title VAL  "DS-7332HQHI-K4 Hikvision 32 Channel 1080P HD-TVI Hybrid DVR"@sv	0
+COL title VAL  "TP-Link TL-SF1024 24 x RJ45 10/100Mbps switch"@en	COL title VAL  "Hikvision Unmanaged Switch: 24 POE Ports, 100Mbps"@en	0
+COL title VAL  "Cisco WS-C3750G-48PS-E Catalyst 48-Port Network Switch"@en	COL title VAL  "WS-C3750X-24T-S Cisco Catalyst 3750X 24 Port Data IP Base. Refurbished."@en	0
+COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "HK DVR TURBOHD 8ch DS-7208HQHI-K2/P"@vi	0
+COL title VAL  "POE-24-12W POE ADAPTER"@pl	COL title VAL  "Ubiquiti Networks POE-24-12W 24V PoE adapter & injector"@en	1
+COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10000VA Tower 230V"@de	COL title VAL  "APC SUA5000RMI5U Smart-UPS 5000VA 230V Rackmount Tower"@en	0
+COL title VAL  "Netgear GS752TX-100NES | Switch | S3300 48PORTS GE SMART MANAGED PRO STACK"@en	COL title VAL  "Hikvision Unmanaged Switch: 24 POE Ports, 100Mbps"@en	0
+COL title VAL  "Jabra BIZ 2300 Duo USB UC"@es	COL title VAL  "Jabra BIZ 2300 Duo USB Ms Lync Skype for Business"@en	0
+COL title VAL  "Switch TP-LINK - 5-port metal gigabit switch - switch - 5 porte - unmanaged tl-sg105"@en	COL title VAL  "Switch TP-LINK - Unmanaged pro - switch - 16 porte - unmanaged tl-sg116e"@en	0
+COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	COL title VAL  "7599-838-109 Jabra EVOLVE 75 Duo USB & Bluetooth - Link 370"@en	0
+COL title VAL  "WS-C2960-48TT-L Cisco Catalyst 2960 Network Switch (New)"@en	COL title VAL  "Cisco Catalyst 3650-48F Ethernet Switch - WSC365048FDL"@en	0
+COL title VAL  "HIKVISION DS-7204HQHI-K1 2MP TVI 4 CHANNEL TURBO 4.0 DVR"@en	COL title VAL  "4CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7204HQHI-K1"@de	1
+COL title VAL  "Jabra Engage 75 Mono - Headset - on-ear - DECT - wireless - NFC"@en	COL title VAL  "Jabra EVOLVE 20 UC MONO Headset 4993-829-209 -For use on computers"@en	0
+COL title VAL  "APC - SMART-UPS 1000VA LCD 230V WITH SMARTCONNECT IN"@de	COL title VAL  "APC SMT1000IC Smart-UPS 1000VA/700W Sinewave UPS with SmartConnect"@en	1
+COL title VAL  "8 Port Gigabit Easy Smart Switch With Po E"@en	COL title VAL  "8CH POC 8MP HIKVISION DVR HDMI TURBO DS-7208HUHI-K2/P"@de	0
+COL title VAL  "WS-C3750X-24T-SCatalyst 3750X 24 Port Data IP Base"@en	COL title VAL  "Cisco Catalyst 3650-24T 24 Ports Manageable Layer 3 Switch"@en	0
+COL title VAL  "Jabra Biz 2300 USB UC Duo Binaural Headset2399-823-109"@de	COL title VAL  "Jabra BIZ 2300 Duo USB UC"@es	0
+COL title VAL  "4CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7204HQHI-K1"@de	COL title VAL  "8CH POC 8MP HIKVISION DVR HDMI TURBO DS-7208HUHI-K2/P"@de	0
+COL title VAL  "Switch TP-LINK - 5-port metal gigabit switch - switch - 5 porte - unmanaged tl-sg105"@en	COL title VAL  "TP-Link TL-SG1016DE 16Port Gigabit Desktop Switch"@en	0
+COL title VAL  "TP-LinkTL-SG105 5 Puertos Gigabit metalico – Switch"@en	COL title VAL  "TP-Link TL-SG1016DE 16Port Gigabit Desktop Switch"@en	0
+COL title VAL  "TP-Link EAP115 Wi-Fi 300Mbps Tavan Tipi Access P."@en	COL title VAL  "TP-Link TL-SF1024D 24port Switch"@en	0
+COL title VAL  "APC Smart-UPS 1000 LCD"@de	COL title VAL  "APC - SMART-UPS 1000VA LCD 230V WITH SMARTCONNECT IN"@de	0
+COL title VAL  "Switch TP-LINK - Unmanaged pro - switch - 16 porte - unmanaged tl-sg116e"@en	COL title VAL  "D-Link Switch 8 Porte Gigabit Poe Smart Managed"@en	0
+COL title VAL  "CISCO - CATALYST 3560-CX 12 PORT POE+ 240W"@en	COL title VAL  "Cisco Ws-c3650-48fd-l (ws-c3650-48fd-l) Cisco Catalyst 3650 48 Port Full Poe 2x10g Uplink Lan Base"@en	0
+COL title VAL  "Netgear GS752TX-100NES | Switch | S3300 48PORTS GE SMART MANAGED PRO STACK"@en	COL title VAL  "TP-LINK Wireless-N300 Range Extender TL-WA860RE"@de	0
+COL title VAL  "52-Port Gigabit Ethernet Stackable Smart Managed Pro Switch with 2 Copper 10G and 2 Dedicated SFP+ 10G Ports"@en	COL title VAL  "8 Port Gigabit Easy Smart Switch With Po E"@en	0
+COL title VAL  "WS-C3850-48P-S Cisco Catalyst 3850 Network Switch (New)"@en	COL title VAL  "WS-C2960-24TC-L Cisco Catalyst 2960 Network Switch (Refurb)"@en	0
+COL title VAL  "Ubiquiti airMAX ac 5GHz 21dBi Sector Antenna"@fr	COL title VAL  "TP-Link EAP110 300Mbps Wireless N300 Ceiling Mount Access Point 1x1Gbps RJ45 PoE 1x Console Port 2x4dBi Omni Internal Antenna"@en	0
+COL title VAL  "JABRA Evolve 40 UC USB - Stereo"@de	COL title VAL  "JABRA Evolve 40 UC USB - Mono"@pt	0
+COL title VAL  "Cisco Ws-c3650-48fd-l (ws-c3650-48fd-l) Cisco Catalyst 3650 48 Port Full Poe 2x10g Uplink Lan Base"@en	COL title VAL  "WS-C3750X-24T-S Cisco Catalyst 3750X 24 Port Data IP Base. Refurbished."@en	0
+COL title VAL  "HIKVISION DS-7208HQHI-K1 (Turbo HD 4.0) 1080P 4MP Lite"@de	COL title VAL  "4CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7204HQHI-K1"@de	0
+COL title VAL  "APC Smart-UPS X 2200VA Rack LCD UPS SMX2200RMHV2U"@de	COL title VAL  "APC Smart-UPS X 2200VA/1980W, 2U/Tower, Line-Interactive, LCD, 8x C13 (220-240V), 1x C19, SmartSlot, USB, EPO, HS repl. batt. (SMX2200RMHV2U)"@en	1
+COL title VAL  "TP-Link AC1200 Wireless MU-MIMO Gigabit Indoor/Outdoor Access Point (EAP225-Outdoor) AC1200 Outdoor"@en	COL title VAL  "TP-Link EAP115 Wi-Fi 300Mbps Tavan Tipi Access P."@en	0
+COL title VAL  "TP-Link TL-WA850RE biely (TL-WA850RE)"@en	COL title VAL  "TP-LINK TL-WA901ND AccesPoint, 300 Mbps"@en	0
+COL title VAL  "JetStream 8-Port Gigabit Smart Switch"@en	COL title VAL  "52-Port Gigabit Ethernet Stackable Smart Managed Pro Switch with 2 Copper 10G and 2 Dedicated SFP+ 10G Ports"@en	0
+COL title VAL  "WS-C3560CX-12PC-S Cisco Catalyst 3560CX Network Switch (New)"@en	COL title VAL  "WS-C3850-48P-S Cisco Catalyst 3850 Network Switch (New)"@en	0
+COL title VAL  "Cisco WS-C3750G-48PS-E Catalyst 48-Port Network Switch"@en	COL title VAL  "Cisco Catalyst 3650-48F Ethernet Switch - WSC365048FDL"@en	0
+COL title VAL  "DVR HDTVI 32 canale Turbo HD Full HD Hikvision DS-7332HQHI-K4 HD-TVI / AHD / CVI + 8 canale IP de pana la 6MP, 4xSATA"@es	COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	0
+COL title VAL  "Hikvision DS-7216HUHI-K2 5MP 16 Channel TVI, DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	0
+COL title VAL  "D-Link Switch 8 Porte Gigabit Poe Smart Managed"@en	COL title VAL  "TP-LINK TL-SG1016DE 16-Port Gigabit Easy Smart Switch"@en	0
+COL title VAL  "ES-16-150W - EdgeSwitch 16 Port PoE 150W"@en	COL title VAL  "Jabra EVOLVE 20 UC Mono (USB)"@pt	0
+COL title VAL  "DS-7332HUHI-K4 Hikvision 5MP & 8MP Analogue 16 Channel Turbo 4.0 DVR"@en	COL title VAL  "DVR HDTVI 32 canale Turbo HD Full HD Hikvision DS-7332HQHI-K4 HD-TVI / AHD / CVI + 8 canale IP de pana la 6MP, 4xSATA"@es	0
+COL title VAL  "NEW Cisco WS-C2960XR-48FPS-I 48 10/100/1000 Port Ethernet Switch"@en	COL title VAL  "Switch ethernet Netgear GS108E Metal 8 Ports Gigabit"@de	0
+COL title VAL  "Jabra BIZ 2300 Duo USB UC"@es	COL title VAL  "Jabra BIZ 2300 USB Mono, Type: 82 E-STD"@es	0
+COL title VAL  "JABRA - EVOLVE 40 UC Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	COL title VAL  "JABRA - EVOLVE 40 UC Mono USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	0
+COL title VAL  "JABRA Biz 2300 Noise Canceling - Stereo"@en	COL title VAL  "Jabra BIZ 2400 II Mono 3-1 BIZ 2400-2420, NC"@pt	0
+COL title VAL  "APC SUA5000RMI5U Smart-UPS 5000VA 230V Rackmount Tower"@en	COL title VAL  "HIKVISION DS-KD-ACW2 double-wall mounting bracket for modular door station"@en	0
+COL title VAL  "WS-C3560CX-12PC-S Cisco Catalyst 3560CX Network Switch (New)"@en	COL title VAL  "WS-C3850-48P-S - Cisco 3850 Switch 48Pt POE+ 715W GE IP Base"@en	0
+COL title VAL  "D-Link Switch 8 Porte Gigabit Poe Smart Managed"@en	COL title VAL  "8 Port Gigabit Easy Smart Switch With Po E"@en	1
+COL title VAL  "TP-Link EAP225-Outdoor Wireless-AC1200 MU-MIMO Gigabit Indoor/Outdoor Access Point (Warranty 3years with TPLink SG)"@en	COL title VAL  "Omada EAP225 Outdoor, Access Point"@pt	0
+COL title VAL  "Switch TP-Link TL-SG108PE"@en	COL title VAL  "TP-Link TL-SG1016DE 16Port Gigabit Desktop Switch"@en	0
+COL title VAL  "Hikvision H.265+ TURBO HD 8CH DVR 4K HDMI supports 5MP TVI/ 2MP AHD & CVI/ 6MP IP CAM (HDD not included)"@en	COL title VAL  "HIKVISION DS-7208HUHI-K1 5 MEGAPIXEL (5MP) HYBRID 8 CHANNEL DVR"@de	1
+COL title VAL  "Jabra Biz 2300 USB UC Duo Binaural Headset2399-823-109"@de	COL title VAL  "Jabra Evolve 65 Stereo Headsets"@da	0
+COL title VAL  "Cisco WS-C3750G-48PS-E Catalyst 48-Port Network Switch"@en	COL title VAL  "NEW Cisco WS-C2960XR-48FPS-I 48 10/100/1000 Port Ethernet Switch"@en	0
+COL title VAL  "Jabra BIZ„˘ 2400 II DuoNEXT GENERATION - IP Wideband-Headset (QD) Type: 82 E-STD, Noice-Cancelling microphone boom: FreeSpin"@en	COL title VAL  "Jabra 2400 II QD Mono NC 3 in1 Wired Headset - Black"@en	0
+COL title VAL  "Jabra EVOLVE 20 UC Mono (USB)"@pt	COL title VAL  "Jabra BIZ 2300 USB Mono, Type: 82 E-STD"@es	0
+COL title VAL  "TP-Link TL-SG108PE 8 Port Gigabit EasySmart Switch with 4x PoE"@en	COL title VAL  "Switch TP-LINK - 5-port metal gigabit switch - switch - 5 porte - unmanaged tl-sg105"@en	0
+COL title VAL  "Garmin Transducer Extension Cable (010-11617-10)"@en	COL title VAL  "Garmin Garmin 10ft Transducer Extension Cable 4 -Pin"@en	1
+COL title VAL  "Switch TP-Link TL-SG108PE"@en	COL title VAL  "GS108E Gigabit Ethernet (10/100/1000) Sort"@de	0
+COL title VAL  "Ubiquiti Networks 5 GHz airMAX AC Sector Antenna Reference: AM-5AC22-45"@en	COL title VAL  "TP-Link TL-SG108PE 8 Port Gigabit EasySmart Switch with 4x PoE"@en	0
+COL title VAL  "D-Link Switch 8 Porte Gigabit Poe Smart Managed"@en	COL title VAL  "Netgear GS752TX-100NES | Switch | S3300 48PORTS GE SMART MANAGED PRO STACK"@en	0
+COL title VAL  "APC Smart-UPS 1000 LCD"@de	COL title VAL  "APC Smart-UPS X 2200VA/1980W, 2U/Tower, Line-Interactive, LCD, 8x C13 (220-240V), 1x C19, SmartSlot, USB, EPO, HS repl. batt. (SMX2200RMHV2U)"@en	0
+COL title VAL  "TPLINK / TP-Link TL-PB20000 20,000mAh Li-Polymer Power Bank (Local Warranty 1year with TPLink SG)"@en	COL title VAL  "Switch TP-Link TL-SG1024D"@en	0
+COL title VAL  "JABRA Evolve 40 UC USB - Mono"@pt	COL title VAL  "JABRA - EVOLVE 40 UC Mono USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	1
+COL title VAL  "TP-Link TL-SF1024D 24port Switch"@en	COL title VAL  "Switch TP-Link TL-SG1024D"@en	0
+COL title VAL  "Switch TP-LINK - 5-port metal gigabit switch - switch - 5 porte - unmanaged tl-sg105"@en	COL title VAL  "TP-LINK TL-SG1016DE 16-Port Gigabit Easy Smart Switch"@en	0
+COL title VAL  "APC Smart-UPS 1000 LCD"@de	COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	1
+COL title VAL  "Hikvision DS-7216HUHI-K2 5MP 16 Channel TVI, DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "Hikvision DS-7208HQHI-K2/P 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	0
+COL title VAL  "APC Smart-UPS X 2200VA Rack LCD UPS SMX2200RMHV2U"@de	COL title VAL  "APC SMX3000HV X 3000VA 200-240V Line Interactive Sinewave Smart UPS"@en	0
+COL title VAL  "WiFi router TP-Link TL-WR841N AP/router, 4x LAN, 1x WAN (2,4GHz, 802.11n) 300Mbps"@en	COL title VAL  "TP Link TLWR841N 300Mbps Wireless N Router"@en	1
+COL title VAL  "TP-Link EAP115 Wi-Fi 300Mbps Tavan Tipi Access P."@en	COL title VAL  "TP-LINK EAP115 300Mbit/s Power over Ethernet (PoE) WLAN toegangspunt"@en	1
+COL title VAL  "WS-C3850-48P-S - Cisco 3850 Switch 48Pt POE+ 715W GE IP Base"@en	COL title VAL  "WS-C3750X-24T-S Cisco Catalyst 3750X 24 Port Data IP Base. Refurbished."@en	0
+COL title VAL  "JetStream 8-Port Gigabit Smart Switch"@en	COL title VAL  "Switch ethernet Netgear GS108E Metal 8 Ports Gigabit"@de	0
+COL title VAL  "DVR HDTVI 32 canale Hibrid Hikvision Turbo HD DS-7332HUHI-K4 4xSATA, H.265+, HDMI 4K IP 8MP"@en	COL title VAL  "8CH POC 8MP HIKVISION DVR HDMI TURBO DS-7208HUHI-K2/P"@de	0
+COL title VAL  "JABRA Evolve 40 UC USB - Mono"@pt	COL title VAL  "Jabra EVOLVE 20 UC Mono (USB)"@pt	0
+COL title VAL  "Hikvision Unmanaged Switch: 24 POE Ports, 100Mbps"@en	COL title VAL  "16ch Hikvision NVR with 16x PoE"@en	0
+COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	COL title VAL  "DS-7332HQHI-K4 Hikvision 32 Channel 1080P HD-TVI Hybrid DVR"@sv	0
+COL title VAL  "WS-C2960-48TT-L Cisco Catalyst 2960 Network Switch (New)"@en	COL title VAL  "WS-C2960-24TC-L Cisco Catalyst 2960 Network Switch (Refurb)"@en	0
+COL title VAL  "Hikvision DS-3E0326P-E 24 Port 10/100 PoE+ Switch"@en	COL title VAL  "Hikvision 4-ports 100Mbps Unmanaged PoE Switch (DS-3E0105P-E)"@en	0
+COL title VAL  "Jabra Evolve 65 Stereo Headsets"@da	COL title VAL  "Jabra EVOLVE 20 Wired Stereo Headset - Over-the-head - Supra-aural"@en	0
+COL title VAL  "DJI Mavic Mini Drone Fly More Combo"@en	COL title VAL  "DJI Mavic Mini Fly More Combo"@en	1
+COL title VAL  "Jabra Engage 75 Mono - Headset - on-ear - DECT - wireless - NFC"@en	COL title VAL  "Jabra Evolve 75 UC Stereo - Headset - on-ear - Bluetooth - wireless - active noise canceling - USB"@en	0
+COL title VAL  "Switch TP-Link TL-SG1024D"@en	COL title VAL  "TP-Link TL-SG1008 8xRJ45 10/100/1000Mbps"@en	0
+COL title VAL  "TP-Link 24-Port Gigabit Switch 24 Gigabit Rj-45 Ports (10/100/1000) Auto-Mdi (X) 19 Inrack Mountable (1U) Steel Housing Energy-Efficiency Control"@en	COL title VAL  "TP-Link TL-SF1024 24 x RJ45 10/100Mbps switch"@en	0
+COL title VAL  "Mixer video Blackmagic ATEM 2 M/E Production Studio 4K Video Switcher"@en	COL title VAL  "Blackmagic Design ATEM 2 M/E Production Studio 4K SWATEMPSW2ME4K"@en	1
+COL title VAL  "APC Smart UPS 1500VA LCD 230V with Smart"@en	COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10000VA Tower 230V"@de	0
+COL title VAL  "UVC-G3-LED:UniFi Video Camera G3 IR Range Extender"@de	COL title VAL  "Ubiquiti UVC G3 IR LED Range Extender for UniFi UVC-G3"@fr	1
+COL title VAL  "Hikvision DS-3E0105P-E SWITCH"@et	COL title VAL  "Hikvision 4-ports 100Mbps Unmanaged PoE Switch (DS-3E0105P-E)"@en	1
+COL title VAL  "Apple Lightning to Digital AV AdapterA1438MD826AM/A"@en	COL title VAL  "HIKVISION DS-7208HQHI-K1 (Turbo HD 4.0) 1080P 4MP Lite"@de	0
+COL title VAL  "Jabra Evolve 75 UC Stereo - Headset - on-ear - Bluetooth - wireless - active noise canceling - USB"@en	COL title VAL  "Jabra EVOLVE 80 Headset - Skype for Business - Stereo - USB, Mini-phone - Wired - Over-the-head - Binaural - Circumaural - Noise Cancelling Microphone - SFB 7899-823-109"@en	0
+COL title VAL  "Jabra Biz 2400 II Duo, NC, 82 mic, Wideband, QD"@en	COL title VAL  "Jabra BIZ 2400 II Mono 3-1 BIZ 2400-2420, NC"@pt	0
+COL title VAL  "JetStream 8-Port Gigabit Smart Switch"@en	COL title VAL  "Switch Netgear - ProSafe Gigabit SmartSwitch 48porte"@en	0
+COL title VAL  "Jabra BIZ 2300 Duo USB Ms Lync Skype for Business"@en	COL title VAL  "Jabra BIZ 2300 USB MS Mono - headset"@en	0
+COL title VAL  "Ubiquiti EdgeMAX Edgeswitch 16 Port PoE Switch ES-16-150W"@en	COL title VAL  "ES-16-150W - EdgeSwitch 16 Port PoE 150W"@en	1
+COL title VAL  "APC Smart UPS 1500VA LCD 230V with Smart"@en	COL title VAL  "APC - SMT1500RMI2UCSMARTUPS 1500VA LCD RM 2U 230V SmartC"@de	0
+COL title VAL  "WS-C2960-48TT-L Cisco Catalyst 2960 Network Switch (New)"@en	COL title VAL  "Cisco Catalyst 3750G-48PS-E Switch WS-C3750G-48PS-E"@en	0
+COL title VAL  "Switch TP-Link TL-SG1024D"@en	COL title VAL  "TP-Link 24-Port Gigabit Switch 24 Gigabit Rj-45 Ports (10/100/1000) Auto-Mdi (X) 19 Inrack Mountable (1U) Steel Housing Energy-Efficiency Control"@en	1
+COL title VAL  "JABARA Evolve 65 with Link 370 USB - Mono"@en	COL title VAL  "Jabra BIZ 2300 USB Mono, Type: 82 E-STD"@es	0
+COL title VAL  "DVR HDTVI 32 canale Turbo HD Full HD Hikvision DS-7332HQHI-K4 HD-TVI / AHD / CVI + 8 canale IP de pana la 6MP, 4xSATA"@es	COL title VAL  "DS-7332HQHI-K4 Hikvision 32 Channel 1080P HD-TVI Hybrid DVR"@sv	1
+COL title VAL  "APC Smart-UPS SRT 10000VA SRT10KXLI"@de	COL title VAL  "APC SMT1000IC Smart-UPS 1000VA/700W Sinewave UPS with SmartConnect"@en	0
+COL title VAL  "DS-7332HUHI-K4 Hikvision 5MP & 8MP Analogue 16 Channel Turbo 4.0 DVR"@en	COL title VAL  "HIKVISION DS-7204HQHI-K1 2MP TVI 4 CHANNEL TURBO 4.0 DVR"@en	0
+COL title VAL  "JABRA - EVOLVE 40 UC Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	COL title VAL  "JABRA Evolve 40 UC USB - Stereo"@de	1
+COL title VAL  "TP Link TLWR841N 300Mbps Wireless N Router"@en	COL title VAL  "TP-Link EAP115 Wi-Fi 300Mbps Tavan Tipi Access P."@en	0
+COL title VAL  "Jabra Engage 75 Mono - Most powerful professional wireless headsets"@en	COL title VAL  "Jabra Engage 75 Mono - Headset - on-ear - DECT - wireless - NFC"@en	1
+COL title VAL  "Hikvision DS-3E0105P-E SWITCH"@et	COL title VAL  "Cisco Catalyst 3750G-48PS-E Switch WS-C3750G-48PS-E"@en	0
+COL title VAL  "Hikvision DS-7208HQHI-K2/P 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "8CH POC 8MP HIKVISION DVR HDMI TURBO DS-7208HUHI-K2/P"@de	0
+COL title VAL  "JABRA - EVOLVE 40 UC Mono USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	COL title VAL  "Jabra Evolve 75 UC Stereo - Headset - on-ear - Bluetooth - wireless - active noise canceling - USB"@en	0
+COL title VAL  "Jabra Biz 2400 II QD Mono 3-in-1 | 2486-820-209"@it	COL title VAL  "Jabra BIZ 2400 II Mono 3-1 BIZ 2400-2420, NC"@pt	0
+COL title VAL  "8 Port Gigabit Easy Smart Switch With Po E"@en	COL title VAL  "TP-Link TL-SG1016DE 16Port Gigabit Desktop Switch"@en	0
+COL title VAL  "Cisco Catalyst 3650-48F Ethernet Switch - WSC365048FDL"@en	COL title VAL  "WS-C3560CX-12PC-S Cisco Catalyst 3560CX Network Switch (New)"@en	0
+COL title VAL  "TP-Link EAP115 Wi-Fi 300Mbps Tavan Tipi Access P."@en	COL title VAL  "TP-Link EAP110 Auranet Access Point 300Mps"@en	0
+COL title VAL  "Evolve 20 Special Edition Mono MS"@it	COL title VAL  "Jabra BIZ 2300 USB MS Mono - headset"@en	0
+COL title VAL  "APC Smart-UPS X 3000VA Rack/TowerLCD"@en	COL title VAL  "TP-LINK Wireless-N300 Range Extender TL-WA860RE"@de	0
+COL title VAL  "TP-LINK TL-WA901ND AccesPoint, 300 Mbps"@en	COL title VAL  "TP-Link TL-WA860RE N300 universal range extender"@sv	0
+COL title VAL  "Switch TP-Link TL-SG1024D"@en	COL title VAL  "Switch TP-LINK - 5-port metal gigabit switch - switch - 5 porte - unmanaged tl-sg105"@en	0
+COL title VAL  "Evolve 20 Special Edition Mono MS"@it	COL title VAL  "Jabra EVOLVE 20 UC Mono (USB)"@pt	0
+COL title VAL  "WS-C2960-24TC-L Cisco Catalyst 2960 Network Switch (Refurb)"@en	COL title VAL  "WS-C3750X-24T-S Cisco Catalyst 3750X 24 Port Data IP Base. Refurbished."@en	0
+COL title VAL  "APC Smart-UPS X 3000VA Rack/TowerLCD"@en	COL title VAL  "APC Smart-UPS X 2200VA Rack LCD UPS SMX2200RMHV2U"@de	0
+COL title VAL  "WS-C2960XR-48FPS-I - 48 Port 2960-XR Switch"@en	COL title VAL  "TP-link range extender 300mbps wi-fi TL-WA850RE"@en	0
+COL title VAL  "Jabra BIZ 2300 Duo USB Ms Lync Skype for Business"@en	COL title VAL  "Jabra BIZ 2300 USB Mono, Type: 82 E-STD"@es	0
+COL title VAL  "DVR HDTVI 32 canale Hibrid Hikvision Turbo HD DS-7332HUHI-K4 4xSATA, H.265+, HDMI 4K IP 8MP"@en	COL title VAL  "DVR HDTVI 32 canale Turbo HD Full HD Hikvision DS-7332HQHI-K4 HD-TVI / AHD / CVI + 8 canale IP de pana la 6MP, 4xSATA"@es	0
+COL title VAL  "APC SMT1000IC Smart-UPS 1000VA/700W Sinewave UPS with SmartConnect"@en	COL title VAL  "APC Smart UPS 1500VA LCD 230V with Smart"@en	0
+COL title VAL  "APPLE - Airpods Pro 2019 MWP22TY/A White"@en	COL title VAL  "Apple Lightning Digital AV Adapter - White MD826"@en	0
+COL title VAL  "Switch TP-Link TL-SG1024D"@en	COL title VAL  "TP-Link TP-LINK TL-WPA4220 PowerLine-netwerkadapter 500 Mbit/s Ether"@en	0
+COL title VAL  "Hikvision DS-7208HQHI-K2/P 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "HK DVR TURBOHD 8ch DS-7208HQHI-K2/P"@vi	1
+COL title VAL  "DS-7332HUHI-K4 Hikvision 5MP & 8MP Analogue 16 Channel Turbo 4.0 DVR"@en	COL title VAL  "HIKVISION 16CH TURBO DVR 16IP & 16 BNC"@en	0
+COL title VAL  "Switch TP-Link TL-SG1024D"@en	COL title VAL  "TP-Link TL-SG108PE 8 Port Gigabit EasySmart Switch with 4x PoE"@en	0
+COL title VAL  "Switch TP-Link TL-SG108PE"@en	COL title VAL  "TP-LINK TL-SG1016DE 16-Port Gigabit Easy Smart Switch"@en	0
+COL title VAL  "APC - Schneider SMART-UPS 5000VA 230V RACKMOUNT/TOWER"@de	COL title VAL  "APC SUA5000RMI5U Smart-UPS 5000VA 230V Rackmount Tower"@en	1
+COL title VAL  "APC Smart UPS 1500VA LCD 230V with Smart"@en	COL title VAL  "APC Smart-UPS SRT 10000VA SRT10KXLI"@de	0
+COL title VAL  "Jabra BIZ 2300 Duo USB UC"@es	COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	0
+COL title VAL  "Jabra EVOLVE 80 MS Stereo"@de	COL title VAL  "Jabra EVOLVE 80 Headset - Skype for Business - Stereo - USB, Mini-phone - Wired - Over-the-head - Binaural - Circumaural - Noise Cancelling Microphone - SFB 7899-823-109"@en	1
+COL title VAL  "Hikvision 16 Channel, 2HDD Ref: DS-7616NI-K2/16P"@en	COL title VAL  "DS-7332HQHI-K4 Hikvision 32 Channel 1080P HD-TVI Hybrid DVR"@sv	0
+COL title VAL  "Hikvision DS-7216HUHI-K2 5MP 16 Channel TVI, DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "DVR HIKVISION 16 channel-1080p"@it	0
+COL title VAL  "TP-Link TL-SG2008 8-Port Gigabit Smart Switch Fanless 802.1Q VLAN, ACL, Port Security and Storm control L2/L3/L4 QoS and IGMP snooping"@en	COL title VAL  "TP-LINK TL-WPA4220 500 Mbit/s Eingebauter Ethernet-Anschluss WLAN Weiß 1 Stück(e)"@de	0
+COL title VAL  "WS-C2960-24TC-L Cisco Catalyst 2960 Network Switch (Refurb)"@en	COL title VAL  "Cisco WS-C2960-48TT-L 48-Port Managed Ethernet Switch"@en	0
+COL title VAL  "4CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7204HQHI-K1"@de	COL title VAL  "DVR HIKVISION 16 channel-1080p"@it	0
+COL title VAL  "DVR HIKVISION 16 channel-1080p"@it	COL title VAL  "Hikvision 16 Channel, 2HDD Ref: DS-7616NI-K2/16P"@en	0
+COL title VAL  "TP-LINK Wireless-N300 Range Extender TL-WA860RE"@de	COL title VAL  "TP-Link TL-WA850RE biely (TL-WA850RE)"@en	0
+COL title VAL  "Hikvision 16 Channel, 2HDD Ref: DS-7616NI-K2/16P"@en	COL title VAL  "TP-Link TL-SG1016DE 16Port Gigabit Desktop Switch"@en	0
+COL title VAL  "TP-Link TL-WA860RE N300 universal range extender"@sv	COL title VAL  "TP-link range extender 300mbps wi-fi TL-WA850RE"@en	0
+COL title VAL  "Ubiquiti Networks POE-24-12W 24V PoE adapter & injector"@en	COL title VAL  "Ubiquiti AirMax AC Sector 22dBi AM-5AC22-45 Ubiquiti"@fr	0
+COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	COL title VAL  "HIKVISION DS-7204HQHI-K1 2MP TVI 4 CHANNEL TURBO 4.0 DVR"@en	0
+COL title VAL  "Jabra EVOLVE 80 MS Stereo"@de	COL title VAL  "JABRA Evolve 40 UC USB - Stereo"@de	0
+COL title VAL  "TP-LINK TL-SG1016DE 16-Port Gigabit Easy Smart Switch"@en	COL title VAL  "Cisco WS-C2960-48TT-L 48-Port Managed Ethernet Switch"@en	0
+COL title VAL  "TURBO HD DVRDS-7216HQHI-K1 1080P"@de	COL title VAL  "DS-7332HQHI-K4 Hikvision 32 Channel 1080P HD-TVI Hybrid DVR"@sv	0
+COL title VAL  "Jabra Evolve 20 SE Mono MS USB Corded PC Headset"@en	COL title VAL  "Evolve 20 Special Edition Mono MS"@it	1
+COL title VAL  "Hikvision DS-3E0326P-E 24 Port 10/100 PoE+ Switch"@en	COL title VAL  "TL-WA901ND - 10/100/POE/WiFi N 3 antennes"@de	0
+COL title VAL  "Switch TP-Link TL-SG108PE"@en	COL title VAL  "Switch TP-Link TL-SG1024D"@en	0
+COL title VAL  "Cisco WS-C2960-48TT-L 48-Port Managed Ethernet Switch"@en	COL title VAL  "WS-C2960-48TT-L Cisco Catalyst 2960 Network Switch (New)"@en	1
+COL title VAL  "APC - SMT1500RMI2UCSMARTUPS 1500VA LCD RM 2U 230V SmartC"@de	COL title VAL  "SMT1500ICAPC Smart-UPS 1500VA LCD 230V with SmartConnect"@en	0
+COL title VAL  "MikroTik RouterBOARD Cloud Core Router CCR1036-12G-4S-EM"@en	COL title VAL  "TP-LINK Wireless-AC1200 Router Archer C1200"@en	0
+COL title VAL  "Hikvision 16 Channel, 2HDD Ref: DS-7616NI-K2/16P"@en	COL title VAL  "16ch Hikvision NVR with 16x PoE"@en	1
+COL title VAL  "HK DVR TURBOHD 8ch DS-7208HQHI-K2/P"@vi	COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	0
+COL title VAL  "TP-Link TL-SF1024D 24port Switch"@en	COL title VAL  "TP-Link TL-SF1024 24 x RJ45 10/100Mbps switch"@en	1
+COL title VAL  "TP-Link Tl-pb20000 20000mah Power Bank"@id	COL title VAL  "TP-LINK EAP115 300Mbit/s Power over Ethernet (PoE) WLAN toegangspunt"@en	0
+COL title VAL  "TPLINK / TP-Link TL-PB20000 20,000mAh Li-Polymer Power Bank (Local Warranty 1year with TPLink SG)"@en	COL title VAL  "TP-Link Tl-pb20000 20000mah Power Bank"@id	1
+COL title VAL  "TP-LINK TL-SG1016DE 16-Port Gigabit Easy Smart Switch"@en	COL title VAL  "Ubiquiti EdgeMAX Edgeswitch 16 Port PoE Switch ES-16-150W"@en	0
+COL title VAL  "Hikvision DS-7208HQHI-K2/P 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	0
+COL title VAL  "Cisco Catalyst 3650-24TS24-port 1-/100/1000 Managed Switch"@en	COL title VAL  "Hikvision Unmanaged Switch: 24 POE Ports, 100Mbps"@en	0
+COL title VAL  "JetStream 8-Port Gigabit Smart Switch"@en	COL title VAL  "8 Port Gigabit Easy Smart Switch With Po E"@en	0
+COL title VAL  "Jabra Evolve 75 UC Stereo - Headset - on-ear - Bluetooth - wireless - active noise canceling - USB"@en	COL title VAL  "JABRA - EVOLVE 40 UC Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	0
+COL title VAL  "TP-Link TL-SG1016DE 16Port Gigabit Desktop Switch"@en	COL title VAL  "TP-Link TL-SG108PE 8 Port Gigabit EasySmart Switch with 4x PoE"@en	0
+COL title VAL  "JABRA Evolve 40 UC USB - Mono"@pt	COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	0
+COL title VAL  "APC Smart-UPS X 2200VA/1980W, 2U/Tower, Line-Interactive, LCD, 8x C13 (220-240V), 1x C19, SmartSlot, USB, EPO, HS repl. batt. (SMX2200RMHV2U)"@en	COL title VAL  "APC (SMT1500RMI2UC) APC Smart-UPS 1500VA LCD RM 2U 230V W/ SMART CONNECT"@de	0
+COL title VAL  "Switch TP-Link TL-SG1024D"@en	COL title VAL  "Desktop Switch TP-Link TL-SG116E RJ45 32 Gbps Black (16 Ports)"@en	0
+COL title VAL  "TP-Link Archer C1200 Dual-band (2.4GHz/5GHz) Wireless Router"@de	COL title VAL  "Netgear GS752TX-100NES | Switch | S3300 48PORTS GE SMART MANAGED PRO STACK"@en	0
+COL title VAL  "WS-C3850-48P-S Cisco Catalyst 3850 Network Switch (New)"@en	COL title VAL  "Cisco Catalyst 3650-48F Ethernet Switch - WSC365048FDL"@en	0
+COL title VAL  "APC - Schneider SMART-UPS 5000VA 230V RACKMOUNT/TOWER"@de	COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	0
+COL title VAL  "Cisco Catalyst 3650-48F Ethernet Switch - WSC365048FDL"@en	COL title VAL  "Cisco Catalyst 3650-24TS24-port 1-/100/1000 Managed Switch"@en	0
+COL title VAL  "Cisco Catalyst 3750G-48PS-E Switch WS-C3750G-48PS-E"@en	COL title VAL  "Cisco Ws-c3650-48fd-l (ws-c3650-48fd-l) Cisco Catalyst 3650 48 Port Full Poe 2x10g Uplink Lan Base"@en	0
+COL title VAL  "Blackmagic ATEM Production Studio 4K (BM-SWATEMPSW4K)"@en	COL title VAL  "Blackmagic Design ATEM Production Studio 4K Switcher"@en	1
+COL title VAL  "TP-Link TL-SF1024D 24port Switch"@en	COL title VAL  "TP-Link TL-SG1016DE 16Port Gigabit Desktop Switch"@en	0
+COL title VAL  "APC - SMART-UPS 1000VA LCD 230V WITH SMARTCONNECT IN"@de	COL title VAL  "APC SMX3000HV X 3000VA 200-240V Line Interactive Sinewave Smart UPS"@en	0
+COL title VAL  "TP-LINK Wireless-N300 Range Extender TL-WA860RE"@de	COL title VAL  "TP-link range extender 300mbps wi-fi TL-WA850RE"@en	0
+COL title VAL  "TP-LINK EAP115 300Mbit/s Power over Ethernet (PoE) WLAN toegangspunt"@en	COL title VAL  "TP-Link TP-LINK TL-WPA4220 PowerLine-netwerkadapter 500 Mbit/s Ether"@en	0
+COL title VAL  "WS-C2960-48TT-L Cisco Catalyst 2960 Network Switch (New)"@en	COL title VAL  "WS-C3850-48P-S Cisco Catalyst 3850 Network Switch (New)"@en	0
+COL title VAL  "TP-LINK TL-WA901ND AccesPoint, 300 Mbps"@en	COL title VAL  "Switch TP-Link TL-SG1024D"@en	0
+COL title VAL  "TP-Link Archer C60 AC1350 WiFi DualBand Router (5172131971)"@de	COL title VAL  "Switch TP-Link TL-SG1024D"@en	0
+COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "8 Port Gigabit Easy Smart Switch With Po E"@en	0
+COL title VAL  "Jabra BIZ 2300 USB MS Mono - headset"@en	COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	0
+COL title VAL  "Switch TP-Link TL-SG1024D"@en	COL title VAL  "TP-Link TL-WA850RE biely (TL-WA850RE)"@en	0
+COL title VAL  "JABRA Evolve 40 UC USB - Stereo"@de	COL title VAL  "JetStream 8-Port Gigabit Smart Switch"@en	0
+COL title VAL  "Adaptor audio APPLE MMX62ZM/A, Jack 3.5mm - Lightning, alb"@en	COL title VAL  "Apple Lightnig to Headphone Jack adapter"@en	1
+COL title VAL  "Hikvision DS-3E0105P-E SWITCH"@et	COL title VAL  "Hikvision DS-3E0326P-E 24 Port 10/100 PoE+ Switch"@en	0
+COL title VAL  "APC SUA5000RMI5U Smart-UPS 5000VA 230V Rackmount Tower"@en	COL title VAL  "APC (SMT1500RMI2UC) APC Smart-UPS 1500VA LCD RM 2U 230V W/ SMART CONNECT"@de	0
+COL title VAL  "Transceiver Cisco SFP-10G-SR="@de	COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	0
+COL title VAL  "TP-Link TL-SG1016DE 16Port Gigabit Desktop Switch"@en	COL title VAL  "TP-Link T1500G-10MPS 8-Port Gigabit Desktop PoE+ 2 SFP Slots"@de	0
+COL title VAL  "TP Link TLWR841N 300Mbps Wireless N Router"@en	COL title VAL  "TP-LINK Wireless-N300 Range Extender TL-WA860RE"@de	0
+COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	COL title VAL  "HIKVISION DS-7208HQHI-K1 (Turbo HD 4.0) 1080P 4MP Lite"@de	1
+COL title VAL  "WS-C2960-24TC-L Cisco Catalyst 2960 Network Switch (Refurb)"@en	COL title VAL  "Cisco WS-C3750G-48PS-E Catalyst 48-Port Network Switch"@en	0
+COL title VAL  "HIKVISION DS-KD-ACW2 double-wall mounting bracket for modular door station"@en	COL title VAL  "Hikvision DS-3E0105P-E SWITCH"@et	0
+COL title VAL  "APC SUA5000RMI5U Smart-UPS 5000VA 230V Rackmount Tower"@en	COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	0
+COL title VAL  "Ubiquiti Networks 5 GHz airMAX AC Sector Antenna Reference: AM-5AC22-45"@en	COL title VAL  "Hikvision DS-3E0326P-E 24 Port 10/100 PoE+ Switch"@en	0
+COL title VAL  "Jabra BIZ 2300 USB Mono, Type: 82 E-STD"@es	COL title VAL  "Jabra BIZ 2300 USB MS Mono - headset"@en	1
+COL title VAL  "TP-Link TL-SG1016DE 16Port Gigabit Desktop Switch"@en	COL title VAL  "Switch TP-Link TL-SG1024D"@en	0
+COL title VAL  "TP-Link EAP110 Auranet Access Point 300Mps"@en	COL title VAL  "TP-LINK Wireless-N300 Range Extender TL-WA860RE"@de	0
+COL title VAL  "POE-48-24W-G UBIQUITI Gigabit PoE 48V 24W 2-RJ45 220VAC UBI-POE-48-5G req-Cable-C5"@ca	COL title VAL  "TP-Link T1500G-10MPS 8-Port Gigabit Desktop PoE+ 2 SFP Slots"@de	0
+COL title VAL  "TPLINK / TP-Link TL-PB20000 20,000mAh Li-Polymer Power Bank (Local Warranty 1year with TPLink SG)"@en	COL title VAL  "Switch TP-Link TL-SG108PE"@en	0
+COL title VAL  "Desktop Switch TP-Link TL-SG116E RJ45 32 Gbps Black (16 Ports)"@en	COL title VAL  "TP-LINK TL-WA901ND AccesPoint, 300 Mbps"@en	0
+COL title VAL  "Jabra EVOLVE 20 UC Mono (USB)"@pt	COL title VAL  "Jabra EVOLVE 20 UC MONO Headset 4993-829-209 -For use on computers"@en	1
+COL title VAL  "TP-Link EAP115 Wi-Fi 300Mbps Tavan Tipi Access P."@en	COL title VAL  "TP-link range extender 300mbps wi-fi TL-WA850RE"@en	0
+COL title VAL  "7599-838-109 Jabra EVOLVE 75 Duo USB & Bluetooth - Link 370"@en	COL title VAL  "JABARA Evolve 65 with Link 370 USB - Mono"@en	0
+COL title VAL  "Cisco Catalyst 3650-48F Ethernet Switch - WSC365048FDL"@en	COL title VAL  "Cisco Catalyst 3750G-48PS-E Switch WS-C3750G-48PS-E"@en	0
+COL title VAL  "Switch Netgear - ProSafe Gigabit SmartSwitch 48porte"@en	COL title VAL  "Netgear GS752TX-100NES | Switch | S3300 48PORTS GE SMART MANAGED PRO STACK"@en	0
+COL title VAL  "DS-7332HQHI-K4 Hikvision 32 Channel 1080P HD-TVI Hybrid DVR"@sv	COL title VAL  "HIKVISION DS-7208HQHI-K1 (Turbo HD 4.0) 1080P 4MP Lite"@de	0
+COL title VAL  "Cisco Catalyst 3650-48F Ethernet Switch - WSC365048FDL"@en	COL title VAL  "Cisco Catalyst 3650-24T 24 Ports Manageable Layer 3 Switch"@en	0
+COL title VAL  "APC SMX3000HV X 3000VA 200-240V Line Interactive Sinewave Smart UPS"@en	COL title VAL  "APC Smart-UPS X 2200VA/1980W, 2U/Tower, Line-Interactive, LCD, 8x C13 (220-240V), 1x C19, SmartSlot, USB, EPO, HS repl. batt. (SMX2200RMHV2U)"@en	0
+COL title VAL  "Jabra BIZ 2400 II Mono 3-1 BIZ 2400-2420, NC"@pt	COL title VAL  "Cisco Catalyst 3650-24TS24-port 1-/100/1000 Managed Switch"@en	0
+COL title VAL  "Jabra Evolve 20 SE Mono MS USB Corded PC Headset"@en	COL title VAL  "Jabra EVOLVE 20 Wired Stereo Headset - Over-the-head - Supra-aural"@en	0
+COL title VAL  "Netgear ProSAFE Smart Switch - GS748T - 48 Poorten"@en	COL title VAL  "Netgear GS752TX-100NES | Switch | S3300 48PORTS GE SMART MANAGED PRO STACK"@en	0
+COL title VAL  "WS-C3850-48P-S - Cisco 3850 Switch 48Pt POE+ 715W GE IP Base"@en	COL title VAL  "WS-C3850-48P-S Cisco Catalyst 3850 Network Switch (New)"@en	1
+COL title VAL  "Ubiquiti AirMax AC Sector 22dBi AM-5AC22-45 Ubiquiti"@fr	COL title VAL  "Ubiquiti Networks 5 GHz airMAX AC Sector Antenna Reference: AM-5AC22-45"@en	1
+COL title VAL  "Jabra EVOLVE 20 UC Mono (USB)"@pt	COL title VAL  "Jabra BIZ 2300 Duo USB UC"@es	0
+COL title VAL  "TP-Link Archer C60 AC1350 WiFi DualBand Router (5172131971)"@de	COL title VAL  "TP Link TLWR841N 300Mbps Wireless N Router"@en	0
+COL title VAL  "TP-Link Omada EAP225-Outdoor"@et	COL title VAL  "Omada EAP225 Outdoor, Access Point"@pt	0
+COL title VAL  "TP-Link TL-SG1016DE 16Port Gigabit Desktop Switch"@en	COL title VAL  "Switch TL-SG1008 8 porturi"@en	0
+COL title VAL  "NEW Cisco WS-C2960XR-48FPS-I 48 10/100/1000 Port Ethernet Switch"@en	COL title VAL  "Cisco WS-C2960-48TT-L 48-Port Managed Ethernet Switch"@en	0
+COL title VAL  "Jabra BIZ 2300 USB MS Mono - headset"@en	COL title VAL  "Jabra Engage 75 Mono - Headset - on-ear - DECT - wireless - NFC"@en	0
+COL title VAL  "Jabra EVOLVE 80 MS Stereo"@de	COL title VAL  "Jabra BIZ 2300 USB MS Mono - headset"@en	0
+COL title VAL  "7599-838-109 Jabra EVOLVE 75 Duo USB & Bluetooth - Link 370"@en	COL title VAL  "Jabra Evolve 75 UC Stereo - Headset - on-ear - Bluetooth - wireless - active noise canceling - USB"@en	1
+COL title VAL  "Transceiver Cisco SFP-10G-SR="@de	COL title VAL  "Garmin Garmin 10ft Transducer Extension Cable 4 -Pin"@en	0
+COL title VAL  "HIKVISION DS-KD-ACW2 double-wall mounting bracket for modular door station"@en	COL title VAL  "HIKVISION Intercom Series 2 2 Module Surface Mount"@en	1
+COL title VAL  "APC - SMART-UPS 1000VA LCD 230V WITH SMARTCONNECT IN"@de	COL title VAL  "APC Smart UPS 1500VA LCD 230V with Smart"@en	0
+COL title VAL  "Jabra Evolve 65 Stereo Headsets"@da	COL title VAL  "JABRA Evolve 40 UC USB - Stereo"@de	0
+COL title VAL  "JetStream 8-Port Gigabit Smart Switch"@en	COL title VAL  "TP-Link TL-SG108PE 8 Port Gigabit EasySmart Switch with 4x PoE"@en	0
+COL title VAL  "CISCO - CATALYST 3560-CX 12 PORT POE+ 240W"@en	COL title VAL  "WS-C3750X-24T-S Cisco Catalyst 3750X 24 Port Data IP Base. Refurbished."@en	0
+COL title VAL  "16ch Hikvision NVR with 16x PoE"@en	COL title VAL  "HIKVISION 16CH TURBO DVR 16IP & 16 BNC"@en	0
+COL title VAL  "TP-Link EAP225-Outdoor Wireless-AC1200 MU-MIMO Gigabit Indoor/Outdoor Access Point (Warranty 3years with TPLink SG)"@en	COL title VAL  "TPLINK / TP-Link TL-PB20000 20,000mAh Li-Polymer Power Bank (Local Warranty 1year with TPLink SG)"@en	0
+COL title VAL  "Transceiver Cisco SFP-10G-SR="@de	COL title VAL  "Genuine Cisco SFP-10G-SR 10GBASE-SR SFP+ Transceiver Module"@de	1
+COL title VAL  "DS-7332HUHI-K4 Hikvision 5MP & 8MP Analogue 16 Channel Turbo 4.0 DVR"@en	COL title VAL  "HIKVISION DS-7208HQHI-K1 (Turbo HD 4.0) 1080P 4MP Lite"@de	0
+COL title VAL  "TP-LINK TL-SG1016DE 16-Port Gigabit Easy Smart Switch"@en	COL title VAL  "JetStream 8-Port Gigabit Smart Switch"@en	0
+COL title VAL  "TP-LINK TL-SG1016DE 16-Port Gigabit Easy Smart Switch"@en	COL title VAL  "ES-16-150W - EdgeSwitch 16 Port PoE 150W"@en	0
+COL title VAL  "GS108E Gigabit Ethernet (10/100/1000) Sort"@de	COL title VAL  "TP-LINK T1500G-10MPS netwerk-switch Managed L2 Gigabit Ethernet (10/100/1000) Zwart 1U Power over Ethernet (PoE)"@en	0
+COL title VAL  "Jabra EVOLVE 20 UC Mono (USB)"@pt	COL title VAL  "Jabra Evolve 20 SE Mono MS USB Corded PC Headset"@en	0
+COL title VAL  "Hikvision Unmanaged Switch: 24 POE Ports, 100Mbps"@en	COL title VAL  "Hikvision DS-3E0105P-E SWITCH"@et	0
+COL title VAL  "Hikvision H.265+ TURBO HD 8CH DVR 4K HDMI supports 5MP TVI/ 2MP AHD & CVI/ 6MP IP CAM (HDD not included)"@en	COL title VAL  "DVR HDTVI 32 canale Hibrid Hikvision Turbo HD DS-7332HUHI-K4 4xSATA, H.265+, HDMI 4K IP 8MP"@en	0
+COL title VAL  "DS-7332HQHI-K4 Hikvision 32 Channel 1080P HD-TVI Hybrid DVR"@sv	COL title VAL  "DVR HIKVISION 16 channel-1080p"@it	0
+COL title VAL  "APC Smart UPS 1500VA LCD 230V with Smart"@en	COL title VAL  "APC (SMT1500RMI2UC) APC Smart-UPS 1500VA LCD RM 2U 230V W/ SMART CONNECT"@de	0
+COL title VAL  "D-Link Switch 8 Porte Gigabit Poe Smart Managed"@en	COL title VAL  "TP-LINK T1500G-10MPS netwerk-switch Managed L2 Gigabit Ethernet (10/100/1000) Zwart 1U Power over Ethernet (PoE)"@en	0
+COL title VAL  "WS-C3560CX-12PC-S Cisco Catalyst 3560CX Network Switch (New)"@en	COL title VAL  "NEW Cisco WS-C2960XR-48FPS-I 48 10/100/1000 Port Ethernet Switch"@en	0
+COL title VAL  "TP-LINK TL-WA901ND AccesPoint, 300 Mbps"@en	COL title VAL  "TP-Link EAP110 Auranet Access Point 300Mps"@en	0
+COL title VAL  "POE-48-24W-G UBIQUITI Gigabit PoE 48V 24W 2-RJ45 220VAC UBI-POE-48-5G req-Cable-C5"@ca	COL title VAL  "Ubiquiti Networks POE-24-12W 24V PoE adapter & injector"@en	0
+COL title VAL  "Jabra Engage 75 Mono - Headset - on-ear - DECT - wireless - NFC"@en	COL title VAL  "16ch Hikvision NVR with 16x PoE"@en	0
+COL title VAL  "Switch TP-Link TL-SG1024D"@en	COL title VAL  "TP-Link Tl-pb20000 20000mah Power Bank"@id	0
+COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	COL title VAL  "Jabra EVOLVE 20 UC Mono (USB)"@pt	0
+COL title VAL  "TP-LINK EAP115 300Mbit/s Power over Ethernet (PoE) WLAN toegangspunt"@en	COL title VAL  "TP-LINK TL-WPA4220 500 Mbit/s Eingebauter Ethernet-Anschluss WLAN Weiß 1 Stück(e)"@de	0
+COL title VAL  "TP-Link TP-LINK TL-WPA4220 PowerLine-netwerkadapter 500 Mbit/s Ether"@en	COL title VAL  "Switch TP-Link TL-SG108PE"@en	0
+COL title VAL  "Desktop Switch TP-Link TL-SG116E RJ45 32 Gbps Black (16 Ports)"@en	COL title VAL  "TP-Link TL-SF1024 24 x RJ45 10/100Mbps switch"@en	0
+COL title VAL  "Blackmagic Design ATEM Production Studio 4K Switcher"@en	COL title VAL  "Mixer video Blackmagic ATEM 2 M/E Production Studio 4K Video Switcher"@en	0
+COL title VAL  "POE-24-12W POE ADAPTER"@pl	COL title VAL  "Hikvision Unmanaged Switch: 24 POE Ports, 100Mbps"@en	0
+COL title VAL  "Jabra EVOLVE 20 UC Mono (USB)"@pt	COL title VAL  "JABRA - EVOLVE 40 UC Mono USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	0
+COL title VAL  "APC Smart-UPS 1000 LCD"@de	COL title VAL  "APC Smart UPS 1500VA LCD 230V with Smart"@en	0
+COL title VAL  "CISCO - CATALYST 3560-CX 12 PORT POE+ 240W"@en	COL title VAL  "Cisco WS-C3750G-48PS-E Catalyst 48-Port Network Switch"@en	0
+COL title VAL  "Cisco Catalyst 3650-24TS24-port 1-/100/1000 Managed Switch"@en	COL title VAL  "CISCO - CATALYST 3560-CX 12 PORT POE+ 240W"@en	0
+COL title VAL  "Ubiquiti airMAX ac 5GHz 21dBi Sector Antenna"@fr	COL title VAL  "Ubiquiti AirMax AC Sector 22dBi AM-5AC22-45 Ubiquiti"@fr	0
+COL title VAL  "WS-C3750X-24T-S Cisco Catalyst 3750X 24 Port Data IP Base. Refurbished."@en	COL title VAL  "WS-C3750X-24T-SCatalyst 3750X 24 Port Data IP Base"@en	1
+COL title VAL  "JABRA Biz 2300 Noise Canceling - Stereo"@en	COL title VAL  "Jabra BIZ 2300 USB MS Mono - headset"@en	0
+COL title VAL  "WS-C3750X-24T-SCatalyst 3750X 24 Port Data IP Base"@en	COL title VAL  "WS-C3850-48P-S - Cisco 3850 Switch 48Pt POE+ 715W GE IP Base"@en	0
+COL title VAL  "WS-C3850-48P-S Cisco Catalyst 3850 Network Switch (New)"@en	COL title VAL  "Cisco Catalyst 3750G-48PS-E Switch WS-C3750G-48PS-E"@en	0
+COL title VAL  "APC - SMART-UPS 1000VA LCD 230V WITH SMARTCONNECT IN"@de	COL title VAL  "APC - SMT1500RMI2UCSMARTUPS 1500VA LCD RM 2U 230V SmartC"@de	0
+COL title VAL  "APC Smart-UPS X 2200VA Rack LCD UPS SMX2200RMHV2U"@de	COL title VAL  "APC Smart UPS 1500VA LCD 230V with Smart"@en	0
+COL title VAL  "Hikvision Unmanaged Switch: 24 POE Ports, 100Mbps"@en	COL title VAL  "Hikvision DS-3E0326P-E 24 Port 10/100 PoE+ Switch"@en	1
+COL title VAL  "TP-Link TL-SG1008 8xRJ45 10/100/1000Mbps"@en	COL title VAL  "Switch TP-Link TL-SG108PE"@en	0
+COL title VAL  "Cisco Catalyst 3650-24TS24-port 1-/100/1000 Managed Switch"@en	COL title VAL  "CISCO - Catalyst 2960 Plus 24 10/100 + 2T/SFP LA"@en	0
+COL title VAL  "Apple Lightning to Digital AV AdapterA1438MD826AM/A"@en	COL title VAL  "APPLE - Airpods Pro 2019 MWP22TY/A White"@en	0
+COL title VAL  "TP-Link TP-LINK TL-WPA4220 PowerLine-netwerkadapter 500 Mbit/s Ether"@en	COL title VAL  "TP-LINK TL-WPA4220 500 Mbit/s Eingebauter Ethernet-Anschluss WLAN Weiß 1 Stück(e)"@de	1
+COL title VAL  "DVR HDTVI 32 canale Hibrid Hikvision Turbo HD DS-7332HUHI-K4 4xSATA, H.265+, HDMI 4K IP 8MP"@en	COL title VAL  "DS-7332HQHI-K4 Hikvision 32 Channel 1080P HD-TVI Hybrid DVR"@sv	0
+COL title VAL  "APC Smart UPS 1500VA LCD 230V with Smart"@en	COL title VAL  "APC - Schneider SMART-UPS 5000VA 230V RACKMOUNT/TOWER"@de	0
+COL title VAL  "8 Port Gigabit Easy Smart Switch With Po E"@en	COL title VAL  "Netgear ProSAFE Smart Switch - GS748T - 48 Poorten"@en	0
+COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	COL title VAL  "Jabra EVOLVE 20 Wired Stereo Headset - Over-the-head - Supra-aural"@en	1
+COL title VAL  "D-Link Switch 8 Porte Gigabit Poe Smart Managed"@en	COL title VAL  "DJI Mavic Mini Fly More Combo"@en	0
+COL title VAL  "Switch TP-Link TL-SG108PE"@en	COL title VAL  "DVR HIKVISION 16 channel-1080p"@it	0
+COL title VAL  "TP-Link TL-SG108PE 8 Port Gigabit EasySmart Switch with 4x PoE"@en	COL title VAL  "TP-LINK TL-SG1016DE 16-Port Gigabit Easy Smart Switch"@en	0
+COL title VAL  "Switch TP-LINK - Unmanaged pro - switch - 16 porte - unmanaged tl-sg116e"@en	COL title VAL  "TP-LINK TL-SG1016DE 16-Port Gigabit Easy Smart Switch"@en	0
+COL title VAL  "GS108E Gigabit Ethernet (10/100/1000) Sort"@de	COL title VAL  "TP-Link 24-Port Gigabit Switch 24 Gigabit Rj-45 Ports (10/100/1000) Auto-Mdi (X) 19 Inrack Mountable (1U) Steel Housing Energy-Efficiency Control"@en	0
+COL title VAL  "Switch ethernet Netgear GS108E Metal 8 Ports Gigabit"@de	COL title VAL  "D-Link Switch 8 Porte Gigabit Poe Smart Managed"@en	0
+COL title VAL  "TP-Link TL-SG108PE 8 Port Gigabit EasySmart Switch with 4x PoE"@en	COL title VAL  "TP-Link TL-SG2008 8-Port Gigabit Smart Switch Fanless 802.1Q VLAN, ACL, Port Security and Storm control L2/L3/L4 QoS and IGMP snooping"@en	0
+COL title VAL  "Genuine Cisco SFP-10G-SR 10GBASE-SR SFP+ Transceiver Module"@de	COL title VAL  "52-Port Gigabit Ethernet Stackable Smart Managed Pro Switch with 2 Copper 10G and 2 Dedicated SFP+ 10G Ports"@en	0
+COL title VAL  "TP-Link TL-SF1024 24 x RJ45 10/100Mbps switch"@en	COL title VAL  "Switch TP-Link TL-SG1024D"@en	0
+COL title VAL  "Hikvision 4-ports 100Mbps Unmanaged PoE Switch (DS-3E0105P-E)"@en	COL title VAL  "HIKVISION DS-7208HQHI-K1 (Turbo HD 4.0) 1080P 4MP Lite"@de	0
+COL title VAL  "TP-Link Archer C1200 Dual-band (2.4GHz/5GHz) Wireless Router"@de	COL title VAL  "TP-LINK Wireless-AC1200 Router Archer C1200"@en	1
+COL title VAL  "TP-Link EAP110 Auranet Access Point 300Mps"@en	COL title VAL  "TP-Link AC1200 Wireless MU-MIMO Gigabit Indoor/Outdoor Access Point (EAP225-Outdoor) AC1200 Outdoor"@en	0
+COL title VAL  "Switch TP-Link TL-SG108PE"@en	COL title VAL  "Switch TL-SG1008 8 porturi"@en	0
+COL title VAL  "TP-Link AC1200 Wireless MU-MIMO Gigabit Indoor/Outdoor Access Point (EAP225-Outdoor) AC1200 Outdoor"@en	COL title VAL  "TP-Link EAP225-Outdoor Wireless-AC1200 MU-MIMO Gigabit Indoor/Outdoor Access Point (Warranty 3years with TPLink SG)"@en	0
+COL title VAL  "JABRA Evolve 40 UC USB - Stereo"@de	COL title VAL  "Jabra EVOLVE 20 UC Mono (USB)"@pt	0
+COL title VAL  "Jabra Biz 2300 USB UC Duo Binaural Headset2399-823-109"@de	COL title VAL  "Jabra EVOLVE 20 UC MONO Headset 4993-829-209 -For use on computers"@en	0
+COL title VAL  "Jabra Biz 2300 USB UC Duo Binaural Headset2399-823-109"@de	COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	0
+COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	COL title VAL  "JABRA Evolve 40 UC USB - Stereo"@de	0
+COL title VAL  "Jabra BIZ 2400 II Mono 3-1 BIZ 2400-2420, NC"@pt	COL title VAL  "Jabra BIZ 2300 USB MS Mono - headset"@en	0
+COL title VAL  "TP-Link Archer C60 AC1350 1350Mbps Wireless Dual Band Router 867Mbps@5GHz 450Mbps@2.4GHz 4x100Mbps LAN/WAN USB2 5xAntennas ~Archer C2 C59 C50"@en	COL title VAL  "TP-Link Archer C1200 Dual-band (2.4GHz/5GHz) Wireless Router"@de	0
+COL title VAL  "Jabra Evolve 65 Stereo Headsets"@da	COL title VAL  "JABARA Evolve 65 with Link 370 USB - Mono"@en	1
+COL title VAL  "APC SUA5000RMI5U Smart-UPS 5000VA 230V Rackmount Tower"@en	COL title VAL  "APC Smart UPS 1500VA LCD 230V with Smart"@en	0
+COL title VAL  "D-Link Switch 8 Porte Gigabit Poe Smart Managed"@en	COL title VAL  "TP-Link TL-SF1024D 24port Switch"@en	0
+COL title VAL  "TP-Link TL-SG2008 8-Port Gigabit Smart Switch Fanless 802.1Q VLAN, ACL, Port Security and Storm control L2/L3/L4 QoS and IGMP snooping"@en	COL title VAL  "TP-LINK TL-SG1016DE 16-Port Gigabit Easy Smart Switch"@en	0
+COL title VAL  "Jabra BIZ 2300 USB MS Mono - headset"@en	COL title VAL  "Jabra Evolve 20 SE Mono MS USB Corded PC Headset"@en	0
+COL title VAL  "HIKVISION DS-7204HQHI-K1 2MP TVI 4 CHANNEL TURBO 4.0 DVR"@en	COL title VAL  "Hikvision DS-7208HQHI-K2/P 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	0
+COL title VAL  "TP-Link Archer C1200 Dual-band (2.4GHz/5GHz) Wireless Router"@de	COL title VAL  "TP Link TLWR841N 300Mbps Wireless N Router"@en	0
+COL title VAL  "TP Link TLWR841N 300Mbps Wireless N Router"@en	COL title VAL  "MikroTik RouterBOARD Cloud Core Router CCR1036-12G-4S-EM"@en	0
+COL title VAL  "APC (SMT1500RMI2UC) APC Smart-UPS 1500VA LCD RM 2U 230V W/ SMART CONNECT"@de	COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	0
+COL title VAL  "JetStream 8-Port Gigabit Smart Switch"@en	COL title VAL  "TP-Link TL-SG2008 8-Port Gigabit Smart Switch Fanless 802.1Q VLAN, ACL, Port Security and Storm control L2/L3/L4 QoS and IGMP snooping"@en	1
+COL title VAL  "CISCO - Catalyst 2960 Plus 24 10/100 + 2T/SFP LA"@en	COL title VAL  "Transceiver Cisco SFP-10G-SR="@de	0
+COL title VAL  "JABRA Evolve 40 UC USB - Mono"@pt	COL title VAL  "JABARA Evolve 65 with Link 370 USB - Mono"@en	0
+COL title VAL  "Ubiquiti Networks 5 GHz airMAX AC Sector Antenna Reference: AM-5AC22-45"@en	COL title VAL  "airMAX AC Sector 5 GHz, 60º, 21 dBi Antenna"@en	0
+COL title VAL  "Jabra BIZ 2300 Duo USB Ms Lync Skype for Business"@en	COL title VAL  "TP-Link 24-Port Gigabit Switch 24 Gigabit Rj-45 Ports (10/100/1000) Auto-Mdi (X) 19 Inrack Mountable (1U) Steel Housing Energy-Efficiency Control"@en	0
+COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	COL title VAL  "DS-7332HUHI-K4 Hikvision 5MP & 8MP Analogue 16 Channel Turbo 4.0 DVR"@en	0
+COL title VAL  "TP-Link AC1200 Wireless MU-MIMO Gigabit Indoor/Outdoor Access Point (EAP225-Outdoor) AC1200 Outdoor"@en	COL title VAL  "TP-Link EAP110 300Mbps Wireless N300 Ceiling Mount Access Point 1x1Gbps RJ45 PoE 1x Console Port 2x4dBi Omni Internal Antenna"@en	0
+COL title VAL  "CISCO - Catalyst 2960 Plus 24 10/100 + 2T/SFP LA"@en	COL title VAL  "Hikvision DS-3E0326P-E 24 Port 10/100 PoE+ Switch"@en	0
+COL title VAL  "HIKVISION DS-7204HQHI-K1 2MP TVI 4 CHANNEL TURBO 4.0 DVR"@en	COL title VAL  "HIKVISION DS-7208HQHI-K1 (Turbo HD 4.0) 1080P 4MP Lite"@de	0
+COL title VAL  "Jabra Biz 2400 II Duo, NC, 82 mic, Wideband, QD"@en	COL title VAL  "Jabra Biz 2400 II QD Mono 3-in-1 | 2486-820-209"@it	0
+COL title VAL  "APC - SMT1500RMI2UCSMARTUPS 1500VA LCD RM 2U 230V SmartC"@de	COL title VAL  "TP-LINK EAP115 300Mbit/s Power over Ethernet (PoE) WLAN toegangspunt"@en	0
+COL title VAL  "HIKVISION DS-7208HUHI-K1 5 MEGAPIXEL (5MP) HYBRID 8 CHANNEL DVR"@de	COL title VAL  "HIKVISION DS-7204HQHI-K1 2MP TVI 4 CHANNEL TURBO 4.0 DVR"@en	0
+COL title VAL  "TP-LINK T1500G-10MPS netwerk-switch Managed L2 Gigabit Ethernet (10/100/1000) Zwart 1U Power over Ethernet (PoE)"@en	COL title VAL  "TP-LINK EAP115 300Mbit/s Power over Ethernet (PoE) WLAN toegangspunt"@en	0
+COL title VAL  "APC - SMART-UPS 1000VA LCD 230V WITH SMARTCONNECT IN"@de	COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	0
+COL title VAL  "Jabra EVOLVE 80 Headset - Skype for Business - Stereo - USB, Mini-phone - Wired - Over-the-head - Binaural - Circumaural - Noise Cancelling Microphone - SFB 7899-823-109"@en	COL title VAL  "Jabra EVOLVE 20 Wired Stereo Headset - Over-the-head - Supra-aural"@en	0
+COL title VAL  "Switch Netgear - ProSafe Gigabit SmartSwitch 48porte"@en	COL title VAL  "Netgear ProSAFE Smart Switch - GS748T - 48 Poorten"@en	1
+COL title VAL  "Hikvision H.265+ TURBO HD 8CH DVR 4K HDMI supports 5MP TVI/ 2MP AHD & CVI/ 6MP IP CAM (HDD not included)"@en	COL title VAL  "DVR HDTVI 32 canale Turbo HD Full HD Hikvision DS-7332HQHI-K4 HD-TVI / AHD / CVI + 8 canale IP de pana la 6MP, 4xSATA"@es	0
+COL title VAL  "Apple Lightning to Digital AV AdapterA1438MD826AM/A"@en	COL title VAL  "Apple Lightnig to Headphone Jack adapter"@en	0
+COL title VAL  "WS-C2960-24TC-L Cisco Catalyst 2960 Network Switch (Refurb)"@en	COL title VAL  "TP-Link AC1200 Wireless MU-MIMO Gigabit Indoor/Outdoor Access Point (EAP225-Outdoor) AC1200 Outdoor"@en	0
+COL title VAL  "4CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7204HQHI-K1"@de	COL title VAL  "TURBO HD DVRDS-7216HQHI-K1 1080P"@de	0
+COL title VAL  "Cisco WS-C3750G-48PS-E Catalyst 48-Port Network Switch"@en	COL title VAL  "Cisco Catalyst 3750G-48PS-E Switch WS-C3750G-48PS-E"@en	1
+COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10000VA Tower 230V"@de	COL title VAL  "APC - Schneider SMART-UPS 5000VA 230V RACKMOUNT/TOWER"@de	0
+COL title VAL  "Switch TL-SG1008 8 porturi"@en	COL title VAL  "WS-C3750X-24T-SCatalyst 3750X 24 Port Data IP Base"@en	0
+COL title VAL  "Apple Lightning to Digital AV AdapterA1438MD826AM/A"@en	COL title VAL  "Cisco Ws-c3650-48fd-l (ws-c3650-48fd-l) Cisco Catalyst 3650 48 Port Full Poe 2x10g Uplink Lan Base"@en	0
+COL title VAL  "TP-LINK T1500G-10MPS netwerk-switch Managed L2 Gigabit Ethernet (10/100/1000) Zwart 1U Power over Ethernet (PoE)"@en	COL title VAL  "TP-Link T1500G-10MPS 8-Port Gigabit Desktop PoE+ 2 SFP Slots"@de	1
+COL title VAL  "WS-C3850-48P-S Cisco Catalyst 3850 Network Switch (New)"@en	COL title VAL  "Cisco WS-C3750G-48PS-E Catalyst 48-Port Network Switch"@en	0
+COL title VAL  "TP-Link TL-SG1008 8xRJ45 10/100/1000Mbps"@en	COL title VAL  "Switch TL-SG1008 8 porturi"@en	1
+COL title VAL  "TP-Link Omada EAP225-Outdoor"@et	COL title VAL  "TP-Link AC1200 Wireless MU-MIMO Gigabit Indoor/Outdoor Access Point (EAP225-Outdoor) AC1200 Outdoor"@en	0
+COL title VAL  "Jabra EVOLVE 20 UC MONO Headset 4993-829-209 -For use on computers"@en	COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	0
+COL title VAL  "Jabra Engage 75 Mono - Most powerful professional wireless headsets"@en	COL title VAL  "DJI Mavic Mini Fly More Combo"@en	0
+COL title VAL  "DS-7332HUHI-K4 Hikvision 5MP & 8MP Analogue 16 Channel Turbo 4.0 DVR"@en	COL title VAL  "HIKVISION DS-7208HUHI-K1 5 MEGAPIXEL (5MP) HYBRID 8 CHANNEL DVR"@de	0
+COL title VAL  "TP-LinkTL-SG105 5 Puertos Gigabit metalico – Switch"@en	COL title VAL  "Switch TP-LINK - 5-port metal gigabit switch - switch - 5 porte - unmanaged tl-sg105"@en	1
+COL title VAL  "Ubiquiti EdgeMAX Edgeswitch 16 Port PoE Switch ES-16-150W"@en	COL title VAL  "8 Port Gigabit Easy Smart Switch With Po E"@en	0
+COL title VAL  "APC Smart-UPS X 3000VA Rack/TowerLCD"@en	COL title VAL  "APC SMX3000HV X 3000VA 200-240V Line Interactive Sinewave Smart UPS"@en	1
+COL title VAL  "Jabra EVOLVE 20 UC Mono (USB)"@pt	COL title VAL  "JABARA Evolve 65 with Link 370 USB - Mono"@en	0
+COL title VAL  "TP-Link TL-SG108PE 8 Port Gigabit EasySmart Switch with 4x PoE"@en	COL title VAL  "WS-C3850-48P-S - Cisco 3850 Switch 48Pt POE+ 715W GE IP Base"@en	0
+COL title VAL  "TP-Link TL-SG1008 8xRJ45 10/100/1000Mbps"@en	COL title VAL  "TP-LINK TL-WPA4220 500 Mbit/s Eingebauter Ethernet-Anschluss WLAN Weiß 1 Stück(e)"@de	0
+COL title VAL  "WS-C2960XR-48FPS-I - 48 Port 2960-XR Switch"@en	COL title VAL  "Cisco WS-C3750G-48PS-E Catalyst 48-Port Network Switch"@en	0
+COL title VAL  "HIKVISION DS-KD-ACW2 double-wall mounting bracket for modular door station"@en	COL title VAL  "Jabra BIZ 2300 Duo USB UC"@es	0
+COL title VAL  "Omada EAP225 Outdoor, Access Point"@pt	COL title VAL  "TP-Link AC1200 Wireless MU-MIMO Gigabit Indoor/Outdoor Access Point (EAP225-Outdoor) AC1200 Outdoor"@en	1
+COL title VAL  "Switch TP-Link TL-SG1024D"@en	COL title VAL  "Switch TP-LINK - Unmanaged pro - switch - 16 porte - unmanaged tl-sg116e"@en	0
+COL title VAL  "Hikvision DS-3E0326P-E 24 Port 10/100 PoE+ Switch"@en	COL title VAL  "TP-Link T1500G-10MPS 8-Port Gigabit Desktop PoE+ 2 SFP Slots"@de	0
+COL title VAL  "Jabra EVOLVE 80 Headset - Skype for Business - Stereo - USB, Mini-phone - Wired - Over-the-head - Binaural - Circumaural - Noise Cancelling Microphone - SFB 7899-823-109"@en	COL title VAL  "Jabra BIZ 2300 USB Mono, Type: 82 E-STD"@es	0
+COL title VAL  "Cisco WS-C3750G-48PS-E Catalyst 48-Port Network Switch"@en	COL title VAL  "WS-C3850-48P-S - Cisco 3850 Switch 48Pt POE+ 715W GE IP Base"@en	0
+COL title VAL  "TP-Link TL-SG108PE 8 Port Gigabit EasySmart Switch with 4x PoE"@en	COL title VAL  "TP-Link T1500G-10MPS 8-Port Gigabit Desktop PoE+ 2 SFP Slots"@de	0
+COL title VAL  "Jabra Evolve 65 Stereo Headsets"@da	COL title VAL  "Apple Lightnig to Headphone Jack adapter"@en	0
+COL title VAL  "TP-link range extender 300mbps wi-fi TL-WA850RE"@en	COL title VAL  "Switch TP-Link TL-SG1024D"@en	0
+COL title VAL  "D-Link Switch 8 Porte Gigabit Poe Smart Managed"@en	COL title VAL  "APPLE - Airpods Pro 2019 MWP22TY/A White"@en	0
+COL title VAL  "Hikvision 8-Channel 720p HD-TVL Turbo DVR - DS-7208HQHI-K1"@en	COL title VAL  "HIKVISION DS-7208HUHI-K1 5 MEGAPIXEL (5MP) HYBRID 8 CHANNEL DVR"@de	0
+COL title VAL  "Jabra Evolve 20 SE Mono MS USB Corded PC Headset"@en	COL title VAL  "WS-C3560CX-12PC-S Cisco Catalyst 3560CX Network Switch (New)"@en	0
+COL title VAL  "Switch TP-Link TL-SG1024D"@en	COL title VAL  "TP-LINK Wireless-N300 Range Extender TL-WA860RE"@de	0
+COL title VAL  "Switch TP-Link TL-SG108PE"@en	COL title VAL  "TP-Link TL-SF1024 24 x RJ45 10/100Mbps switch"@en	0
+COL title VAL  "Ubiquiti POE-48-24W-G PoE Gigabit Injector"@hr	COL title VAL  "POE-48-24W-G UBIQUITI Gigabit PoE 48V 24W 2-RJ45 220VAC UBI-POE-48-5G req-Cable-C5"@ca	1
+COL title VAL  "Hikvision DS-3E0326P-E 24 Port 10/100 PoE+ Switch"@en	COL title VAL  "ES-16-150W - EdgeSwitch 16 Port PoE 150W"@en	0
+COL title VAL  "Cisco Catalyst 3650-48F Ethernet Switch - WSC365048FDL"@en	COL title VAL  "Cisco Ws-c3650-48fd-l (ws-c3650-48fd-l) Cisco Catalyst 3650 48 Port Full Poe 2x10g Uplink Lan Base"@en	1
+COL title VAL  "Jabra Biz 2400 II Duo, NC, 82 mic, Wideband, QD"@en	COL title VAL  "Jabra Biz 2400 II Mono 3-1, NC, 82 mic, Wideband, QD"@en	0
+COL title VAL  "NEW Cisco WS-C2960XR-48FPS-I 48 10/100/1000 Port Ethernet Switch"@en	COL title VAL  "GS108E Gigabit Ethernet (10/100/1000) Sort"@de	0
+COL title VAL  "DS-7332HUHI-K4 Hikvision 5MP & 8MP Analogue 16 Channel Turbo 4.0 DVR"@en	COL title VAL  "DVR HDTVI 32 canale Hibrid Hikvision Turbo HD DS-7332HUHI-K4 4xSATA, H.265+, HDMI 4K IP 8MP"@en	1
+COL title VAL  "Jabra Biz 2400 II Duo, NC, 82 mic, Wideband, QD"@en	COL title VAL  "Jabra BIZ 2300 Duo USB UC"@es	0
+COL title VAL  "APC - SMART-UPS 1000VA LCD 230V WITH SMARTCONNECT IN"@de	COL title VAL  "SMT1500ICAPC Smart-UPS 1500VA LCD 230V with SmartConnect"@en	0
+COL title VAL  "TP-Link EAP110 300Mbps Wireless N300 Ceiling Mount Access Point 1x1Gbps RJ45 PoE 1x Console Port 2x4dBi Omni Internal Antenna"@en	COL title VAL  "TP-Link EAP110 Auranet Access Point 300Mps"@en	1
+COL title VAL  "TP-Link TL-WA850RE biely (TL-WA850RE)"@en	COL title VAL  "TP-link range extender 300mbps wi-fi TL-WA850RE"@en	1
+COL title VAL  "Ubiquiti airMAX ac 5GHz 21dBi Sector Antenna"@fr	COL title VAL  "airMAX AC Sector 5 GHz, 60º, 21 dBi Antenna"@en	1
+COL title VAL  "8 Port Gigabit Easy Smart Switch With Po E"@en	COL title VAL  "TP-Link TL-SG108PE 8 Port Gigabit EasySmart Switch with 4x PoE"@en	0
+COL title VAL  "Desktop Switch TP-Link TL-SG116E RJ45 32 Gbps Black (16 Ports)"@en	COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10000VA Tower 230V"@de	0
+COL title VAL  "TP-Link Archer C60 AC1350 WiFi DualBand Router (5172131971)"@de	COL title VAL  "TP-Link Archer C60 AC1350 1350Mbps Wireless Dual Band Router 867Mbps@5GHz 450Mbps@2.4GHz 4x100Mbps LAN/WAN USB2 5xAntennas ~Archer C2 C59 C50"@en	1
+COL title VAL  "TP-LINK Wireless-N300 Range Extender TL-WA860RE"@de	COL title VAL  "TP-Link Archer C60 AC1350 1350Mbps Wireless Dual Band Router 867Mbps@5GHz 450Mbps@2.4GHz 4x100Mbps LAN/WAN USB2 5xAntennas ~Archer C2 C59 C50"@en	0
+COL title VAL  "Apple Lightning to Digital AV AdapterA1438MD826AM/A"@en	COL title VAL  "Adaptor audio APPLE MMX62ZM/A, Jack 3.5mm - Lightning, alb"@en	0
+COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "8CH POC 8MP HIKVISION DVR HDMI TURBO DS-7208HUHI-K2/P"@de	1
+COL title VAL  "Jabra Biz 2400 II Duo, NC, 82 mic, Wideband, QD"@en	COL title VAL  "Jabra BIZ„˘ 2400 II DuoNEXT GENERATION - IP Wideband-Headset (QD) Type: 82 E-STD, Noice-Cancelling microphone boom: FreeSpin"@en	1
+COL title VAL  "Ubiquiti EdgeMAX Edgeswitch 16 Port PoE Switch ES-16-150W"@en	COL title VAL  "Ubiquiti Networks POE-24-12W 24V PoE adapter & injector"@en	0
+COL title VAL  "Jabra EVOLVE 80 Headset - Skype for Business - Stereo - USB, Mini-phone - Wired - Over-the-head - Binaural - Circumaural - Noise Cancelling Microphone - SFB 7899-823-109"@en	COL title VAL  "JABRA - EVOLVE 40 UC Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	0
+COL title VAL  "Switch ethernet Netgear GS108E Metal 8 Ports Gigabit"@de	COL title VAL  "GS108E Gigabit Ethernet (10/100/1000) Sort"@de	1
+COL title VAL  "4CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7204HQHI-K1"@de	COL title VAL  "Atomos Coiled Full HDMI to Full HDMI Cable (30-45cm)"@en	0
+COL title VAL  "APC - Schneider SMART-UPS 5000VA 230V RACKMOUNT/TOWER"@de	COL title VAL  "APC Smart-UPS X 2200VA Rack LCD UPS SMX2200RMHV2U"@de	0
+COL title VAL  "TP-LinkTL-SG105 5 Puertos Gigabit metalico – Switch"@en	COL title VAL  "Switch TP-Link TL-SG1024D"@en	0
+COL title VAL  "Hikvision DS-7208HUHI-K2/P 5MP 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "Hikvision DS-7208HQHI-K2/P 8 Channel TVI POC DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	0
+COL title VAL  "Cisco WS-C2960-48TT-L 48-Port Managed Ethernet Switch"@en	COL title VAL  "Cisco Ws-c3650-48fd-l (ws-c3650-48fd-l) Cisco Catalyst 3650 48 Port Full Poe 2x10g Uplink Lan Base"@en	0
+COL title VAL  "TP-LINK Wireless-AC1200 Router Archer C1200"@en	COL title VAL  "TP-Link AC1200 Wireless MU-MIMO Gigabit Indoor/Outdoor Access Point (EAP225-Outdoor) AC1200 Outdoor"@en	0
+COL title VAL  "APC Smart-UPS X 3000VA Rack/TowerLCD"@en	COL title VAL  "APC SUA5000RMI5U Smart-UPS 5000VA 230V Rackmount Tower"@en	0
+COL title VAL  "Jabra BIZ 2300 Duo USB Ms Lync Skype for Business"@en	COL title VAL  "Jabra Biz 2300 USB UC Duo Binaural Headset2399-823-109"@de	1
+COL title VAL  "TP-Link TL-SG108PE 8 Port Gigabit EasySmart Switch with 4x PoE"@en	COL title VAL  "D-Link Switch 8 Porte Gigabit Poe Smart Managed"@en	0
+COL title VAL  "HIKVISION DS-7204HQHI-K1 2MP TVI 4 CHANNEL TURBO 4.0 DVR"@en	COL title VAL  "DVR HIKVISION 16 channel-1080p"@it	0
+COL title VAL  "Hikvision DS-7216HUHI-K2 5MP 16 Channel TVI, DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "DS-7332HUHI-K4 Hikvision 5MP & 8MP Analogue 16 Channel Turbo 4.0 DVR"@en	0
+COL title VAL  "Cisco WS-C3750G-48PS-E Catalyst 48-Port Network Switch"@en	COL title VAL  "WS-C2960-48TT-L Cisco Catalyst 2960 Network Switch (New)"@en	0
+COL title VAL  "CISCO - CATALYST 3560-CX 12 PORT POE+ 240W"@en	COL title VAL  "ES-16-150W - EdgeSwitch 16 Port PoE 150W"@en	0
+COL title VAL  "Cisco WS-C3750G-48PS-E Catalyst 48-Port Network Switch"@en	COL title VAL  "WS-C3560CX-12PC-S Cisco Catalyst 3560CX Network Switch (New)"@en	0
+COL title VAL  "Transceiver Cisco SFP-10G-SR="@de	COL title VAL  "TP-Link 24-Port Gigabit Switch 24 Gigabit Rj-45 Ports (10/100/1000) Auto-Mdi (X) 19 Inrack Mountable (1U) Steel Housing Energy-Efficiency Control"@en	0
+COL title VAL  "4CH HIKVISION 4MP DVR HDMI TURBO 1080P DS-7204HQHI-K1"@de	COL title VAL  "DVR HDTVI 32 canale Hibrid Hikvision Turbo HD DS-7332HUHI-K4 4xSATA, H.265+, HDMI 4K IP 8MP"@en	0
+COL title VAL  "TP-Link Archer C1200 Dual-band (2.4GHz/5GHz) Wireless Router"@de	COL title VAL  "TP-Link Archer C60 AC1350 WiFi DualBand Router (5172131971)"@de	0
+COL title VAL  "TP-LINK T1500G-10MPS netwerk-switch Managed L2 Gigabit Ethernet (10/100/1000) Zwart 1U Power over Ethernet (PoE)"@en	COL title VAL  "TP-Link 24-Port Gigabit Switch 24 Gigabit Rj-45 Ports (10/100/1000) Auto-Mdi (X) 19 Inrack Mountable (1U) Steel Housing Energy-Efficiency Control"@en	0
+COL title VAL  "8CH POC 8MP HIKVISION DVR HDMI TURBO DS-7208HUHI-K2/P"@de	COL title VAL  "HK DVR TURBOHD 8ch DS-7208HQHI-K2/P"@vi	0
+COL title VAL  "Desktop Switch TP-Link TL-SG116E RJ45 32 Gbps Black (16 Ports)"@en	COL title VAL  "Switch TP-Link TL-SG108PE"@en	0
+COL title VAL  "TP-Link Archer C60 AC1350 1350Mbps Wireless Dual Band Router 867Mbps@5GHz 450Mbps@2.4GHz 4x100Mbps LAN/WAN USB2 5xAntennas ~Archer C2 C59 C50"@en	COL title VAL  "WiFi router TP-Link TL-WR841N AP/router, 4x LAN, 1x WAN (2,4GHz, 802.11n) 300Mbps"@en	0
+COL title VAL  "Jabra Engage 75 Mono - Most powerful professional wireless headsets"@en	COL title VAL  "Jabra BIZ 2300 USB MS Mono - headset"@en	0
+COL title VAL  "Switch TP-Link TL-SG108PE"@en	COL title VAL  "TP-LinkTL-SG105 5 Puertos Gigabit metalico – Switch"@en	0
+COL title VAL  "APC - SMT1500RMI2UCSMARTUPS 1500VA LCD RM 2U 230V SmartC"@de	COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	0
+COL title VAL  "APC (SMT1500RMI2UC) APC Smart-UPS 1500VA LCD RM 2U 230V W/ SMART CONNECT"@de	COL title VAL  "APC - SMT1500RMI2UCSMARTUPS 1500VA LCD RM 2U 230V SmartC"@de	1
+COL title VAL  "Ubiquiti EdgeMAX Edgeswitch 16 Port PoE Switch ES-16-150W"@en	COL title VAL  "Hikvision DS-3E0326P-E 24 Port 10/100 PoE+ Switch"@en	0
+COL title VAL  "Ubiquiti UVC G3 IR LED Range Extender for UniFi UVC-G3"@fr	COL title VAL  "TP-Link TL-WA860RE N300 universal range extender"@sv	0
+COL title VAL  "Blackmagic ATEM Production Studio 4K (BM-SWATEMPSW4K)"@en	COL title VAL  "Jabra Evolve 65 Stereo Headsets"@da	0
+COL title VAL  "TP Link TLWR841N 300Mbps Wireless N Router"@en	COL title VAL  "TP-LINK Wireless-AC1200 Router Archer C1200"@en	0
+COL title VAL  "Startech USB 3.0 Gigabit Adapter"@de	COL title VAL  "StarTech.com USB 3.0 to Gigabit Ethernet NIC Network Adapter USB31000S"@en	1
+COL title VAL  "WS-C3560CX-12PC-S Cisco Catalyst 3560CX Network Switch (New)"@en	COL title VAL  "CISCO - CATALYST 3560-CX 12 PORT POE+ 240W"@en	1
+COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10000VA Tower 230V"@de	0
+COL title VAL  "WS-C3560CX-12PC-S Cisco Catalyst 3560CX Network Switch (New)"@en	COL title VAL  "WS-C2960-48TT-L Cisco Catalyst 2960 Network Switch (New)"@en	0
+COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	COL title VAL  "DS-7332HQHI-K4 Hikvision 32 Channel 1080P HD-TVI Hybrid DVR"@sv	0
+COL title VAL  "Blackmagic ATEM Production Studio 4K (BM-SWATEMPSW4K)"@en	COL title VAL  "Blackmagic Design ATEM 2 M/E Production Studio 4K SWATEMPSW2ME4K"@en	0
+COL title VAL  "Jabra 2400 II QD Mono NC 3 in1 Wired Headset - Black"@en	COL title VAL  "Jabra BIZ 2400 II Mono 3-1 BIZ 2400-2420, NC"@pt	1
+COL title VAL  "Jabra Evolve 20 SE Mono MS USB Corded PC Headset"@en	COL title VAL  "Jabra Evolve 20 Duo UC USB Headset"@en	0
+COL title VAL  "Cisco Catalyst 3650-24TS24-port 1-/100/1000 Managed Switch"@en	COL title VAL  "Cisco Catalyst 3650-24T 24 Ports Manageable Layer 3 Switch"@en	1
+COL title VAL  "Cisco WS-C2960-48TT-L 48-Port Managed Ethernet Switch"@en	COL title VAL  "Cisco Catalyst 3650-48F Ethernet Switch - WSC365048FDL"@en	0
+COL title VAL  "Jabra BIZ 2300 USB Mono, Type: 82 E-STD"@es	COL title VAL  "Jabra Biz 2400 II Duo, NC, 82 mic, Wideband, QD"@en	0
+COL title VAL  "TP-LINK Wireless-N300 Range Extender TL-WA860RE"@de	COL title VAL  "TP-LINK TL-WPA4220 500 Mbit/s Eingebauter Ethernet-Anschluss WLAN Weiß 1 Stück(e)"@de	0
+COL title VAL  "APC - SMART-UPS 1000VA LCD 230V WITH SMARTCONNECT IN"@de	COL title VAL  "APC Smart-UPS SRT 10000VA SRT10KXLI"@de	0
+COL title VAL  "Desktop Switch TP-Link TL-SG116E RJ45 32 Gbps Black (16 Ports)"@en	COL title VAL  "Switch TP-LINK - Unmanaged pro - switch - 16 porte - unmanaged tl-sg116e"@en	1
+COL title VAL  "TP-Link TL-WA860RE N300 universal range extender"@sv	COL title VAL  "UVC-G3-LED:UniFi Video Camera G3 IR Range Extender"@de	0
+COL title VAL  "Jabra 2400 II QD Mono NC 3 in1 Wired Headset - Black"@en	COL title VAL  "Jabra Biz 2400 II Duo, NC, 82 mic, Wideband, QD"@en	0
+COL title VAL  "TP-LINK TL-WA901ND AccesPoint, 300 Mbps"@en	COL title VAL  "TL-WA901ND - 10/100/POE/WiFi N 3 antennes"@de	1
+COL title VAL  "APC - Schneider SMART-UPS 5000VA 230V RACKMOUNT/TOWER"@de	COL title VAL  "APC Smart-UPS X 3000VA Rack/TowerLCD"@en	0
+COL title VAL  "MikroTik RouterBOARD Cloud Core Router CCR1036-12G-4S-EM"@en	COL title VAL  "MikroTik RouterBoard Cloud Core Router - 36 Core CPU - 16GB RAM - CCR1036-12G-4S-EM"@en	1
+COL title VAL  "Ubiquiti Networks 5 GHz airMAX AC Sector Antenna Reference: AM-5AC22-45"@en	COL title VAL  "Ubiquiti airMAX ac 5GHz 21dBi Sector Antenna"@fr	0
+COL title VAL  "52-Port Gigabit Ethernet Stackable Smart Managed Pro Switch with 2 Copper 10G and 2 Dedicated SFP+ 10G Ports"@en	COL title VAL  "Netgear GS752TX-100NES | Switch | S3300 48PORTS GE SMART MANAGED PRO STACK"@en	1
+COL title VAL  "Ubiquiti POE-48-24W-G PoE Gigabit Injector"@hr	COL title VAL  "Ubiquiti Networks POE-24-12W 24V PoE adapter & injector"@en	0
+COL title VAL  "TP-Link Archer C60 AC1350 1350Mbps Wireless Dual Band Router 867Mbps@5GHz 450Mbps@2.4GHz 4x100Mbps LAN/WAN USB2 5xAntennas ~Archer C2 C59 C50"@en	COL title VAL  "MikroTik RouterBOARD Cloud Core Router CCR1036-12G-4S-EM"@en	0
+COL title VAL  "Jabra Biz 2400 II Mono 3-1, NC, 82 mic, Wideband, QD"@en	COL title VAL  "Jabra BIZ 2400 II Mono 3-1 BIZ 2400-2420, NC"@pt	0
+COL title VAL  "Jabra Engage 75 Mono - Most powerful professional wireless headsets"@en	COL title VAL  "Jabra Evolve 65 Stereo Headsets"@da	0
+COL title VAL  "Switch TP-Link TL-SG108PE"@en	COL title VAL  "TP-Link TL-WA850RE biely (TL-WA850RE)"@en	0
+COL title VAL  "TP-Link TL-SG1008 8xRJ45 10/100/1000Mbps"@en	COL title VAL  "GS108E Gigabit Ethernet (10/100/1000) Sort"@de	0
+COL title VAL  "Switch TP-Link TL-SG108PE"@en	COL title VAL  "Switch TP-LINK - Unmanaged pro - switch - 16 porte - unmanaged tl-sg116e"@en	0
+COL title VAL  "CISCO - Catalyst 2960 Plus 24 10/100 + 2T/SFP LA"@en	COL title VAL  "WS-C2960-24TC-L Cisco Catalyst 2960 Network Switch (Refurb)"@en	1
+COL title VAL  "APC Smart-UPS SRT 10000VA SRT10KXLI"@de	COL title VAL  "APC SRT10KXLI Smart-UPS SRT 10000VA Tower 230V"@de	1
+COL title VAL  "Atomos Coiled Full HDMI to Full HDMI Cable (30cm) - ATOMCAB010"@en	COL title VAL  "Apple Lightnig to Headphone Jack adapter"@en	0
+COL title VAL  "APC Smart-UPS SRT 10000VA SRT10KXLI"@de	COL title VAL  "APC Smart-UPS 1000 LCD"@de	0
+COL title VAL  "Hikvision Unmanaged Switch: 24 POE Ports, 100Mbps"@en	COL title VAL  "Hikvision 4-ports 100Mbps Unmanaged PoE Switch (DS-3E0105P-E)"@en	0
+COL title VAL  "APPLE - Airpods Pro 2019 MWP22TY/A White"@en	COL title VAL  "APPLE AIRPODS PRO C/ CARREG"@pt	1
+COL title VAL  "TP-Link TL-SG1016DE 16Port Gigabit Desktop Switch"@en	COL title VAL  "Switch Netgear - ProSafe Gigabit SmartSwitch 48porte"@en	0
+COL title VAL  "APC - Schneider SMART-UPS 1000VA LCD 230V"@de	COL title VAL  "TP-Link TL-WA850RE biely (TL-WA850RE)"@en	0
+COL title VAL  "SMT1500ICAPC Smart-UPS 1500VA LCD 230V with SmartConnect"@en	COL title VAL  "APC Smart UPS 1500VA LCD 230V with Smart"@en	1
+COL title VAL  "Switch ethernet Netgear GS108E Metal 8 Ports Gigabit"@de	COL title VAL  "Switch TL-SG1008 8 porturi"@en	0
+COL title VAL  "APC SMT1000IC Smart-UPS 1000VA/700W Sinewave UPS with SmartConnect"@en	COL title VAL  "APC SMX3000HV X 3000VA 200-240V Line Interactive Sinewave Smart UPS"@en	0
+COL title VAL  "CISCO - Catalyst 2960 Plus 24 10/100 + 2T/SFP LA"@en	COL title VAL  "Genuine Cisco SFP-10G-SR 10GBASE-SR SFP+ Transceiver Module"@de	0
+COL title VAL  "Atomos Coiled Full HDMI to Full HDMI Cable (30-45cm)"@en	COL title VAL  "Hikvision H.265+ TURBO HD 8CH DVR 4K HDMI supports 5MP TVI/ 2MP AHD & CVI/ 6MP IP CAM (HDD not included)"@en	0
+COL title VAL  "TURBO HD DVRDS-7216HQHI-K1 1080P"@de	COL title VAL  "HIKVISION DS-7208HQHI-K1 (Turbo HD 4.0) 1080P 4MP Lite"@de	0
+COL title VAL  "TP-Link EAP225-Outdoor Wireless-AC1200 MU-MIMO Gigabit Indoor/Outdoor Access Point (Warranty 3years with TPLink SG)"@en	COL title VAL  "TP-Link Omada EAP225-Outdoor"@et	1
+COL title VAL  "Switch TP-Link TL-SG108PE"@en	COL title VAL  "TP-Link TL-SG108PE 8 Port Gigabit EasySmart Switch with 4x PoE"@en	1
+COL title VAL  "Jabra EVOLVE 20 UC Mono (USB)"@pt	COL title VAL  "JABRA - EVOLVE 40 UC Stereo USB Headband Noise cancelling USB connector with mute-button and volume control on the cord"@en	0
+COL title VAL  "D-Link Switch 8 Porte Gigabit Poe Smart Managed"@en	COL title VAL  "TP-Link T1500G-10MPS 8-Port Gigabit Desktop PoE+ 2 SFP Slots"@de	0
+COL title VAL  "Hikvision Unmanaged Switch: 24 POE Ports, 100Mbps"@en	COL title VAL  "Jabra 2400 II QD Mono NC 3 in1 Wired Headset - Black"@en	0
+COL title VAL  "Switch Netgear - ProSafe Gigabit SmartSwitch 48porte"@en	COL title VAL  "8 Port Gigabit Easy Smart Switch With Po E"@en	0
+COL title VAL  "Ubiquiti POE-48-24W-G PoE Gigabit Injector"@hr	COL title VAL  "Ubiquiti AirMax AC Sector 22dBi AM-5AC22-45 Ubiquiti"@fr	0
+COL title VAL  "DS-7332HUHI-K4 Hikvision 5MP & 8MP Analogue 16 Channel Turbo 4.0 DVR"@en	COL title VAL  "Hikvision 4-ports 100Mbps Unmanaged PoE Switch (DS-3E0105P-E)"@en	0
+COL title VAL  "TP-Link TL-SG108PE 8 Port Gigabit EasySmart Switch with 4x PoE"@en	COL title VAL  "JABRA Evolve 40 UC USB - Stereo"@de	0
+COL title VAL  "WS-C2960XR-48FPS-I - 48 Port 2960-XR Switch"@en	COL title VAL  "NEW Cisco WS-C2960XR-48FPS-I 48 10/100/1000 Port Ethernet Switch"@en	1
+COL title VAL  "POE-48-24W-G UBIQUITI Gigabit PoE 48V 24W 2-RJ45 220VAC UBI-POE-48-5G req-Cable-C5"@ca	COL title VAL  "DVR HIKVISION 16 channel-1080p"@it	0
+COL title VAL  "Jabra EVOLVE 80 MS Stereo"@de	COL title VAL  "Ubiquiti UVC G3 IR LED Range Extender for UniFi UVC-G3"@fr	0
+COL title VAL  "Jabra EVOLVE 80 MS Stereo"@de	COL title VAL  "Jabra Evolve 65 Stereo Headsets"@da	0
+COL title VAL  "Jabra Biz 2300 USB UC Duo Binaural Headset2399-823-109"@de	COL title VAL  "Jabra BIZ 2300 USB MS Mono - headset"@en	0
+COL title VAL  "D-Link Switch 8 Porte Gigabit Poe Smart Managed"@en	COL title VAL  "JetStream 8-Port Gigabit Smart Switch"@en	0
+COL title VAL  "Jabra Biz 2400 II Mono 3-1, NC, 82 mic, Wideband, QD"@en	COL title VAL  "Jabra 2400 II QD Mono NC 3 in1 Wired Headset - Black"@en	0
+COL title VAL  "Jabra BIZ„˘ 2400 II DuoNEXT GENERATION - IP Wideband-Headset (QD) Type: 82 E-STD, Noice-Cancelling microphone boom: FreeSpin"@en	COL title VAL  "Jabra BIZ 2300 USB Mono, Type: 82 E-STD"@es	0
+COL title VAL  "APC Smart-UPS X 3000VA Rack/TowerLCD"@en	COL title VAL  "APC Smart-UPS 1000 LCD"@de	0
+COL title VAL  "TURBO HD DVRDS-7216HQHI-K1 1080P"@de	COL title VAL  "DVR HIKVISION 16 channel-1080p"@it	1
+COL title VAL  "TP-Link Archer C60 AC1350 1350Mbps Wireless Dual Band Router 867Mbps@5GHz 450Mbps@2.4GHz 4x100Mbps LAN/WAN USB2 5xAntennas ~Archer C2 C59 C50"@en	COL title VAL  "TP-LINK Wireless-AC1200 Router Archer C1200"@en	0
+COL title VAL  "HIKVISION 16CH TURBO DVR 16IP & 16 BNC"@en	COL title VAL  "HK DVR TURBOHD 8ch DS-7208HQHI-K2/P"@vi	0
+COL title VAL  "TP-Link TL-SF1024D 24port Switch"@en	COL title VAL  "Switch TP-LINK - Unmanaged pro - switch - 16 porte - unmanaged tl-sg116e"@en	0
+COL title VAL  "TP-Link TL-SG1008 8xRJ45 10/100/1000Mbps"@en	COL title VAL  "TP-Link TL-SF1024 24 x RJ45 10/100Mbps switch"@en	0
+COL title VAL  "Apple Lightning to Digital AV AdapterA1438MD826AM/A"@en	COL title VAL  "Apple Lightning Digital AV Adapter - White MD826"@en	1
+COL title VAL  "Jabra Biz 2400 II QD Mono 3-in-1 | 2486-820-209"@it	COL title VAL  "Jabra Biz 2400 II Mono 3-1, NC, 82 mic, Wideband, QD"@en	1
+COL title VAL  "Hikvision DS-7216HUHI-K2 5MP 16 Channel TVI, DVR & NVR Tribrid CCTV Recorder with Network and Mobile phone remote viewing"@en	COL title VAL  "HIKVISION 16CH TURBO DVR 16IP & 16 BNC"@en	1

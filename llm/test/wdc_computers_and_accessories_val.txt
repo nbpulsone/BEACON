@@ -1,0 +1,1045 @@
+COL title VAL  "DDR4 16GB 3200 Kingston Fury Black"@de	COL title VAL  "Kingston SoDIMM DDR4 16GB (2x8GB) 2400 MHz (KVR24S17D8/16)"@de	0
+COL title VAL  "ASUS TUF Gaming VG27BQ 68.6 cm (27") 2560 x 1440 pixels WQHD LED Black"@ca	COL title VAL  "iiyama ProLite XUB3493WQSU-B1 computer monitor 86.4 cm (34\") 3440 x 1440 pixels UltraWide Quad HD LED Black"@ca	0
+COL title VAL  "Asus TUF Gaming X570-Plus (Wi-Fi) ATX AMD AM4 Ryzen 3000 PCIe 4.0 M. 2 12+2 Dr. MOS DDR4 LAN HDMI DP CFX USB 3.2 Gen 2 Type-A Type-C Aura Sync RGB | 90MB1170-M0EAY0"@de	COL title VAL  "TUF GAMING X570-PLUS WIFI, Mainboard"@ro	1
+COL title VAL  "Gigabyte Geforce RTX 2080 Ti Windforce 11GB GDDR6 Graphics Card"@en	COL title VAL  "Gigabyte RTX 2080 TI 11GB GDDR6 PCI Express 3.0 x16 352-Bit Graphics Card | GV-N208TWF3-11GC"@en	1
+COL title VAL  "Cooler Master MasterLiquid ML360R RGB - 360 mm"@en	COL title VAL  "Cooler Master MasterLiquid Lite 120"@en	0
+COL title VAL  "ASUS PRIME X570-PRO (AM4) (D) (90MB11B0-M0EAY0)"@de	COL title VAL  "ASUS ROG Strix X570-E Gaming scheda madre Presa AM4 ATX AMD X570"@de	0
+COL title VAL  "3M - PFIM21V2 privacy filter black"@en	COL title VAL  "3M - PF19.0 BLACK PRIVACY FILTER FRAMELESS FITS 21IN NOTEBOOK LCD"@de	0
+COL title VAL  "Seagate STEB3000200 (3000Gb, 3.5'', USB3.0),"@en	COL title VAL  "Western Digital Elements 2TB USB3.0 - 2,5" -fekete(WDBU6Y0020BBK-EESN)"@de	0
+COL title VAL  "DDR4 16GB 3200 Kingston Fury Black"@de	COL title VAL  "KINGSTON 64GB DataTraveler 100 G3"@no	0
+COL title VAL  "AMD Ryzen 5 3600 CPU & ASUS PRIME X570-P Motherboard Bundle"@de	COL title VAL  "MSI MPG Z490 GAMING EDGE WIFI bundkort"@de	0
+COL title VAL  "3M - Privacy Filter for MacBook Pro"@en	COL title VAL  "Razer Ornata Chroma Multicolour Membrane Gaming Keyboard US Layout"@en	0
+COL title VAL  "Sandisk Cruzer Glide Flash Drive"@de	COL title VAL  "Flash Memory 16GB SanDisk (Cruzer Force) Metal"@en	0
+COL title VAL  "Seagate Backup Plus Slim 1TB USB 3.0 Portable External Hard Drive - STHN1000400"@en	COL title VAL  "Western Digital 2TB Elements Portable External Hard Drive - USB 3.0 - WDBU6Y0020BBK-WESN"@en	0
+COL title VAL  "Gigabyte 240GB 2.5\" Solid State Drive/SSD"@en	COL title VAL  "Seagate IronWolf 110 internal solid state drive 2.5\" 3840 GB SATA III 3D TLC"@en	0
+COL title VAL  "HyperX FURY - DDR3 - 8 GB - DIMM 240-pin - unbuffered"@de	COL title VAL  "KINGSTON 8GB 1600MHz DDR3 CL10 DIMM HyperX Fury Series"@en	1
+COL title VAL  "3M - Filter 3M Dis 12,5 16:9 Privacy Gold GPF125W9 2"@en	COL title VAL  "3M - PF27.0W9 PRIVACY FILTER BLACK FOR 27,0IN / 68,6 CM / 16:9IN ACCS"@en	0
+COL title VAL  "LaCie 4TB Rugged Thunderbolt / USB-C Mobile HDD"@de	COL title VAL  "RUGGED THUNDERBOLT / USB-C - 2TB"@en	0
+COL title VAL  "Cooler Master Hyper H411R Tower CPU Cooler"@en	COL title VAL  "Cooler Master MasterLiquid 120R RGB"@en	0
+COL title VAL  "Razer Ornata Chroma Multicolour Membrane Gaming Keyboard US Layout"@en	COL title VAL  "Kingston DataTraveler MicroDuo 3C USB Flash Drive 128GB"@en	0
+COL title VAL  "WD HDD 4TB My Passport Black"@en	COL title VAL  "3M - PFIM21V2 PRIVACY FILTER BLACK IMAC 21.5IN 2013"@en	0
+COL title VAL  "Seagate Backup Plus Slim 1TB USB 3.0 Portable External Hard Drive - STHN1000400"@en	COL title VAL  "SanDisk Extreme PRO USB 3.1 Solid State Flash Drive 128GB"@en	0
+COL title VAL  "ASUS GeForce RTX 2070 STRIX GAMING OC 8GB"@de	COL title VAL  "MSI GeForce RTX 2080 Ti GAMING X TRIO 11G"@en	0
+COL title VAL  "3M - PF19.0 BLACK PRIVACY FILTER FRAMELESS FITS 21IN NOTEBOOK LCD"@de	COL title VAL  "3M - Privacy Filter NotebookTil 13\" Apple MacBook Pro - (2016 modell)"@en	0
+COL title VAL  "KINGSTON 8GB 1600MHz DDR3 CL10 DIMM HyperX Fury Series"@en	COL title VAL  "Corsair Vengeance LPX 8GB DDR4 3000MHz C16 RAM"@en	0
+COL title VAL  "Corsair 32GB 2666MHz Vengeance LPX Black CL16 (4x8GB)"@en	COL title VAL  "Corsair Vengeance LPX Black 16GB (2x8GB) DDR4 3600MHz Dual Channel Memory (RAM) Kit"@en	0
+COL title VAL  "WD 2 TB SATA BLUE 2,5 inc SSD"@en	COL title VAL  "Western Digital Blue 3D NAND 2.5\" 2TB SATA III Solid State Drive"@en	1
+COL title VAL  "DDR4 16GB 3200 Kingston Fury Black"@de	COL title VAL  "Corsair Vengeance LPX Red 16GB (2x8GB) DDR4 PC4-19200 2400MHz Dual Channel Kit"@en	0
+COL title VAL  "PENDRIVE 128GB USB3.0 TIPO C KINGSTON DT MICRO DUO"@de	COL title VAL  "Cooler Master MasterLiquid ML120L RGB AIO CPU Cooler"@en	0
+COL title VAL  "Gigabyte 240GB 2.5\" Solid State Drive/SSD"@en	COL title VAL  "SanDisk Extreme PRO CZ880 128GB 256GB 420MB/s USB 3.1 Solid State Flash Drive (128GB)"@en	0
+COL title VAL  "Seagate 12TB 3.5' IronWolf SATA3 NAS 24x7 7200RPM Performance HDD (ST12000VN0008) 3 Years Warranty"@en	COL title VAL  "Seagate Enterprise Performance 15K HDD 3,5' 300GB SAS 6Gb/s 16MB cache"@en	0
+COL title VAL  "HyperX Predator 16GB - PC4-26600 - DIMM"@en	COL title VAL  "32GB Kit (2 x 16GB) HyperX Predator DDR4 3000MHz, CL15, Black, DIMM Memory"@en	0
+COL title VAL  "iiyama ProLite XUB2792QSU-B1 27\" LED LCD Monitor - 16:9 - 5 ms"@en	COL title VAL  "iiyama ProLite XUB3493WQSU-B1 computer monitor 86.4 cm (34\") 3440 x 1440 pixels UltraWide Quad HD LED Black"@ca	0
+COL title VAL  "LaCie Mobile Drive 5TB External Hard Drive Portable HDD - Moon Silver USB-C USB 3.0, for Mac and PC Desktop, 1 Month Adobe CC (STHG5000400)"@en	COL title VAL  "Seagate Expansion 3TB Desktop External Hard Drive in Black - USB3.0"@en	0
+COL title VAL  "Western Digital Blue 3D NAND 2.5\" 2TB SATA III Solid State Drive"@en	COL title VAL  "Gigabyte 240GB 2.5\" Solid State Drive/SSD"@en	0
+COL title VAL  "LACIE 2TB 2.5 RUGGED PORTABLE THUNDERBOLT TYPE C"@vi	COL title VAL  "RUGGED THUNDERBOLT / USB-C - 2TB"@en	1
+COL title VAL  "Memoire DDR4 CORSAIR 8Go DDR4 3000MHz"@en	COL title VAL  "CORSAIR Desktop Ram Vengeance RGB Series - 16GB (8GBx2) DDR4 3000MHz RAM (CMW16GX4M2C3000C15W)"@de	0
+COL title VAL  "3M - PF230W9F EYE PROTECTION FILTER DESKTOPS FRAME STANDARD 23.0"@de	COL title VAL  "3M PF 17.0W |23 cm x 36.8 cm|"@vi	0
+COL title VAL  "Seagate Expansion 3TB Desktop External Hard Drive in Black - USB3.0"@en	COL title VAL  "Western Digital Purple 10TB 7200 RPM Surveillance Desktop Internal Hard Disk Drive ( WD101PURZ )"@en	0
+COL title VAL  "SVGA Asus GeForce RTX 2070 SUPER 8GB Dual Advanced Evo"@en	COL title VAL  "ASUS Dual -RTX2070S-A8G-EVO NVIDIA GeForce RTX 2070 SUPER 8 GB GDDR6"@en	1
+COL title VAL  "Corsair Vengeance LPX 8GB DDR4 3000MHz C16 RAM"@en	COL title VAL  "Corsair Vengeance Lpx 16 Gb (2x8 Gb) Ddr4 Dram Dimm 3200 M Hz C16 Black Heat Spreader"@en	0
+COL title VAL  "Asus ROG STRIX B450-E Gaming(ROG STRIX B450-E GAMING)"@de	COL title VAL  "ASUS M/B ROG STRIX X570-F GAMING"@de	0
+COL title VAL  "HyperX Predator 16GB - PC4-26600 - DIMM"@en	COL title VAL  "Corsair Vengeance LPX schwarz, DDR4-2666, CL16 - 32 GB Dual Kit"@de	0
+COL title VAL  "Disco Seagate Ironwolf Nas 10Tb Sata3 (St10000vn0008)"@en	COL title VAL  "Seagate 12TB 3.5' IronWolf SATA3 NAS 24x7 7200RPM Performance HDD (ST12000VN0008) 3 Years Warranty"@en	0
+COL title VAL  "Pen Drive SanDisk 16GB Cruzer Force USB 2.0"@de	COL title VAL  "Ultra Dual Drive USB Type-C USB-nøgle 32 GB USB Type-A / USB Type-C 3.2 Gen 1 (3.1 Gen 1) Sort, Sølv"@en	0
+COL title VAL  "KINGSTON 8GB 1600MHz DDR3 CL10 DIMM HyperX Fury Series"@en	COL title VAL  "Kingston SoDIMM DDR4 16GB (2x8GB) 2400 MHz (KVR24S17D8/16)"@de	0
+COL title VAL  "Corsair Value Select 8GB PC4-17000 memory module DDR4 2133 MHz"@en	COL title VAL  "Corsair Vengeance LPX 16GB Kit (2 x 8GB), DDR4, 2133MHz (PC4-17000), CL13, XMP 2.0, DIMM Memory"@en	0
+COL title VAL  "CORSAIR DDR4 2666MHz 32GB Kit 4x288 DIMM Unbuffered 16-18-18-35 Vengeance LPX Black Heat spreader 1.20V"@de	COL title VAL  "CORSAIR 16GB RAMKit 2X8GB DDR4 3200MHz 2x288Dimm unbuffered 16-18-18-36 1,35V Vengeance LPX Black Heatspreader"@de	0
+COL title VAL  "3M - Privacy Filter NotebookTil 13\" Apple MacBook Pro - (2016 modell)"@en	COL title VAL  "3M - Privacy Filter for MacBook Pro"@en	1
+COL title VAL  "Gigabyte GA-X570-ELITE AORUS (AM4) (D) (X570 AORUS ELITE)"@de	COL title VAL  "Gigabyte X570 AORUS ELITE AMD Motherboard"@en	1
+COL title VAL  "Kingston Hyperx Fury 16GB 3200Mhz DDR4 Cl16 DIMM Black"@en	COL title VAL  "Corsair Vengeance LPX Black 16GB (2x8GB) DDR4 3600MHz Dual Channel Memory (RAM) Kit"@en	0
+COL title VAL  "Tastatura Razer Ornata Chroma â€“ Multi-color Membrane Gaming Keyboard - US Layout, Wired USB Connection, Razer Mecha-Membrane Technology, Mid-height keycaps, Razer Chroma backlighting, Ergonomic wris"@en	COL title VAL  "Razer Ornata Chroma Multicolour Membrane Gaming Keyboard US Layout"@en	1
+COL title VAL  "3M - PF322W DT PRIVACY FLT WIDESCREEN LCD"@de	COL title VAL  "KINGSTON 64GB DataTraveler 100 G3"@no	0
+COL title VAL  "Logitech USB Headset H540 - USB - EMEA 981-000480"@de	COL title VAL  "AURICULARES MICRO LOGITECH HEADSET H540"@vi	1
+COL title VAL  "Cooler Master Cooler Proce Cooler Master Hyper T4 Rr-T4-18Pk-R1"@en	COL title VAL  "Cooler Master MasterLiquid Lite 120"@en	0
+COL title VAL  "3M - PFIM21V2 privacy filter black"@en	COL title VAL  "3M - PF319W FRAMED PRIVACY FILTER 18,5IN -19IN 47,0-48,3CM 16:10IN ACCS"@en	0
+COL title VAL  "GIGABYTE Z490 AORUS PRO AX LGA 1200 Intel Z490 ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 2, WIFI 6, 2.5 GbE LAN"@en	COL title VAL  "Asus TUF Gaming X570-Plus (Wi-Fi) ATX AMD AM4 Ryzen 3000 PCIe 4.0 M. 2 12+2 Dr. MOS DDR4 LAN HDMI DP CFX USB 3.2 Gen 2 Type-A Type-C Aura Sync RGB | 90MB1170-M0EAY0"@de	0
+COL title VAL  "Corsair Vengeance LPX Black 16GB (1x16GB) DDR4 PC4-19200 2400MHz Single Module"@en	COL title VAL  "CORSAIR 16GB RAMKit 2X8GB DDR4 3200MHz 2x288Dimm unbuffered 16-18-18-36 1,35V Vengeance LPX Black Heatspreader"@de	0
+COL title VAL  "SanDisk Extreme PRO SD UHS-II USB 3.0"@en	COL title VAL  "SanDisk Ultra SDXC 256GB 100 MB/s UHS-I Class 10"@sv	0
+COL title VAL  "SVGA Asus GeForce RTX 2070 SUPER 8GB Dual Advanced Evo"@en	COL title VAL  "3M - Privacy Filter for MacBook Pro"@en	0
+COL title VAL  "Gigabyte RTX 2080 TI 11GB GDDR6 PCI Express 3.0 x16 352-Bit Graphics Card | GV-N208TWF3-11GC"@en	COL title VAL  "Gigabyte GeForce RTX 2080 Ti Xtreme (Base:1350MHz,Boost:1770MHz), 11GB GDDR6 (14140MHz), PCI-E 3.0, 3x DisplayPort 1.4, 3x HDMI 2.0b, USB Type-C, RGB Fusion 2.0"@en	0
+COL title VAL  "CORSAIR 16GB RAMKit 2X8GB DDR4 3200MHz 2x288Dimm unbuffered 16-18-18-36 1,35V Vengeance LPX Black Heatspreader"@de	COL title VAL  "iiyama ProLite XU2390HS 23 Inch Full HD LED Flat Black computer monitor"@en	0
+COL title VAL  "WD HDD 1TB My Passport Black"@en	COL title VAL  "HDD extern WD My Passport, 1TB, 2,5" USB 3.0, negru,"@en	1
+COL title VAL  "ASUS TUF X470-PLUS GAMING Moderkort - AMD X470 - AMD AM4 socket - DDR4 RAM - ATX"@de	COL title VAL  "Asus® TUF X470-PLUS GAMING - AMD® X470 Chipset - Ryzen, Athlon and A-series AMD® Processors for Socket AM4"@en	1
+COL title VAL  "Corsair Vengeance LPX Black 16GB (1x16GB) DDR4 PC4-19200 2400MHz Single Module"@en	COL title VAL  "Corsair Value Select 8GB PC4-17000 memory module DDR4 2133 MHz"@en	0
+COL title VAL  "Western Digital Blue SN550 1TB NVMe PCIe Gen3.0x 4 M.2 SSD"@de	COL title VAL  "Corsair Force MP510 SSD PCIe M.2 NVMe 480GB"@en	0
+COL title VAL  "3M - PF17.0W PRIVACY FILTER BLAC"@pl	COL title VAL  "3M - PFIM21V2 privacy filter black"@en	0
+COL title VAL  "Corsair Vengeance LPX Black 16GB 3600 MHz DDR4 Dual Channel Memory Kit"@en	COL title VAL  "Kingston DataTraveler 100 G3 16 GB"@no	0
+COL title VAL  "3M - PF319W FRAMED PRIVACY FILTER 18,5IN -19IN 47,0-48,3CM 16:10IN ACCS"@en	COL title VAL  "3M MOBILE INTERACTIVE SOLUTION PF220W9F LIGHTWEIGHT FRAMED PRIVACY FILTER"@en	1
+COL title VAL  "SanDisk SD Extreme V30 U3 UHS-I C10 - 128GB"@de	COL title VAL  "SanDisk MicroSD Extreme V30 U3 UHS-I C10 A2 - 256GB"@en	0
+COL title VAL  "Kingston DataTraveler 100 G3 16 GB"@no	COL title VAL  "MEMOIRE USB3 16 Go DTIG4-16GB kingston"@tl	0
+COL title VAL  "HDD extern WD My Passport, 1TB, 2,5" USB 3.0, negru,"@en	COL title VAL  "240GB Gigabyte 2.5\" SATA 3.0 SSD"@de	0
+COL title VAL  "Kingston Hyperx Fury 16GB 3200Mhz DDR4 Cl16 DIMM Black"@en	COL title VAL  "Corsair Vengeance LPX 16GB Kit (2 x 8GB), DDR4, 2133MHz (PC4-17000), CL13, XMP 2.0, DIMM Memory"@en	0
+COL title VAL  "ASUS ROG Strix B550-F Gaming AMD ATX Motherboard"@en	COL title VAL  "ASUS GeForce RTX 2070 STRIX GAMING OC 8GB"@de	0
+COL title VAL  "Cooler Master Wentylator CPU Hyper H411R LED biały"@en	COL title VAL  "Cooler Master Hyper H411R Tower CPU Cooler"@en	1
+COL title VAL  "XPG SX8200 Pro 256 GB Solid State Drive - M.2 2280 Internal - PCI Express (PCI Express 3.0 x4)"@en	COL title VAL  "XPG SX6000 Lite internal solid state drive 1000 GB PCI Express 3.0 3D TLC NVMe M.2 SSD"@en	0
+COL title VAL  "Western Digital 2TB Elements Portable External Hard Drive - USB 3.0 - WDBU6Y0020BBK-WESN"@en	COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	0
+COL title VAL  "CPU Intel s1151 Core i9-9900 - 3,10GHz (BX80684I99900)"@it	COL title VAL  "MB ASUS PRIME B450-PLUS B450 AM4 4DDR4 DVI+HDMI 3*PCIE, 6*SATA,M.2 RGB ATX"@de	0
+COL title VAL  "Hard Disk Drive portabil SEAGATE Backup Plus Slim STHN1000400, 1TB, USB 3.0, negru"@en	COL title VAL  "Seagate Backup Plus Slim 1TB USB 3.0 Portable External Hard Drive - STHN1000400"@en	1
+COL title VAL  "Gigabyte 240GB 2.5\" Solid State Drive/SSD"@en	COL title VAL  "Karta pamięci Sandisk SDHC Ultra 48MB/s Class 10 UHS-I 32 GB - SDSDUNB-032G-GN3IN"@id	0
+COL title VAL  "Corsair Force MP510 SSD PCIe M.2 NVMe 480GB"@en	COL title VAL  "Western Digital SSD 250GB Blue series Sata3"@de	0
+COL title VAL  "BenQ SW2700PT 27 inch 2K Photographer Monitor2560x1440 QHD, 99% Adobe RGB, 100% Rec.709/sRGB color space, Hardware Calibration, 14-bit 3D LUTSW2700PT, HDMI 1.4,OSD Controller, 60Hz refresh rate | SW2700PT"@en	COL title VAL  "Monitor BenQ 27\" SW2700PT - 9H.LDKLB.QBE"@en	1
+COL title VAL  "Corsair Hydro H115i RGB PRO XT 280mm Liquid CPU Cooler. Intel 1200, 1150x, 2011, 2066, AM3, AM2, AM4, TR4, sTRX4, sTR4. 5 Years Warranty"@en	COL title VAL  "ASUS TUF B450M-Plus Gaming AMD Socket AM4 Mainboard (Local Warranty 3years with Avertek)- ALLSTARS by Alliance Stars Group P/L"@en	0
+COL title VAL  "3M MOBILE INTERACTIVE SOLUTION PF220W9F LIGHTWEIGHT FRAMED PRIVACY FILTER"@en	COL title VAL  "3M - DESKTOP LCD LW FRAMED FILTER"@de	0
+COL title VAL  "Kingston Notebook Memory 4 Gb 2400 Mhz Ddr4 Nonecc Dimm 1.5 V Limited Lifetime Warranty"@en	COL title VAL  "Cooler Master MasterLiquid Lite 120 Liquid CPU Cooler"@fr	0
+COL title VAL  "ASUS TUF X470-PLUS GAMING Moderkort - AMD X470 - AMD AM4 socket - DDR4 RAM - ATX"@de	COL title VAL  "ASUS TUF X570-PLUS GAMING Motherboard , AMD X570 Ryzen Gen 3"@de	0
+COL title VAL  "Kingston Hyperx Fury 16GB 3200Mhz DDR4 Cl16 DIMM Black"@en	COL title VAL  "KINGSTON 8GB 1600MHz DDR3 CL10 DIMM HyperX Fury Series"@en	0
+COL title VAL  "LaCie Rugged USB 3.1C 4 TB 2,5'' STFS4000800"@en	COL title VAL  "LaCie 4TB Rugged Thunderbolt / USB-C Mobile HDD"@de	1
+COL title VAL  "ASUS TUF Gaming VG27BQ 68.6 cm (27") 2560 x 1440 pixels WQHD LED Black"@ca	COL title VAL  "Monitor 27 cali LED VG27BQ"@it	1
+COL title VAL  "Seagate 12TB 3.5' IronWolf SATA3 NAS 24x7 7200RPM Performance HDD (ST12000VN0008) 3 Years Warranty"@en	COL title VAL  "HDD 35 10TB Seagate IronWolf NAS ST10000VN0008"@en	0
+COL title VAL  "Logitech Optical Mouse USB B100"@en	COL title VAL  "872475-B21 HP G8-G10 300-GB 12G 10K 2.5 SAS"@de	0
+COL title VAL  "240GB Gigabyte 2.5\" SATA 3.0 SSD"@de	COL title VAL  "Seagate IronWolfHDD, 3.5" 12TB, SATA3, 7200rpm 256MB, NAS"@en	0
+COL title VAL  "ASUS ROG Strix B550-F Gaming Motherboard"@en	COL title VAL  "ASUS ROG STRIX B550-E GAMING Presa AM4 ATX AMD B550"@de	0
+COL title VAL  "ASUS GeForce GTX1660 SUPER 6GB GDDR6 GAMING TUF3"@de	COL title VAL  "ASUS Dual -RTX2070S-A8G-EVO NVIDIA GeForce RTX 2070 SUPER 8 GB GDDR6"@en	0
+COL title VAL  "WD 3.5'' 10TB 7200RPM SATA3 256MB WD101PURZ"@en	COL title VAL  "LaCie Rugged USB 3.1C 4 TB 2,5'' STFS4000800"@en	0
+COL title VAL  "Corsair Vengeance Lpx 16 Gb (2x8 Gb) Ddr4 Dram Dimm 2400 M Hz Unbuffered 16 16 16 39 Red Heat Spreader 1.20 V Xmp 2.0"@en	COL title VAL  "CORSAIR 16GB RAMKit 2X8GB DDR4 3200MHz 2x288Dimm unbuffered 16-18-18-36 1,35V Vengeance LPX Black Heatspreader"@de	0
+COL title VAL  "ASUS ROG STRIX B550-E GAMING"@de	COL title VAL  "Sandisk SDCZ60-064G-B35 - Cruzer Glide 64GB"@de	0
+COL title VAL  "SSD диск Western Digital SSD Blue 1TB SATA III 3D"@de	COL title VAL  "Western Digital Red 1TB 16MB SATA III (WD10JFCX)"@de	0
+COL title VAL  "Seagate Expansion 3TB Desktop External Hard Drive in Black - USB3.0"@en	COL title VAL  "Seagate STEB3000200 (3000Gb, 3.5'', USB3.0),"@en	1
+COL title VAL  "HyperX Kit 16GB (2 x 8GB) DDR4 3333MHz Predator Black CL16"@en	COL title VAL  "SanDisk USB 3.0 Cardreader, Type A for SD UHS I and UHS II, Black, Silver"@en	0
+COL title VAL  "Kingston 16GB DataTraveler 100 G3 (USB 3.0)"@no	COL title VAL  "KINGSTON 64GB DataTraveler 100 G3"@no	0
+COL title VAL  "Pendrive 3.0 Sandisk Ultra Flair 32 GB"@no	COL title VAL  "SanDisk Ultra SDDD3-256G-G46 256 GB Pen Drives (Black, Silver)"@sv	0
+COL title VAL  "Western Digital SN750 internal solid state drive M.2 250 GB PCI Express 3.0 NVMe"@en	COL title VAL  "XPG SX8200 Pro 256 GB Solid State Drive - M.2 2280 Internal - PCI Express (PCI Express 3.0 x4)"@en	0
+COL title VAL  "ASUS TUF B450M-Plus Gaming AMD Socket AM4 Mainboard (Local Warranty 3years with Avertek)- ALLSTARS by Alliance Stars Group P/L"@en	COL title VAL  "TUF GAMING X570-PLUS WIFI, Mainboard"@ro	0
+COL title VAL  "LaCie Mobile Drive STHG4000400 - hard drive - 4 TB - USB 3.1 Gen 2"@de	COL title VAL  "Lacie LaCie Mobile Drive 2.5\" 2TB USB-C - Moon Silver"@fr	0
+COL title VAL  "LG Electronics 32UK550-B, 31.5\" HDR"@ca	COL title VAL  "MONITOR LG 32UK550-B 31,5\" IPS UHD 4K 4MS HDMI DP AJUSTABLE ALTURA ALTAVOCES"@de	1
+COL title VAL  "ASUS M/B ROG STRIX X570-F GAMING"@de	COL title VAL  "ROG Strix Fusion Langalliset pelikuulokkeet"@fi	0
+COL title VAL  "VGA ASUS TUF GAMING GEFORCE GTX 1660 SUPER 6GB GDRR6 OC EDITION"@de	COL title VAL  "ASUS GeForce GTX1660 SUPER 6GB GDDR6 GAMING TUF3"@de	1
+COL title VAL  "Corsair 16GB DDR4 Vengeance LPX 2133MHz Memory Kit for Skylake"@en	COL title VAL  "Corsair Vengeance LPX 8GB DDR4 3000MHz C16 RAM"@en	0
+COL title VAL  "ASUS ROG STRIX Z390-I GAMING Motherboard with WiFi/BT"@en	COL title VAL  "Asus ROG Strix X570-E Gaming Motherboard"@en	0
+COL title VAL  "Seagate IronWolf 110 internal solid state drive 2.5\" 3840 GB SATA III 3D TLC"@en	COL title VAL  "Wd Blue 3D Nand 250Gb Pc Ssd - Sata Iii 6Gb/S M.2 2280 Solid State Drive"@en	0
+COL title VAL  "Kingston Technology KVR24S17S6/4 module de mémoire 4 Go DDR4 2400 MHz"@en	COL title VAL  "Kingston Technology ValueRAM 4GB DDR3-1600 memory module 1600 MHz"@en	0
+COL title VAL  "ASUS Scheda Madre ROG STRIX Z390-I GAMING Intel Z390"@de	COL title VAL  "ASUS ROG Strix X570-E Gaming scheda madre Presa AM4 ATX AMD X570"@de	0
+COL title VAL  "Disco Seagate Ironwolf Nas 10Tb Sata3 (St10000vn0008)"@en	COL title VAL  "HDD 35 10TB Seagate IronWolf NAS ST10000VN0008"@en	1
+COL title VAL  "Corsair Vengeance LPX Black 16GB (2x8GB) DDR4 3600MHz Dual Channel Memory (RAM) Kit"@en	COL title VAL  "Corsair Vengeance LPX 8GB DDR4 3000MHz C16 RAM"@en	0
+COL title VAL  "Samsung LS24F350 24\" PLS LED 1920x1080 Mega DCR 4ms 250cd HDMI LS24F350FHUXEN"@de	COL title VAL  "PHILIPS MONITOR LED IPS 24\" (23.8) 16:9 FULLHD VGA DVI HDMI 243V7QDSB"@de	0
+COL title VAL  "Razer Ornata Chroma Multicolour Membrane Gaming Keyboard US Layout"@en	COL title VAL  "CORSAIR - K55 Wired Gaming Membrane Keyboard with RGB Backlighting - Black"@en	0
+COL title VAL  "Logitech G402 Gaming Mouse USB Siyah 910-004068"@en	COL title VAL  "Logitech 910-002255,M185 Wireless Mouse, Grey"@en	0
+COL title VAL  "Kingston DataTraveler I G4 - USB 3.0 - 16GB"@no	COL title VAL  "SanDisk Ultra SDDD3-256G-G46 256 GB Pen Drives (Black, Silver)"@sv	0
+COL title VAL  "Gigabyte Z490 VISION G DDR4 ATX Motherboard"@en	COL title VAL  "Z490 AORUS PRO AX, Intel® Z490 Chipset, LGA 1200, HDMI, ATX Motherboard"@en	0
+COL title VAL  "Seagate Expansion 3TB Desktop External Hard Drive in Black - USB3.0"@en	COL title VAL  "Seagate Backup Plus Slim 1TB USB 3.0 Portable External Hard Drive - STHN1000400"@en	0
+COL title VAL  "Seagate IronWolfHDD, 3.5" 12TB, SATA3, 7200rpm 256MB, NAS"@en	COL title VAL  "WD 3.5'' 10TB 7200RPM SATA3 256MB WD101PURZ"@en	0
+COL title VAL  "LaCie Mobile Portable HDD 5TB 2.5\" USB Type C/USB 3.0, Moon Silver"@en	COL title VAL  "3M - 3M Privacy Filter for MacBook Pro 15\" TB (2016)"@en	0
+COL title VAL  "Wd Blue 3D Nand 250Gb Pc Ssd - Sata Iii 6Gb/S M.2 2280 Solid State Drive"@en	COL title VAL  "Gigabyte 240GB 2.5\" Solid State Drive/SSD"@en	0
+COL title VAL  "Corsair Force MP510 SSD PCIe M.2 NVMe 480GB"@en	COL title VAL  "ADATA XPG SX8200 Pro NVME 256GB M.2 SSD"@pt	0
+COL title VAL  "Western Digital SSD 250GB Blue series Sata3"@de	COL title VAL  "WD Blue 250GB PC SSD - SATA 6 Gb/s 2.5 Inch Solid State Drive -WDS250G1B0A"@en	1
+COL title VAL  "ASUS ROG Strix B450-E GAMING AMD ATX Motherboard"@en	COL title VAL  "ASUS ROG STRIX B550-E GAMING"@de	0
+COL title VAL  "Kingston Technology DataTraveler SE9 G2 64GB lecteur USB flash 64 Go USB Type-A 3.2 Gen 1 (3.1 Gen 1) Argent"@en	COL title VAL  "DataTraveler microDuo - Cl USB - 64 Go - USB 3.9"@it	1
+COL title VAL  "Corsair Vengeance LPX 8GB DDR4 3000MHz C16 RAM"@en	COL title VAL  "CORSAIR Desktop Ram Vengeance RGB Series - 16GB (8GBx2) DDR4 3000MHz RAM (CMW16GX4M2C3000C15W)"@de	0
+COL title VAL  "Ballistix MAX 16GB Kit DDR4 CL18 8GBx2 4000 DIMM 288pin black"@en	COL title VAL  "Kingston Hyperx Fury 16GB 3200Mhz DDR4 Cl16 DIMM Black"@en	0
+COL title VAL  "Asus TUF B450M-PLUS GAMING AM4 M-ATX Motherboard"@en	COL title VAL  "ASUS TUF X570-PLUS GAMING Motherboard , AMD X570 Ryzen Gen 3"@de	0
+COL title VAL  "Western Digital Blue 3D NAND 2.5\" 2TB SATA III Solid State Drive"@en	COL title VAL  "Western Digital Red 1TB 16MB SATA III (WD10JFCX)"@de	0
+COL title VAL  "G633 Artemis Spectrum Gaming Headset"@en	COL title VAL  "Logitech G G332 Black & Red Gaming Headset"@en	0
+COL title VAL  "Logitech 910-002255,M185 Wireless Mouse, Grey"@en	COL title VAL  "Logitech - 910-002225 - Wireless Mouse M185"@en	1
+COL title VAL  "Samsung S24F350H 24in Full HD LED Monitor"@de	COL title VAL  "Samsung LS24F350 24\" PLS LED 1920x1080 Mega DCR 4ms 250cd HDMI LS24F350FHUXEN"@de	1
+COL title VAL  "WD My Passport WDBPKJ0040BBK - hard drive - 4 TB - USB 3.2 Gen 1"@en	COL title VAL  "WD HDD 1TB My Passport Black"@en	0
+COL title VAL  "Ext. HDD LaCie Mobile Drive 2TB USB-C"@ro	COL title VAL  "Western Digital 2TB Elements Portable External Hard Drive - USB 3.0 - WDBU6Y0020BBK-WESN"@en	0
+COL title VAL  "TUF GAMING X570-PLUS WIFI, Mainboard"@ro	COL title VAL  "Asus® TUF X470-PLUS GAMING - AMD® X470 Chipset - Ryzen, Athlon and A-series AMD® Processors for Socket AM4"@en	0
+COL title VAL  "SanDisk SD Extreme V30 U3 UHS-I C10 - 128GB"@de	COL title VAL  "SanDisk 256gb Sd Kart 160mb/s Micro Ext C10 Sdsqxa1-256g-gn6ma"@sv	0
+COL title VAL  "BenQ GW2480 - Full HD IPS Monitor"@it	COL title VAL  "Monitor Gaming 24'' ASUS PG248Q"@tl	0
+COL title VAL  "Asus GeForce GTX 1660 SUPER TUF Gaming OC 6GB Video Card"@en	COL title VAL  "ASUS GeForce GTX1660 SUPER 6GB GDDR6 GAMING TUF3"@de	0
+COL title VAL  "ASUS TUF B450M-Plus Gaming AMD Socket AM4 Mainboard (Local Warranty 3years with Avertek)- ALLSTARS by Alliance Stars Group P/L"@en	COL title VAL  "Asus TUF B450M-PLUS GAMING AM4 M-ATX Motherboard"@en	1
+COL title VAL  "8GB Corsair ValueSelect DDR4-2133 DIMM CL15 Single"@en	COL title VAL  "8GB (1 x 8GB) DDR4 2400MHz SO-DIMM"@de	0
+COL title VAL  "Ultra Dual Drive USB Type-C USB-nøgle 32 GB USB Type-A / USB Type-C 3.2 Gen 1 (3.1 Gen 1) Sort, Sølv"@en	COL title VAL  "SanDisk Dual Drive USB Type-C 32GB"@no	1
+COL title VAL  "Asus TUF Gaming X570-Plus (Wi-Fi) ATX AMD AM4 Ryzen 3000 PCIe 4.0 M. 2 12+2 Dr. MOS DDR4 LAN HDMI DP CFX USB 3.2 Gen 2 Type-A Type-C Aura Sync RGB | 90MB1170-M0EAY0"@de	COL title VAL  "ASUS TUF X470-PLUS GAMING Moderkort - AMD X470 - AMD AM4 socket - DDR4 RAM - ATX"@de	0
+COL title VAL  "Logitech G332 Wired Gaming Kulaklk 981-000757"@de	COL title VAL  "HEADSET GAMING G633 WRL/981-000605 LOGITECH"@de	0
+COL title VAL  "Cooler Master Masterliquid Ml360R Rgb Liquid Processor Cooler"@fr	COL title VAL  "Cooler Master MasterLiquid Lite 120 Liquid CPU Cooler"@fr	0
+COL title VAL  "PHILIPS MONITOR LED IPS 24\" (23.8) 16:9 FULLHD VGA DVI HDMI 243V7QDSB"@de	COL title VAL  "iiyama ProLite XUB2792QSU-B1 27\" LED LCD Monitor - 16:9 - 5 ms"@en	0
+COL title VAL  "Cooler Master MasterLiquid 120R RGB"@en	COL title VAL  "Cooler Master Masterliquid Ml360R Rgb Liquid Processor Cooler"@fr	0
+COL title VAL  "CORSAIR iCUE H115i RGB PRO"@ca	COL title VAL  "Corsair LL Series LL140 RGB Dual Light Loop PWM Fan 140mm Dual Pack with Lighting Node Pro Controller"@en	0
+COL title VAL  "Sandisk Cruzer Glide Flash Drive"@de	COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	0
+COL title VAL  "3M - PF322W DT PRIVACY FLT WIDESCREEN LCD"@de	COL title VAL  "3M - Sekretessfilter 27\" Widescreen 16:9"@de	0
+COL title VAL  "Sandisk USB Flash 32GB Cruzer Glide 2.0/3.0"@de	COL title VAL  "SanDisk Cruzer Glide - USB flash drive - 64 GB"@da	0
+COL title VAL  "CORSAIR DDR4 2666MHz 32GB Kit 4x288 DIMM Unbuffered 16-18-18-35 Vengeance LPX Black Heat spreader 1.20V"@de	COL title VAL  "Asus GeForce GTX 1660 SUPER TUF Gaming OC 6GB Video Card"@en	0
+COL title VAL  "LaCie Mobile Portable HDD 5TB 2.5\" USB Type C/USB 3.0, Moon Silver"@en	COL title VAL  "Lacie LaCie Mobile Drive 2.5\" 2TB USB-C - Moon Silver"@fr	0
+COL title VAL  "Samsung C27F390 27in Full HD LED Monitor"@en	COL title VAL  "Corsair Vengeance LPX 8GB DDR4 3000MHz C16 RAM"@en	0
+COL title VAL  "SanDisk Extreme Pro (256GB) SDXC Memory Card"@en	COL title VAL  "Flash Memory 16GB SanDisk (Cruzer Force) Metal"@en	0
+COL title VAL  "3M - PF322W DT PRIVACY FLT WIDESCREEN LCD"@de	COL title VAL  "3M MOBILE INTERACTIVE SOLUTION PF220W9F LIGHTWEIGHT FRAMED PRIVACY FILTER"@en	0
+COL title VAL  "Kingston DT MicroDuo 16GBUSB 3.0"@en	COL title VAL  "PENDRIVE 128GB USB3.0 TIPO C KINGSTON DT MICRO DUO"@de	0
+COL title VAL  "Ballistix MAX 16GB Kit DDR4 CL18 8GBx2 4000 DIMM 288pin black"@en	COL title VAL  "Corsair Vengeance LPX 8GB DDR4 3000MHz C16 RAM"@en	0
+COL title VAL  "Kingston DataTraveler I G4 - USB 3.0 - 16GB"@no	COL title VAL  "Kingston DataTraveler MicroDuo 3C USB Flash Drive 128GB"@en	0
+COL title VAL  "ASUS ROG Strix B450-E GAMING AMD ATX Motherboard"@en	COL title VAL  "Gigabyte X570 AORUS ELITE AMD Motherboard"@en	0
+COL title VAL  "Corsair Vengeance LPX Black 16GB (2x8GB) DDR4 3600MHz Dual Channel Memory (RAM) Kit"@en	COL title VAL  "CORSAIR Desktop Ram Vengeance RGB Series - 16GB (8GBx2) DDR4 3000MHz RAM (CMW16GX4M2C3000C15W)"@de	0
+COL title VAL  "VENTOLA X CASE 120X120 RGB MF121L MASTERFAN 1200 RPM AIRFLOW 32±,"@ca	COL title VAL  "VENGEANCE® RGB PRO 16GB (2 x 8GB) DDR4 White"@de	0
+COL title VAL  "Seagate IronWolf 110 3.84 To"@en	COL title VAL  "8GB Corsair ValueSelect DDR4-2133 DIMM CL15 Single"@en	0
+COL title VAL  "SanDisk Ultra SDXC 256GB 100 MB/s UHS-I Class 10"@sv	COL title VAL  "SanDisk Extreme Pro (256GB) SDXC Memory Card"@en	0
+COL title VAL  "Gigabyte GeForce RTX 2080 Ti Xtreme (Base:1350MHz,Boost:1770MHz), 11GB GDDR6 (14140MHz), PCI-E 3.0, 3x DisplayPort 1.4, 3x HDMI 2.0b, USB Type-C, RGB Fusion 2.0"@en	COL title VAL  "Asus TUF Gaming X570-Plus (Wi-Fi) ATX AMD AM4 Ryzen 3000 PCIe 4.0 M. 2 12+2 Dr. MOS DDR4 LAN HDMI DP CFX USB 3.2 Gen 2 Type-A Type-C Aura Sync RGB | 90MB1170-M0EAY0"@de	0
+COL title VAL  "CORSAIR Desktop Ram Vengeance RGB Series - 16GB (8GBx2) DDR4 3000MHz RAM (CMW16GX4M2C3000C15W)"@de	COL title VAL  "VENGEANCE® RGB PRO 16GB (2 x 8GB) DDR4 White"@de	1
+COL title VAL  "Corsair Vengeance LPX Black 16GB (2x8GB) DDR4 3600MHz Dual Channel Memory (RAM) Kit"@en	COL title VAL  "G.SKILL DDR4 TRIDENTZ 2x8GB 3600MHz CL16 XMP2 RGB - F4-3600C16D-16GTZNC"@de	0
+COL title VAL  "LaCie Mobile Drive STHG4000400 - hard drive - 4 TB - USB 3.1 Gen 2"@de	COL title VAL  "LaCie 4TB USBC USB 3.0 Aluminum enclosure MoonSilver"@ro	1
+COL title VAL  "Kingston Technology DataTraveler SE9 G2 64GB lecteur USB flash 64 Go USB Type-A 3.2 Gen 1 (3.1 Gen 1) Argent"@en	COL title VAL  "Ultra Dual Drive USB Type-C USB-nøgle 32 GB USB Type-A / USB Type-C 3.2 Gen 1 (3.1 Gen 1) Sort, Sølv"@en	0
+COL title VAL  "ASUS M/B ROG STRIX X570-F GAMING"@de	COL title VAL  "ASUS ROG Strix X570-F Gaming scheda madre Presa AM4 ATX AMD X570"@de	1
+COL title VAL  "Cooler Master MasterFan MF121L RGB Computer case Fan"@en	COL title VAL  "VENTOLA X CASE 120X120 RGB MF121L MASTERFAN 1200 RPM AIRFLOW 32±,"@ca	1
+COL title VAL  "8GB (1 x 8GB) DDR4 2400MHz SO-DIMM"@de	COL title VAL  "Crucial Mac 8GB DDR4 2400Mhz SO-DIMM"@ro	1
+COL title VAL  "BenQ GW2480 23.8" Full HD IPS Monitor"@it	COL title VAL  "PHILIPS MONITOR LED IPS 24\" (23.8) 16:9 FULLHD VGA DVI HDMI 243V7QDSB"@de	0
+COL title VAL  "HEADSET GAMING G633 WRL/981-000605 LOGITECH"@de	COL title VAL  "G633 Artemis Spectrum Gaming Headset"@en	1
+COL title VAL  "BenQ GW2480 - Full HD IPS Monitor"@it	COL title VAL  "BenQ GW2480 23.8" Full HD IPS Monitor"@it	1
+COL title VAL  "CORSAIR DDR4 2666MHz 32GB Kit 4x288 DIMM Unbuffered 16-18-18-35 Vengeance LPX Black Heat spreader 1.20V"@de	COL title VAL  "Corsair 32GB 2666MHz Vengeance LPX Black CL16 (4x8GB)"@en	1
+COL title VAL  "HyperX Kit 16GB (2 x 8GB) DDR4 3333MHz Predator Black CL16"@en	COL title VAL  "Kingston Hyperx Fury 16GB 3200Mhz DDR4 Cl16 DIMM Black"@en	0
+COL title VAL  "32GB Kit (2 x 16GB) HyperX Predator DDR4 3000MHz, CL15, Black, DIMM Memory"@en	COL title VAL  "Kingston HyperX Predator 32GB (2x16GB) DDR4 PC4-24000 3000MHz Dual Channel Kit"@en	1
+COL title VAL  "Corsair LL Series LL140 RGB Dual Light Loop PWM Fan 140mm Dual Pack with Lighting Node Pro Controller"@en	COL title VAL  "Corsair Light Loop Series, LL140 RGB, 140mm Dual Light Loop RGB LED PWM Fan, 2 Fan Pack with Lighting Node PRO"@en	1
+COL title VAL  "Asus PG248Q 24″ FHD TN 180Hz DP HDMI USB – Monitor"@en	COL title VAL  "Monitor Gaming 24'' ASUS PG248Q"@tl	1
+COL title VAL  "WD My Passport WDBPKJ0040BBK - hard drive - 4 TB - USB 3.2 Gen 1"@en	COL title VAL  "HDD extern WD My Passport, 1TB, 2,5" USB 3.0, negru,"@en	0
+COL title VAL  "Flash Memory 16GB SanDisk (Cruzer Force) Metal"@en	COL title VAL  "Intel Core i9 9900X (Skylake-X Refresh) Processor - Retail"@en	0
+COL title VAL  "Ecran Pc IIYAMA XU2390HS-B1"@en	COL title VAL  "RAZER Viper Ambidextrous Gaming Mouse, herní myš"@en	0
+COL title VAL  "3M - Privacy Filter NotebookTil 13\" Apple MacBook Pro - (2016 modell)"@en	COL title VAL  "3M - Privacy filter Macbook Pro 15'', 2016 model (16:10)"@en	0
+COL title VAL  "WD WDS200T2B0B 2Tb SATA BLUE Ssd Disk"@de	COL title VAL  "WD 2 TB SATA BLUE 2,5 inc SSD"@en	0
+COL title VAL  "Samsung C27F390 27in Full HD LED Monitor"@en	COL title VAL  "BenQ GW2480 - Full HD IPS Monitor"@it	0
+COL title VAL  "Corsair Vengeance LPX Black 16GB 3600 MHz DDR4 Dual Channel Memory Kit"@en	COL title VAL  "Kingston Technology ValueRAM 4GB DDR3-1600 memory module 1600 MHz"@en	0
+COL title VAL  "ASUS ROG Strix B550-F Gaming Motherboard"@en	COL title VAL  "Asus ROG Strix X570-E Gaming Motherboard"@en	0
+COL title VAL  "LOGITECH M330 Silent Plus Red - 2.4GHZ - EMEA"@de	COL title VAL  "Seagate Cheetah 300GB Enterprise 3.5\" SAS HDD/Hard Drive"@en	0
+COL title VAL  "SANDISK EXTREME PRO SDXC 256GB V30 UHS-I U3 - SDSDXXY-256G-GN4IN"@de	COL title VAL  "SanDisk 32GB Ultra SDSDUNB-032G-GN3IN SDHC Memory Card C10 UHS-I"@en	0
+COL title VAL  "LaCie Mobile Portable HDD 5TB 2.5\" USB Type C/USB 3.0, Moon Silver"@en	COL title VAL  "LaCie 4TB Rugged Thunderbolt / USB-C Mobile HDD"@de	0
+COL title VAL  "ASUS ROG Strix B550-F Gaming AMD ATX Motherboard"@en	COL title VAL  "Asus TUF B450M-PLUS GAMING AM4 M-ATX Motherboard"@en	0
+COL title VAL  "SanDisk Extreme PRO USB 3.1 Solid State Flash Drive 128GB"@en	COL title VAL  "Sandisk USB Flash 32GB Cruzer Glide 2.0/3.0"@de	0
+COL title VAL  "iiyama G-MASTER GE2288HS 55CM 21.5IN TN 54,6 cm (21.5\") 1920 x 1080 Pixels Full HD LED Zwart"@so	COL title VAL  "iiyama ProLite XU2390HS 23 Inch Full HD LED Flat Black computer monitor"@en	0
+COL title VAL  "ASUS ROG Strix X570-F Gaming scheda madre Presa AM4 ATX AMD X570"@de	COL title VAL  "ASUS ROG Strix B550-F Gaming AMD ATX Motherboard"@en	0
+COL title VAL  "CORSAIR DDR4 2666MHz 32GB Kit 4x288 DIMM Unbuffered 16-18-18-35 Vengeance LPX Black Heat spreader 1.20V"@de	COL title VAL  "Seagate Cheetah 300GB Enterprise 3.5\" SAS HDD/Hard Drive"@en	0
+COL title VAL  "LACIE 2TB 2.5 RUGGED PORTABLE THUNDERBOLT TYPE C"@vi	COL title VAL  "ASUS Radeon RX 5700 XT ROG Strix OC 8GB GDDR6"@de	0
+COL title VAL  "Asus TUF Gaming X570-Plus (Wi-Fi) ATX AMD AM4 Ryzen 3000 PCIe 4.0 M. 2 12+2 Dr. MOS DDR4 LAN HDMI DP CFX USB 3.2 Gen 2 Type-A Type-C Aura Sync RGB | 90MB1170-M0EAY0"@de	COL title VAL  "ASUS TUF Gaming M5 Optical USB RGB Gaming Mouse featuring a 6200 DPI Optical sensor Omron switches and Aura Sync RGB lighting - ASUS Official Store | Free Shipping and Financing Available"@en	0
+COL title VAL  "KINGSTON 8GB 1600MHz DDR3 CL10 DIMM HyperX Fury Series"@en	COL title VAL  "DDR4 16GB 3200 Kingston Fury Black"@de	0
+COL title VAL  "Corsair 32GB 2666MHz Vengeance LPX Black CL16 (4x8GB)"@en	COL title VAL  "Corsair Vengeance LPX schwarz, DDR4-2666, CL16 - 32 GB Dual Kit"@de	0
+COL title VAL  "SanDisk Extreme Pro (256GB) SDXC Memory Card"@en	COL title VAL  "SANDISK EXTREME PRO SDXC 256GB V30 UHS-I U3 - SDSDXXY-256G-GN4IN"@de	1
+COL title VAL  "Corsair Vengeance LPX RAM 16GB 2400MHz DDR4 UDIMM 288 Pin Desktop Memory"@en	COL title VAL  "Corsair Vengeance LPX Black 16GB (2x8GB) DDR4 3600MHz Dual Channel Memory (RAM) Kit"@en	0
+COL title VAL  "VENGEANCE® RGB PRO 16GB (2 x 8GB) DDR4 White"@de	COL title VAL  "Crucial Ballistix MAX 16GB Kit (2 x 8GB) DDR4-4000 Desktop Gaming Memory (Black) | BLM2K8G40C18U4B | Crucial UK"@en	0
+COL title VAL  "3M - DESKTOP LCD LW FRAMED FILTER"@de	COL title VAL  "3m Pf19.0 Privacy Filter For Standard 19\" Desktop Lcd Monitors (5:4)"@en	0
+COL title VAL  "SanDisk Ultra SDXC 256GB 100 MB/s UHS-I Class 10"@sv	COL title VAL  "Seagate Cheetah 300GB Enterprise 3.5\" SAS HDD/Hard Drive"@en	0
+COL title VAL  "Asus TUF Gaming X570-Plus (Wi-Fi) ATX AMD AM4 Ryzen 3000 PCIe 4.0 M. 2 12+2 Dr. MOS DDR4 LAN HDMI DP CFX USB 3.2 Gen 2 Type-A Type-C Aura Sync RGB | 90MB1170-M0EAY0"@de	COL title VAL  "MSI GeForce RTX 2080 Ti Gaming X Trio 11GB GDDR6 RGB HDMI/3*DP/USB Type-C PCi Ex 3.0 16x"@en	0
+COL title VAL  "WD 2 TB SATA BLUE 2,5 inc SSD"@en	COL title VAL  "WD BLUE 250GB M.2 SSD DRIVE"@de	0
+COL title VAL  "Logitech BRIO 4K Stream Edition Webcam with FREE XSplit Software"@en	COL title VAL  "3m Pf19.0 Privacy Filter For Standard 19\" Desktop Lcd Monitors (5:4)"@en	0
+COL title VAL  "LaCie Mobile Drive 5TB External Hard Drive Portable HDD - Moon Silver USB-C USB 3.0, for Mac and PC Desktop, 1 Month Adobe CC (STHG5000400)"@en	COL title VAL  "Lacie LaCie Mobile Drive 2.5\" 2TB USB-C - Moon Silver"@fr	0
+COL title VAL  "2000GB Seagate FireCuda ST2000DX002 7200rpm 64MB 8GB SSD"@en	COL title VAL  "Seagate FireCuda 2TB ST2000DX002 SATA 3.5-Inch Hybrid Hard Disk Drive"@en	1
+COL title VAL  "3M - PFIM21V2 privacy filter black"@en	COL title VAL  "Privacy filter 23 Wide - Flex"@en	0
+COL title VAL  "SanDisk 256gb Sd Kart 160mb/s Micro Ext C10 Sdsqxa1-256g-gn6ma"@sv	COL title VAL  "SanDisk Extreme PRO SD UHS-II USB 3.0"@en	0
+COL title VAL  "LaCie Mobile Drive STHG4000400 - hard drive - 4 TB - USB 3.1 Gen 2"@de	COL title VAL  "Ultra Dual Drive USB Type-C USB-nøgle 32 GB USB Type-A / USB Type-C 3.2 Gen 1 (3.1 Gen 1) Sort, Sølv"@en	0
+COL title VAL  "Corsair 32GB 2666MHz Vengeance LPX Black CL16 (4x8GB)"@en	COL title VAL  "Corsair Gaming K55 RGB Keyboard, Backlit RGB LED"@en	0
+COL title VAL  "Karta pamięci Sandisk SDHC Ultra 48MB/s Class 10 UHS-I 32 GB - SDSDUNB-032G-GN3IN"@id	COL title VAL  "SanDisk Extreme Pro UHS II SDXC 32 GB 300 MB/s"@de	0
+COL title VAL  "MB ASUS PRIME PRIME B365M-A LGA1151 (COFFEE LAKE) 4DDR4 VGA+DVI+HDMI PCIe M2 Raid mATX"@en	COL title VAL  "ASUS PRIME B365M-A MOTHERBOARD LGA 1151 (SOCKET H4) MICRO ATX"@en	1
+COL title VAL  "ROG Strix Fusion Langalliset pelikuulokkeet"@fi	COL title VAL  "Corsair LL Series LL140 RGB Dual Light Loop PWM Fan 140mm Dual Pack with Lighting Node Pro Controller"@en	0
+COL title VAL  "Seagate Cheetah 300GB Enterprise 3.5\" SAS HDD/Hard Drive"@en	COL title VAL  "HPE 300GB SAS 12G Enterprise 10K SFF (2.5in) SC 3yr Wty Digitally Signed Firmware HDD"@en	0
+COL title VAL  "Z490 AORUS PRO AX, Intel® Z490 Chipset, LGA 1200, HDMI, ATX Motherboard"@en	COL title VAL  "ASUS PRIME B365M-A MOTHERBOARD LGA 1151 (SOCKET H4) MICRO ATX"@en	0
+COL title VAL  "CPU Intel s1151 Core i9-9900 - 3,10GHz (BX80684I99900)"@it	COL title VAL  "Intel Core i9-9900 Box"@it	1
+COL title VAL  "Logitech G402 Gaming Mouse USB Siyah 910-004068"@en	COL title VAL  "G633 Artemis Spectrum Gaming Headset"@en	0
+COL title VAL  "VENGEANCE® RGB PRO 16GB (2 x 8GB) DDR4 White"@de	COL title VAL  "Gigabyte GA-X570-ELITE AORUS (AM4) (D) (X570 AORUS ELITE)"@de	0
+COL title VAL  "Asus Strix GeForce RTX 2060 Super EVO Gaming 8GB Graphics Card"@en	COL title VAL  "MSI GeForce RTX 2080 Ti GAMING X TRIO 11G"@en	0
+COL title VAL  "Kingston DataTraveler 100 G3 256GB USB Stick 3.0 Flash Drive - Black"@en	COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	0
+COL title VAL  "Corsair Vengenace LPX DDR4 2666MHz 8GB"@de	COL title VAL  "VENGEANCE® RGB PRO 16GB (2 x 8GB) DDR4 White"@de	0
+COL title VAL  "SanDisk Extreme PRO SD UHS-II USB 3.0"@en	COL title VAL  "Sandisk SDHC Extreme Pro 32GB, UHS Speed Class U3, UHS-II, 300MB/s »SD Memory Card«"@en	0
+COL title VAL  "Cooler Master MasterLiquid 120R RGB"@en	COL title VAL  "Cooler Master MasterFan MF121L RGB Computer case Fan"@en	0
+COL title VAL  "LaCie Mobile Portable HDD 5TB 2.5\" USB Type C/USB 3.0, Moon Silver"@en	COL title VAL  "LaCie Mobile Drive 5TB External Hard Drive Portable HDD - Moon Silver USB-C USB 3.0, for Mac and PC Desktop, 1 Month Adobe CC (STHG5000400)"@en	1
+COL title VAL  "BenQ SW2700PT 27 inch 2K Photographer Monitor2560x1440 QHD, 99% Adobe RGB, 100% Rec.709/sRGB color space, Hardware Calibration, 14-bit 3D LUTSW2700PT, HDMI 1.4,OSD Controller, 60Hz refresh rate | SW2700PT"@en	COL title VAL  "Gigabyte GeForce RTX 2080 Ti Xtreme (Base:1350MHz,Boost:1770MHz), 11GB GDDR6 (14140MHz), PCI-E 3.0, 3x DisplayPort 1.4, 3x HDMI 2.0b, USB Type-C, RGB Fusion 2.0"@en	0
+COL title VAL  "Cooler CPU COOLER MASTER Hyper T4, ventilator 120mm, PWM, 4x heatpipe, Universal (RR-T4-18PK-R1)"@en	COL title VAL  "Cooler Master MasterLiquid Lite 120 Liquid CPU Cooler"@fr	0
+COL title VAL  "3M - Privacy filter Macbook Pro 15'', 2016 model (16:10)"@en	COL title VAL  "3M - Privacy Filter for MacBook Pro"@en	0
+COL title VAL  "Western Digital 2TB Elements Portable External Hard Drive - USB 3.0 - WDBU6Y0020BBK-WESN"@en	COL title VAL  "Gigabyte 240GB 2.5\" Solid State Drive/SSD"@en	0
+COL title VAL  "ASUS GeForce RTX 2070 STRIX GAMING OC 8GB"@de	COL title VAL  "ASUS Placa video STRIX RTX2060S EVO GAMING, 8GB GDDR6 256bit"@es	0
+COL title VAL  "LACIE 2TB 2.5 RUGGED PORTABLE THUNDERBOLT TYPE C"@vi	COL title VAL  "Ext. HDD LaCie Mobile Drive 2TB USB-C"@ro	0
+COL title VAL  "3M - PFIM21V2 privacy filter black"@en	COL title VAL  "3M - 3M Privacy Filter for MacBook Pro 15\" TB (2016)"@en	0
+COL title VAL  "DDR4 16GB 3200 Kingston Fury Black"@de	COL title VAL  "Kingston HyperX Predator 32GB (2x16GB) DDR4 PC4-24000 3000MHz Dual Channel Kit"@en	0
+COL title VAL  "WD My Passport WDBPKJ0040BBK - hard drive - 4 TB - USB 3.2 Gen 1"@en	COL title VAL  "LaCie Mobile Drive STHG4000400 - hard drive - 4 TB - USB 3.1 Gen 2"@de	0
+COL title VAL  "XUB2792QSU-B1iiyama 27\" ETE, ULTRA SLIM LINE, 2560x1440 WQHD, IPS, 5ms, FreeSync, 13cm height adj. stand, 350cd/m², VGA, HDMI, DisplayPort, Speakers,USB-HUB(2x3.0)"@en	COL title VAL  "Monitor 27 SW271 LED 5ms/QHD/IPS/HDMI/DP/USB"@en	0
+COL title VAL  "Memoire DDR4 CORSAIR 8Go DDR4 3000MHz"@en	COL title VAL  "Corsair Vengeance LPXFekete DDR4, 2666MHz 8GB (1 x 8GB) memória"@en	0
+COL title VAL  "Seagate IronWolf 110 3.84 To"@en	COL title VAL  "Seagate IronWolf 110 internal solid state drive 2.5\" 3840 GB SATA III 3D TLC"@en	1
+COL title VAL  "32GB Kit (2 x 16GB) HyperX Predator DDR4 3000MHz, CL15, Black, DIMM Memory"@en	COL title VAL  "Ballistix MAX 16GB Kit DDR4 CL18 8GBx2 4000 DIMM 288pin black"@en	0
+COL title VAL  "SanDisk Extreme Pro UHS II SDXC 32 GB 300 MB/s"@de	COL title VAL  "Monitor BenQ 27\" SW2700PT - 9H.LDKLB.QBE"@en	0
+COL title VAL  "3M - PF27.0W9 PRIVACY FILTER BLACK FOR 27,0IN / 68,6 CM / 16:9IN ACCS"@en	COL title VAL  "ASUS TUF Gaming VG27BQ 68.6 cm (27") 2560 x 1440 pixels WQHD LED Black"@ca	0
+COL title VAL  "iiyama ProLite XU2390HS 23 Inch Full HD LED Flat Black computer monitor"@en	COL title VAL  "Samsung C27F390 27in Full HD LED Monitor"@en	0
+COL title VAL  "32GB Kit (2 x 16GB) HyperX Predator DDR4 3000MHz, CL15, Black, DIMM Memory"@en	COL title VAL  "Corsair Vengeance LPX 8GB DDR4 3000MHz C16 RAM"@en	0
+COL title VAL  "Gigabyte 240GB 2.5\" Solid State Drive/SSD"@en	COL title VAL  "240GB Gigabyte 2.5\" SATA 3.0 SSD"@de	1
+COL title VAL  "Asus ROG STRIX B450-E Gaming(ROG STRIX B450-E GAMING)"@de	COL title VAL  "ASUS ROG Strix B450-E GAMING AMD ATX Motherboard"@en	1
+COL title VAL  "RAZER Viper Ambidextrous Gaming Mouse, herní myš"@en	COL title VAL  "MONITOR LG 32UK550-B 31,5\" IPS UHD 4K 4MS HDMI DP AJUSTABLE ALTURA ALTAVOCES"@de	0
+COL title VAL  "AMD - Ryzen 3 3300X Prosessor Socket-AM4, 4-core, 8-Thread, 3.8/4.3GHz, 65W, 7nm, inkl. kjøler"@en	COL title VAL  "AMD Ryzen 3 3300X Desktop Processor 4 Cores 8 Threads 18MB Cache PCIe 4.0"@en	1
+COL title VAL  "Logitech M510 Laser Mouse RED"@en	COL title VAL  "Logitech Optical Mouse USB B100"@en	0
+COL title VAL  "LaCie Mobile Drive STHG4000400 - hard drive - 4 TB - USB 3.1 Gen 2"@de	COL title VAL  "LaCie Rugged USB 3.1C 4 TB 2,5'' STFS4000800"@en	0
+COL title VAL  "Apple iPad Air - 256GB - WiFi Tablet (10,5\", 256 GB, iOS)"@en	COL title VAL  "Gigabyte 240GB 2.5\" Solid State Drive/SSD"@en	0
+COL title VAL  "Corsair Vengeance LPX Black 16GB (2x8GB) DDR4 3600MHz Dual Channel Memory (RAM) Kit"@en	COL title VAL  "Privacy filter 23 Wide - Flex"@en	0
+COL title VAL  "MSI GeForce RTX 2080 Ti GAMING X TRIO 11G"@en	COL title VAL  "MSI MBMPG Z490 Gaming Edge WIFI LGA 1200 ATX"@de	0
+COL title VAL  "ASUS ROG Strix Fusion Wireless headset Head-band Binaural Black"@en	COL title VAL  "ASUS ROG STRIX B550-E GAMING"@de	0
+COL title VAL  "Logitech G G332 Black & Red Gaming Headset"@en	COL title VAL  "iiyama 21.5\" G-Master Black Hawk FreeSync Gaming Monitor"@en	0
+COL title VAL  "MEMOIRE USB3 16 Go DTIG4-16GB kingston"@tl	COL title VAL  "Western Digital Purple 10TB 7200 RPM Surveillance Desktop Internal Hard Disk Drive ( WD101PURZ )"@en	0
+COL title VAL  "ASUS ROG Strix RTX 2070 OC,GAMING Grafikkarte,8 GB GDDR6,2x HDMI,2x DP,USB-C"@de	COL title VAL  "WD HDD 1TB My Passport Black"@en	0
+COL title VAL  "SanDisk CFast 2.0 64GB Extreme Pro Memory Card | Read 525 MB/s | Write 430MB/s | 4K Video"@en	COL title VAL  "Sandisk Extreme Pro 64GB CFast 2.0"@en	1
+COL title VAL  "LACIE 2TB 2.5 RUGGED PORTABLE THUNDERBOLT TYPE C"@vi	COL title VAL  "XPG SX6000 Lite internal solid state drive 1000 GB PCI Express 3.0 3D TLC NVMe M.2 SSD"@en	0
+COL title VAL  "BenQ 27 inch 4K PhotoVue Photographer Monitor (SW271), 3840x2160 UHD, HDR, 99% Adobe RGB, 100% sRGB, Rec.709, DCI-P3 Colour Space, Hardware Calibration, IPS,14-bit 3D LUT, GamutDuo, USB-C, DP, HDMI"@en	COL title VAL  "BenQ SW2700PT 27 inch 2K Photographer Monitor2560x1440 QHD, 99% Adobe RGB, 100% Rec.709/sRGB color space, Hardware Calibration, 14-bit 3D LUTSW2700PT, HDMI 1.4,OSD Controller, 60Hz refresh rate | SW2700PT"@en	0
+COL title VAL  "Corsair Vengeance LPX Red 16GB (2x8GB) DDR4 PC4-19200 2400MHz Dual Channel Kit"@en	COL title VAL  "Corsair Vengeance LPX Black 16GB (1x16GB) DDR4 PC4-19200 2400MHz Single Module"@en	0
+COL title VAL  "Cooler Master MasterLiquid ML360R RGB - 360 mm"@en	COL title VAL  "ASUS Scheda Madre ROG STRIX Z390-I GAMING Intel Z390"@de	0
+COL title VAL  "Sandisk USB Flash 32GB Cruzer Glide 2.0/3.0"@de	COL title VAL  "SanDisk Extreme PRO SD UHS-II USB 3.0"@en	0
+COL title VAL  "872475-B21 HP G8-G10 300-GB 12G 10K 2.5 SAS"@de	COL title VAL  "Cooler Master MasterLiquid 120R RGB"@en	0
+COL title VAL  "SANDISK 128GB SDXV5 EXTREME SDXC MEMORY CARD (SDSDXV5-128G-GNCIN)-WRTY LTD LIFET W/DISTRIBUTOR"@de	COL title VAL  "SanDisk Extreme PRO SD UHS-II USB 3.0"@en	0
+COL title VAL  "ASUS TUF B450M-Plus Gaming AMD Socket AM4 Mainboard (Local Warranty 3years with Avertek)- ALLSTARS by Alliance Stars Group P/L"@en	COL title VAL  "LaCie Rugged USB 3.1C 4 TB 2,5'' STFS4000800"@en	0
+COL title VAL  "HDD extern WD My Passport, 1TB, 2,5" USB 3.0, negru,"@en	COL title VAL  "Hard Disk Drive portabil SEAGATE Backup Plus Slim STHN1000400, 1TB, USB 3.0, negru"@en	0
+COL title VAL  "BenQ 27 inch 4K PhotoVue Photographer Monitor (SW271), 3840x2160 UHD, HDR, 99% Adobe RGB, 100% sRGB, Rec.709, DCI-P3 Colour Space, Hardware Calibration, IPS,14-bit 3D LUT, GamutDuo, USB-C, DP, HDMI"@en	COL title VAL  "SanDisk CFast 2.0 64GB Extreme Pro Memory Card | Read 525 MB/s | Write 430MB/s | 4K Video"@en	0
+COL title VAL  "SanDisk ExtremePRO CompactFlash CF 128GB 160MB/s Memory Card"@en	COL title VAL  "Sandisk 128GB Extreme Pro 160 MBs Compact Flash"@en	1
+COL title VAL  "Corsair Vengeance LPX RAM 16GB 2400MHz DDR4 UDIMM 288 Pin Desktop Memory"@en	COL title VAL  "Corsair Vengeance Lpx 16 Gb (2x8 Gb) Ddr4 Dram Dimm 3200 M Hz C16 Black Heat Spreader"@en	0
+COL title VAL  "ASUS ROG STRIX B550-E GAMING Presa AM4 ATX AMD B550"@de	COL title VAL  "ASUS TUF X470-PLUS GAMING Moderkort - AMD X470 - AMD AM4 socket - DDR4 RAM - ATX"@de	0
+COL title VAL  "MOUSE B100 LOGITECH OEM USB OPTICO"@de	COL title VAL  "Logitech G402 Gaming Mouse USB Siyah 910-004068"@en	0
+COL title VAL  "Logitech G332 Wired Gaming Kulaklk 981-000757"@de	COL title VAL  "Logitech USB Headset H540 - USB - EMEA 981-000480"@de	0
+COL title VAL  "SanDisk Extreme Pro (256GB) SDXC Memory Card"@en	COL title VAL  "Sandisk SDHC Extreme Pro 32GB, UHS Speed Class U3, UHS-II, 300MB/s »SD Memory Card«"@en	0
+COL title VAL  "Seagate FireCuda 2TB ST2000DX002 SATA 3.5-Inch Hybrid Hard Disk Drive"@en	COL title VAL  "Western Digital Blue 3D NAND 2.5\" 2TB SATA III Solid State Drive"@en	0
+COL title VAL  "Logitech M510 mouse RF Wireless Laser"@en	COL title VAL  "Mouse Wireless LOGITECH M330 Silent, 1000 dpi, rosu"@fr	0
+COL title VAL  "SanDisk Extreme Pro UHS II SDXC 32 GB 300 MB/s"@de	COL title VAL  "DDR4 16GB 3200 Kingston Fury Black"@de	0
+COL title VAL  "TUF GAMING X570-PLUS WIFI, Mainboard"@ro	COL title VAL  "RAZER Viper Ambidextrous Gaming Mouse, herní myš"@en	0
+COL title VAL  "Samsung C27F390 27in Full HD LED Monitor"@en	COL title VAL  "MON LED 27 Samsung C27F390FHU"@tl	1
+COL title VAL  "Cooler Master MasterLiquid ML120L RGB AIO CPU Cooler"@en	COL title VAL  "WD My Passport WDBPKJ0040BBK - hard drive - 4 TB - USB 3.2 Gen 1"@en	0
+COL title VAL  "8GB Corsair ValueSelect DDR4-2133 DIMM CL15 Single"@en	COL title VAL  "Corsair Vengenace LPX DDR4 2666MHz 8GB"@de	0
+COL title VAL  "8GB Corsair ValueSelect DDR4-2133 DIMM CL15 Single"@en	COL title VAL  "Corsair Value Select 8GB PC4-17000 memory module DDR4 2133 MHz"@en	1
+COL title VAL  "Kingston 16GB DataTraveler 100 G3 (USB 3.0)"@no	COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	0
+COL title VAL  "Mouse Wireless LOGITECH M330 Silent, 1000 dpi, rosu"@fr	COL title VAL  "Logitech - 910-002225 - Wireless Mouse M185"@en	0
+COL title VAL  "ASUS ROG STRIX B550-E GAMING"@de	COL title VAL  "CORSAIR - K55 Wired Gaming Membrane Keyboard with RGB Backlighting - Black"@en	0
+COL title VAL  "HyperX Kit 16GB (2 x 8GB) DDR4 3333MHz Predator Black CL16"@en	COL title VAL  "HyperX Predator 16GB - PC4-26600 - DIMM"@en	1
+COL title VAL  "VGA ASUS TUF GAMING GEFORCE GTX 1660 SUPER 6GB GDRR6 OC EDITION"@de	COL title VAL  "Asus GeForce GTX 1660 SUPER TUF Gaming OC 6GB Video Card"@en	0
+COL title VAL  "Seagate Enterprise Performance 15K HDD 3,5' 300GB SAS 6Gb/s 16MB cache"@en	COL title VAL  "Seagate Exos X10 Enterprise 3.5'' HDD 10TB 512E SATA Hyperscale"@en	0
+COL title VAL  "Corsair Vengeance LPX 16GB Kit (2 x 8GB), DDR4, 2133MHz (PC4-17000), CL13, XMP 2.0, DIMM Memory"@en	COL title VAL  "Crucial Ballistix MAX 16GB Kit (2 x 8GB) DDR4-4000 Desktop Gaming Memory (Black) | BLM2K8G40C18U4B | Crucial UK"@en	0
+COL title VAL  "Seagate Exos X10 Enterprise 3.5'' HDD 10TB 512E SATA Hyperscale"@en	COL title VAL  "HPE 300GB SAS 12G Enterprise 10K SFF (2.5in) SC 3yr Wty Digitally Signed Firmware HDD"@en	0
+COL title VAL  "ASUS ROG STRIX B550-E GAMING Presa AM4 ATX AMD B550"@de	COL title VAL  "ASUS ROG Strix X570-F Gaming scheda madre Presa AM4 ATX AMD X570"@de	0
+COL title VAL  "Samsung S24F350H 24in Full HD LED Monitor"@de	COL title VAL  "MON LED 27 Samsung C27F390FHU"@tl	0
+COL title VAL  "KINGSTON 8GB 1600MHz DDR3 CL10 DIMM HyperX Fury Series"@en	COL title VAL  "Corsair Vengeance LPX 16GB Kit (2 x 8GB), DDR4, 2133MHz (PC4-17000), CL13, XMP 2.0, DIMM Memory"@en	0
+COL title VAL  "Corsair Vengeance LPX RAM 16GB 2400MHz DDR4 UDIMM 288 Pin Desktop Memory"@en	COL title VAL  "CORSAIR Desktop Ram Vengeance RGB Series - 16GB (8GBx2) DDR4 3000MHz RAM (CMW16GX4M2C3000C15W)"@de	0
+COL title VAL  "Western Digital Blue SN550 1TB M.2 (WDS100T2B0C)"@de	COL title VAL  "WD Blue 250GB PC SSD - SATA 6 Gb/s 2.5 Inch Solid State Drive -WDS250G1B0A"@en	0
+COL title VAL  "3M - PFIM21V2 privacy filter black"@en	COL title VAL  "3M - Filter 3M Dis 12,5 16:9 Privacy Gold GPF125W9 2"@en	0
+COL title VAL  "Intel Core i9-9900X Skylake X 10-Core 3.5 GHz (4.4 GHz Turbo) LGA 2066 165W BX80673I99900X Desktop Processor"@en	COL title VAL  "3M - 3M Privacy Filter for MacBook Pro 15\" TB (2016)"@en	0
+COL title VAL  "Asus PG248Q 24″ FHD TN 180Hz DP HDMI USB – Monitor"@en	COL title VAL  "ASUS ROG Strix RTX 2070 OC,GAMING Grafikkarte,8 GB GDDR6,2x HDMI,2x DP,USB-C"@de	0
+COL title VAL  "Western Digital Elements 2TB USB3.0 - 2,5" -fekete(WDBU6Y0020BBK-EESN)"@de	COL title VAL  "Western Digital Red 1TB 5400rpm 16MB SATA3 2,5"(WD10JFCX)"@de	0
+COL title VAL  "3M - Privacy filter Macbook Pro 15'', 2016 model (16:10)"@en	COL title VAL  "3M - PFIM21V2 privacy filter black"@en	0
+COL title VAL  "64GB SanDisk Extreme micro SD XC Memory Card V-Class 30 U3 4K Video A2 100MB/s"@en	COL title VAL  "SanDisk 32GB Extreme Micro SD Card with Adapter for Action Camera SDSQXAF-032G-GN6AA"@en	0
+COL title VAL  "Sandisk Extreme Pro 64GB CFast 2.0"@en	COL title VAL  "Sandisk 128GB Extreme Pro 160 MBs Compact Flash"@en	0
+COL title VAL  "Asus® TUF X470-PLUS GAMING - AMD® X470 Chipset - Ryzen, Athlon and A-series AMD® Processors for Socket AM4"@en	COL title VAL  "Asus TUF B450M-PLUS GAMING AM4 M-ATX Motherboard"@en	0
+COL title VAL  "ASUS Dual -RTX2070S-A8G-EVO NVIDIA GeForce RTX 2070 SUPER 8 GB GDDR6"@en	COL title VAL  "DDR4 16GB 3200 Kingston Fury Black"@de	0
+COL title VAL  "TUF GAMING X570-PLUS WIFI, Mainboard"@ro	COL title VAL  "Asus TUF B450M-PLUS GAMING AM4 M-ATX Motherboard"@en	0
+COL title VAL  "Cooler Master MasterLiquid 120R RGB"@en	COL title VAL  "Cooler Master MasterLiquid ML120L RGB AIO CPU Cooler"@en	0
+COL title VAL  "Karta pamięci Sandisk SDHC Ultra 48MB/s Class 10 UHS-I 32 GB - SDSDUNB-032G-GN3IN"@id	COL title VAL  "SanDisk 32GB Ultra SDSDUNB-032G-GN3IN SDHC Memory Card C10 UHS-I"@en	1
+COL title VAL  "SanDisk Ultra SDDD3-256G-G46 256 GB Pen Drives (Black, Silver)"@sv	COL title VAL  "Ultra Dual Drive USB Type-C USB-nøgle 32 GB USB Type-A / USB Type-C 3.2 Gen 1 (3.1 Gen 1) Sort, Sølv"@en	0
+COL title VAL  "LACIE 2TB 2.5 RUGGED PORTABLE THUNDERBOLT TYPE C"@vi	COL title VAL  "LaCie Rugged USB 3.1C 4 TB 2,5'' STFS4000800"@en	0
+COL title VAL  "Crucial Ballistix MAX 16GB Kit (2 x 8GB) DDR4-4000 Desktop Gaming Memory (Black) | BLM2K8G40C18U4B | Crucial UK"@en	COL title VAL  "CORSAIR - K55 Wired Gaming Membrane Keyboard with RGB Backlighting - Black"@en	0
+COL title VAL  "ASUS Radeon RX 5700 XT ROG Strix OC 8GB GDDR6"@de	COL title VAL  "ASUS GeForce RTX 2070 STRIX GAMING OC 8GB"@de	0
+COL title VAL  "Western Digital SSD M.22TB Blue 3D NAND"@de	COL title VAL  "LaCie Mobile Portable HDD 5TB 2.5\" USB Type C/USB 3.0, Moon Silver"@en	0
+COL title VAL  "SanDisk MicroSD Extreme V30 U3 UHS-I C10 A2 - 256GB"@en	COL title VAL  "SanDisk Extreme PRO 64GB A2 V30 Performance microSDXC"@en	0
+COL title VAL  "AMD Ryzen 3 3300X Desktop Processor 4 Cores 8 Threads 18MB Cache PCIe 4.0"@en	COL title VAL  "Asus TUF Gaming X570-Plus (Wi-Fi) ATX AMD AM4 Ryzen 3000 PCIe 4.0 M. 2 12+2 Dr. MOS DDR4 LAN HDMI DP CFX USB 3.2 Gen 2 Type-A Type-C Aura Sync RGB | 90MB1170-M0EAY0"@de	0
+COL title VAL  "WD Blue 250GB PC SSD - SATA 6 Gb/s 2.5 Inch Solid State Drive -WDS250G1B0A"@en	COL title VAL  "Western Digital Blue 3D NAND 2.5\" 2TB SATA III Solid State Drive"@en	0
+COL title VAL  "SanDisk USB 3.0 Cardreader, Type A for SD UHS I and UHS II, Black, Silver"@en	COL title VAL  "Asus® TUF X470-PLUS GAMING - AMD® X470 Chipset - Ryzen, Athlon and A-series AMD® Processors for Socket AM4"@en	0
+COL title VAL  "Pendrive 3.0 Sandisk Ultra Flair 32 GB"@no	COL title VAL  "iiyama ProLite XU2390HS 23 Inch Full HD LED Flat Black computer monitor"@en	0
+COL title VAL  "3M - PFIM21V2 PRIVACY FILTER BLACK IMAC 21.5IN 2013"@en	COL title VAL  "3M - PFIM21V2 privacy filter black"@en	1
+COL title VAL  "ASUS ROG Strix B550-F Gaming Motherboard"@en	COL title VAL  "ASUS ROG STRIX Z390-I GAMING Motherboard with WiFi/BT"@en	0
+COL title VAL  "Gigabyte GeForce RTX 2080 Ti Xtreme (Base:1350MHz,Boost:1770MHz), 11GB GDDR6 (14140MHz), PCI-E 3.0, 3x DisplayPort 1.4, 3x HDMI 2.0b, USB Type-C, RGB Fusion 2.0"@en	COL title VAL  "Gigabyte Geforce RTX 2080 Ti Windforce 11GB GDDR6 Graphics Card"@en	0
+COL title VAL  "ASUS PRIME X570-PRO (AM4) (D) (90MB11B0-M0EAY0)"@de	COL title VAL  "Asus Prime B450-PLUS Desktop Motherboard"@en	0
+COL title VAL  "ASUS Placa video STRIX RTX2060S EVO GAMING, 8GB GDDR6 256bit"@es	COL title VAL  "Asus Strix GeForce RTX 2060 Super EVO Gaming 8GB Graphics Card"@en	1
+COL title VAL  "3M - PF19.0 BLACK PRIVACY FILTER FRAMELESS FITS 21IN NOTEBOOK LCD"@de	COL title VAL  "Intel Core i9-9900 Box"@it	0
+COL title VAL  "Gigabyte Geforce RTX 2080 Ti Windforce 11GB GDDR6 Graphics Card"@en	COL title VAL  "MSI GeForce RTX 2080 Ti Gaming X Trio 11GB GDDR6 RGB HDMI/3*DP/USB Type-C PCi Ex 3.0 16x"@en	0
+COL title VAL  "Asus Prime B450-PLUS Desktop Motherboard"@en	COL title VAL  "Asus TUF B450M-PLUS GAMING AM4 M-ATX Motherboard"@en	0
+COL title VAL  "Samsung LS24F350 24\" PLS LED 1920x1080 Mega DCR 4ms 250cd HDMI LS24F350FHUXEN"@de	COL title VAL  "MON LED 27 Samsung C27F390FHU"@tl	0
+COL title VAL  "RAZER Viper Ambidextrous Gaming Mouse, herní myš"@en	COL title VAL  "Razer Viper Chroma Optical Ambidextrous Gaming Mouse"@en	1
+COL title VAL  "64GB SanDisk Extreme micro SD XC Memory Card V-Class 30 U3 4K Video A2 100MB/s"@en	COL title VAL  "SanDisk Extreme Pro (256GB) SDXC Memory Card"@en	0
+COL title VAL  "Asus Strix GeForce RTX 2060 Super EVO Gaming 8GB Graphics Card"@en	COL title VAL  "ASUS TUF Gaming TUF-GTX1660S-O6G-GAMING NVIDIA GeForce GTX 1660 SUPER 6 GB GDDR6"@de	0
+COL title VAL  "Cooler Master MasterLiquid ML360R RGB - 360 mm"@en	COL title VAL  "Cooler Master Masterliquid Ml360R Rgb Liquid Processor Cooler"@fr	1
+COL title VAL  "ASUS ROG Strix B450-E GAMING AMD ATX Motherboard"@en	COL title VAL  "ASUS ROG STRIX AMD Radeon RX 5700XT Overclocked 8G"@en	0
+COL title VAL  "ASUS Scheda Madre ROG STRIX Z390-I GAMING Intel Z390"@de	COL title VAL  "ASUS ROG STRIX Z390-I GAMING Motherboard with WiFi/BT"@en	1
+COL title VAL  "ASUS ROG Strix B550-F Gaming AMD ATX Motherboard"@en	COL title VAL  "ASUS ROG STRIX AMD Radeon RX 5700XT Overclocked 8G"@en	0
+COL title VAL  "Western Digital SSD 250GB Blue series Sata3"@de	COL title VAL  "WD 2 TB SATA BLUE 2,5 inc SSD"@en	0
+COL title VAL  "Seagate Cheetah 300GB Enterprise 3.5\" SAS HDD/Hard Drive"@en	COL title VAL  "Seagate Enterprise Capacity 3.5 HDD 10TB (Helium) 7200RPM SATA 6Gb/s 256 MB CacheInternal Bare Drive (ST10000NM0016)"@en	0
+COL title VAL  "Seagate IronWolfHDD, 3.5" 12TB, SATA3, 7200rpm 256MB, NAS"@en	COL title VAL  "Western Digital Blue 3D NAND 2.5\" 2TB SATA III Solid State Drive"@en	0
+COL title VAL  "Cooler Master Masterliquid Ml360R Rgb Liquid Processor Cooler"@fr	COL title VAL  "Cooler Master MasterLiquid ML120L RGB V2 AIO Liquid CPU Cooler MLW-D12M-A18PC-R2"@en	0
+COL title VAL  "KINGSTON 64GB DataTraveler 100 G3"@no	COL title VAL  "Kingston DataTraveler 100 G3 16 GB"@no	0
+COL title VAL  "Asus ROG STRIX B450-E Gaming(ROG STRIX B450-E GAMING)"@de	COL title VAL  "ASUS ROG Strix B550-F Gaming Motherboard"@en	0
+COL title VAL  "Corsair Gaming K55 RGB Keyboard, Backlit RGB LED"@en	COL title VAL  "ASUS ROG STRIX B550-E GAMING"@de	0
+COL title VAL  "Asus TUF B450M-PLUS GAMING AM4 M-ATX Motherboard"@en	COL title VAL  "MB ASUS PRIME B450-PLUS B450 AM4 4DDR4 DVI+HDMI 3*PCIE, 6*SATA,M.2 RGB ATX"@de	0
+COL title VAL  "ASUS ROG Strix B550-F Gaming Motherboard"@en	COL title VAL  "ASUS M/B ROG STRIX X570-F GAMING"@de	0
+COL title VAL  "Logitech BRIO 4K Ultra HD Webcam 960-001194"@de	COL title VAL  "MONITOR LG 32UK550-B 31,5\" IPS UHD 4K 4MS HDMI DP AJUSTABLE ALTURA ALTAVOCES"@de	0
+COL title VAL  "Seagate 12TB 3.5' IronWolf SATA3 NAS 24x7 7200RPM Performance HDD (ST12000VN0008) 3 Years Warranty"@en	COL title VAL  "Seagate IronWolfHDD, 3.5" 12TB, SATA3, 7200rpm 256MB, NAS"@en	1
+COL title VAL  "iiyama ProLite XUB3493WQSU-B1 computer monitor 86.4 cm (34\") 3440 x 1440 pixels UltraWide Quad HD LED Black"@ca	COL title VAL  "Seagate IronWolf 110 internal solid state drive 2.5\" 3840 GB SATA III 3D TLC"@en	0
+COL title VAL  "3M - DESKTOP LCD LW FRAMED FILTER"@de	COL title VAL  "3M - PFIM21V2 privacy filter black"@en	0
+COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	COL title VAL  "Kingston DataTraveler I G4 - USB 3.0 - 16GB"@no	0
+COL title VAL  "LaCie Mobile Portable HDD 5TB 2.5\" USB Type C/USB 3.0, Moon Silver"@en	COL title VAL  "LACIE 2TB 2.5 RUGGED PORTABLE THUNDERBOLT TYPE C"@vi	0
+COL title VAL  "Cooler Master MasterLiquid ML360R RGB - 360 mm"@en	COL title VAL  "Cooler Master MasterLiquid ML120L RGB AIO CPU Cooler"@en	0
+COL title VAL  "Disco Seagate Ironwolf Nas 10Tb Sata3 (St10000vn0008)"@en	COL title VAL  "Seagate IronWolf 110 3.84 To"@en	0
+COL title VAL  "Asus Prime B450-PLUS Desktop Motherboard"@en	COL title VAL  "ASUS PRIME Intel LGA 1200 B460M-K 10th Gen Micro-ATX Motherboard"@en	0
+COL title VAL  "Gigabyte AORUS GeForce RTX™ 2080 Ti XTREME 11G"@en	COL title VAL  "ASUS GeForce RTX 2070 STRIX GAMING OC 8GB"@de	0
+COL title VAL  "Corsair 16GB DDR4 Vengeance LPX 2133MHz Memory Kit for Skylake"@en	COL title VAL  "Corsair Vengeance LPX Red 16GB (2x8GB) DDR4 PC4-19200 2400MHz Dual Channel Kit"@en	0
+COL title VAL  "Western Digital 2TB Elements Portable External Hard Drive - USB 3.0 - WDBU6Y0020BBK-WESN"@en	COL title VAL  "Western Digital Elements 2TB USB3.0 - 2,5" -fekete(WDBU6Y0020BBK-EESN)"@de	1
+COL title VAL  "Cooler Master MasterLiquid 120R RGB"@en	COL title VAL  "Cooler Master MasterLiquid ML120L RGB V2 AIO Liquid CPU Cooler MLW-D12M-A18PC-R2"@en	0
+COL title VAL  "Kingston 16GB DataTraveler 100 G3 (USB 3.0)"@no	COL title VAL  "Mälupulk USB3.1 64GB Kingston DataTraveler DT100 must"@no	0
+COL title VAL  "Western Digital SSD 250GB Blue series Sata3"@de	COL title VAL  "Western Digital SSD M.22TB Blue 3D NAND"@de	0
+COL title VAL  "872475-B21 HP G8-G10 300-GB 12G 10K 2.5 SAS"@de	COL title VAL  "HPE 300GB SAS 12G Enterprise 10K SFF (2.5in) SC 3yr Wty Digitally Signed Firmware HDD"@en	1
+COL title VAL  "iiyama G-MASTER GE2288HS 55CM 21.5IN TN 54,6 cm (21.5\") 1920 x 1080 Pixels Full HD LED Zwart"@so	COL title VAL  "ASUS TUF Gaming VG27BQ 68.6 cm (27") 2560 x 1440 pixels WQHD LED Black"@ca	0
+COL title VAL  "3M - PF17.0W PRIVACY FILTER BLAC"@pl	COL title VAL  "Privacy filter 23 Wide - Flex"@en	0
+COL title VAL  "SanDisk Ultra Dual Drive m3.0 256GB Grey & Silver"@en	COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	0
+COL title VAL  "ASUS TUF X470-PLUS GAMING Moderkort - AMD X470 - AMD AM4 socket - DDR4 RAM - ATX"@de	COL title VAL  "Asus TUF B450M-PLUS GAMING AM4 M-ATX Motherboard"@en	0
+COL title VAL  "ASUS ROG STRIX Z390-I GAMING Motherboard with WiFi/BT"@en	COL title VAL  "ASUS ROG Strix B450-E GAMING AMD ATX Motherboard"@en	0
+COL title VAL  "Logitech G G332 Black & Red Gaming Headset"@en	COL title VAL  "HEADSET GAMING G633 WRL/981-000605 LOGITECH"@de	0
+COL title VAL  "ASUS M/B ROG STRIX X570-F GAMING"@de	COL title VAL  "MSI MPG Z490 GAMING EDGE WIFI bundkort"@de	0
+COL title VAL  "Asus Prime B450-PLUS Desktop Motherboard"@en	COL title VAL  "Asus ROG STRIX B450-E Gaming(ROG STRIX B450-E GAMING)"@de	0
+COL title VAL  "Seagate Enterprise Capacity 3.5 HDD 10TB (Helium) 7200RPM SATA 6Gb/s 256 MB CacheInternal Bare Drive (ST10000NM0016)"@en	COL title VAL  "Seagate FireCuda 2TB ST2000DX002 SATA 3.5-Inch Hybrid Hard Disk Drive"@en	0
+COL title VAL  "ASUS M/B ROG STRIX X570-F GAMING"@de	COL title VAL  "ASUS ROG Strix Fusion Wireless headset Head-band Binaural Black"@en	0
+COL title VAL  "SanDisk Extreme MicroSDXC 160MBs UHSI Card with adapter 64GB"@en	COL title VAL  "SanDisk 32GB Extreme Micro SD Card with Adapter for Action Camera SDSQXAF-032G-GN6AA"@en	0
+COL title VAL  "Gigabyte RTX 2080 TI 11GB GDDR6 PCI Express 3.0 x16 352-Bit Graphics Card | GV-N208TWF3-11GC"@en	COL title VAL  "LACIE 2TB 2.5 RUGGED PORTABLE THUNDERBOLT TYPE C"@vi	0
+COL title VAL  "iiyama G-MASTER GE2288HS 55CM 21.5IN TN 54,6 cm (21.5\") 1920 x 1080 Pixels Full HD LED Zwart"@so	COL title VAL  "iiyama ProLite XUB3493WQSU-B1 computer monitor 86.4 cm (34\") 3440 x 1440 pixels UltraWide Quad HD LED Black"@ca	0
+COL title VAL  "Ecran Pc IIYAMA XU2390HS-B1"@en	COL title VAL  "iiyama ProLite XUB2792QSU-B1 27\" LED LCD Monitor - 16:9 - 5 ms"@en	0
+COL title VAL  "Cooler CPU COOLER MASTER Hyper T4, ventilator 120mm, PWM, 4x heatpipe, Universal (RR-T4-18PK-R1)"@en	COL title VAL  "Cooler Master MasterLiquid ML120L RGB AIO CPU Cooler"@en	0
+COL title VAL  "ASUS M/B ROG STRIX X570-F GAMING"@de	COL title VAL  "Buy ASUS TUF Gaming M5 6200 DPI RGB Gaming Mouse"@tl	0
+COL title VAL  "ASUS GeForce GTX1660 SUPER 6GB GDDR6 GAMING TUF3"@de	COL title VAL  "Asus Strix GeForce RTX 2060 Super EVO Gaming 8GB Graphics Card"@en	0
+COL title VAL  "SanDisk 32GB Extreme Micro SD Card with Adapter for Action Camera SDSQXAF-032G-GN6AA"@en	COL title VAL  "SanDisk Extreme Pro (256GB) SDXC Memory Card"@en	0
+COL title VAL  "ASUS GeForce GTX1660 SUPER 6GB GDDR6 GAMING TUF3"@de	COL title VAL  "ASUS TUF Gaming TUF-GTX1660S-O6G-GAMING NVIDIA GeForce GTX 1660 SUPER 6 GB GDDR6"@de	0
+COL title VAL  "Corsair Vengenace LPX DDR4 2666MHz 8GB"@de	COL title VAL  "2000GB Seagate FireCuda ST2000DX002 7200rpm 64MB 8GB SSD"@en	0
+COL title VAL  "MasterLiquid ML120R RGB, 120mm Radiator, 200W TDP, Liquid Cooling System"@en	COL title VAL  "Cooler Master Masterliquid Ml360R Rgb Liquid Processor Cooler"@fr	0
+COL title VAL  "3M - Privacy Filter NotebookTil 13\" Apple MacBook Pro - (2016 modell)"@en	COL title VAL  "3M - PFIM21V2 privacy filter black"@en	0
+COL title VAL  "Cooler Master MasterLiquid Lite 120 Liquid CPU Cooler"@fr	COL title VAL  "Cooler Master MasterLiquid 120R RGB"@en	0
+COL title VAL  "3M - PF19.0 BLACK PRIVACY FILTER FRAMELESS FITS 21IN NOTEBOOK LCD"@de	COL title VAL  "Logitech G G402 Hyperion Fury Oyuncu Mouse 910-004068"@en	0
+COL title VAL  "SANDISK 128GB SDXV5 EXTREME SDXC MEMORY CARD (SDSDXV5-128G-GNCIN)-WRTY LTD LIFET W/DISTRIBUTOR"@de	COL title VAL  "SanDisk SD Extreme V30 U3 UHS-I C10 - 128GB"@de	1
+COL title VAL  "CORSAIR DDR4 2666MHz 32GB Kit 4x288 DIMM Unbuffered 16-18-18-35 Vengeance LPX Black Heat spreader 1.20V"@de	COL title VAL  "HyperX Kit 16GB (2 x 8GB) DDR4 3333MHz Predator Black CL16"@en	0
+COL title VAL  "Gigabyte Geforce RTX 2080 Ti Windforce 11GB GDDR6 Graphics Card"@en	COL title VAL  "Gigabyte AORUS GeForce RTX™ 2080 Ti XTREME 11G"@en	0
+COL title VAL  "Seagate FireCuda 2TB ST2000DX002 SATA 3.5-Inch Hybrid Hard Disk Drive"@en	COL title VAL  "Seagate STEB3000200 (3000Gb, 3.5'', USB3.0),"@en	0
+COL title VAL  "3M - PFIM21V2 privacy filter black"@en	COL title VAL  "3M - Privacy Filter for MacBook Pro"@en	0
+COL title VAL  "ASUS ROG STRIX B550-E GAMING"@de	COL title VAL  "SANDISK EXTREME PRO SDXC 256GB V30 UHS-I U3 - SDSDXXY-256G-GN4IN"@de	0
+COL title VAL  "Logitech M510 Laser Mouse RED"@en	COL title VAL  "Logitech 910-002255,M185 Wireless Mouse, Grey"@en	0
+COL title VAL  "SanDisk Extreme PRO USB 3.1 Solid State Flash Drive 128GB"@en	COL title VAL  "Kingston DataTraveler MicroDuo 3C USB Flash Drive 128GB"@en	0
+COL title VAL  "3M - 3M Privacy Filter for MacBook Pro 15\" TB (2016)"@en	COL title VAL  "3M - PF17.0W PRIVACY FILTER BLAC"@pl	0
+COL title VAL  "CORSAIR - K55 Wired Gaming Membrane Keyboard with RGB Backlighting - Black"@en	COL title VAL  "Corsair Gaming K55 RGB Keyboard, Backlit RGB LED"@en	1
+COL title VAL  "Intel Core i9-9900X Skylake X 10-Core 3.5 GHz (4.4 GHz Turbo) LGA 2066 165W BX80673I99900X Desktop Processor"@en	COL title VAL  "CPU Intel s1151 Core i9-9900 - 3,10GHz (BX80684I99900)"@it	0
+COL title VAL  "WD BLUE 250GB M.2 SSD DRIVE"@de	COL title VAL  "ADATA XPG SX8200 Pro NVME 256GB M.2 SSD"@pt	0
+COL title VAL  "SanDisk Extreme MicroSDXC 160MBs UHSI Card with adapter 64GB"@en	COL title VAL  "64GB SanDisk Extreme micro SD XC Memory Card V-Class 30 U3 4K Video A2 100MB/s"@en	1
+COL title VAL  "Corsair 16GB DDR4 Vengeance LPX 2133MHz Memory Kit for Skylake"@en	COL title VAL  "HyperX Kit 16GB (2 x 8GB) DDR4 3333MHz Predator Black CL16"@en	0
+COL title VAL  "Corsair Vengeance LPX Black 16GB (1x16GB) DDR4 PC4-19200 2400MHz Single Module"@en	COL title VAL  "Corsair 16GB DDR4 Vengeance LPX 2133MHz Memory Kit for Skylake"@en	0
+COL title VAL  "Corsair Vengeance LPX Black 16GB (2x8GB) DDR4 3600MHz Dual Channel Memory (RAM) Kit"@en	COL title VAL  "Corsair Vengeance LPX Black 16GB 3600 MHz DDR4 Dual Channel Memory Kit"@en	1
+COL title VAL  "Seagate Exos X10 Enterprise 3.5'' HDD 10TB 512E SATA Hyperscale"@en	COL title VAL  "Seagate Cheetah 300GB Enterprise 3.5\" SAS HDD/Hard Drive"@en	0
+COL title VAL  "Asus Strix GeForce RTX 2060 Super EVO Gaming 8GB Graphics Card"@en	COL title VAL  "SVGA Asus GeForce RTX 2070 SUPER 8GB Dual Advanced Evo"@en	0
+COL title VAL  "32GB Kit (2 x 16GB) HyperX Predator DDR4 3000MHz, CL15, Black, DIMM Memory"@en	COL title VAL  "VGA ASUS TUF GAMING GEFORCE GTX 1660 SUPER 6GB GDRR6 OC EDITION"@de	0
+COL title VAL  "Razer Viper Chroma Optical Ambidextrous Gaming Mouse"@en	COL title VAL  "ASUS TUF Gaming M5 Optical USB RGB Gaming Mouse featuring a 6200 DPI Optical sensor Omron switches and Aura Sync RGB lighting - ASUS Official Store | Free Shipping and Financing Available"@en	0
+COL title VAL  "SanDisk Extreme PRO SD UHS-II USB 3.0"@en	COL title VAL  "SANDISK EXTREME PRO SDXC 256GB V30 UHS-I U3 - SDSDXXY-256G-GN4IN"@de	0
+COL title VAL  "XPG SX6000 Lite internal solid state drive 1000 GB PCI Express 3.0 3D TLC NVMe M.2 SSD"@en	COL title VAL  "Corsair Force MP510 M.2 2280 480GB PCI-Express 3.0 x4, NVMe 1.3 3D TLC Internal Solid State Drive - Black | CSSD-F480GBMP510"@en	0
+COL title VAL  "Kingston SoDIMM DDR4 16GB (2x8GB) 2400 MHz (KVR24S17D8/16)"@de	COL title VAL  "Kingston Notebook Memory 4 Gb 2400 Mhz Ddr4 Nonecc Dimm 1.5 V Limited Lifetime Warranty"@en	0
+COL title VAL  "Extreme hukommelseskort 32 GB MicroSDHC Klasse 10 UHS-I"@no	COL title VAL  "Karta pamięci Sandisk SDHC Ultra 48MB/s Class 10 UHS-I 32 GB - SDSDUNB-032G-GN3IN"@id	0
+COL title VAL  "SanDisk Cruzer Glide - USB flash drive - 64 GB"@da	COL title VAL  "Sandisk Cruzer Glide Flash Drive"@de	0
+COL title VAL  "Kingston DT MicroDuo 16GBUSB 3.0"@en	COL title VAL  "KINGSTON 64GB DataTraveler 100 G3"@no	0
+COL title VAL  "DDR4 16GB 3200 Kingston Fury Black"@de	COL title VAL  "Asus Strix GeForce RTX 2060 Super EVO Gaming 8GB Graphics Card"@en	0
+COL title VAL  "WD WDS200T2B0B 2Tb SATA BLUE Ssd Disk"@de	COL title VAL  "WD 1TB Blue internal SATA3 SSD (WDS100T2B0A) (Warranty 5years with WD SG)"@en	0
+COL title VAL  "32GB Kit (2 x 16GB) HyperX Predator DDR4 3000MHz, CL15, Black, DIMM Memory"@en	COL title VAL  "KINGSTON 8GB 1600MHz DDR3 CL10 DIMM HyperX Fury Series"@en	0
+COL title VAL  "LaCie Mobile Drive 5TB External Hard Drive Portable HDD - Moon Silver USB-C USB 3.0, for Mac and PC Desktop, 1 Month Adobe CC (STHG5000400)"@en	COL title VAL  "LaCie Mobile Drive STHG4000400 - hard drive - 4 TB - USB 3.1 Gen 2"@de	0
+COL title VAL  "Kingston DataTraveler 100 G3 256GB USB Stick 3.0 Flash Drive - Black"@en	COL title VAL  "Kingston 16GB DataTraveler 100 G3 (USB 3.0)"@no	0
+COL title VAL  "WD HDD 4TB My Passport Black"@en	COL title VAL  "Western Digital SSD M.22TB Blue 3D NAND"@de	0
+COL title VAL  "Asus TUF Gaming X570-Plus (Wi-Fi) ATX AMD AM4 Ryzen 3000 PCIe 4.0 M. 2 12+2 Dr. MOS DDR4 LAN HDMI DP CFX USB 3.2 Gen 2 Type-A Type-C Aura Sync RGB | 90MB1170-M0EAY0"@de	COL title VAL  "Monitor 27 SW271 LED 5ms/QHD/IPS/HDMI/DP/USB"@en	0
+COL title VAL  "SanDisk Dual Drive USB Type-C 32GB"@no	COL title VAL  "Western Digital WD 250GB Black SN750 NVMe M.2 2280 WDS250G3X0C"@de	0
+COL title VAL  "8GB Corsair ValueSelect DDR4-2133 DIMM CL15 Single"@en	COL title VAL  "Asus ROG STRIX B450-E Gaming(ROG STRIX B450-E GAMING)"@de	0
+COL title VAL  "Cooler Master MasterLiquid ML120L RGB AIO CPU Cooler"@en	COL title VAL  "Cooler Master Wentylator CPU Hyper H411R LED biały"@en	0
+COL title VAL  "Logitech M510 Laser Mouse RED"@en	COL title VAL  "MOUSE B100 LOGITECH OEM USB OPTICO"@de	0
+COL title VAL  "iiyama ProLite XU2390HS 23 Inch Full HD LED Flat Black computer monitor"@en	COL title VAL  "Sandisk Extreme Pro 64GB CFast 2.0"@en	0
+COL title VAL  "ASUS Dual -RTX2070S-A8G-EVO NVIDIA GeForce RTX 2070 SUPER 8 GB GDDR6"@en	COL title VAL  "ASUS TUF Gaming TUF-GTX1660S-O6G-GAMING NVIDIA GeForce GTX 1660 SUPER 6 GB GDDR6"@de	0
+COL title VAL  "Seagate Enterprise Performance 15K HDD 3,5' 300GB SAS 6Gb/s 16MB cache"@en	COL title VAL  "HPE 300GB SAS 12G Enterprise 10K SFF (2.5in) SC 3yr Wty Digitally Signed Firmware HDD"@en	0
+COL title VAL  "Kingston DataTraveler 100 G3 256GB USB Stick 3.0 Flash Drive - Black"@en	COL title VAL  "KINGSTON 64GB DataTraveler 100 G3"@no	0
+COL title VAL  "ASUS PRIME Intel LGA 1200 B460M-K 10th Gen Micro-ATX Motherboard"@en	COL title VAL  "ASUS Mainboard PRIME B460M-K - Motherboard - ATX (90MB1400-M0EAY0)"@en	1
+COL title VAL  "DDR4 16GB 3200 Kingston Fury Black"@de	COL title VAL  "WD HDD 1TB My Passport Black"@en	0
+COL title VAL  "Kingston Notebook Memory 4 Gb 2400 Mhz Ddr4 Nonecc Dimm 1.5 V Limited Lifetime Warranty"@en	COL title VAL  "Kingston ValueRAM / DDR4 / 16 GB / SO-DIMM 260-pin / 2400 MHz / PC4-19200 / CL17 / 1.2 V / unbuffered / non-ECC | KVR24S17D8/16"@de	0
+COL title VAL  "ASUS ROG Strix Fusion Wireless headset Head-band Binaural Black"@en	COL title VAL  "Asus ROG STRIX B450-E Gaming(ROG STRIX B450-E GAMING)"@de	0
+COL title VAL  "SanDisk Extreme PRO USB 3.1 Solid State Flash Drive 128GB"@en	COL title VAL  "SanDisk Extreme PRO SD UHS-II USB 3.0"@en	0
+COL title VAL  "SanDisk Extreme PRO 64GB A2 V30 Performance microSDXC"@en	COL title VAL  "ASUS PRIME Intel LGA 1200 B460M-K 10th Gen Micro-ATX Motherboard"@en	0
+COL title VAL  "Samsung S24F350H 24in Full HD LED Monitor"@de	COL title VAL  "BenQ GW2480 - Full HD IPS Monitor"@it	0
+COL title VAL  "HDD extern WD My Passport, 1TB, 2,5" USB 3.0, negru,"@en	COL title VAL  "LaCie Mobile Portable HDD 5TB 2.5\" USB Type C/USB 3.0, Moon Silver"@en	0
+COL title VAL  "SanDisk USB 3.0 Cardreader, Type A for SD UHS I and UHS II, Black, Silver"@en	COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	0
+COL title VAL  "Seagate FireCuda 2TB ST2000DX002 SATA 3.5-Inch Hybrid Hard Disk Drive"@en	COL title VAL  "Hard Disk Drive portabil SEAGATE Backup Plus Slim STHN1000400, 1TB, USB 3.0, negru"@en	0
+COL title VAL  "GIGABYTE Z490 AORUS PRO AX LGA 1200 Intel Z490 ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 2, WIFI 6, 2.5 GbE LAN"@en	COL title VAL  "Z490 AORUS PRO AX, Intel® Z490 Chipset, LGA 1200, HDMI, ATX Motherboard"@en	1
+COL title VAL  "Seagate 12TB 3.5' IronWolf SATA3 NAS 24x7 7200RPM Performance HDD (ST12000VN0008) 3 Years Warranty"@en	COL title VAL  "Seagate IronWolf 110 3.84 To"@en	0
+COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	COL title VAL  "SanDisk Extreme PRO USB 3.1 Solid State Flash Drive 128GB"@en	0
+COL title VAL  "3M - 3M Privacy Filter for MacBook Pro 15\" TB (2016)"@en	COL title VAL  "3M - PFIM21V2 PRIVACY FILTER BLACK IMAC 21.5IN 2013"@en	0
+COL title VAL  "Intel Core i9 9900X (Skylake-X Refresh) Processor - Retail"@en	COL title VAL  "Intel Core i9-9900 Box"@it	0
+COL title VAL  "Corsair Vengeance LPX schwarz, DDR4-2666, CL16 - 32 GB Dual Kit"@de	COL title VAL  "Corsair Vengeance LPX DDR4 2666MHz 32GB (2x16) Desktop Memory CMK32GX4M2A2666C16 | PCByte"@en	1
+COL title VAL  "ASUS ROG Strix B550-F Gaming AMD ATX Motherboard"@en	COL title VAL  "ASUS ROG STRIX B550-E GAMING Presa AM4 ATX AMD B550"@de	0
+COL title VAL  "ASUS ROG Strix RTX 2070 OC,GAMING Grafikkarte,8 GB GDDR6,2x HDMI,2x DP,USB-C"@de	COL title VAL  "MSI GeForce RTX 2080 Ti Gaming X Trio 11GB GDDR6 RGB HDMI/3*DP/USB Type-C PCi Ex 3.0 16x"@en	0
+COL title VAL  "ASUS TUF X570-PLUS GAMING Motherboard , AMD X570 Ryzen Gen 3"@de	COL title VAL  "Asus® TUF X470-PLUS GAMING - AMD® X470 Chipset - Ryzen, Athlon and A-series AMD® Processors for Socket AM4"@en	0
+COL title VAL  "Cooler Master Hyper H411R Tower CPU Cooler"@en	COL title VAL  "Cooler CPU COOLER MASTER Hyper T4, ventilator 120mm, PWM, 4x heatpipe, Universal (RR-T4-18PK-R1)"@en	0
+COL title VAL  "Kingston Technology ValueRAM 4GB DDR3-1600 memory module 1600 MHz"@en	COL title VAL  "Corsair Value Select 8GB PC4-17000 memory module DDR4 2133 MHz"@en	0
+COL title VAL  "3M - PFIM21V2 PRIVACY FILTER BLACK IMAC 21.5IN 2013"@en	COL title VAL  "WD 2 TB SATA BLUE 2,5 inc SSD"@en	0
+COL title VAL  "Apple iPad Air - 256GB - WiFi Tablet (10,5\", 256 GB, iOS)"@en	COL title VAL  "Apple iPad Air 10,5\" 256GB Wi-Fi Silver"@en	1
+COL title VAL  "ASUS Dual -RTX2070S-A8G-EVO NVIDIA GeForce RTX 2070 SUPER 8 GB GDDR6"@en	COL title VAL  "ASUS ROG Strix RTX 2070 OC,GAMING Grafikkarte,8 GB GDDR6,2x HDMI,2x DP,USB-C"@de	0
+COL title VAL  "WD My Passport WDBPKJ0040BBK - hard drive - 4 TB - USB 3.2 Gen 1"@en	COL title VAL  "LaCie Rugged USB 3.1C 4 TB 2,5'' STFS4000800"@en	0
+COL title VAL  "Corsair Light Loop Series, LL140 RGB, 140mm Dual Light Loop RGB LED PWM Fan, 2 Fan Pack with Lighting Node PRO"@en	COL title VAL  "CORSAIR iCUE H115i RGB PRO"@ca	0
+COL title VAL  "3M - PFIM21V2 privacy filter black"@en	COL title VAL  "3M MOBILE INTERACTIVE SOLUTION PF220W9F LIGHTWEIGHT FRAMED PRIVACY FILTER"@en	0
+COL title VAL  "Kingston ValueRAM / DDR4 / 16 GB / SO-DIMM 260-pin / 2400 MHz / PC4-19200 / CL17 / 1.2 V / unbuffered / non-ECC | KVR24S17D8/16"@de	COL title VAL  "4 Gb 1600 M Hz Ddr3 Non Ecc Cl11 Dimm Sr (512x8)"@de	0
+COL title VAL  "ASUS ROG STRIX B550-E GAMING"@de	COL title VAL  "ASUS M/B ROG STRIX X570-F GAMING"@de	0
+COL title VAL  "Thẻ Nhớ Sandisk MicroSD Extreme Pro SDXC"@vi	COL title VAL  "SANDISK EXTREME PRO SDXC 256GB V30 UHS-I U3 - SDSDXXY-256G-GN4IN"@de	0
+COL title VAL  "Asus ROG STRIX B450-E Gaming(ROG STRIX B450-E GAMING)"@de	COL title VAL  "Asus TUF B450M-PLUS GAMING AM4 M-ATX Motherboard"@en	0
+COL title VAL  "ASUS ROG Strix B450-E GAMING AMD ATX Motherboard"@en	COL title VAL  "4 Gb 1600 M Hz Ddr3 Non Ecc Cl11 Dimm Sr (512x8)"@de	0
+COL title VAL  "Corsair Vengeance LPXFekete DDR4, 2666MHz 8GB (1 x 8GB) memória"@en	COL title VAL  "CORSAIR iCUE H115i RGB PRO"@ca	0
+COL title VAL  "ASUS ROG Strix B450-E GAMING AMD ATX Motherboard"@en	COL title VAL  "MB ASUS PRIME B450-PLUS B450 AM4 4DDR4 DVI+HDMI 3*PCIE, 6*SATA,M.2 RGB ATX"@de	0
+COL title VAL  "SanDisk Extreme PRO SD UHS-II USB 3.0"@en	COL title VAL  "SanDisk USB 3.0 Cardreader, Type A for SD UHS I and UHS II, Black, Silver"@en	1
+COL title VAL  "Logitech USB Headset H540 - USB - EMEA 981-000480"@de	COL title VAL  "HEADSET GAMING G633 WRL/981-000605 LOGITECH"@de	0
+COL title VAL  "3M - Gold Privacy Filter 12.5\"\" 16:9"@en	COL title VAL  "3M - PFIM21V2 privacy filter black"@en	0
+COL title VAL  "Western Digital SN750 internal solid state drive M.2 250 GB PCI Express 3.0 NVMe"@en	COL title VAL  "MB ASUS TUF GAMING X570-PLUS AM4 4DDR4 HDMI,DP 3*PCIE Optical S/PDIF OUT, AURA, M.2 ATX"@en	0
+COL title VAL  "Gigabyte 240GB 2.5\" Solid State Drive/SSD"@en	COL title VAL  "XPG SX6000 Lite internal solid state drive 1000 GB PCI Express 3.0 3D TLC NVMe M.2 SSD"@en	0
+COL title VAL  "CORSAIR DDR4 2666MHz 32GB Kit 4x288 DIMM Unbuffered 16-18-18-35 Vengeance LPX Black Heat spreader 1.20V"@de	COL title VAL  "DDR4 16GB 3200 Kingston Fury Black"@de	0
+COL title VAL  "SanDisk Ultra SDDD3-256G-G46 256 GB Pen Drives (Black, Silver)"@sv	COL title VAL  "SanDisk Ultra Dual Drive m3.0 256GB Grey & Silver"@en	1
+COL title VAL  "Corsair Force MP510 SSD PCIe M.2 NVMe 480GB"@en	COL title VAL  "Logitech M510 mouse RF Wireless Laser"@en	0
+COL title VAL  "Western Digital SSD 250GB Blue series Sata3"@de	COL title VAL  "SSD диск Western Digital SSD Blue 1TB SATA III 3D"@de	0
+COL title VAL  "Corsair Vengeance LPX DDR4 2666MHz 32GB (2x16) Desktop Memory CMK32GX4M2A2666C16 | PCByte"@en	COL title VAL  "Corsair Vengeance LPXFekete DDR4, 2666MHz 8GB (1 x 8GB) memória"@en	0
+COL title VAL  "Corsair Vengeance LPX Red 16GB (2x8GB) DDR4 PC4-19200 2400MHz Dual Channel Kit"@en	COL title VAL  "Kingston HyperX Predator 32GB (2x16GB) DDR4 PC4-24000 3000MHz Dual Channel Kit"@en	0
+COL title VAL  "Gigabyte GA-X570-ELITE AORUS (AM4) (D) (X570 AORUS ELITE)"@de	COL title VAL  "ASUS PRIME X570-PRO (AM4) (D) (90MB11B0-M0EAY0)"@de	0
+COL title VAL  "MOUSE B100 LOGITECH OEM USB OPTICO"@de	COL title VAL  "PENDRIVE 128GB USB3.0 TIPO C KINGSTON DT MICRO DUO"@de	0
+COL title VAL  "Monitor 27 cali LED VG27BQ"@it	COL title VAL  "Samsung C27F390 27in Full HD LED Monitor"@en	0
+COL title VAL  "Cooler Master MasterLiquid ML120L RGB AIO CPU Cooler"@en	COL title VAL  "Cooler Master MasterLiquid Lite 120 Liquid CPU Cooler"@fr	0
+COL title VAL  "XPG SX8200 Pro 256 GB Solid State Drive - M.2 2280 Internal - PCI Express (PCI Express 3.0 x4)"@en	COL title VAL  "SanDisk Extreme PRO CZ880 128GB 256GB 420MB/s USB 3.1 Solid State Flash Drive (128GB)"@en	0
+COL title VAL  "Ext. HDD LaCie Mobile Drive 2TB USB-C"@ro	COL title VAL  "LaCie 4TB Rugged Thunderbolt / USB-C Mobile HDD"@de	0
+COL title VAL  "Wd Blue 3D Nand 250Gb Pc Ssd - Sata Iii 6Gb/S M.2 2280 Solid State Drive"@en	COL title VAL  "Western Digital SSD M.22TB Blue 3D NAND"@de	0
+COL title VAL  "Wd Blue 3D Nand 250Gb Pc Ssd - Sata Iii 6Gb/S M.2 2280 Solid State Drive"@en	COL title VAL  "ASUS Placa video STRIX RTX2060S EVO GAMING, 8GB GDDR6 256bit"@es	0
+COL title VAL  "MSI MPG Z490 GAMING EDGE WIFI bundkort"@de	COL title VAL  "MSI MBMPG Z490 Gaming Edge WIFI LGA 1200 ATX"@de	1
+COL title VAL  "8GB (1 x 8GB) DDR4 2400MHz SO-DIMM"@de	COL title VAL  "HyperX Kit 16GB (2 x 8GB) DDR4 3333MHz Predator Black CL16"@en	0
+COL title VAL  "RUGGED THUNDERBOLT / USB-C - 2TB"@en	COL title VAL  "Ext. HDD LaCie Mobile Drive 2TB USB-C"@ro	0
+COL title VAL  "Corsair Hydro H115i RGB PRO XT 280mm Liquid CPU Cooler. Intel 1200, 1150x, 2011, 2066, AM3, AM2, AM4, TR4, sTRX4, sTR4. 5 Years Warranty"@en	COL title VAL  "Cooler Master MasterLiquid Lite 120 Liquid CPU Cooler"@fr	0
+COL title VAL  "ASUS Scheda Madre ROG STRIX Z390-I GAMING Intel Z390"@de	COL title VAL  "ASUS ROG Strix X570-F Gaming scheda madre Presa AM4 ATX AMD X570"@de	0
+COL title VAL  "Sandisk SDCZ60-064G-B35 - Cruzer Glide 64GB"@de	COL title VAL  "Sandisk Cruzer Glide Flash Drive"@de	0
+COL title VAL  "Seagate IronWolfHDD, 3.5" 12TB, SATA3, 7200rpm 256MB, NAS"@en	COL title VAL  "2000GB Seagate FireCuda ST2000DX002 7200rpm 64MB 8GB SSD"@en	0
+COL title VAL  "Cooler Master MasterLiquid Lite 120"@en	COL title VAL  "Cooler CPU COOLER MASTER Hyper T4, ventilator 120mm, PWM, 4x heatpipe, Universal (RR-T4-18PK-R1)"@en	0
+COL title VAL  "WD HDD 4TB My Passport Black"@en	COL title VAL  "HDD extern WD My Passport, 1TB, 2,5" USB 3.0, negru,"@en	0
+COL title VAL  "Corsair Vengeance LPX 8GB DDR4 3000MHz C16 RAM"@en	COL title VAL  "Corsair Vengeance LPXFekete DDR4, 2666MHz 8GB (1 x 8GB) memória"@en	0
+COL title VAL  "240GB Gigabyte 2.5\" SATA 3.0 SSD"@de	COL title VAL  "WD Blue 250GB PC SSD - SATA 6 Gb/s 2.5 Inch Solid State Drive -WDS250G1B0A"@en	0
+COL title VAL  "Cooler Master Wentylator CPU Hyper H411R LED biały"@en	COL title VAL  "Cooler CPU COOLER MASTER Hyper T4, ventilator 120mm, PWM, 4x heatpipe, Universal (RR-T4-18PK-R1)"@en	0
+COL title VAL  "Corsair Vengeance Lpx 16 Gb (2x8 Gb) Ddr4 Dram Dimm 3200 M Hz C16 Black Heat Spreader"@en	COL title VAL  "CORSAIR 16GB RAMKit 2X8GB DDR4 3200MHz 2x288Dimm unbuffered 16-18-18-36 1,35V Vengeance LPX Black Heatspreader"@de	1
+COL title VAL  "ADATA XPG SX8200 Pro NVME 256GB M.2 SSD"@pt	COL title VAL  "DDR4 16GB 3200 Kingston Fury Black"@de	0
+COL title VAL  "Logitech - 910-002225 - Wireless Mouse M185"@en	COL title VAL  "Logitech Optical Mouse USB B100"@en	0
+COL title VAL  "Western Digital WD 250GB Black SN750 NVMe M.2 2280 WDS250G3X0C"@de	COL title VAL  "iiyama 21.5\" G-Master Black Hawk FreeSync Gaming Monitor"@en	0
+COL title VAL  "Kingston Technology ValueRAM 4GB DDR3-1600 memory module 1600 MHz"@en	COL title VAL  "Kingston Notebook Memory 4 Gb 2400 Mhz Ddr4 Nonecc Dimm 1.5 V Limited Lifetime Warranty"@en	0
+COL title VAL  "AMD Ryzen 5 3600 CPU & ASUS PRIME X570-P Motherboard Bundle"@de	COL title VAL  "Gigabyte X570 AORUS ELITE AMD Motherboard"@en	0
+COL title VAL  "ASUS ROG STRIX B550-E GAMING"@de	COL title VAL  "ASUS ROG Strix B550-F Gaming AMD ATX Motherboard"@en	0
+COL title VAL  "Corsair Vengeance Lpx 16 Gb (2x8 Gb) Ddr4 Dram Dimm 3200 M Hz C16 Black Heat Spreader"@en	COL title VAL  "CORSAIR DDR4 2666MHz 32GB Kit 4x288 DIMM Unbuffered 16-18-18-35 Vengeance LPX Black Heat spreader 1.20V"@de	0
+COL title VAL  "Cooler Master MasterLiquid 120R RGB"@en	COL title VAL  "Cooler Master Cooler Proce Cooler Master Hyper T4 Rr-T4-18Pk-R1"@en	0
+COL title VAL  "Gigabyte AORUS GeForce RTX™ 2080 Ti XTREME 11G"@en	COL title VAL  "MSI GeForce RTX 2080 Ti GAMING X TRIO 11G"@en	0
+COL title VAL  "WD BLUE 250GB M.2 SSD DRIVE"@de	COL title VAL  "WD WDS200T2B0B 2Tb SATA BLUE Ssd Disk"@de	0
+COL title VAL  "Asus TUF Gaming X570-Plus (Wi-Fi) ATX AMD AM4 Ryzen 3000 PCIe 4.0 M. 2 12+2 Dr. MOS DDR4 LAN HDMI DP CFX USB 3.2 Gen 2 Type-A Type-C Aura Sync RGB | 90MB1170-M0EAY0"@de	COL title VAL  "Asus TUF B450M-PLUS GAMING AM4 M-ATX Motherboard"@en	0
+COL title VAL  "Corsair 32GB 2666MHz Vengeance LPX Black CL16 (4x8GB)"@en	COL title VAL  "Corsair Vengeance LPX DDR4 2666MHz 32GB (2x16) Desktop Memory CMK32GX4M2A2666C16 | PCByte"@en	0
+COL title VAL  "32GB Kit (2 x 16GB) HyperX Predator DDR4 3000MHz, CL15, Black, DIMM Memory"@en	COL title VAL  "HyperX Kit 16GB (2 x 8GB) DDR4 3333MHz Predator Black CL16"@en	0
+COL title VAL  "MB ASUS PRIME B450-PLUS B450 AM4 4DDR4 DVI+HDMI 3*PCIE, 6*SATA,M.2 RGB ATX"@de	COL title VAL  "MB ASUS PRIME PRIME B365M-A LGA1151 (COFFEE LAKE) 4DDR4 VGA+DVI+HDMI PCIe M2 Raid mATX"@en	0
+COL title VAL  "Seagate Exos X10 Enterprise 3.5'' HDD 10TB 512E SATA Hyperscale"@en	COL title VAL  "ASUS Dual -RTX2070S-A8G-EVO NVIDIA GeForce RTX 2070 SUPER 8 GB GDDR6"@en	0
+COL title VAL  "Crucial Mac 8GB DDR4 2400Mhz SO-DIMM"@ro	COL title VAL  "ASUS ROG STRIX B550-E GAMING"@de	0
+COL title VAL  "Samsung S24F350H 24in Full HD LED Monitor"@de	COL title VAL  "Monitor 27 cali LED VG27BQ"@it	0
+COL title VAL  "SanDisk Cruzer Glide - USB flash drive - 64 GB"@da	COL title VAL  "Sandisk SDCZ60-064G-B35 - Cruzer Glide 64GB"@de	1
+COL title VAL  "Monitor 27 SW271 LED 5ms/QHD/IPS/HDMI/DP/USB"@en	COL title VAL  "Asus PG248Q 24″ FHD TN 180Hz DP HDMI USB – Monitor"@en	0
+COL title VAL  "MB ASUS PRIME PRIME B365M-A LGA1151 (COFFEE LAKE) 4DDR4 VGA+DVI+HDMI PCIe M2 Raid mATX"@en	COL title VAL  "ASUS ROG STRIX Z390-I GAMING Motherboard with WiFi/BT"@en	0
+COL title VAL  "SanDisk Extreme PRO SD UHS-II USB 3.0"@en	COL title VAL  "SanDisk 32GB Ultra SDSDUNB-032G-GN3IN SDHC Memory Card C10 UHS-I"@en	0
+COL title VAL  "SSD диск Western Digital SSD Blue 1TB SATA III 3D"@de	COL title VAL  "Western Digital SSD M.22TB Blue 3D NAND"@de	0
+COL title VAL  "Corsair Vengeance Lpx 16 Gb (2x8 Gb) Ddr4 Dram Dimm 3200 M Hz C16 Black Heat Spreader"@en	COL title VAL  "Kingston Technology KVR24S17S6/4 module de mémoire 4 Go DDR4 2400 MHz"@en	0
+COL title VAL  "3M PF 17.0W |23 cm x 36.8 cm|"@vi	COL title VAL  "Corsair 32GB 2666MHz Vengeance LPX Black CL16 (4x8GB)"@en	0
+COL title VAL  "32GB Kit (2 x 16GB) HyperX Predator DDR4 3000MHz, CL15, Black, DIMM Memory"@en	COL title VAL  "Crucial Ballistix MAX 16GB Kit (2 x 8GB) DDR4-4000 Desktop Gaming Memory (Black) | BLM2K8G40C18U4B | Crucial UK"@en	0
+COL title VAL  "Logitech Optical Mouse USB B100"@en	COL title VAL  "ASUS TUF Gaming M5 Optical USB RGB Gaming Mouse featuring a 6200 DPI Optical sensor Omron switches and Aura Sync RGB lighting - ASUS Official Store | Free Shipping and Financing Available"@en	0
+COL title VAL  "3M - Gold Privacy Filter 12.5\"\" 16:9"@en	COL title VAL  "3M - Privacy filter Macbook Pro 15'', 2016 model (16:10)"@en	0
+COL title VAL  "BenQ 27 inch 4K PhotoVue Photographer Monitor (SW271), 3840x2160 UHD, HDR, 99% Adobe RGB, 100% sRGB, Rec.709, DCI-P3 Colour Space, Hardware Calibration, IPS,14-bit 3D LUT, GamutDuo, USB-C, DP, HDMI"@en	COL title VAL  "Monitor 27 SW271 LED 5ms/QHD/IPS/HDMI/DP/USB"@en	1
+COL title VAL  "Seagate STEB3000200 (3000Gb, 3.5'', USB3.0),"@en	COL title VAL  "Seagate Cheetah 300GB Enterprise 3.5\" SAS HDD/Hard Drive"@en	0
+COL title VAL  "PHILIPS MONITOR LED IPS 24\" (23.8) 16:9 FULLHD VGA DVI HDMI 243V7QDSB"@de	COL title VAL  "Samsung S24F350H 24in Full HD LED Monitor"@de	0
+COL title VAL  "MB ASUS TUF GAMING X570-PLUS AM4 4DDR4 HDMI,DP 3*PCIE Optical S/PDIF OUT, AURA, M.2 ATX"@en	COL title VAL  "Asus TUF Gaming X570-Plus (Wi-Fi) ATX AMD AM4 Ryzen 3000 PCIe 4.0 M. 2 12+2 Dr. MOS DDR4 LAN HDMI DP CFX USB 3.2 Gen 2 Type-A Type-C Aura Sync RGB | 90MB1170-M0EAY0"@de	0
+COL title VAL  "Western Digital Blue 3D NAND 2.5\" 2TB SATA III Solid State Drive"@en	COL title VAL  "Wd Blue 3D Nand 250Gb Pc Ssd - Sata Iii 6Gb/S M.2 2280 Solid State Drive"@en	0
+COL title VAL  "SanDisk USB 3.0 Cardreader, Type A for SD UHS I and UHS II, Black, Silver"@en	COL title VAL  "SanDisk 32GB Extreme Micro SD Card with Adapter for Action Camera SDSQXAF-032G-GN6AA"@en	0
+COL title VAL  "SDSDUNR-256G-GN6IN memory card 256 GB SDXC Class 10 UHS-I"@en	COL title VAL  "Extreme hukommelseskort 32 GB MicroSDHC Klasse 10 UHS-I"@no	0
+COL title VAL  "Samsung S24F350H 24in Full HD LED Monitor"@de	COL title VAL  "Monitor Gaming 24'' ASUS PG248Q"@tl	0
+COL title VAL  "WD My Passport WDBPKJ0040BBK - hard drive - 4 TB - USB 3.2 Gen 1"@en	COL title VAL  "WD HDD 4TB My Passport Black"@en	1
+COL title VAL  "3M - PFIM21V2 PRIVACY FILTER BLACK IMAC 21.5IN 2013"@en	COL title VAL  "3M - PF17.0W PRIVACY FILTER BLAC"@pl	0
+COL title VAL  "3M - PFIM21V2 privacy filter black"@en	COL title VAL  "3M - PF322W DT PRIVACY FLT WIDESCREEN LCD"@de	0
+COL title VAL  "Cooler CPU COOLER MASTER Hyper T4, ventilator 120mm, PWM, 4x heatpipe, Universal (RR-T4-18PK-R1)"@en	COL title VAL  "Cooler Master Cooler Proce Cooler Master Hyper T4 Rr-T4-18Pk-R1"@en	1
+COL title VAL  "AMD Ryzen 5 3600 CPU & ASUS PRIME X570-P Motherboard Bundle"@de	COL title VAL  "ASUS TUF X570-PLUS GAMING Motherboard , AMD X570 Ryzen Gen 3"@de	0
+COL title VAL  "Corsair Vengeance LPX DDR4 2666MHz 32GB (2x16) Desktop Memory CMK32GX4M2A2666C16 | PCByte"@en	COL title VAL  "Corsair Vengenace LPX DDR4 2666MHz 8GB"@de	0
+COL title VAL  "Monitor 27 cali LED VG27BQ"@it	COL title VAL  "DataTraveler microDuo - Cl USB - 64 Go - USB 3.9"@it	0
+COL title VAL  "AMD - Ryzen 3 3300X Prosessor Socket-AM4, 4-core, 8-Thread, 3.8/4.3GHz, 65W, 7nm, inkl. kjøler"@en	COL title VAL  "CORSAIR Desktop Ram Vengeance RGB Series - 16GB (8GBx2) DDR4 3000MHz RAM (CMW16GX4M2C3000C15W)"@de	0
+COL title VAL  "HyperX Kit 16GB (2 x 8GB) DDR4 3333MHz Predator Black CL16"@en	COL title VAL  "G.SKILL DDR4 TRIDENTZ 2x8GB 3600MHz CL16 XMP2 RGB - F4-3600C16D-16GTZNC"@de	0
+COL title VAL  "SanDisk CFast 2.0 64GB Extreme Pro Memory Card | Read 525 MB/s | Write 430MB/s | 4K Video"@en	COL title VAL  "64GB SanDisk Extreme micro SD XC Memory Card V-Class 30 U3 4K Video A2 100MB/s"@en	0
+COL title VAL  "Western Digital Elements 2TB USB3.0 - 2,5" -fekete(WDBU6Y0020BBK-EESN)"@de	COL title VAL  "HDD extern WD My Passport, 1TB, 2,5" USB 3.0, negru,"@en	0
+COL title VAL  "SDSDUNR-256G-GN6IN memory card 256 GB SDXC Class 10 UHS-I"@en	COL title VAL  "Apple iPad Air - 256GB - WiFi Tablet (10,5\", 256 GB, iOS)"@en	0
+COL title VAL  "Asus ROG Strix X570-E Gaming Motherboard"@en	COL title VAL  "Samsung C27F390 27in Full HD LED Monitor"@en	0
+COL title VAL  "Logitech G G332 Black & Red Gaming Headset"@en	COL title VAL  "Logitech G332 Wired Gaming Kulaklk 981-000757"@de	1
+COL title VAL  "iiyama ProLite XUB2792QSU-B1 27\" LED LCD Monitor - 16:9 - 5 ms"@en	COL title VAL  "iiyama 21.5\" G-Master Black Hawk FreeSync Gaming Monitor"@en	0
+COL title VAL  "3M - Filter 3M Dis 12,5 16:9 Privacy Gold GPF125W9 2"@en	COL title VAL  "3M - Gold Privacy Filter 12.5\"\" 16:9"@en	1
+COL title VAL  "3M - Filter 3M Dis 12,5 16:9 Privacy Gold GPF125W9 2"@en	COL title VAL  "iiyama ProLite XUB2792QSU-B1 27\" LED LCD Monitor - 16:9 - 5 ms"@en	0
+COL title VAL  "ASUS ROG Strix X570-E Gaming scheda madre Presa AM4 ATX AMD X570"@de	COL title VAL  "ASUS ROG STRIX B550-E GAMING"@de	0
+COL title VAL  "SanDisk 32GB Extreme Micro SD Card with Adapter for Action Camera SDSQXAF-032G-GN6AA"@en	COL title VAL  "Extreme hukommelseskort 32 GB MicroSDHC Klasse 10 UHS-I"@no	1
+COL title VAL  "Asus ROG Strix X570-E Gaming Motherboard"@en	COL title VAL  "Gigabyte X570 AORUS ELITE AMD Motherboard"@en	0
+COL title VAL  "Cooler Master MasterLiquid ML120L RGB AIO CPU Cooler"@en	COL title VAL  "Cooler Master Hyper H411R Tower CPU Cooler"@en	0
+COL title VAL  "SanDisk Dual Drive USB Type-C 32GB"@no	COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	0
+COL title VAL  "WD BLUE 250GB M.2 SSD DRIVE"@de	COL title VAL  "WD 1TB Blue internal SATA3 SSD (WDS100T2B0A) (Warranty 5years with WD SG)"@en	0
+COL title VAL  "HyperX Predator 16GB - PC4-26600 - DIMM"@en	COL title VAL  "Kingston Hyperx Fury 16GB 3200Mhz DDR4 Cl16 DIMM Black"@en	0
+COL title VAL  "Corsair Vengeance LPX 16GB Kit (2 x 8GB), DDR4, 2133MHz (PC4-17000), CL13, XMP 2.0, DIMM Memory"@en	COL title VAL  "Corsair Vengeance Lpx 16 Gb (2x8 Gb) Ddr4 Dram Dimm 2400 M Hz Unbuffered 16 16 16 39 Red Heat Spreader 1.20 V Xmp 2.0"@en	0
+COL title VAL  "Corsair 16GB DDR4 Vengeance LPX 2133MHz Memory Kit for Skylake"@en	COL title VAL  "Corsair Vengeance LPX Black 16GB 3600 MHz DDR4 Dual Channel Memory Kit"@en	0
+COL title VAL  "8GB Corsair ValueSelect DDR4-2133 DIMM CL15 Single"@en	COL title VAL  "Crucial Mac 8GB DDR4 2400Mhz SO-DIMM"@ro	0
+COL title VAL  "Western Digital WD 250GB Black SN750 NVMe M.2 2280 WDS250G3X0C"@de	COL title VAL  "Western Digital SN750 internal solid state drive M.2 250 GB PCI Express 3.0 NVMe"@en	1
+COL title VAL  "RUGGED THUNDERBOLT / USB-C - 2TB"@en	COL title VAL  "MSI MPG Z490 GAMING EDGE WIFI bundkort"@de	0
+COL title VAL  "SanDisk Extreme MicroSDXC 160MBs UHSI Card with adapter 64GB"@en	COL title VAL  "Extreme hukommelseskort 32 GB MicroSDHC Klasse 10 UHS-I"@no	0
+COL title VAL  "LOGITECH M330 Silent Plus Red - 2.4GHZ - EMEA"@de	COL title VAL  "Mouse Wireless LOGITECH M330 Silent, 1000 dpi, rosu"@fr	1
+COL title VAL  "SanDisk Cruzer Glide - USB flash drive - 64 GB"@da	COL title VAL  "SanDisk Dual Drive USB Type-C 32GB"@no	0
+COL title VAL  "3M - PF17.0W PRIVACY FILTER BLAC"@pl	COL title VAL  "3M - PF322W DT PRIVACY FLT WIDESCREEN LCD"@de	0
+COL title VAL  "Gigabyte Z490 VISION G DDR4 ATX Motherboard"@en	COL title VAL  "Gigabyte Intel Z490 VISION G LGA1200 ATX Motherboard | PCByte"@en	1
+COL title VAL  "WD Blue 250GB PC SSD - SATA 6 Gb/s 2.5 Inch Solid State Drive -WDS250G1B0A"@en	COL title VAL  "WD 2 TB SATA BLUE 2,5 inc SSD"@en	0
+COL title VAL  "Corsair Vengeance LPX Black 16GB (2x8GB) DDR4 3600MHz Dual Channel Memory (RAM) Kit"@en	COL title VAL  "Corsair Vengeance LPX Red 16GB (2x8GB) DDR4 PC4-19200 2400MHz Dual Channel Kit"@en	0
+COL title VAL  "Extreme hukommelseskort 32 GB MicroSDHC Klasse 10 UHS-I"@no	COL title VAL  "SanDisk Extreme Pro UHS II SDXC 32 GB 300 MB/s"@de	0
+COL title VAL  "ASUS PRIME Intel LGA 1200 B460M-K 10th Gen Micro-ATX Motherboard"@en	COL title VAL  "GIGABYTE Z490 AORUS PRO AX LGA 1200 Intel Z490 ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 2, WIFI 6, 2.5 GbE LAN"@en	0
+COL title VAL  "Monitor LED Iiyama XUB3493WQSU-B1 - 34 - LED (black, AMD Free Sync, UWQHD, IPS)"@en	COL title VAL  "iiyama ProLite XUB2792QSU-B1 27\" LED LCD Monitor - 16:9 - 5 ms"@en	0
+COL title VAL  "Crucial Ballistix MAX 16GB Kit (2 x 8GB) DDR4-4000 Desktop Gaming Memory (Black) | BLM2K8G40C18U4B | Crucial UK"@en	COL title VAL  "HyperX Kit 16GB (2 x 8GB) DDR4 3333MHz Predator Black CL16"@en	0
+COL title VAL  "Corsair Force MP510 M.2 2280 480GB PCI-Express 3.0 x4, NVMe 1.3 3D TLC Internal Solid State Drive - Black | CSSD-F480GBMP510"@en	COL title VAL  "Corsair Force MP510 SSD PCIe M.2 NVMe 480GB"@en	1
+COL title VAL  "Seagate IronWolf 110 internal solid state drive 2.5\" 3840 GB SATA III 3D TLC"@en	COL title VAL  "Western Digital Blue 3D NAND 2.5\" 2TB SATA III Solid State Drive"@en	0
+COL title VAL  "3M - PF27.0W9 PRIVACY FILTER BLACK FOR 27,0IN / 68,6 CM / 16:9IN ACCS"@en	COL title VAL  "3M - Privacy Filter for MacBook Pro"@en	0
+COL title VAL  "Kingston Notebook Memory 4 Gb 2400 Mhz Ddr4 Nonecc Dimm 1.5 V Limited Lifetime Warranty"@en	COL title VAL  "4 Gb 1600 M Hz Ddr3 Non Ecc Cl11 Dimm Sr (512x8)"@de	0
+COL title VAL  "ASUS ROG STRIX Z390-I GAMING Motherboard with WiFi/BT"@en	COL title VAL  "ASUS M/B ROG STRIX X570-F GAMING"@de	0
+COL title VAL  "32GB Kit (2 x 16GB) HyperX Predator DDR4 3000MHz, CL15, Black, DIMM Memory"@en	COL title VAL  "DataTraveler microDuo - Cl USB - 64 Go - USB 3.9"@it	0
+COL title VAL  "3M - PFIM21V2 privacy filter black"@en	COL title VAL  "3M - PF27.0W9 PRIVACY FILTER BLACK FOR 27,0IN / 68,6 CM / 16:9IN ACCS"@en	0
+COL title VAL  "SanDisk MicroSD Extreme V30 U3 UHS-I C10 A2 - 256GB"@en	COL title VAL  "SanDisk Ultra SDXC 256GB 100 MB/s UHS-I Class 10"@sv	0
+COL title VAL  "Monitor 27 SW271 LED 5ms/QHD/IPS/HDMI/DP/USB"@en	COL title VAL  "MON LED 27 Samsung C27F390FHU"@tl	0
+COL title VAL  "MSI MPG Z490 GAMING EDGE WIFI bundkort"@de	COL title VAL  "240GB Gigabyte 2.5\" SATA 3.0 SSD"@de	0
+COL title VAL  "Asus ROG STRIX B450-E Gaming(ROG STRIX B450-E GAMING)"@de	COL title VAL  "ASUS ROG STRIX B550-E GAMING Presa AM4 ATX AMD B550"@de	0
+COL title VAL  "DDR4 16GB 3200 Kingston Fury Black"@de	COL title VAL  "Ballistix MAX 16GB Kit DDR4 CL18 8GBx2 4000 DIMM 288pin black"@en	0
+COL title VAL  "3m Pf19.0 Privacy Filter For Standard 19\" Desktop Lcd Monitors (5:4)"@en	COL title VAL  "3M - 3M Privacy Filter for MacBook Pro 15\" TB (2016)"@en	0
+COL title VAL  "Kingston 256GB Data Traveler 100 Generation 3 USB 3.0(Fekete) (DT100G3/256GB)"@de	COL title VAL  "Kingston 16GB DataTraveler 100 G3 (USB 3.0)"@no	0
+COL title VAL  "HDD extern WD My Passport, 1TB, 2,5" USB 3.0, negru,"@en	COL title VAL  "Cooler Master MasterFan MF121L RGB Computer case Fan"@en	0
+COL title VAL  "ASUS TUF X570-PLUS GAMING Motherboard , AMD X570 Ryzen Gen 3"@de	COL title VAL  "ASUS TUF B450M-Plus Gaming AMD Socket AM4 Mainboard (Local Warranty 3years with Avertek)- ALLSTARS by Alliance Stars Group P/L"@en	0
+COL title VAL  "LACIE 2TB 2.5 RUGGED PORTABLE THUNDERBOLT TYPE C"@vi	COL title VAL  "Lacie LaCie Mobile Drive 2.5\" 2TB USB-C - Moon Silver"@fr	0
+COL title VAL  "Buy ASUS TUF Gaming M5 6200 DPI RGB Gaming Mouse"@tl	COL title VAL  "ASUS TUF Gaming M5 Optical USB RGB Gaming Mouse featuring a 6200 DPI Optical sensor Omron switches and Aura Sync RGB lighting - ASUS Official Store | Free Shipping and Financing Available"@en	1
+COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	COL title VAL  "SanDisk Extreme PRO SD UHS-II USB 3.0"@en	0
+COL title VAL  "LaCie Mobile Drive STHG4000400 - hard drive - 4 TB - USB 3.1 Gen 2"@de	COL title VAL  "Ext. HDD LaCie Mobile Drive 2TB USB-C"@ro	0
+COL title VAL  "ASUS ROG Strix B550-F Gaming AMD ATX Motherboard"@en	COL title VAL  "ASUS ROG Strix B550-F Gaming Motherboard"@en	1
+COL title VAL  "Kingston DataTraveler 100 G3 256GB USB Stick 3.0 Flash Drive - Black"@en	COL title VAL  "Kingston 16GB DataTraveler DUO 3 DTDUO3/16GB USB 3.0 Flash Drive"@en	0
+COL title VAL  "Corsair Vengeance Lpx 16 Gb (2x8 Gb) Ddr4 Dram Dimm 2400 M Hz Unbuffered 16 16 16 39 Red Heat Spreader 1.20 V Xmp 2.0"@en	COL title VAL  "CORSAIR DDR4 2666MHz 32GB Kit 4x288 DIMM Unbuffered 16-18-18-35 Vengeance LPX Black Heat spreader 1.20V"@de	0
+COL title VAL  "ASUS PRIME B365M-A MOTHERBOARD LGA 1151 (SOCKET H4) MICRO ATX"@en	COL title VAL  "Asus Prime B450-PLUS Desktop Motherboard"@en	0
+COL title VAL  "SanDisk ExtremePRO CompactFlash CF 128GB 160MB/s Memory Card"@en	COL title VAL  "SanDisk CFast 2.0 64GB Extreme Pro Memory Card | Read 525 MB/s | Write 430MB/s | 4K Video"@en	0
+COL title VAL  "3M - PFIM21V2 PRIVACY FILTER BLACK IMAC 21.5IN 2013"@en	COL title VAL  "Cooler Master MasterLiquid ML120L RGB AIO CPU Cooler"@en	0
+COL title VAL  "Logitech - 910-002225 - Wireless Mouse M185"@en	COL title VAL  "Logitech M510 Laser Mouse RED"@en	0
+COL title VAL  "Monitor 27 SW271 LED 5ms/QHD/IPS/HDMI/DP/USB"@en	COL title VAL  "Monitor LED Iiyama XUB3493WQSU-B1 - 34 - LED (black, AMD Free Sync, UWQHD, IPS)"@en	0
+COL title VAL  "DDR4 16GB 3200 Kingston Fury Black"@de	COL title VAL  "HyperX Kit 16GB (2 x 8GB) DDR4 3333MHz Predator Black CL16"@en	0
+COL title VAL  "3M - Privacy Filter for MacBook Pro"@en	COL title VAL  "3M - 3M Privacy Filter for MacBook Pro 15\" TB (2016)"@en	0
+COL title VAL  "MB ASUS TUF GAMING X570-PLUS AM4 4DDR4 HDMI,DP 3*PCIE Optical S/PDIF OUT, AURA, M.2 ATX"@en	COL title VAL  "MB ASUS PRIME B450-PLUS B450 AM4 4DDR4 DVI+HDMI 3*PCIE, 6*SATA,M.2 RGB ATX"@de	0
+COL title VAL  "Kingston ValueRAM / DDR4 / 16 GB / SO-DIMM 260-pin / 2400 MHz / PC4-19200 / CL17 / 1.2 V / unbuffered / non-ECC | KVR24S17D8/16"@de	COL title VAL  "Corsair Vengeance Lpx 16 Gb (2x8 Gb) Ddr4 Dram Dimm 2400 M Hz Unbuffered 16 16 16 39 Red Heat Spreader 1.20 V Xmp 2.0"@en	0
+COL title VAL  "HyperX Kit 16GB (2 x 8GB) DDR4 3333MHz Predator Black CL16"@en	COL title VAL  "Kingston HyperX Predator 32GB (2x16GB) DDR4 PC4-24000 3000MHz Dual Channel Kit"@en	0
+COL title VAL  "Seagate 12TB 3.5' IronWolf SATA3 NAS 24x7 7200RPM Performance HDD (ST12000VN0008) 3 Years Warranty"@en	COL title VAL  "Seagate FireCuda 2TB ST2000DX002 SATA 3.5-Inch Hybrid Hard Disk Drive"@en	0
+COL title VAL  "3M - 3M Privacy Filter for MacBook Pro 15\" TB (2016)"@en	COL title VAL  "3M - Privacy filter Macbook Pro 15'', 2016 model (16:10)"@en	1
+COL title VAL  "Asus ROG STRIX B450-E Gaming(ROG STRIX B450-E GAMING)"@de	COL title VAL  "Asus ROG Strix X570-E Gaming Motherboard"@en	0
+COL title VAL  "CPU Intel s1151 Core i9-9900 - 3,10GHz (BX80684I99900)"@it	COL title VAL  "AMD - Ryzen 3 3300X Prosessor Socket-AM4, 4-core, 8-Thread, 3.8/4.3GHz, 65W, 7nm, inkl. kjøler"@en	0
+COL title VAL  "Monitor Gaming 24'' ASUS PG248Q"@tl	COL title VAL  "Asus ROG STRIX B450-E Gaming(ROG STRIX B450-E GAMING)"@de	0
+COL title VAL  "Cooler Master MasterLiquid 120R RGB"@en	COL title VAL  "MasterLiquid ML120R RGB, 120mm Radiator, 200W TDP, Liquid Cooling System"@en	1
+COL title VAL  "MON LED 27 Samsung C27F390FHU"@tl	COL title VAL  "LaCie Mobile Drive 5TB External Hard Drive Portable HDD - Moon Silver USB-C USB 3.0, for Mac and PC Desktop, 1 Month Adobe CC (STHG5000400)"@en	0
+COL title VAL  "AURICULARES MICRO LOGITECH HEADSET H540"@vi	COL title VAL  "3M MOBILE INTERACTIVE SOLUTION PF220W9F LIGHTWEIGHT FRAMED PRIVACY FILTER"@en	0
+COL title VAL  "Monitor 27 SW271 LED 5ms/QHD/IPS/HDMI/DP/USB"@en	COL title VAL  "MONITOR LG 32UK550-B 31,5\" IPS UHD 4K 4MS HDMI DP AJUSTABLE ALTURA ALTAVOCES"@de	0
+COL title VAL  "Kingston 16GB DataTraveler DUO 3 DTDUO3/16GB USB 3.0 Flash Drive"@en	COL title VAL  "Kingston DT MicroDuo 16GBUSB 3.0"@en	1
+COL title VAL  "HyperX Kit 16GB (2 x 8GB) DDR4 3333MHz Predator Black CL16"@en	COL title VAL  "Corsair Vengeance LPX 16GB Kit (2 x 8GB), DDR4, 2133MHz (PC4-17000), CL13, XMP 2.0, DIMM Memory"@en	0
+COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	COL title VAL  "Pen Drive SanDisk 16GB Cruzer Force USB 2.0"@de	0
+COL title VAL  "RUGGED THUNDERBOLT / USB-C - 2TB"@en	COL title VAL  "Lacie LaCie Mobile Drive 2.5\" 2TB USB-C - Moon Silver"@fr	0
+COL title VAL  "Corsair Vengenace LPX DDR4 2666MHz 8GB"@de	COL title VAL  "Corsair Vengeance LPX 8GB DDR4 3000MHz C16 RAM"@en	0
+COL title VAL  "Corsair Vengeance LPX Black 16GB 3600 MHz DDR4 Dual Channel Memory Kit"@en	COL title VAL  "Corsair Vengeance LPX Black 16GB (1x16GB) DDR4 PC4-19200 2400MHz Single Module"@en	0
+COL title VAL  "HyperX Predator 16GB - PC4-26600 - DIMM"@en	COL title VAL  "Corsair Vengeance LPX Black 16GB 3600 MHz DDR4 Dual Channel Memory Kit"@en	0
+COL title VAL  "Logitech M510 mouse RF Wireless Laser"@en	COL title VAL  "Logitech - 910-002225 - Wireless Mouse M185"@en	0
+COL title VAL  "ASUS TUF Gaming VG27BQ 68.6 cm (27") 2560 x 1440 pixels WQHD LED Black"@ca	COL title VAL  "SanDisk Cruzer Glide - USB flash drive - 64 GB"@da	0
+COL title VAL  "Kingston SoDIMM DDR4 16GB (2x8GB) 2400 MHz (KVR24S17D8/16)"@de	COL title VAL  "SanDisk Extreme PRO SD UHS-II USB 3.0"@en	0
+COL title VAL  "SanDisk Ultra Dual Drive m3.0 256GB Grey & Silver"@en	COL title VAL  "Ultra Dual Drive USB Type-C USB-nøgle 32 GB USB Type-A / USB Type-C 3.2 Gen 1 (3.1 Gen 1) Sort, Sølv"@en	0
+COL title VAL  "MSI GeForce RTX 2080 Ti Gaming X Trio 11GB GDDR6 RGB HDMI/3*DP/USB Type-C PCi Ex 3.0 16x"@en	COL title VAL  "Gigabyte RTX 2080 TI 11GB GDDR6 PCI Express 3.0 x16 352-Bit Graphics Card | GV-N208TWF3-11GC"@en	0
+COL title VAL  "SanDisk Extreme PRO SD UHS-II USB 3.0"@en	COL title VAL  "SanDisk Extreme Pro UHS II SDXC 32 GB 300 MB/s"@de	0
+COL title VAL  "Tastatura Razer Ornata Chroma â€“ Multi-color Membrane Gaming Keyboard - US Layout, Wired USB Connection, Razer Mecha-Membrane Technology, Mid-height keycaps, Razer Chroma backlighting, Ergonomic wris"@en	COL title VAL  "Ecran Pc IIYAMA XU2390HS-B1"@en	0
+COL title VAL  "Corsair Vengeance LPX 16GB Kit (2 x 8GB), DDR4, 2133MHz (PC4-17000), CL13, XMP 2.0, DIMM Memory"@en	COL title VAL  "VENGEANCE® RGB PRO 16GB (2 x 8GB) DDR4 White"@de	0
+COL title VAL  "Logitech G G402 Hyperion Fury Oyuncu Mouse 910-004068"@en	COL title VAL  "Corsair Vengeance LPX Black 16GB (2x8GB) DDR4 3600MHz Dual Channel Memory (RAM) Kit"@en	0
+COL title VAL  "HyperX FURY - DDR3 - 8 GB - DIMM 240-pin - unbuffered"@de	COL title VAL  "Kingston ValueRAM / DDR4 / 16 GB / SO-DIMM 260-pin / 2400 MHz / PC4-19200 / CL17 / 1.2 V / unbuffered / non-ECC | KVR24S17D8/16"@de	0
+COL title VAL  "ASUS ROG STRIX Z390-I GAMING Motherboard with WiFi/BT"@en	COL title VAL  "Gigabyte Z490 VISION G DDR4 ATX Motherboard"@en	0
+COL title VAL  "Corsair Light Loop Series, LL140 RGB, 140mm Dual Light Loop RGB LED PWM Fan, 2 Fan Pack with Lighting Node PRO"@en	COL title VAL  "Corsair Vengeance LPX Red 16GB (2x8GB) DDR4 PC4-19200 2400MHz Dual Channel Kit"@en	0
+COL title VAL  "Western Digital Purple 10TB 7200 RPM Surveillance Desktop Internal Hard Disk Drive ( WD101PURZ )"@en	COL title VAL  "Western Digital 2TB Elements Portable External Hard Drive - USB 3.0 - WDBU6Y0020BBK-WESN"@en	0
+COL title VAL  "Ext. HDD LaCie Mobile Drive 2TB USB-C"@ro	COL title VAL  "Seagate Backup Plus Slim 1TB USB 3.0 Portable External Hard Drive - STHN1000400"@en	0
+COL title VAL  "Sandisk USB Flash 32GB Cruzer Glide 2.0/3.0"@de	COL title VAL  "Sandisk Cruzer Glide Flash Drive"@de	1
+COL title VAL  "Corsair Vengeance LPX 16GB Kit (2 x 8GB), DDR4, 2133MHz (PC4-17000), CL13, XMP 2.0, DIMM Memory"@en	COL title VAL  "32GB Kit (2 x 16GB) HyperX Predator DDR4 3000MHz, CL15, Black, DIMM Memory"@en	0
+COL title VAL  "SanDisk USB 3.0 Cardreader, Type A for SD UHS I and UHS II, Black, Silver"@en	COL title VAL  "Kingston DataTraveler I G4 - USB 3.0 - 16GB"@no	0
+COL title VAL  "Kingston DataTraveler I G4 - USB 3.0 - 16GB"@no	COL title VAL  "Logitech G402 Gaming Mouse USB Siyah 910-004068"@en	0
+COL title VAL  "Western Digital SSD M.22TB Blue 3D NAND"@de	COL title VAL  "Western Digital Blue 3D NAND 2.5\" 2TB SATA III Solid State Drive"@en	0
+COL title VAL  "ASUS Placa video STRIX RTX2060S EVO GAMING, 8GB GDDR6 256bit"@es	COL title VAL  "ASUS ROG STRIX B550-E GAMING"@de	0
+COL title VAL  "SANDISK EXTREME PRO SDXC 256GB V30 UHS-I U3 - SDSDXXY-256G-GN4IN"@de	COL title VAL  "SanDisk SD Extreme V30 U3 UHS-I C10 - 128GB"@de	0
+COL title VAL  "Western Digital Red 1TB 5400rpm 16MB SATA3 2,5"(WD10JFCX)"@de	COL title VAL  "WD 3.5'' 10TB 7200RPM SATA3 256MB WD101PURZ"@en	0
+COL title VAL  "3M - PF17.0W PRIVACY FILTER BLAC"@pl	COL title VAL  "3M PF 17.0W |23 cm x 36.8 cm|"@vi	1
+COL title VAL  "3M - Privacy Filter NotebookTil 13\" Apple MacBook Pro - (2016 modell)"@en	COL title VAL  "3M - 3M Privacy Filter for MacBook Pro 15\" TB (2016)"@en	0
+COL title VAL  "Crucial Mac 8GB DDR4 2400Mhz SO-DIMM"@ro	COL title VAL  "Ballistix MAX 16GB Kit DDR4 CL18 8GBx2 4000 DIMM 288pin black"@en	0
+COL title VAL  "8GB Corsair ValueSelect DDR4-2133 DIMM CL15 Single"@en	COL title VAL  "Kingston 16GB DataTraveler 100 G3 (USB 3.0)"@no	0
+COL title VAL  "Asus Strix GeForce RTX 2060 Super EVO Gaming 8GB Graphics Card"@en	COL title VAL  "Gigabyte Geforce RTX 2080 Ti Windforce 11GB GDDR6 Graphics Card"@en	0
+COL title VAL  "MSI GeForce RTX 2080 Ti Gaming X Trio 11GB GDDR6 RGB HDMI/3*DP/USB Type-C PCi Ex 3.0 16x"@en	COL title VAL  "MSI GeForce RTX 2080 Ti GAMING X TRIO 11G"@en	1
+COL title VAL  "Buy ASUS TUF Gaming M5 6200 DPI RGB Gaming Mouse"@tl	COL title VAL  "Asus TUF B450M-PLUS GAMING AM4 M-ATX Motherboard"@en	0
+COL title VAL  "Kingston 16GB DataTraveler 100 G3 (USB 3.0)"@no	COL title VAL  "Kingston DataTraveler 100 G3 16 GB"@no	1
+COL title VAL  "MEMOIRE USB3 16 Go DTIG4-16GB kingston"@tl	COL title VAL  "Kingston SoDIMM DDR4 16GB (2x8GB) 2400 MHz (KVR24S17D8/16)"@de	0
+COL title VAL  "ROG Strix Fusion Langalliset pelikuulokkeet"@fi	COL title VAL  "ASUS ROG Strix Fusion Wireless headset Head-band Binaural Black"@en	1
+COL title VAL  "SanDisk Extreme PRO CZ880 128GB 256GB 420MB/s USB 3.1 Solid State Flash Drive (128GB)"@en	COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	0
+COL title VAL  "Seagate IronWolf 110 internal solid state drive 2.5\" 3840 GB SATA III 3D TLC"@en	COL title VAL  "XPG SX6000 Lite internal solid state drive 1000 GB PCI Express 3.0 3D TLC NVMe M.2 SSD"@en	0
+COL title VAL  "WD 1TB Blue internal SATA3 SSD (WDS100T2B0A) (Warranty 5years with WD SG)"@en	COL title VAL  "SSD диск Western Digital SSD Blue 1TB SATA III 3D"@de	1
+COL title VAL  "Seagate Expansion 3TB Desktop External Hard Drive in Black - USB3.0"@en	COL title VAL  "Asus GeForce GTX 1660 SUPER TUF Gaming OC 6GB Video Card"@en	0
+COL title VAL  "Extreme hukommelseskort 32 GB MicroSDHC Klasse 10 UHS-I"@no	COL title VAL  "SanDisk SD Extreme V30 U3 UHS-I C10 - 128GB"@de	0
+COL title VAL  "XPG SX8200 Pro 256 GB Solid State Drive - M.2 2280 Internal - PCI Express (PCI Express 3.0 x4)"@en	COL title VAL  "Corsair Force MP510 M.2 2280 480GB PCI-Express 3.0 x4, NVMe 1.3 3D TLC Internal Solid State Drive - Black | CSSD-F480GBMP510"@en	0
+COL title VAL  "SanDisk Extreme PRO 64GB A2 V30 Performance microSDXC"@en	COL title VAL  "Thẻ Nhớ Sandisk MicroSD Extreme Pro SDXC"@vi	1
+COL title VAL  "iiyama ProLite XU2390HS 23 Inch Full HD LED Flat Black computer monitor"@en	COL title VAL  "Ecran Pc IIYAMA XU2390HS-B1"@en	1
+COL title VAL  "AURICULARES MICRO LOGITECH HEADSET H540"@vi	COL title VAL  "HEADSET GAMING G633 WRL/981-000605 LOGITECH"@de	0
+COL title VAL  "Intel Core i9-9900X Skylake X 10-Core 3.5 GHz (4.4 GHz Turbo) LGA 2066 165W BX80673I99900X Desktop Processor"@en	COL title VAL  "AMD - Ryzen 3 3300X Prosessor Socket-AM4, 4-core, 8-Thread, 3.8/4.3GHz, 65W, 7nm, inkl. kjøler"@en	0
+COL title VAL  "ASUS ROG Strix B450-E GAMING AMD ATX Motherboard"@en	COL title VAL  "Asus TUF B450M-PLUS GAMING AM4 M-ATX Motherboard"@en	0
+COL title VAL  "WD HDD 4TB My Passport Black"@en	COL title VAL  "WD HDD 1TB My Passport Black"@en	0
+COL title VAL  "Seagate Cheetah 300GB Enterprise 3.5\" SAS HDD/Hard Drive"@en	COL title VAL  "Seagate FireCuda 2TB ST2000DX002 SATA 3.5-Inch Hybrid Hard Disk Drive"@en	0
+COL title VAL  "Kingston DataTraveler MicroDuo 3C USB Flash Drive 128GB"@en	COL title VAL  "SanDisk MicroSD Extreme V30 U3 UHS-I C10 A2 - 256GB"@en	0
+COL title VAL  "Pen Drive SanDisk 16GB Cruzer Force USB 2.0"@de	COL title VAL  "Sandisk SDCZ60-064G-B35 - Cruzer Glide 64GB"@de	0
+COL title VAL  "Kingston DataTraveler I G4 - USB 3.0 - 16GB"@no	COL title VAL  "MEMOIRE USB3 16 Go DTIG4-16GB kingston"@tl	1
+COL title VAL  "Disco Seagate Ironwolf Nas 10Tb Sata3 (St10000vn0008)"@en	COL title VAL  "WD 3.5'' 10TB 7200RPM SATA3 256MB WD101PURZ"@en	0
+COL title VAL  "Western Digital Red 1TB 5400rpm 16MB SATA3 2,5"(WD10JFCX)"@de	COL title VAL  "Western Digital Red 1TB 16MB SATA III (WD10JFCX)"@de	1
+COL title VAL  "ASUS TUF X470-PLUS GAMING Moderkort - AMD X470 - AMD AM4 socket - DDR4 RAM - ATX"@de	COL title VAL  "Seagate 12TB 3.5' IronWolf SATA3 NAS 24x7 7200RPM Performance HDD (ST12000VN0008) 3 Years Warranty"@en	0
+COL title VAL  "Mouse Wireless LOGITECH M330 Silent, 1000 dpi, rosu"@fr	COL title VAL  "Logitech 910-002255,M185 Wireless Mouse, Grey"@en	0
+COL title VAL  "SanDisk 32GB Ultra SDSDUNB-032G-GN3IN SDHC Memory Card C10 UHS-I"@en	COL title VAL  "SANDISK 128GB SDXV5 EXTREME SDXC MEMORY CARD (SDSDXV5-128G-GNCIN)-WRTY LTD LIFET W/DISTRIBUTOR"@de	0
+COL title VAL  "VENGEANCE® RGB PRO 16GB (2 x 8GB) DDR4 White"@de	COL title VAL  "Seagate STEB3000200 (3000Gb, 3.5'', USB3.0),"@en	0
+COL title VAL  "Gigabyte RTX 2080 TI 11GB GDDR6 PCI Express 3.0 x16 352-Bit Graphics Card | GV-N208TWF3-11GC"@en	COL title VAL  "MSI GeForce RTX 2080 Ti GAMING X TRIO 11G"@en	0
+COL title VAL  "Cooler Master MasterLiquid Lite 120"@en	COL title VAL  "MasterLiquid ML120R RGB, 120mm Radiator, 200W TDP, Liquid Cooling System"@en	0
+COL title VAL  "Corsair Vengeance LPX 16GB Kit (2 x 8GB), DDR4, 2133MHz (PC4-17000), CL13, XMP 2.0, DIMM Memory"@en	COL title VAL  "Corsair 16GB DDR4 Vengeance LPX 2133MHz Memory Kit for Skylake"@en	1
+COL title VAL  "SanDisk Extreme PRO CZ880 128GB 256GB 420MB/s USB 3.1 Solid State Flash Drive (128GB)"@en	COL title VAL  "SanDisk SD Extreme V30 U3 UHS-I C10 - 128GB"@de	0
+COL title VAL  "Seagate Enterprise Capacity 3.5 HDD 10TB (Helium) 7200RPM SATA 6Gb/s 256 MB CacheInternal Bare Drive (ST10000NM0016)"@en	COL title VAL  "Seagate Enterprise Performance 15K HDD 3,5' 300GB SAS 6Gb/s 16MB cache"@en	0
+COL title VAL  "WD BLUE 250GB M.2 SSD DRIVE"@de	COL title VAL  "WD Blue 250GB PC SSD - SATA 6 Gb/s 2.5 Inch Solid State Drive -WDS250G1B0A"@en	0
+COL title VAL  "ASUS ROG Strix B450-E GAMING AMD ATX Motherboard"@en	COL title VAL  "ASUS ROG STRIX B550-E GAMING Presa AM4 ATX AMD B550"@de	0
+COL title VAL  "Corsair Vengeance LPX 8GB DDR4 3000MHz C16 RAM"@en	COL title VAL  "8GB Corsair ValueSelect DDR4-2133 DIMM CL15 Single"@en	0
+COL title VAL  "240GB Gigabyte 2.5\" SATA 3.0 SSD"@de	COL title VAL  "Seagate STEB3000200 (3000Gb, 3.5'', USB3.0),"@en	0
+COL title VAL  "MB ASUS PRIME PRIME B365M-A LGA1151 (COFFEE LAKE) 4DDR4 VGA+DVI+HDMI PCIe M2 Raid mATX"@en	COL title VAL  "Cooler Master MasterLiquid ML120L RGB AIO CPU Cooler"@en	0
+COL title VAL  "240GB Gigabyte 2.5\" SATA 3.0 SSD"@de	COL title VAL  "WD 2 TB SATA BLUE 2,5 inc SSD"@en	0
+COL title VAL  "Western Digital Blue SN550 1TB M.2 (WDS100T2B0C)"@de	COL title VAL  "64GB SanDisk Extreme micro SD XC Memory Card V-Class 30 U3 4K Video A2 100MB/s"@en	0
+COL title VAL  "Asus Strix GeForce RTX 2060 Super EVO Gaming 8GB Graphics Card"@en	COL title VAL  "Asus GeForce GTX 1660 SUPER TUF Gaming OC 6GB Video Card"@en	0
+COL title VAL  "SanDisk Ultra SDXC 256GB 100 MB/s UHS-I Class 10"@sv	COL title VAL  "SanDisk 32GB Ultra SDSDUNB-032G-GN3IN SDHC Memory Card C10 UHS-I"@en	0
+COL title VAL  "Kingston 16GB DataTraveler 100 G3 (USB 3.0)"@no	COL title VAL  "Kingston DataTraveler I G4 - USB 3.0 - 16GB"@no	0
+COL title VAL  "Sandisk SDCZ60-064G-B35 - Cruzer Glide 64GB"@de	COL title VAL  "Sandisk Extreme Pro 64GB CFast 2.0"@en	0
+COL title VAL  "Kingston Hyperx Fury 16GB 3200Mhz DDR4 Cl16 DIMM Black"@en	COL title VAL  "DDR4 16GB 3200 Kingston Fury Black"@de	1
+COL title VAL  "WD Blue 250GB PC SSD - SATA 6 Gb/s 2.5 Inch Solid State Drive -WDS250G1B0A"@en	COL title VAL  "Seagate IronWolf 110 internal solid state drive 2.5\" 3840 GB SATA III 3D TLC"@en	0
+COL title VAL  "Western Digital SSD M.22TB Blue 3D NAND"@de	COL title VAL  "Western Digital Blue SN550 1TB M.2 (WDS100T2B0C)"@de	0
+COL title VAL  "GIGABYTE Z490 AORUS PRO AX LGA 1200 Intel Z490 ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 2, WIFI 6, 2.5 GbE LAN"@en	COL title VAL  "Intel Core i9-9900X Skylake X 10-Core 3.5 GHz (4.4 GHz Turbo) LGA 2066 165W BX80673I99900X Desktop Processor"@en	0
+COL title VAL  "HDD 35 10TB Seagate IronWolf NAS ST10000VN0008"@en	COL title VAL  "Seagate Exos X10 Enterprise 3.5'' HDD 10TB 512E SATA Hyperscale"@en	0
+COL title VAL  "Sandisk 128GB Extreme Pro 160 MBs Compact Flash"@en	COL title VAL  "SanDisk Extreme PRO USB 3.1 Solid State Flash Drive 128GB"@en	0
+COL title VAL  "Kingston DataTraveler 100 G3 256GB USB Stick 3.0 Flash Drive - Black"@en	COL title VAL  "Kingston DataTraveler MicroDuo 3C USB Flash Drive 128GB"@en	0
+COL title VAL  "WD BLUE 250GB M.2 SSD DRIVE"@de	COL title VAL  "240GB Gigabyte 2.5\" SATA 3.0 SSD"@de	0
+COL title VAL  "Asus TUF B450M-PLUS GAMING AM4 M-ATX Motherboard"@en	COL title VAL  "ASUS PRIME Intel LGA 1200 B460M-K 10th Gen Micro-ATX Motherboard"@en	0
+COL title VAL  "Razer Viper Chroma Optical Ambidextrous Gaming Mouse"@en	COL title VAL  "Logitech Optical Mouse USB B100"@en	0
+COL title VAL  "SanDisk Ultra SDXC 256GB 100 MB/s UHS-I Class 10"@sv	COL title VAL  "SANDISK EXTREME PRO SDXC 256GB V30 UHS-I U3 - SDSDXXY-256G-GN4IN"@de	0
+COL title VAL  "3m Pf19.0 Privacy Filter For Standard 19\" Desktop Lcd Monitors (5:4)"@en	COL title VAL  "3M - PF230W9F EYE PROTECTION FILTER DESKTOPS FRAME STANDARD 23.0"@de	0
+COL title VAL  "SanDisk MicroSD Extreme V30 U3 UHS-I C10 A2 - 256GB"@en	COL title VAL  "SANDISK EXTREME PRO SDXC 256GB V30 UHS-I U3 - SDSDXXY-256G-GN4IN"@de	0
+COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	COL title VAL  "Pendrive 3.0 Sandisk Ultra Flair 32 GB"@no	1
+COL title VAL  "Thẻ Nhớ Sandisk MicroSD Extreme Pro SDXC"@vi	COL title VAL  "Sandisk 128GB Extreme Pro 160 MBs Compact Flash"@en	0
+COL title VAL  "WD 3.5'' 10TB 7200RPM SATA3 256MB WD101PURZ"@en	COL title VAL  "HDD extern WD My Passport, 1TB, 2,5" USB 3.0, negru,"@en	0
+COL title VAL  "Kingston DataTraveler 100 G3 256GB USB Stick 3.0 Flash Drive - Black"@en	COL title VAL  "Kingston 256GB Data Traveler 100 Generation 3 USB 3.0(Fekete) (DT100G3/256GB)"@de	1
+COL title VAL  "WD 3.5'' 10TB 7200RPM SATA3 256MB WD101PURZ"@en	COL title VAL  "Seagate Enterprise Capacity 3.5 HDD 10TB (Helium) 7200RPM SATA 6Gb/s 256 MB CacheInternal Bare Drive (ST10000NM0016)"@en	0
+COL title VAL  "ASUS TUF X570-PLUS GAMING Motherboard , AMD X570 Ryzen Gen 3"@de	COL title VAL  "Gigabyte X570 AORUS ELITE AMD Motherboard"@en	0
+COL title VAL  "Cooler Master MasterLiquid ML120L RGB V2 AIO Liquid CPU Cooler MLW-D12M-A18PC-R2"@en	COL title VAL  "Cooler Master MasterLiquid ML120L RGB AIO CPU Cooler"@en	1
+COL title VAL  "3M - Privacy Filter for MacBook Pro"@en	COL title VAL  "3M - PF230W9F EYE PROTECTION FILTER DESKTOPS FRAME STANDARD 23.0"@de	0
+COL title VAL  "Asus GeForce GTX 1660 SUPER TUF Gaming OC 6GB Video Card"@en	COL title VAL  "ASUS GeForce RTX 2070 STRIX GAMING OC 8GB"@de	0
+COL title VAL  "Logitech Optical Mouse USB B100"@en	COL title VAL  "Mälupulk USB3.1 64GB Kingston DataTraveler DT100 must"@no	0
+COL title VAL  "WD WDS200T2B0B 2Tb SATA BLUE Ssd Disk"@de	COL title VAL  "Western Digital Blue SN550 1TB M.2 (WDS100T2B0C)"@de	0
+COL title VAL  "Razer Ornata Chroma Multicolour Membrane Gaming Keyboard US Layout"@en	COL title VAL  "Razer Viper Chroma Optical Ambidextrous Gaming Mouse"@en	0
+COL title VAL  "MSI GeForce RTX 2080 Ti GAMING X TRIO 11G"@en	COL title VAL  "Gigabyte Geforce RTX 2080 Ti Windforce 11GB GDDR6 Graphics Card"@en	0
+COL title VAL  "SanDisk Ultra SDXC 256GB 100 MB/s UHS-I Class 10"@sv	COL title VAL  "SDSDUNR-256G-GN6IN memory card 256 GB SDXC Class 10 UHS-I"@en	1
+COL title VAL  "RAZER Viper Ambidextrous Gaming Mouse, herní myš"@en	COL title VAL  "Logitech G402 Gaming Mouse USB Siyah 910-004068"@en	0
+COL title VAL  "ASUS TUF B450M-Plus Gaming AMD Socket AM4 Mainboard (Local Warranty 3years with Avertek)- ALLSTARS by Alliance Stars Group P/L"@en	COL title VAL  "ASUS TUF X470-PLUS GAMING Moderkort - AMD X470 - AMD AM4 socket - DDR4 RAM - ATX"@de	0
+COL title VAL  "Kingston DataTraveler I G4 - USB 3.0 - 16GB"@no	COL title VAL  "Corsair Vengeance LPX DDR4 2666MHz 32GB (2x16) Desktop Memory CMK32GX4M2A2666C16 | PCByte"@en	0
+COL title VAL  "iiyama ProLite XUB2792QSU-B1 27\" LED LCD Monitor - 16:9 - 5 ms"@en	COL title VAL  "Monitor 27 SW271 LED 5ms/QHD/IPS/HDMI/DP/USB"@en	0
+COL title VAL  "Seagate FireCuda 2TB ST2000DX002 SATA 3.5-Inch Hybrid Hard Disk Drive"@en	COL title VAL  "ASUS TUF X570-PLUS GAMING Motherboard , AMD X570 Ryzen Gen 3"@de	0
+COL title VAL  "3M - Gold Privacy Filter 12.5\"\" 16:9"@en	COL title VAL  "3M - PFIM21V2 PRIVACY FILTER BLACK IMAC 21.5IN 2013"@en	0
+COL title VAL  "4 Gb 1600 M Hz Ddr3 Non Ecc Cl11 Dimm Sr (512x8)"@de	COL title VAL  "Kingston Technology ValueRAM 4GB DDR3-1600 memory module 1600 MHz"@en	1
+COL title VAL  "Kingston Technology DataTraveler SE9 G2 64GB lecteur USB flash 64 Go USB Type-A 3.2 Gen 1 (3.1 Gen 1) Argent"@en	COL title VAL  "LaCie Mobile Drive STHG4000400 - hard drive - 4 TB - USB 3.1 Gen 2"@de	0
+COL title VAL  "Cooler Master MasterLiquid 120R RGB"@en	COL title VAL  "Cooler Master MasterLiquid ML360R RGB - 360 mm"@en	0
+COL title VAL  "SANDISK EXTREME PRO SDXC 256GB V30 UHS-I U3 - SDSDXXY-256G-GN4IN"@de	COL title VAL  "SanDisk Extreme Pro UHS II SDXC 32 GB 300 MB/s"@de	0
+COL title VAL  "3M - PF17.0W PRIVACY FILTER BLAC"@pl	COL title VAL  "3M - Gold Privacy Filter 12.5\"\" 16:9"@en	0
+COL title VAL  "240GB Gigabyte 2.5\" SATA 3.0 SSD"@de	COL title VAL  "Corsair 32GB 2666MHz Vengeance LPX Black CL16 (4x8GB)"@en	0
+COL title VAL  "SanDisk Extreme MicroSDXC 160MBs UHSI Card with adapter 64GB"@en	COL title VAL  "Kingston DT MicroDuo 16GBUSB 3.0"@en	0
+COL title VAL  "ASUS TUF X470-PLUS GAMING Moderkort - AMD X470 - AMD AM4 socket - DDR4 RAM - ATX"@de	COL title VAL  "ASUS ROG Strix X570-E Gaming scheda madre Presa AM4 ATX AMD X570"@de	0
+COL title VAL  "Gigabyte AORUS GeForce RTX™ 2080 Ti XTREME 11G"@en	COL title VAL  "Gigabyte GeForce RTX 2080 Ti Xtreme (Base:1350MHz,Boost:1770MHz), 11GB GDDR6 (14140MHz), PCI-E 3.0, 3x DisplayPort 1.4, 3x HDMI 2.0b, USB Type-C, RGB Fusion 2.0"@en	1
+COL title VAL  "Corsair 16GB DDR4 Vengeance LPX 2133MHz Memory Kit for Skylake"@en	COL title VAL  "Corsair Vengeance LPX Black 16GB (2x8GB) DDR4 3600MHz Dual Channel Memory (RAM) Kit"@en	0
+COL title VAL  "Kingston DT MicroDuo 16GBUSB 3.0"@en	COL title VAL  "Kingston HyperX Predator 32GB (2x16GB) DDR4 PC4-24000 3000MHz Dual Channel Kit"@en	0
+COL title VAL  "Logitech M510 Laser Mouse RED"@en	COL title VAL  "Corsair Force MP510 SSD PCIe M.2 NVMe 480GB"@en	0
+COL title VAL  "MSI MBMPG Z490 Gaming Edge WIFI LGA 1200 ATX"@de	COL title VAL  "Z490 AORUS PRO AX, Intel® Z490 Chipset, LGA 1200, HDMI, ATX Motherboard"@en	0
+COL title VAL  "Samsung C27F390 27in Full HD LED Monitor"@en	COL title VAL  "Samsung S24F350H 24in Full HD LED Monitor"@de	0
+COL title VAL  "MSI MBMPG Z490 Gaming Edge WIFI LGA 1200 ATX"@de	COL title VAL  "Gigabyte Intel Z490 VISION G LGA1200 ATX Motherboard | PCByte"@en	0
+COL title VAL  "ASUS ROG Strix RTX 2070 OC,GAMING Grafikkarte,8 GB GDDR6,2x HDMI,2x DP,USB-C"@de	COL title VAL  "ASUS GeForce RTX 2070 STRIX GAMING OC 8GB"@de	1
+COL title VAL  "Corsair 16GB DDR4 Vengeance LPX 2133MHz Memory Kit for Skylake"@en	COL title VAL  "Corsair Vengeance LPX RAM 16GB 2400MHz DDR4 UDIMM 288 Pin Desktop Memory"@en	0
+COL title VAL  "WD 3.5'' 10TB 7200RPM SATA3 256MB WD101PURZ"@en	COL title VAL  "Seagate 12TB 3.5' IronWolf SATA3 NAS 24x7 7200RPM Performance HDD (ST12000VN0008) 3 Years Warranty"@en	0
+COL title VAL  "PHILIPS MONITOR LED IPS 24\" (23.8) 16:9 FULLHD VGA DVI HDMI 243V7QDSB"@de	COL title VAL  "SSD диск Western Digital SSD Blue 1TB SATA III 3D"@de	0
+COL title VAL  "ASUS GeForce GTX1660 SUPER 6GB GDDR6 GAMING TUF3"@de	COL title VAL  "Buy ASUS TUF Gaming M5 6200 DPI RGB Gaming Mouse"@tl	0
+COL title VAL  "SANDISK 128GB SDXV5 EXTREME SDXC MEMORY CARD (SDSDXV5-128G-GNCIN)-WRTY LTD LIFET W/DISTRIBUTOR"@de	COL title VAL  "iiyama ProLite XUB2792QSU-B1 27\" LED LCD Monitor - 16:9 - 5 ms"@en	0
+COL title VAL  "ADATA XPG SX8200 Pro NVME 256GB M.2 SSD"@pt	COL title VAL  "XPG SX8200 Pro 256 GB Solid State Drive - M.2 2280 Internal - PCI Express (PCI Express 3.0 x4)"@en	1
+COL title VAL  "Seagate Exos X10 Enterprise 3.5'' HDD 10TB 512E SATA Hyperscale"@en	COL title VAL  "Seagate FireCuda 2TB ST2000DX002 SATA 3.5-Inch Hybrid Hard Disk Drive"@en	0
+COL title VAL  "Hard Disk Drive portabil SEAGATE Backup Plus Slim STHN1000400, 1TB, USB 3.0, negru"@en	COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	0
+COL title VAL  "iiyama ProLite XU2390HS 23 Inch Full HD LED Flat Black computer monitor"@en	COL title VAL  "Monitor LED Iiyama XUB3493WQSU-B1 - 34 - LED (black, AMD Free Sync, UWQHD, IPS)"@en	0
+COL title VAL  "Intel Core i9-9900 Box"@it	COL title VAL  "ASUS M/B ROG STRIX X570-F GAMING"@de	0
+COL title VAL  "Logitech G G332 Black & Red Gaming Headset"@en	COL title VAL  "Logitech M510 Laser Mouse RED"@en	0
+COL title VAL  "AURICULARES MICRO LOGITECH HEADSET H540"@vi	COL title VAL  "Logitech BRIO 4K Stream Edition Webcam with FREE XSplit Software"@en	0
+COL title VAL  "Western Digital Elements 2TB USB3.0 - 2,5" -fekete(WDBU6Y0020BBK-EESN)"@de	COL title VAL  "Western Digital Blue 3D NAND 2.5\" 2TB SATA III Solid State Drive"@en	0
+COL title VAL  "Cooler Master MasterLiquid Lite 120"@en	COL title VAL  "Cooler Master MasterLiquid Lite 120 Liquid CPU Cooler"@fr	1
+COL title VAL  "ASUS Mainboard PRIME B460M-K - Motherboard - ATX (90MB1400-M0EAY0)"@en	COL title VAL  "Asus Prime B450-PLUS Desktop Motherboard"@en	0
+COL title VAL  "Corsair Vengeance LPX RAM 16GB 2400MHz DDR4 UDIMM 288 Pin Desktop Memory"@en	COL title VAL  "Corsair Vengeance LPX 8GB DDR4 3000MHz C16 RAM"@en	0
+COL title VAL  "ASUS ROG STRIX B550-E GAMING"@de	COL title VAL  "Asus Strix GeForce RTX 2060 Super EVO Gaming 8GB Graphics Card"@en	0
+COL title VAL  "iiyama ProLite XU2390HS 23 Inch Full HD LED Flat Black computer monitor"@en	COL title VAL  "BenQ GW2480 23.8" Full HD IPS Monitor"@it	0
+COL title VAL  "Seagate Backup Plus Slim 1TB USB 3.0 Portable External Hard Drive - STHN1000400"@en	COL title VAL  "HDD 35 10TB Seagate IronWolf NAS ST10000VN0008"@en	0
+COL title VAL  "Monitor Gaming 24'' ASUS PG248Q"@tl	COL title VAL  "Cooler Master MasterLiquid 120R RGB"@en	0
+COL title VAL  "Logitech M510 Laser Mouse RED"@en	COL title VAL  "Logitech M510 mouse RF Wireless Laser"@en	1
+COL title VAL  "Corsair Vengeance LPX Red 16GB (2x8GB) DDR4 PC4-19200 2400MHz Dual Channel Kit"@en	COL title VAL  "Corsair Vengeance LPX Black 16GB 3600 MHz DDR4 Dual Channel Memory Kit"@en	0
+COL title VAL  "VENGEANCE® RGB PRO 16GB (2 x 8GB) DDR4 White"@de	COL title VAL  "HyperX Kit 16GB (2 x 8GB) DDR4 3333MHz Predator Black CL16"@en	0
+COL title VAL  "Western Digital WD 250GB Black SN750 NVMe M.2 2280 WDS250G3X0C"@de	COL title VAL  "Western Digital Blue SN550 1TB M.2 (WDS100T2B0C)"@de	0
+COL title VAL  "ASUS ROG Strix RTX 2070 OC,GAMING Grafikkarte,8 GB GDDR6,2x HDMI,2x DP,USB-C"@de	COL title VAL  "Kingston HyperX Predator 32GB (2x16GB) DDR4 PC4-24000 3000MHz Dual Channel Kit"@en	0
+COL title VAL  "4 Gb 1600 M Hz Ddr3 Non Ecc Cl11 Dimm Sr (512x8)"@de	COL title VAL  "HyperX FURY - DDR3 - 8 GB - DIMM 240-pin - unbuffered"@de	0
+COL title VAL  "SanDisk Extreme Pro UHS II SDXC 32 GB 300 MB/s"@de	COL title VAL  "SanDisk Ultra SDXC 256GB 100 MB/s UHS-I Class 10"@sv	0
+COL title VAL  "Sandisk 128GB Extreme Pro 160 MBs Compact Flash"@en	COL title VAL  "SanDisk Extreme Pro (256GB) SDXC Memory Card"@en	0
+COL title VAL  "3M - PF27.0W9 PRIVACY FILTER BLACK FOR 27,0IN / 68,6 CM / 16:9IN ACCS"@en	COL title VAL  "3M - PF319W FRAMED PRIVACY FILTER 18,5IN -19IN 47,0-48,3CM 16:10IN ACCS"@en	0
+COL title VAL  "Western Digital WD 250GB Black SN750 NVMe M.2 2280 WDS250G3X0C"@de	COL title VAL  "Western Digital SSD 250GB Blue series Sata3"@de	0
+COL title VAL  "Sandisk Extreme Pro 64GB CFast 2.0"@en	COL title VAL  "SanDisk Extreme PRO 64GB A2 V30 Performance microSDXC"@en	0
+COL title VAL  "WD BLUE 250GB M.2 SSD DRIVE"@de	COL title VAL  "Wd Blue 3D Nand 250Gb Pc Ssd - Sata Iii 6Gb/S M.2 2280 Solid State Drive"@en	1
+COL title VAL  "64GB SanDisk Extreme micro SD XC Memory Card V-Class 30 U3 4K Video A2 100MB/s"@en	COL title VAL  "SanDisk ExtremePRO CompactFlash CF 128GB 160MB/s Memory Card"@en	0
+COL title VAL  "Gigabyte Intel Z490 VISION G LGA1200 ATX Motherboard | PCByte"@en	COL title VAL  "ASUS PRIME Intel LGA 1200 B460M-K 10th Gen Micro-ATX Motherboard"@en	0
+COL title VAL  "Kingston SoDIMM DDR4 16GB (2x8GB) 2400 MHz (KVR24S17D8/16)"@de	COL title VAL  "8GB (1 x 8GB) DDR4 2400MHz SO-DIMM"@de	0
+COL title VAL  "Kingston DataTraveler I G4 - USB 3.0 - 16GB"@no	COL title VAL  "LaCie Mobile Drive STHG4000400 - hard drive - 4 TB - USB 3.1 Gen 2"@de	0
+COL title VAL  "Gigabyte Geforce RTX 2080 Ti Windforce 11GB GDDR6 Graphics Card"@en	COL title VAL  "G.Skill Trident Z Neo DDR4 3600MHz 16GB (2X8) Desktop Memory for AMD X570 F4-3600C16D-16GTZNC | PCByte"@no	0
+COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	COL title VAL  "Seagate STEB3000200 (3000Gb, 3.5'', USB3.0),"@en	0
+COL title VAL  "Monitor 27 SW271 LED 5ms/QHD/IPS/HDMI/DP/USB"@en	COL title VAL  "PHILIPS MONITOR LED IPS 24\" (23.8) 16:9 FULLHD VGA DVI HDMI 243V7QDSB"@de	0
+COL title VAL  "Logitech G402 Gaming Mouse USB Siyah 910-004068"@en	COL title VAL  "Logitech Optical Mouse USB B100"@en	0
+COL title VAL  "SSD диск Western Digital SSD Blue 1TB SATA III 3D"@de	COL title VAL  "ADATA SSD 1TB XPG SX6000 LITE"@de	0
+COL title VAL  "Western Digital SSD M.22TB Blue 3D NAND"@de	COL title VAL  "WD WDS200T2B0B 2Tb SATA BLUE Ssd Disk"@de	1
+COL title VAL  "SDSDUNR-256G-GN6IN memory card 256 GB SDXC Class 10 UHS-I"@en	COL title VAL  "SANDISK EXTREME PRO SDXC 256GB V30 UHS-I U3 - SDSDXXY-256G-GN4IN"@de	0
+COL title VAL  "Western Digital Blue SN550 1TB NVMe PCIe Gen3.0x 4 M.2 SSD"@de	COL title VAL  "Western Digital SSD M.22TB Blue 3D NAND"@de	0
+COL title VAL  "240GB Gigabyte 2.5\" SATA 3.0 SSD"@de	COL title VAL  "Logitech USB Headset H540 - USB - EMEA 981-000480"@de	0
+COL title VAL  "Kingston 16GB DataTraveler DUO 3 DTDUO3/16GB USB 3.0 Flash Drive"@en	COL title VAL  "Kingston 256GB Data Traveler 100 Generation 3 USB 3.0(Fekete) (DT100G3/256GB)"@de	0
+COL title VAL  "Sandisk Cruzer Glide Flash Drive"@de	COL title VAL  "Pen Drive SanDisk 16GB Cruzer Force USB 2.0"@de	0
+COL title VAL  "Cooler Master MasterLiquid ML360R RGB - 360 mm"@en	COL title VAL  "Corsair Vengeance LPX Black 16GB 3600 MHz DDR4 Dual Channel Memory Kit"@en	0
+COL title VAL  "Corsair Vengeance Lpx 16 Gb (2x8 Gb) Ddr4 Dram Dimm 2400 M Hz Unbuffered 16 16 16 39 Red Heat Spreader 1.20 V Xmp 2.0"@en	COL title VAL  "ASUS Scheda Madre ROG STRIX Z390-I GAMING Intel Z390"@de	0
+COL title VAL  "3M - Gold Privacy Filter 12.5\"\" 16:9"@en	COL title VAL  "3M - Sekretessfilter 27\" Widescreen 16:9"@de	0
+COL title VAL  "Kingston DataTraveler 100 G3 16 GB"@no	COL title VAL  "Kingston DataTraveler 100 G3 256GB USB Stick 3.0 Flash Drive - Black"@en	0
+COL title VAL  "Asus ROG Strix X570-E Gaming Motherboard"@en	COL title VAL  "ASUS ROG Strix B450-E GAMING AMD ATX Motherboard"@en	0
+COL title VAL  "Asus ROG Strix X570-E Gaming Motherboard"@en	COL title VAL  "Tastatura Razer Ornata Chroma â€“ Multi-color Membrane Gaming Keyboard - US Layout, Wired USB Connection, Razer Mecha-Membrane Technology, Mid-height keycaps, Razer Chroma backlighting, Ergonomic wris"@en	0
+COL title VAL  "3M - PF319W FRAMED PRIVACY FILTER 18,5IN -19IN 47,0-48,3CM 16:10IN ACCS"@en	COL title VAL  "3M - Gold Privacy Filter 12.5\"\" 16:9"@en	0
+COL title VAL  "Western Digital WD 250GB Black SN750 NVMe M.2 2280 WDS250G3X0C"@de	COL title VAL  "WD BLUE 250GB M.2 SSD DRIVE"@de	0
+COL title VAL  "Cooler Master MasterLiquid 120R RGB"@en	COL title VAL  "Cooler Master MasterLiquid Lite 120"@en	0
+COL title VAL  "G.Skill Trident Z Neo DDR4 3600MHz 16GB (2X8) Desktop Memory for AMD X570 F4-3600C16D-16GTZNC | PCByte"@no	COL title VAL  "Corsair 16GB DDR4 Vengeance LPX 2133MHz Memory Kit for Skylake"@en	0
+COL title VAL  "Western Digital Blue SN550 1TB M.2 (WDS100T2B0C)"@de	COL title VAL  "Western Digital Red 1TB 16MB SATA III (WD10JFCX)"@de	0
+COL title VAL  "Western Digital 2TB Elements Portable External Hard Drive - USB 3.0 - WDBU6Y0020BBK-WESN"@en	COL title VAL  "Seagate Expansion 3TB Desktop External Hard Drive in Black - USB3.0"@en	0
+COL title VAL  "Asus ROG STRIX B450-E Gaming(ROG STRIX B450-E GAMING)"@de	COL title VAL  "ASUS GeForce RTX 2070 STRIX GAMING OC 8GB"@de	0
+COL title VAL  "SanDisk SD Extreme V30 U3 UHS-I C10 - 128GB"@de	COL title VAL  "SanDisk 32GB Ultra SDSDUNB-032G-GN3IN SDHC Memory Card C10 UHS-I"@en	0
+COL title VAL  "3M - Sekretessfilter 27\" Widescreen 16:9"@de	COL title VAL  "3M - PF27.0W9 PRIVACY FILTER BLACK FOR 27,0IN / 68,6 CM / 16:9IN ACCS"@en	1
+COL title VAL  "Monitor LED Iiyama XUB3493WQSU-B1 - 34 - LED (black, AMD Free Sync, UWQHD, IPS)"@en	COL title VAL  "iiyama ProLite XUB3493WQSU-B1 computer monitor 86.4 cm (34\") 3440 x 1440 pixels UltraWide Quad HD LED Black"@ca	1
+COL title VAL  "Kingston DataTraveler I G4 - USB 3.0 - 16GB"@no	COL title VAL  "Monitor Gaming 24'' ASUS PG248Q"@tl	0
+COL title VAL  "Corsair Vengeance LPXFekete DDR4, 2666MHz 8GB (1 x 8GB) memória"@en	COL title VAL  "8GB (1 x 8GB) DDR4 2400MHz SO-DIMM"@de	0
+COL title VAL  "Kingston Technology KVR24S17S6/4 module de mémoire 4 Go DDR4 2400 MHz"@en	COL title VAL  "Kingston SoDIMM DDR4 16GB (2x8GB) 2400 MHz (KVR24S17D8/16)"@de	0
+COL title VAL  "Corsair Force MP510 M.2 2280 480GB PCI-Express 3.0 x4, NVMe 1.3 3D TLC Internal Solid State Drive - Black | CSSD-F480GBMP510"@en	COL title VAL  "Western Digital SN750 internal solid state drive M.2 250 GB PCI Express 3.0 NVMe"@en	0
+COL title VAL  "Sandisk Extreme Pro 64GB CFast 2.0"@en	COL title VAL  "SanDisk Extreme PRO SD UHS-II USB 3.0"@en	0
+COL title VAL  "Logitech G G332 Black & Red Gaming Headset"@en	COL title VAL  "Corsair Gaming K55 RGB Keyboard, Backlit RGB LED"@en	0
+COL title VAL  "3M - PF322W DT PRIVACY FLT WIDESCREEN LCD"@de	COL title VAL  "3M - PF19.0 BLACK PRIVACY FILTER FRAMELESS FITS 21IN NOTEBOOK LCD"@de	0
+COL title VAL  "Asus PG248Q 24″ FHD TN 180Hz DP HDMI USB – Monitor"@en	COL title VAL  "MONITOR LG 32UK550-B 31,5\" IPS UHD 4K 4MS HDMI DP AJUSTABLE ALTURA ALTAVOCES"@de	0
+COL title VAL  "ASUS ROG Strix B450-E GAMING AMD ATX Motherboard"@en	COL title VAL  "ASUS ROG Strix X570-E Gaming scheda madre Presa AM4 ATX AMD X570"@de	0
+COL title VAL  "Wd Blue 3D Nand 250Gb Pc Ssd - Sata Iii 6Gb/S M.2 2280 Solid State Drive"@en	COL title VAL  "XPG SX8200 Pro 256 GB Solid State Drive - M.2 2280 Internal - PCI Express (PCI Express 3.0 x4)"@en	0
+COL title VAL  "CORSAIR - K55 Wired Gaming Membrane Keyboard with RGB Backlighting - Black"@en	COL title VAL  "ASUS ROG Strix B550-F Gaming Motherboard"@en	0
+COL title VAL  "Gigabyte GA-X570-ELITE AORUS (AM4) (D) (X570 AORUS ELITE)"@de	COL title VAL  "Asus ROG Strix X570-E Gaming Motherboard"@en	0
+COL title VAL  "Seagate Enterprise Performance 15K HDD 3,5' 300GB SAS 6Gb/s 16MB cache"@en	COL title VAL  "Seagate Cheetah 300GB Enterprise 3.5\" SAS HDD/Hard Drive"@en	1
+COL title VAL  "SANDISK 128GB SDXV5 EXTREME SDXC MEMORY CARD (SDSDXV5-128G-GNCIN)-WRTY LTD LIFET W/DISTRIBUTOR"@de	COL title VAL  "SanDisk Extreme Pro (256GB) SDXC Memory Card"@en	0
+COL title VAL  "Intel Core i9 9900X (Skylake-X Refresh) Processor - Retail"@en	COL title VAL  "CPU Intel s1151 Core i9-9900 - 3,10GHz (BX80684I99900)"@it	0
+COL title VAL  "Crucial Mac 8GB DDR4 2400Mhz SO-DIMM"@ro	COL title VAL  "Corsair Vengeance LPX 8GB DDR4 3000MHz C16 RAM"@en	0
+COL title VAL  "Kingston Notebook Memory 4 Gb 2400 Mhz Ddr4 Nonecc Dimm 1.5 V Limited Lifetime Warranty"@en	COL title VAL  "Gigabyte X570 AORUS ELITE AMD Motherboard"@en	0
+COL title VAL  "Kingston SoDIMM DDR4 16GB (2x8GB) 2400 MHz (KVR24S17D8/16)"@de	COL title VAL  "Kingston ValueRAM / DDR4 / 16 GB / SO-DIMM 260-pin / 2400 MHz / PC4-19200 / CL17 / 1.2 V / unbuffered / non-ECC | KVR24S17D8/16"@de	1
+COL title VAL  "ASUS TUF Gaming TUF-GTX1660S-O6G-GAMING NVIDIA GeForce GTX 1660 SUPER 6 GB GDDR6"@de	COL title VAL  "Asus GeForce GTX 1660 SUPER TUF Gaming OC 6GB Video Card"@en	1
+COL title VAL  "Seagate FireCuda 2TB ST2000DX002 SATA 3.5-Inch Hybrid Hard Disk Drive"@en	COL title VAL  "Disco Seagate Ironwolf Nas 10Tb Sata3 (St10000vn0008)"@en	0
+COL title VAL  "ASUS ROG STRIX B550-E GAMING"@de	COL title VAL  "ASUS GeForce RTX 2070 STRIX GAMING OC 8GB"@de	0
+COL title VAL  "Logitech G G402 Hyperion Fury Oyuncu Mouse 910-004068"@en	COL title VAL  "Logitech 910-002255,M185 Wireless Mouse, Grey"@en	0
+COL title VAL  "CORSAIR 16GB RAMKit 2X8GB DDR4 3200MHz 2x288Dimm unbuffered 16-18-18-36 1,35V Vengeance LPX Black Heatspreader"@de	COL title VAL  "ASUS ROG Strix X570-F Gaming scheda madre Presa AM4 ATX AMD X570"@de	0
+COL title VAL  "872475-B21 HP G8-G10 300-GB 12G 10K 2.5 SAS"@de	COL title VAL  "Ultra Dual Drive USB Type-C USB-nøgle 32 GB USB Type-A / USB Type-C 3.2 Gen 1 (3.1 Gen 1) Sort, Sølv"@en	0
+COL title VAL  "MON LED 27 Samsung C27F390FHU"@tl	COL title VAL  "Ultra Dual Drive USB Type-C USB-nøgle 32 GB USB Type-A / USB Type-C 3.2 Gen 1 (3.1 Gen 1) Sort, Sølv"@en	0
+COL title VAL  "LACIE 2TB 2.5 RUGGED PORTABLE THUNDERBOLT TYPE C"@vi	COL title VAL  "LaCie 4TB Rugged Thunderbolt / USB-C Mobile HDD"@de	0
+COL title VAL  "3M - Sekretessfilter 27\" Widescreen 16:9"@de	COL title VAL  "iiyama ProLite XUB2792QSU-B1 27\" LED LCD Monitor - 16:9 - 5 ms"@en	0
+COL title VAL  "Logitech G G332 Black & Red Gaming Headset"@en	COL title VAL  "AURICULARES MICRO LOGITECH HEADSET H540"@vi	0
+COL title VAL  "Samsung C27F390 27in Full HD LED Monitor"@en	COL title VAL  "3M - PF27.0W9 PRIVACY FILTER BLACK FOR 27,0IN / 68,6 CM / 16:9IN ACCS"@en	0
+COL title VAL  "Logitech USB Headset H540 - USB - EMEA 981-000480"@de	COL title VAL  "Logitech Optical Mouse USB B100"@en	0
+COL title VAL  "Corsair Vengenace LPX DDR4 2666MHz 8GB"@de	COL title VAL  "Corsair Vengeance LPXFekete DDR4, 2666MHz 8GB (1 x 8GB) memória"@en	1
+COL title VAL  "ASUS PRIME Intel LGA 1200 B460M-K 10th Gen Micro-ATX Motherboard"@en	COL title VAL  "ASUS PRIME B365M-A MOTHERBOARD LGA 1151 (SOCKET H4) MICRO ATX"@en	0
+COL title VAL  "Asus TUF Gaming X570-Plus (Wi-Fi) ATX AMD AM4 Ryzen 3000 PCIe 4.0 M. 2 12+2 Dr. MOS DDR4 LAN HDMI DP CFX USB 3.2 Gen 2 Type-A Type-C Aura Sync RGB | 90MB1170-M0EAY0"@de	COL title VAL  "MB ASUS PRIME B450-PLUS B450 AM4 4DDR4 DVI+HDMI 3*PCIE, 6*SATA,M.2 RGB ATX"@de	0
+COL title VAL  "iiyama G-MASTER GE2288HS 55CM 21.5IN TN 54,6 cm (21.5\") 1920 x 1080 Pixels Full HD LED Zwart"@so	COL title VAL  "iiyama 21.5\" G-Master Black Hawk FreeSync Gaming Monitor"@en	1
+COL title VAL  "Kingston DataTraveler I G4 - USB 3.0 - 16GB"@no	COL title VAL  "BenQ GW2480 - Full HD IPS Monitor"@it	0
+COL title VAL  "VGA ASUS TUF GAMING GEFORCE GTX 1660 SUPER 6GB GDRR6 OC EDITION"@de	COL title VAL  "ASUS GeForce RTX 2070 STRIX GAMING OC 8GB"@de	0
+COL title VAL  "iiyama 21.5\" G-Master Black Hawk FreeSync Gaming Monitor"@en	COL title VAL  "Monitor LED Iiyama XUB3493WQSU-B1 - 34 - LED (black, AMD Free Sync, UWQHD, IPS)"@en	0
+COL title VAL  "Asus ROG Strix X570-E Gaming Motherboard"@en	COL title VAL  "ASUS M/B ROG STRIX X570-F GAMING"@de	0
+COL title VAL  "Cooler Master MasterFan MF121L RGB Computer case Fan"@en	COL title VAL  "Cooler Master MasterLiquid ML120L RGB AIO CPU Cooler"@en	0
+COL title VAL  "Kingston DataTraveler I G4 - USB 3.0 - 16GB"@no	COL title VAL  "Kingston DT MicroDuo 16GBUSB 3.0"@en	0
+COL title VAL  "Karta pamięci Sandisk SDHC Ultra 48MB/s Class 10 UHS-I 32 GB - SDSDUNB-032G-GN3IN"@id	COL title VAL  "SanDisk Ultra SDXC 256GB 100 MB/s UHS-I Class 10"@sv	0
+COL title VAL  "Cooler Master Cooler Proce Cooler Master Hyper T4 Rr-T4-18Pk-R1"@en	COL title VAL  "Cooler Master Hyper H411R Tower CPU Cooler"@en	0
+COL title VAL  "PHILIPS MONITOR LED IPS 24\" (23.8) 16:9 FULLHD VGA DVI HDMI 243V7QDSB"@de	COL title VAL  "3M - Sekretessfilter 27\" Widescreen 16:9"@de	0
+COL title VAL  "CORSAIR - K55 Wired Gaming Membrane Keyboard with RGB Backlighting - Black"@en	COL title VAL  "Tastatura Razer Ornata Chroma â€“ Multi-color Membrane Gaming Keyboard - US Layout, Wired USB Connection, Razer Mecha-Membrane Technology, Mid-height keycaps, Razer Chroma backlighting, Ergonomic wris"@en	0
+COL title VAL  "Gigabyte 240GB 2.5\" Solid State Drive/SSD"@en	COL title VAL  "WD BLUE 250GB M.2 SSD DRIVE"@de	0
+COL title VAL  "4 Gb 1600 M Hz Ddr3 Non Ecc Cl11 Dimm Sr (512x8)"@de	COL title VAL  "Corsair Vengeance Lpx 16 Gb (2x8 Gb) Ddr4 Dram Dimm 3200 M Hz C16 Black Heat Spreader"@en	0
+COL title VAL  "ASUS ROG Strix B550-F Gaming Motherboard"@en	COL title VAL  "ASUS ROG Strix B450-E GAMING AMD ATX Motherboard"@en	0
+COL title VAL  "3M PF 17.0W |23 cm x 36.8 cm|"@vi	COL title VAL  "Corsair Vengeance LPXFekete DDR4, 2666MHz 8GB (1 x 8GB) memória"@en	0
+COL title VAL  "Monitor 27 SW271 LED 5ms/QHD/IPS/HDMI/DP/USB"@en	COL title VAL  "Monitor 27 cali LED VG27BQ"@it	0
+COL title VAL  "Corsair Vengeance LPXFekete DDR4, 2666MHz 8GB (1 x 8GB) memória"@en	COL title VAL  "Corsair Vengeance LPX 16GB Kit (2 x 8GB), DDR4, 2133MHz (PC4-17000), CL13, XMP 2.0, DIMM Memory"@en	0
+COL title VAL  "SanDisk Extreme Pro UHS II SDXC 32 GB 300 MB/s"@de	COL title VAL  "SanDisk CFast 2.0 64GB Extreme Pro Memory Card | Read 525 MB/s | Write 430MB/s | 4K Video"@en	0
+COL title VAL  "Kingston DataTraveler MicroDuo 3C USB Flash Drive 128GB"@en	COL title VAL  "Kingston 16GB DataTraveler DUO 3 DTDUO3/16GB USB 3.0 Flash Drive"@en	0
+COL title VAL  "Logitech G332 Wired Gaming Kulaklk 981-000757"@de	COL title VAL  "Mouse Wireless LOGITECH M330 Silent, 1000 dpi, rosu"@fr	0
+COL title VAL  "ASUS ROG Strix B550-F Gaming Motherboard"@en	COL title VAL  "ASUS ROG STRIX B550-E GAMING"@de	0
+COL title VAL  "Gigabyte Geforce RTX 2080 Ti Windforce 11GB GDDR6 Graphics Card"@en	COL title VAL  "ASUS Dual -RTX2070S-A8G-EVO NVIDIA GeForce RTX 2070 SUPER 8 GB GDDR6"@en	0
+COL title VAL  "Corsair Vengenace LPX DDR4 2666MHz 8GB"@de	COL title VAL  "Crucial Mac 8GB DDR4 2400Mhz SO-DIMM"@ro	0
+COL title VAL  "Sandisk USB Flash 32GB Cruzer Glide 2.0/3.0"@de	COL title VAL  "SanDisk Extreme PRO CZ880 128GB 256GB 420MB/s USB 3.1 Solid State Flash Drive (128GB)"@en	0
+COL title VAL  "ASUS GeForce RTX 2070 STRIX GAMING OC 8GB"@de	COL title VAL  "SVGA Asus GeForce RTX 2070 SUPER 8GB Dual Advanced Evo"@en	0
+COL title VAL  "VENGEANCE® RGB PRO 16GB (2 x 8GB) DDR4 White"@de	COL title VAL  "8GB (1 x 8GB) DDR4 2400MHz SO-DIMM"@de	0
+COL title VAL  "Western Digital SSD 250GB Blue series Sata3"@de	COL title VAL  "Western Digital Purple 10TB 7200 RPM Surveillance Desktop Internal Hard Disk Drive ( WD101PURZ )"@en	0
+COL title VAL  "Seagate IronWolfHDD, 3.5" 12TB, SATA3, 7200rpm 256MB, NAS"@en	COL title VAL  "iiyama ProLite XUB3493WQSU-B1 computer monitor 86.4 cm (34\") 3440 x 1440 pixels UltraWide Quad HD LED Black"@ca	0
+COL title VAL  "MOUSE B100 LOGITECH OEM USB OPTICO"@de	COL title VAL  "Logitech USB Headset H540 - USB - EMEA 981-000480"@de	0
+COL title VAL  "ASUS TUF X570-PLUS GAMING Motherboard , AMD X570 Ryzen Gen 3"@de	COL title VAL  "AMD - Ryzen 3 3300X Prosessor Socket-AM4, 4-core, 8-Thread, 3.8/4.3GHz, 65W, 7nm, inkl. kjøler"@en	0
+COL title VAL  "Cooler CPU COOLER MASTER Hyper T4, ventilator 120mm, PWM, 4x heatpipe, Universal (RR-T4-18PK-R1)"@en	COL title VAL  "Corsair Vengeance LPX Black 16GB 3600 MHz DDR4 Dual Channel Memory Kit"@en	0
+COL title VAL  "Philips V Line 243V7QDSB/00"@et	COL title VAL  "PHILIPS MONITOR LED IPS 24\" (23.8) 16:9 FULLHD VGA DVI HDMI 243V7QDSB"@de	1
+COL title VAL  "ASUS TUF Gaming TUF-GTX1660S-O6G-GAMING NVIDIA GeForce GTX 1660 SUPER 6 GB GDDR6"@de	COL title VAL  "ASUS TUF X470-PLUS GAMING Moderkort - AMD X470 - AMD AM4 socket - DDR4 RAM - ATX"@de	0
+COL title VAL  "MON LED 27 Samsung C27F390FHU"@tl	COL title VAL  "Monitor 27 cali LED VG27BQ"@it	0
+COL title VAL  "SanDisk Ultra Dual Drive m3.0 256GB Grey & Silver"@en	COL title VAL  "LOGITECH M330 Silent Plus Red - 2.4GHZ - EMEA"@de	0
+COL title VAL  "WD BLUE 250GB M.2 SSD DRIVE"@de	COL title VAL  "Western Digital SSD 250GB Blue series Sata3"@de	0
+COL title VAL  "Fractal Design Node 804 - zwart"@nl	COL title VAL  "ASUS PRIME B365M-A MOTHERBOARD LGA 1151 (SOCKET H4) MICRO ATX"@en	0
+COL title VAL  "Kingston 256GB Data Traveler 100 Generation 3 USB 3.0(Fekete) (DT100G3/256GB)"@de	COL title VAL  "Kingston DataTraveler I G4 - USB 3.0 - 16GB"@no	0
+COL title VAL  "SanDisk 256gb Sd Kart 160mb/s Micro Ext C10 Sdsqxa1-256g-gn6ma"@sv	COL title VAL  "SanDisk MicroSD Extreme V30 U3 UHS-I C10 A2 - 256GB"@en	1
+COL title VAL  "MEMOIRE USB3 16 Go DTIG4-16GB kingston"@tl	COL title VAL  "Mälupulk USB3.1 64GB Kingston DataTraveler DT100 must"@no	0
+COL title VAL  "ASUS Dual -RTX2070S-A8G-EVO NVIDIA GeForce RTX 2070 SUPER 8 GB GDDR6"@en	COL title VAL  "Asus Strix GeForce RTX 2060 Super EVO Gaming 8GB Graphics Card"@en	0
+COL title VAL  "SanDisk SD Extreme V30 U3 UHS-I C10 - 128GB"@de	COL title VAL  "Sandisk SDHC Extreme Pro 32GB, UHS Speed Class U3, UHS-II, 300MB/s »SD Memory Card«"@en	0
+COL title VAL  "3m Pf19.0 Privacy Filter For Standard 19\" Desktop Lcd Monitors (5:4)"@en	COL title VAL  "3M - PF19.0 BLACK PRIVACY FILTER FRAMELESS FITS 21IN NOTEBOOK LCD"@de	1
+COL title VAL  "WD 1TB Blue internal SATA3 SSD (WDS100T2B0A) (Warranty 5years with WD SG)"@en	COL title VAL  "WD 2 TB SATA BLUE 2,5 inc SSD"@en	0
+COL title VAL  "AMD - Ryzen 3 3300X Prosessor Socket-AM4, 4-core, 8-Thread, 3.8/4.3GHz, 65W, 7nm, inkl. kjøler"@en	COL title VAL  "ASUS TUF X470-PLUS GAMING Moderkort - AMD X470 - AMD AM4 socket - DDR4 RAM - ATX"@de	0
+COL title VAL  "MSI GeForce RTX 2080 Ti Gaming X Trio 11GB GDDR6 RGB HDMI/3*DP/USB Type-C PCi Ex 3.0 16x"@en	COL title VAL  "Gigabyte GeForce RTX 2080 Ti Xtreme (Base:1350MHz,Boost:1770MHz), 11GB GDDR6 (14140MHz), PCI-E 3.0, 3x DisplayPort 1.4, 3x HDMI 2.0b, USB Type-C, RGB Fusion 2.0"@en	0
+COL title VAL  "Monitor Gaming 24'' ASUS PG248Q"@tl	COL title VAL  "Samsung C27F390 27in Full HD LED Monitor"@en	0
+COL title VAL  "ASUS TUF Gaming TUF-GTX1660S-O6G-GAMING NVIDIA GeForce GTX 1660 SUPER 6 GB GDDR6"@de	COL title VAL  "VGA ASUS TUF GAMING GEFORCE GTX 1660 SUPER 6GB GDRR6 OC EDITION"@de	0
+COL title VAL  "Seagate Enterprise Capacity 3.5 HDD 10TB (Helium) 7200RPM SATA 6Gb/s 256 MB CacheInternal Bare Drive (ST10000NM0016)"@en	COL title VAL  "2000GB Seagate FireCuda ST2000DX002 7200rpm 64MB 8GB SSD"@en	0
+COL title VAL  "AMD Ryzen 5 3600 CPU & ASUS PRIME X570-P Motherboard Bundle"@de	COL title VAL  "Cooler Master MasterLiquid ML360R RGB - 360 mm"@en	0
+COL title VAL  "ADATA XPG SX8200 Pro NVME 256GB M.2 SSD"@pt	COL title VAL  "XPG SX6000 Lite internal solid state drive 1000 GB PCI Express 3.0 3D TLC NVMe M.2 SSD"@en	0
+COL title VAL  "KINGSTON 64GB DataTraveler 100 G3"@no	COL title VAL  "Mälupulk USB3.1 64GB Kingston DataTraveler DT100 must"@no	1
+COL title VAL  "Seagate Expansion 3TB Desktop External Hard Drive in Black - USB3.0"@en	COL title VAL  "LaCie Mobile Portable HDD 5TB 2.5\" USB Type C/USB 3.0, Moon Silver"@en	0
+COL title VAL  "SanDisk Extreme MicroSDXC 160MBs UHSI Card with adapter 64GB"@en	COL title VAL  "SanDisk Extreme Pro (256GB) SDXC Memory Card"@en	0
+COL title VAL  "3M - PF230W9F EYE PROTECTION FILTER DESKTOPS FRAME STANDARD 23.0"@de	COL title VAL  "Privacy filter 23 Wide - Flex"@en	1
+COL title VAL  "XPG SX6000 Lite internal solid state drive 1000 GB PCI Express 3.0 3D TLC NVMe M.2 SSD"@en	COL title VAL  "ADATA SSD 1TB XPG SX6000 LITE"@de	1
+COL title VAL  "Intel Core i9-9900X Skylake X 10-Core 3.5 GHz (4.4 GHz Turbo) LGA 2066 165W BX80673I99900X Desktop Processor"@en	COL title VAL  "Intel Core i9 9900X (Skylake-X Refresh) Processor - Retail"@en	1
+COL title VAL  "3M - PFIM21V2 privacy filter black"@en	COL title VAL  "3M - PF230W9F EYE PROTECTION FILTER DESKTOPS FRAME STANDARD 23.0"@de	0
+COL title VAL  "WD 3.5'' 10TB 7200RPM SATA3 256MB WD101PURZ"@en	COL title VAL  "Western Digital Purple 10TB 7200 RPM Surveillance Desktop Internal Hard Disk Drive ( WD101PURZ )"@en	1
+COL title VAL  "Corsair Vengeance LPX Black 16GB (1x16GB) DDR4 PC4-19200 2400MHz Single Module"@en	COL title VAL  "Gigabyte RTX 2080 TI 11GB GDDR6 PCI Express 3.0 x16 352-Bit Graphics Card | GV-N208TWF3-11GC"@en	0
+COL title VAL  "Corsair Vengeance Lpx 16 Gb (2x8 Gb) Ddr4 Dram Dimm 3200 M Hz C16 Black Heat Spreader"@en	COL title VAL  "Corsair Vengeance Lpx 16 Gb (2x8 Gb) Ddr4 Dram Dimm 2400 M Hz Unbuffered 16 16 16 39 Red Heat Spreader 1.20 V Xmp 2.0"@en	0
+COL title VAL  "Pen Drive SanDisk 16GB Cruzer Force USB 2.0"@de	COL title VAL  "SanDisk Ultra Dual Drive m3.0 256GB Grey & Silver"@en	0
+COL title VAL  "Pen Drive SanDisk 16GB Cruzer Force USB 2.0"@de	COL title VAL  "Western Digital Blue SN550 1TB NVMe PCIe Gen3.0x 4 M.2 SSD"@de	0
+COL title VAL  "ASUS ROG STRIX B550-E GAMING Presa AM4 ATX AMD B550"@de	COL title VAL  "ASUS ROG Strix X570-E Gaming scheda madre Presa AM4 ATX AMD X570"@de	0
+COL title VAL  "SanDisk 256gb Sd Kart 160mb/s Micro Ext C10 Sdsqxa1-256g-gn6ma"@sv	COL title VAL  "SanDisk 32GB Extreme Micro SD Card with Adapter for Action Camera SDSQXAF-032G-GN6AA"@en	0
+COL title VAL  "Monitor 27 SW271 LED 5ms/QHD/IPS/HDMI/DP/USB"@en	COL title VAL  "LaCie 4TB USBC USB 3.0 Aluminum enclosure MoonSilver"@ro	0
+COL title VAL  "ASUS TUF X470-PLUS GAMING Moderkort - AMD X470 - AMD AM4 socket - DDR4 RAM - ATX"@de	COL title VAL  "TUF GAMING X570-PLUS WIFI, Mainboard"@ro	0
+COL title VAL  "Kingston 16GB DataTraveler DUO 3 DTDUO3/16GB USB 3.0 Flash Drive"@en	COL title VAL  "Kingston DataTraveler I G4 - USB 3.0 - 16GB"@no	0
+COL title VAL  "Cooler Master MasterLiquid Lite 120"@en	COL title VAL  "Cooler Master MasterLiquid ML120L RGB AIO CPU Cooler"@en	0
+COL title VAL  "ASUS ROG STRIX B550-E GAMING Presa AM4 ATX AMD B550"@de	COL title VAL  "Asus ROG Strix X570-E Gaming Motherboard"@en	0
+COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	COL title VAL  "Kingston DataTraveler MicroDuo 3C USB Flash Drive 128GB"@en	0
+COL title VAL  "Western Digital SN750 internal solid state drive M.2 250 GB PCI Express 3.0 NVMe"@en	COL title VAL  "Western Digital Blue 3D NAND 2.5\" 2TB SATA III Solid State Drive"@en	0
+COL title VAL  "Corsair Vengeance LPX Red 16GB (2x8GB) DDR4 PC4-19200 2400MHz Dual Channel Kit"@en	COL title VAL  "Corsair Vengeance LPX schwarz, DDR4-2666, CL16 - 32 GB Dual Kit"@de	0
+COL title VAL  "TUF GAMING X570-PLUS WIFI, Mainboard"@ro	COL title VAL  "MSI MPG Z490 GAMING EDGE WIFI bundkort"@de	0
+COL title VAL  "Cooler Master MasterLiquid ML120L RGB V2 AIO Liquid CPU Cooler MLW-D12M-A18PC-R2"@en	COL title VAL  "Cooler Master MasterLiquid Lite 120 Liquid CPU Cooler"@fr	0
+COL title VAL  "ASUS Placa video STRIX RTX2060S EVO GAMING, 8GB GDDR6 256bit"@es	COL title VAL  "ASUS Radeon RX 5700 XT ROG Strix OC 8GB GDDR6"@de	0
+COL title VAL  "ASUS TUF Gaming VG27BQ 68.6 cm (27") 2560 x 1440 pixels WQHD LED Black"@ca	COL title VAL  "ASUS GeForce GTX1660 SUPER 6GB GDDR6 GAMING TUF3"@de	0
+COL title VAL  "3M - Gold Privacy Filter 12.5\"\" 16:9"@en	COL title VAL  "3M - Privacy Filter for MacBook Pro"@en	0
+COL title VAL  "SanDisk SD Extreme V30 U3 UHS-I C10 - 128GB"@de	COL title VAL  "Intel Core i9-9900X Skylake X 10-Core 3.5 GHz (4.4 GHz Turbo) LGA 2066 165W BX80673I99900X Desktop Processor"@en	0
+COL title VAL  "WD 3.5'' 10TB 7200RPM SATA3 256MB WD101PURZ"@en	COL title VAL  "240GB Gigabyte 2.5\" SATA 3.0 SSD"@de	0
+COL title VAL  "Seagate Cheetah 300GB Enterprise 3.5\" SAS HDD/Hard Drive"@en	COL title VAL  "AMD Ryzen 5 3600 CPU & ASUS PRIME X570-P Motherboard Bundle"@de	0
+COL title VAL  "WD BLUE 250GB M.2 SSD DRIVE"@de	COL title VAL  "Monitor BenQ 27\" SW2700PT - 9H.LDKLB.QBE"@en	0
+COL title VAL  "G.SKILL DDR4 TRIDENTZ 2x8GB 3600MHz CL16 XMP2 RGB - F4-3600C16D-16GTZNC"@de	COL title VAL  "Corsair Vengeance LPXFekete DDR4, 2666MHz 8GB (1 x 8GB) memória"@en	0
+COL title VAL  "Seagate STEB3000200 (3000Gb, 3.5'', USB3.0),"@en	COL title VAL  "LaCie Mobile Drive STHG4000400 - hard drive - 4 TB - USB 3.1 Gen 2"@de	0
+COL title VAL  "Ext. HDD LaCie Mobile Drive 2TB USB-C"@ro	COL title VAL  "SanDisk Dual Drive USB Type-C 32GB"@no	0
+COL title VAL  "Kingston DataTraveler MicroDuo 3C USB Flash Drive 128GB"@en	COL title VAL  "PENDRIVE 128GB USB3.0 TIPO C KINGSTON DT MICRO DUO"@de	1
+COL title VAL  "ASUS ROG Strix RTX 2070 OC,GAMING Grafikkarte,8 GB GDDR6,2x HDMI,2x DP,USB-C"@de	COL title VAL  "XUB2792QSU-B1iiyama 27\" ETE, ULTRA SLIM LINE, 2560x1440 WQHD, IPS, 5ms, FreeSync, 13cm height adj. stand, 350cd/m², VGA, HDMI, DisplayPort, Speakers,USB-HUB(2x3.0)"@en	0
+COL title VAL  "ASUS GeForce RTX 2070 STRIX GAMING OC 8GB"@de	COL title VAL  "Asus Strix GeForce RTX 2060 Super EVO Gaming 8GB Graphics Card"@en	0
+COL title VAL  "Pendrive 3.0 Sandisk Ultra Flair 32 GB"@no	COL title VAL  "Sandisk USB Flash 32GB Cruzer Glide 2.0/3.0"@de	0
+COL title VAL  "CORSAIR - K55 Wired Gaming Membrane Keyboard with RGB Backlighting - Black"@en	COL title VAL  "Corsair LL Series LL140 RGB Dual Light Loop PWM Fan 140mm Dual Pack with Lighting Node Pro Controller"@en	0
+COL title VAL  "XUB2792QSU-B1iiyama 27\" ETE, ULTRA SLIM LINE, 2560x1440 WQHD, IPS, 5ms, FreeSync, 13cm height adj. stand, 350cd/m², VGA, HDMI, DisplayPort, Speakers,USB-HUB(2x3.0)"@en	COL title VAL  "iiyama ProLite XUB2792QSU-B1 27\" LED LCD Monitor - 16:9 - 5 ms"@en	1
+COL title VAL  "Mouse Wireless LOGITECH M330 Silent, 1000 dpi, rosu"@fr	COL title VAL  "Logitech Optical Mouse USB B100"@en	0
+COL title VAL  "SanDisk Extreme PRO USB 3.1 Solid State Flash Drive 128GB"@en	COL title VAL  "SanDisk Extreme PRO CZ880 128GB 256GB 420MB/s USB 3.1 Solid State Flash Drive (128GB)"@en	1
+COL title VAL  "Gigabyte Z490 VISION G DDR4 ATX Motherboard"@en	COL title VAL  "Philips V Line 243V7QDSB/00"@et	0
+COL title VAL  "Pen Drive SanDisk 16GB Cruzer Force USB 2.0"@de	COL title VAL  "Flash Memory 16GB SanDisk (Cruzer Force) Metal"@en	1
+COL title VAL  "Corsair 16GB DDR4 Vengeance LPX 2133MHz Memory Kit for Skylake"@en	COL title VAL  "3M - PFIM21V2 PRIVACY FILTER BLACK IMAC 21.5IN 2013"@en	0
+COL title VAL  "Seagate Exos X10 Enterprise 3.5'' HDD 10TB 512E SATA Hyperscale"@en	COL title VAL  "872475-B21 HP G8-G10 300-GB 12G 10K 2.5 SAS"@de	0
+COL title VAL  "SANDISK EXTREME PRO SDXC 256GB V30 UHS-I U3 - SDSDXXY-256G-GN4IN"@de	COL title VAL  "SanDisk Extreme PRO 64GB A2 V30 Performance microSDXC"@en	0
+COL title VAL  "CORSAIR iCUE H115i RGB PRO"@ca	COL title VAL  "Corsair Hydro H115i RGB PRO XT 280mm Liquid CPU Cooler. Intel 1200, 1150x, 2011, 2066, AM3, AM2, AM4, TR4, sTRX4, sTR4. 5 Years Warranty"@en	1
+COL title VAL  "Apple iPad Air 10,5\" 256GB Wi-Fi Silver"@en	COL title VAL  "SanDisk Ultra Dual Drive m3.0 256GB Grey & Silver"@en	0
+COL title VAL  "Sandisk SDHC Extreme Pro 32GB, UHS Speed Class U3, UHS-II, 300MB/s »SD Memory Card«"@en	COL title VAL  "64GB SanDisk Extreme micro SD XC Memory Card V-Class 30 U3 4K Video A2 100MB/s"@en	0
+COL title VAL  "iiyama ProLite XU2390HS 23 Inch Full HD LED Flat Black computer monitor"@en	COL title VAL  "iiyama ProLite XUB3493WQSU-B1 computer monitor 86.4 cm (34\") 3440 x 1440 pixels UltraWide Quad HD LED Black"@ca	0
+COL title VAL  "ASUS PRIME X570-PRO (AM4) (D) (90MB11B0-M0EAY0)"@de	COL title VAL  "ASUS Mainboard PRIME B460M-K - Motherboard - ATX (90MB1400-M0EAY0)"@en	0
+COL title VAL  "G.Skill Trident Z Neo DDR4 3600MHz 16GB (2X8) Desktop Memory for AMD X570 F4-3600C16D-16GTZNC | PCByte"@no	COL title VAL  "Corsair Vengeance LPX DDR4 2666MHz 32GB (2x16) Desktop Memory CMK32GX4M2A2666C16 | PCByte"@en	0
+COL title VAL  "Kingston 16GB DataTraveler DUO 3 DTDUO3/16GB USB 3.0 Flash Drive"@en	COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	0
+COL title VAL  "Seagate IronWolfHDD, 3.5" 12TB, SATA3, 7200rpm 256MB, NAS"@en	COL title VAL  "Disco Seagate Ironwolf Nas 10Tb Sata3 (St10000vn0008)"@en	0
+COL title VAL  "Kingston Technology KVR24S17S6/4 module de mémoire 4 Go DDR4 2400 MHz"@en	COL title VAL  "Kingston Notebook Memory 4 Gb 2400 Mhz Ddr4 Nonecc Dimm 1.5 V Limited Lifetime Warranty"@en	1
+COL title VAL  "SANDISK 128GB SDXV5 EXTREME SDXC MEMORY CARD (SDSDXV5-128G-GNCIN)-WRTY LTD LIFET W/DISTRIBUTOR"@de	COL title VAL  "SanDisk ExtremePRO CompactFlash CF 128GB 160MB/s Memory Card"@en	0
+COL title VAL  "Monitor 27 cali LED VG27BQ"@it	COL title VAL  "iiyama ProLite XUB2792QSU-B1 27\" LED LCD Monitor - 16:9 - 5 ms"@en	0
+COL title VAL  "ASUS M/B ROG STRIX X570-F GAMING"@de	COL title VAL  "AMD Ryzen 5 3600 CPU & ASUS PRIME X570-P Motherboard Bundle"@de	0
+COL title VAL  "PHILIPS MONITOR LED IPS 24\" (23.8) 16:9 FULLHD VGA DVI HDMI 243V7QDSB"@de	COL title VAL  "Corsair LL Series LL140 RGB Dual Light Loop PWM Fan 140mm Dual Pack with Lighting Node Pro Controller"@en	0
+COL title VAL  "ASUS ROG Strix RTX 2070 OC,GAMING Grafikkarte,8 GB GDDR6,2x HDMI,2x DP,USB-C"@de	COL title VAL  "Corsair Vengeance LPX DDR4 2666MHz 32GB (2x16) Desktop Memory CMK32GX4M2A2666C16 | PCByte"@en	0
+COL title VAL  "Sandisk USB Flash 32GB Cruzer Glide 2.0/3.0"@de	COL title VAL  "Pen Drive SanDisk 16GB Cruzer Force USB 2.0"@de	0
+COL title VAL  "Asus Prime B450-PLUS Desktop Motherboard"@en	COL title VAL  "AMD Ryzen 5 3600 CPU & ASUS PRIME X570-P Motherboard Bundle"@de	0
+COL title VAL  "ASUS ROG STRIX B550-E GAMING Presa AM4 ATX AMD B550"@de	COL title VAL  "Gigabyte GA-X570-ELITE AORUS (AM4) (D) (X570 AORUS ELITE)"@de	0
+COL title VAL  "BenQ 27 inch 4K PhotoVue Photographer Monitor (SW271), 3840x2160 UHD, HDR, 99% Adobe RGB, 100% sRGB, Rec.709, DCI-P3 Colour Space, Hardware Calibration, IPS,14-bit 3D LUT, GamutDuo, USB-C, DP, HDMI"@en	COL title VAL  "Asus TUF Gaming X570-Plus (Wi-Fi) ATX AMD AM4 Ryzen 3000 PCIe 4.0 M. 2 12+2 Dr. MOS DDR4 LAN HDMI DP CFX USB 3.2 Gen 2 Type-A Type-C Aura Sync RGB | 90MB1170-M0EAY0"@de	0
+COL title VAL  "iiyama ProLite XU2390HS 23 Inch Full HD LED Flat Black computer monitor"@en	COL title VAL  "iiyama ProLite XUB2792QSU-B1 27\" LED LCD Monitor - 16:9 - 5 ms"@en	0
+COL title VAL  "Gigabyte Geforce RTX 2080 Ti Windforce 11GB GDDR6 Graphics Card"@en	COL title VAL  "Cooler Master MasterFan MF121L RGB Computer case Fan"@en	0
+COL title VAL  "MONITOR LG 32UK550-B 31,5\" IPS UHD 4K 4MS HDMI DP AJUSTABLE ALTURA ALTAVOCES"@de	COL title VAL  "MasterLiquid ML120R RGB, 120mm Radiator, 200W TDP, Liquid Cooling System"@en	0
+COL title VAL  "Logitech Optical Mouse USB B100"@en	COL title VAL  "MOUSE B100 LOGITECH OEM USB OPTICO"@de	1
+COL title VAL  "SDSDUNR-256G-GN6IN memory card 256 GB SDXC Class 10 UHS-I"@en	COL title VAL  "SanDisk 32GB Ultra SDSDUNB-032G-GN3IN SDHC Memory Card C10 UHS-I"@en	0
+COL title VAL  "ASUS ROG Strix X570-E Gaming scheda madre Presa AM4 ATX AMD X570"@de	COL title VAL  "Asus ROG Strix X570-E Gaming Motherboard"@en	1
+COL title VAL  "Logitech M510 Laser Mouse RED"@en	COL title VAL  "LOGITECH M330 Silent Plus Red - 2.4GHZ - EMEA"@de	0
+COL title VAL  "SanDisk Extreme PRO 64GB A2 V30 Performance microSDXC"@en	COL title VAL  "SanDisk Extreme MicroSDXC 160MBs UHSI Card with adapter 64GB"@en	0
+COL title VAL  "Western Digital Blue SN550 1TB M.2 (WDS100T2B0C)"@de	COL title VAL  "Western Digital Red 1TB 5400rpm 16MB SATA3 2,5"(WD10JFCX)"@de	0
+COL title VAL  "3M - PF322W DT PRIVACY FLT WIDESCREEN LCD"@de	COL title VAL  "3M - DESKTOP LCD LW FRAMED FILTER"@de	1
+COL title VAL  "Asus Prime B450-PLUS Desktop Motherboard"@en	COL title VAL  "MB ASUS PRIME B450-PLUS B450 AM4 4DDR4 DVI+HDMI 3*PCIE, 6*SATA,M.2 RGB ATX"@de	1
+COL title VAL  "Kingston 16GB DataTraveler DUO 3 DTDUO3/16GB USB 3.0 Flash Drive"@en	COL title VAL  "Kingston 16GB DataTraveler 100 G3 (USB 3.0)"@no	0
+COL title VAL  "CORSAIR iCUE H115i RGB PRO"@ca	COL title VAL  "WD 2 TB SATA BLUE 2,5 inc SSD"@en	0
+COL title VAL  "ASUS ROG Strix B450-E GAMING AMD ATX Motherboard"@en	COL title VAL  "ASUS ROG Strix B550-F Gaming AMD ATX Motherboard"@en	0
+COL title VAL  "3M - Filter 3M Dis 12,5 16:9 Privacy Gold GPF125W9 2"@en	COL title VAL  "Disco Seagate Ironwolf Nas 10Tb Sata3 (St10000vn0008)"@en	0
+COL title VAL  "Gigabyte Intel Z490 VISION G LGA1200 ATX Motherboard | PCByte"@en	COL title VAL  "Z490 AORUS PRO AX, Intel® Z490 Chipset, LGA 1200, HDMI, ATX Motherboard"@en	0
+COL title VAL  "Western Digital Blue SN550 1TB M.2 (WDS100T2B0C)"@de	COL title VAL  "Western Digital Blue SN550 1TB NVMe PCIe Gen3.0x 4 M.2 SSD"@de	1
+COL title VAL  "Sandisk SDHC Extreme Pro 32GB, UHS Speed Class U3, UHS-II, 300MB/s »SD Memory Card«"@en	COL title VAL  "SanDisk Extreme Pro UHS II SDXC 32 GB 300 MB/s"@de	1
+COL title VAL  "G.Skill Trident Z Neo DDR4 3600MHz 16GB (2X8) Desktop Memory for AMD X570 F4-3600C16D-16GTZNC | PCByte"@no	COL title VAL  "G.SKILL DDR4 TRIDENTZ 2x8GB 3600MHz CL16 XMP2 RGB - F4-3600C16D-16GTZNC"@de	1
+COL title VAL  "Lacie LaCie Mobile Drive 2.5\" 2TB USB-C - Moon Silver"@fr	COL title VAL  "Ext. HDD LaCie Mobile Drive 2TB USB-C"@ro	1
+COL title VAL  "Seagate Exos X10 Enterprise 3.5'' HDD 10TB 512E SATA Hyperscale"@en	COL title VAL  "Seagate 12TB 3.5' IronWolf SATA3 NAS 24x7 7200RPM Performance HDD (ST12000VN0008) 3 Years Warranty"@en	0
+COL title VAL  "SanDisk Extreme Pro UHS II SDXC 32 GB 300 MB/s"@de	COL title VAL  "Thẻ Nhớ Sandisk MicroSD Extreme Pro SDXC"@vi	0
+COL title VAL  "iiyama ProLite XU2390HS 23 Inch Full HD LED Flat Black computer monitor"@en	COL title VAL  "Samsung S24F350H 24in Full HD LED Monitor"@de	0
+COL title VAL  "Corsair Vengeance LPX schwarz, DDR4-2666, CL16 - 32 GB Dual Kit"@de	COL title VAL  "Corsair Vengeance LPX Black 16GB 3600 MHz DDR4 Dual Channel Memory Kit"@en	0
+COL title VAL  "AURICULARES MICRO LOGITECH HEADSET H540"@vi	COL title VAL  "HyperX Kit 16GB (2 x 8GB) DDR4 3333MHz Predator Black CL16"@en	0
+COL title VAL  "ASUS ROG STRIX B550-E GAMING"@de	COL title VAL  "Asus ROG Strix X570-E Gaming Motherboard"@en	0
+COL title VAL  "SanDisk Extreme PRO USB 3.1 Solid State Flash Drive 128GB"@en	COL title VAL  "Sandisk Cruzer Glide Flash Drive"@de	0
+COL title VAL  "ASUS PRIME Intel LGA 1200 B460M-K 10th Gen Micro-ATX Motherboard"@en	COL title VAL  "Z490 AORUS PRO AX, Intel® Z490 Chipset, LGA 1200, HDMI, ATX Motherboard"@en	0
+COL title VAL  "Logitech G G332 Black & Red Gaming Headset"@en	COL title VAL  "Kingston 16GB DataTraveler 100 G3 (USB 3.0)"@no	0
+COL title VAL  "ASUS Mainboard PRIME B460M-K - Motherboard - ATX (90MB1400-M0EAY0)"@en	COL title VAL  "Corsair Vengeance LPX 8GB DDR4 3000MHz C16 RAM"@en	0
+COL title VAL  "Kingston Hyperx Fury 16GB 3200Mhz DDR4 Cl16 DIMM Black"@en	COL title VAL  "HyperX FURY - DDR3 - 8 GB - DIMM 240-pin - unbuffered"@de	0
+COL title VAL  "Ballistix MAX 16GB Kit DDR4 CL18 8GBx2 4000 DIMM 288pin black"@en	COL title VAL  "Crucial Ballistix MAX 16GB Kit (2 x 8GB) DDR4-4000 Desktop Gaming Memory (Black) | BLM2K8G40C18U4B | Crucial UK"@en	1
+COL title VAL  "3M - PF17.0W PRIVACY FILTER BLAC"@pl	COL title VAL  "3M - PF19.0 BLACK PRIVACY FILTER FRAMELESS FITS 21IN NOTEBOOK LCD"@de	0
+COL title VAL  "Seagate Backup Plus Slim 1TB USB 3.0 Portable External Hard Drive - STHN1000400"@en	COL title VAL  "LaCie Mobile Drive STHG4000400 - hard drive - 4 TB - USB 3.1 Gen 2"@de	0
+COL title VAL  "Crucial Mac 8GB DDR4 2400Mhz SO-DIMM"@ro	COL title VAL  "Crucial Ballistix MAX 16GB Kit (2 x 8GB) DDR4-4000 Desktop Gaming Memory (Black) | BLM2K8G40C18U4B | Crucial UK"@en	0
+COL title VAL  "Cooler Master MasterLiquid Lite 120 Liquid CPU Cooler"@fr	COL title VAL  "Cooler Master Wentylator CPU Hyper H411R LED biały"@en	0
+COL title VAL  "SanDisk Ultra SDDD3-256G-G46 256 GB Pen Drives (Black, Silver)"@sv	COL title VAL  "Western Digital Red 1TB 5400rpm 16MB SATA3 2,5"(WD10JFCX)"@de	0
+COL title VAL  "ADATA XPG SX8200 Pro NVME 256GB M.2 SSD"@pt	COL title VAL  "ADATA SSD 1TB XPG SX6000 LITE"@de	0
+COL title VAL  "3M MOBILE INTERACTIVE SOLUTION PF220W9F LIGHTWEIGHT FRAMED PRIVACY FILTER"@en	COL title VAL  "3M - PF230W9F EYE PROTECTION FILTER DESKTOPS FRAME STANDARD 23.0"@de	0
+COL title VAL  "3M - Sekretessfilter 27\" Widescreen 16:9"@de	COL title VAL  "3M - Privacy filter Macbook Pro 15'', 2016 model (16:10)"@en	0
+COL title VAL  "AURICULARES MICRO LOGITECH HEADSET H540"@vi	COL title VAL  "3M - PF19.0 BLACK PRIVACY FILTER FRAMELESS FITS 21IN NOTEBOOK LCD"@de	0
+COL title VAL  "Seagate Enterprise Capacity 3.5 HDD 10TB (Helium) 7200RPM SATA 6Gb/s 256 MB CacheInternal Bare Drive (ST10000NM0016)"@en	COL title VAL  "Seagate Exos X10 Enterprise 3.5'' HDD 10TB 512E SATA Hyperscale"@en	1
+COL title VAL  "Cooler Master Masterliquid Ml360R Rgb Liquid Processor Cooler"@fr	COL title VAL  "Cooler Master MasterLiquid ML120L RGB AIO CPU Cooler"@en	0
+COL title VAL  "3m Pf19.0 Privacy Filter For Standard 19\" Desktop Lcd Monitors (5:4)"@en	COL title VAL  "3M - Privacy Filter for MacBook Pro"@en	0
+COL title VAL  "Logitech BRIO 4K Ultra HD Webcam 960-001194"@de	COL title VAL  "Logitech BRIO 4K Stream Edition Webcam with FREE XSplit Software"@en	1
+COL title VAL  "Seagate IronWolfHDD, 3.5" 12TB, SATA3, 7200rpm 256MB, NAS"@en	COL title VAL  "Seagate STEB3000200 (3000Gb, 3.5'', USB3.0),"@en	0
+COL title VAL  "Privacy filter 23 Wide - Flex"@en	COL title VAL  "3M - Privacy Filter for MacBook Pro"@en	0
+COL title VAL  "ASUS ROG Strix X570-E Gaming scheda madre Presa AM4 ATX AMD X570"@de	COL title VAL  "ASUS ROG Strix X570-F Gaming scheda madre Presa AM4 ATX AMD X570"@de	0
+COL title VAL  "DataTraveler microDuo - Cl USB - 64 Go - USB 3.9"@it	COL title VAL  "Kingston DataTraveler I G4 - USB 3.0 - 16GB"@no	0
+COL title VAL  "Monitor 27 cali LED VG27BQ"@it	COL title VAL  "Corsair Gaming K55 RGB Keyboard, Backlit RGB LED"@en	0
+COL title VAL  "Kingston SoDIMM DDR4 16GB (2x8GB) 2400 MHz (KVR24S17D8/16)"@de	COL title VAL  "Gigabyte Z490 VISION G DDR4 ATX Motherboard"@en	0
+COL title VAL  "LaCie Mobile Drive STHG4000400 - hard drive - 4 TB - USB 3.1 Gen 2"@de	COL title VAL  "HDD 35 10TB Seagate IronWolf NAS ST10000VN0008"@en	0
+COL title VAL  "Asus ROG STRIX B450-E Gaming(ROG STRIX B450-E GAMING)"@de	COL title VAL  "ASUS Placa video STRIX RTX2060S EVO GAMING, 8GB GDDR6 256bit"@es	0
+COL title VAL  "BenQ GW2480 23.8" Full HD IPS Monitor"@it	COL title VAL  "Samsung S24F350H 24in Full HD LED Monitor"@de	0
+COL title VAL  "Asus ROG STRIX B450-E Gaming(ROG STRIX B450-E GAMING)"@de	COL title VAL  "ASUS ROG STRIX B550-E GAMING"@de	0
+COL title VAL  "Seagate Expansion 3TB Desktop External Hard Drive in Black - USB3.0"@en	COL title VAL  "Western Digital SSD M.22TB Blue 3D NAND"@de	0
+COL title VAL  "Western Digital SN750 internal solid state drive M.2 250 GB PCI Express 3.0 NVMe"@en	COL title VAL  "XPG SX6000 Lite internal solid state drive 1000 GB PCI Express 3.0 3D TLC NVMe M.2 SSD"@en	0
+COL title VAL  "Western Digital Blue SN550 1TB M.2 (WDS100T2B0C)"@de	COL title VAL  "Western Digital SSD 250GB Blue series Sata3"@de	0
+COL title VAL  "Kingston Technology KVR24S17S6/4 module de mémoire 4 Go DDR4 2400 MHz"@en	COL title VAL  "Corsair Value Select 8GB PC4-17000 memory module DDR4 2133 MHz"@en	0
+COL title VAL  "Corsair Vengeance LPX Red 16GB (2x8GB) DDR4 PC4-19200 2400MHz Dual Channel Kit"@en	COL title VAL  "Corsair Vengeance Lpx 16 Gb (2x8 Gb) Ddr4 Dram Dimm 2400 M Hz Unbuffered 16 16 16 39 Red Heat Spreader 1.20 V Xmp 2.0"@en	1
+COL title VAL  "Western Digital WD 250GB Black SN750 NVMe M.2 2280 WDS250G3X0C"@de	COL title VAL  "Kingston 16GB DataTraveler 100 G3 (USB 3.0)"@no	0
+COL title VAL  "SanDisk ExtremePRO CompactFlash CF 128GB 160MB/s Memory Card"@en	COL title VAL  "SanDisk Extreme Pro (256GB) SDXC Memory Card"@en	0
+COL title VAL  "ASUS ROG Strix B550-F Gaming Motherboard"@en	COL title VAL  "ROG Strix Fusion Langalliset pelikuulokkeet"@fi	0
+COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	COL title VAL  "SanDisk Cruzer Glide - USB flash drive - 64 GB"@da	0
+COL title VAL  "Sandisk USB Flash 32GB Cruzer Glide 2.0/3.0"@de	COL title VAL  "USB 3.0 FLASH DRIVE 32GB SANDISK"@de	0
+COL title VAL  "Cooler Master MasterLiquid 120R RGB"@en	COL title VAL  "CORSAIR DDR4 2666MHz 32GB Kit 4x288 DIMM Unbuffered 16-18-18-35 Vengeance LPX Black Heat spreader 1.20V"@de	0
+COL title VAL  "Intel Core i9-9900X Skylake X 10-Core 3.5 GHz (4.4 GHz Turbo) LGA 2066 165W BX80673I99900X Desktop Processor"@en	COL title VAL  "Intel Core i9-9900 Box"@it	0
+COL title VAL  "Corsair Vengeance LPX RAM 16GB 2400MHz DDR4 UDIMM 288 Pin Desktop Memory"@en	COL title VAL  "Corsair Vengeance LPX Black 16GB (1x16GB) DDR4 PC4-19200 2400MHz Single Module"@en	1
+COL title VAL  "HyperX Kit 16GB (2 x 8GB) DDR4 3333MHz Predator Black CL16"@en	COL title VAL  "WD 1TB Blue internal SATA3 SSD (WDS100T2B0A) (Warranty 5years with WD SG)"@en	0
+COL title VAL  "ASUS TUF X570-PLUS GAMING Motherboard , AMD X570 Ryzen Gen 3"@de	COL title VAL  "TUF GAMING X570-PLUS WIFI, Mainboard"@ro	0
+COL title VAL  "HyperX FURY - DDR3 - 8 GB - DIMM 240-pin - unbuffered"@de	COL title VAL  "Crucial Mac 8GB DDR4 2400Mhz SO-DIMM"@ro	0
+COL title VAL  "GIGABYTE Z490 AORUS PRO AX LGA 1200 Intel Z490 ATX Motherboard with Dual M.2, SATA 6Gb/s, USB 3.2 Gen 2, WIFI 6, 2.5 GbE LAN"@en	COL title VAL  "Monitor BenQ 27\" SW2700PT - 9H.LDKLB.QBE"@en	0
+COL title VAL  "Corsair Vengeance LPX 8GB DDR4 3000MHz C16 RAM"@en	COL title VAL  "Memoire DDR4 CORSAIR 8Go DDR4 3000MHz"@en	1
+COL title VAL  "3M - PF319W FRAMED PRIVACY FILTER 18,5IN -19IN 47,0-48,3CM 16:10IN ACCS"@en	COL title VAL  "3m Pf19.0 Privacy Filter For Standard 19\" Desktop Lcd Monitors (5:4)"@en	0
+COL title VAL  "SanDisk Extreme PRO SD UHS-II USB 3.0"@en	COL title VAL  "SanDisk Extreme Pro (256GB) SDXC Memory Card"@en	0
+COL title VAL  "WD Blue 250GB PC SSD - SATA 6 Gb/s 2.5 Inch Solid State Drive -WDS250G1B0A"@en	COL title VAL  "Gigabyte 240GB 2.5\" Solid State Drive/SSD"@en	0
+COL title VAL  "SanDisk Extreme PRO SD UHS-II USB 3.0"@en	COL title VAL  "Thẻ Nhớ Sandisk MicroSD Extreme Pro SDXC"@vi	0
+COL title VAL  "Sandisk SDCZ60-064G-B35 - Cruzer Glide 64GB"@de	COL title VAL  "Flash Memory 16GB SanDisk (Cruzer Force) Metal"@en	0
+COL title VAL  "SanDisk Extreme Pro (256GB) SDXC Memory Card"@en	COL title VAL  "Thẻ Nhớ Sandisk MicroSD Extreme Pro SDXC"@vi	0
+COL title VAL  "WD 1TB Blue internal SATA3 SSD (WDS100T2B0A) (Warranty 5years with WD SG)"@en	COL title VAL  "Western Digital Blue SN550 1TB M.2 (WDS100T2B0C)"@de	0
+COL title VAL  "MONITOR LG 32UK550-B 31,5\" IPS UHD 4K 4MS HDMI DP AJUSTABLE ALTURA ALTAVOCES"@de	COL title VAL  "BenQ 27 inch 4K PhotoVue Photographer Monitor (SW271), 3840x2160 UHD, HDR, 99% Adobe RGB, 100% sRGB, Rec.709, DCI-P3 Colour Space, Hardware Calibration, IPS,14-bit 3D LUT, GamutDuo, USB-C, DP, HDMI"@en	0
+COL title VAL  "Fractal Design Node 804 - zwart"@nl	COL title VAL  "Node 804 Black FD-CA-NODE-804-BL-W"@en	1
+COL title VAL  "Logitech M510 Laser Mouse RED"@en	COL title VAL  "Extreme hukommelseskort 32 GB MicroSDHC Klasse 10 UHS-I"@no	0
+COL title VAL  "AMD Ryzen 5 3600 CPU & ASUS PRIME X570-P Motherboard Bundle"@de	COL title VAL  "ASUS PRIME X570-PRO (AM4) (D) (90MB11B0-M0EAY0)"@de	1
+COL title VAL  "ASUS Radeon RX 5700 XT ROG Strix OC 8GB GDDR6"@de	COL title VAL  "ASUS ROG STRIX AMD Radeon RX 5700XT Overclocked 8G"@en	1
+COL title VAL  "Wd Blue 3D Nand 250Gb Pc Ssd - Sata Iii 6Gb/S M.2 2280 Solid State Drive"@en	COL title VAL  "WD Blue 250GB PC SSD - SATA 6 Gb/s 2.5 Inch Solid State Drive -WDS250G1B0A"@en	0
+COL title VAL  "HEADSET GAMING G633 WRL/981-000605 LOGITECH"@de	COL title VAL  "Logitech G402 Gaming Mouse USB Siyah 910-004068"@en	0
+COL title VAL  "SanDisk 32GB Ultra SDSDUNB-032G-GN3IN SDHC Memory Card C10 UHS-I"@en	COL title VAL  "SanDisk 32GB Extreme Micro SD Card with Adapter for Action Camera SDSQXAF-032G-GN6AA"@en	0
+COL title VAL  "LaCie 4TB USBC USB 3.0 Aluminum enclosure MoonSilver"@ro	COL title VAL  "LaCie Mobile Portable HDD 5TB 2.5\" USB Type C/USB 3.0, Moon Silver"@en	0
+COL title VAL  "ASUS ROG STRIX B550-E GAMING Presa AM4 ATX AMD B550"@de	COL title VAL  "ASUS ROG STRIX B550-E GAMING"@de	1
+COL title VAL  "Corsair Value Select 8GB PC4-17000 memory module DDR4 2133 MHz"@en	COL title VAL  "Corsair Vengenace LPX DDR4 2666MHz 8GB"@de	0
+COL title VAL  "ASUS ROG Strix X570-F Gaming scheda madre Presa AM4 ATX AMD X570"@de	COL title VAL  "ASUS PRIME X570-PRO (AM4) (D) (90MB11B0-M0EAY0)"@de	0
+COL title VAL  "SSD диск Western Digital SSD Blue 1TB SATA III 3D"@de	COL title VAL  "Western Digital Blue 3D NAND 2.5\" 2TB SATA III Solid State Drive"@en	0
+COL title VAL  "LaCie Mobile Drive STHG4000400 - hard drive - 4 TB - USB 3.1 Gen 2"@de	COL title VAL  "ASUS PRIME B365M-A MOTHERBOARD LGA 1151 (SOCKET H4) MICRO ATX"@en	0
+COL title VAL  "Seagate IronWolf 110 3.84 To"@en	COL title VAL  "HDD 35 10TB Seagate IronWolf NAS ST10000VN0008"@en	0
+COL title VAL  "SanDisk CFast 2.0 64GB Extreme Pro Memory Card | Read 525 MB/s | Write 430MB/s | 4K Video"@en	COL title VAL  "SanDisk Extreme Pro (256GB) SDXC Memory Card"@en	0
+COL title VAL  "3M - Privacy Filter for MacBook Pro"@en	COL title VAL  "3M - PF17.0W PRIVACY FILTER BLAC"@pl	0
+COL title VAL  "MB ASUS TUF GAMING X570-PLUS AM4 4DDR4 HDMI,DP 3*PCIE Optical S/PDIF OUT, AURA, M.2 ATX"@en	COL title VAL  "ASUS TUF X570-PLUS GAMING Motherboard , AMD X570 Ryzen Gen 3"@de	1
+COL title VAL  "Logitech G G402 Hyperion Fury Oyuncu Mouse 910-004068"@en	COL title VAL  "Logitech G402 Gaming Mouse USB Siyah 910-004068"@en	1

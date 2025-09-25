@@ -1,0 +1,32 @@
+COL title VAL  "Liebherr SIGN3556 178cm Integrated In Column Frost Free Freezer"@de	COL title VAL  "Bosch KGN34NWEAG Frost Free Fridge Freezer"@de	0
+COL title VAL  "30\" Double Wall Oven with Touch Screen and Frozen Bake Technology - Stainless Steel"@en	COL title VAL  "30" Single Wall Oven in Stainless Steel"@de	0
+COL title VAL  "Neff K1514X7GB Built-in Single Door Fridge"@de	COL title VAL  "Neff N50 K1514X7GB Integrated A+ Upright Larder Fridge"@en	1
+COL title VAL  "Neff B47CR32N0B Built In Oven"@en	COL title VAL  "Neff B47CR32N0B Slide&Hide Single Oven"@de	1
+COL title VAL  "Neff B57CR22N0B Slide & Hide Pyrolytic Single Oven"@en	COL title VAL  "Neff B57CR22N0B Slide & Hide N70 Pyrolytic Single Oven - STAINLESS STEEL"@en	1
+COL title VAL  "Weber Genesis II E-330"@de	COL title VAL  "Weber® Genesis® II E-310 LP"@de	0
+COL title VAL  "Neff B57CR22N0B Pyrolytic Slide and Hide Single Electric Oven in Stainless Steel"@en	COL title VAL  "Neff B47CR32N0B Slide&Hide Single Oven"@de	0
+COL title VAL  "Samsung RS68N8941SL/EU Family Hub American Fridge Freezer"@en	COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer - Silver"@de	0
+COL title VAL  "Neff N50 K1514X7GB Integrated A+ Upright Larder Fridge"@en	COL title VAL  "Samsung BRB260130WW Frost Free Built In Fridge Freezer - A+ Energy Rated"@de	0
+COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	COL title VAL  "FISHER & PAYKEL SMARTDRIVE 8KG FRONT LOADER"@de	0
+COL title VAL  "Neff B47CR32N0B Slide&Hide Single Oven"@de	COL title VAL  "Neff B57CR22N0B Single Built In Electric Oven"@en	0
+COL title VAL  "Fisher & Paykel WH8060J3 8kg Front Load Washing Machine"@en	COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	0
+COL title VAL  "Philips Master LED MR16, ExpertColor CRI97, 6.5W, 3000K, 10D, Dimmable"@en	COL title VAL  "Philips Master LV ExpertColor LED Spotlight MR16 6.5W 3000K | 10 Degree Beam Angle"@en	1
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Cool White"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Blanco Frio"@en	1
+COL title VAL  "FLUORESCENTE T5 35w/830 145cm 3000k"@pl	COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	0
+COL title VAL  "Weber Master-Touch - Charcoal Barbecue - 22\" - 443 sq. in. - Steel - Black"@de	COL title VAL  "Performer Deluxe Charcoal Grill 22\" Copper"@en	0
+COL title VAL  "PHILIPS Trubice 35W/830 MASTER HE TL5"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Blanco Frio"@en	0
+COL title VAL  "Berkel 829E-PLUS 14\" Round Manual Slicer w/ Angled Gravity Feed & Knife Guard, Sharpener, 115v"@en	COL title VAL  "Berkel 829E-PLUS 14\" Manual Gravity Feed Meat Slicer - 1/2 hp"@en	1
+COL title VAL  "KitchenAid® 48'' 6-Burner Commercial-Style Gas Rangetop with Griddle KCGC558JSS"@en	COL title VAL  "Neff T26DS49N0 4 Burner Gas Hob"@de	0
+COL title VAL  "Neff B57CR22N0B Slide & Hide N70 Pyrolytic Single Oven - STAINLESS STEEL"@en	COL title VAL  "NEFF 600mm Pyrolytic Slide & Hide Oven"@da	1
+COL title VAL  "Bosch PCH6A5B90 60cm Serie 6 4 Burner FlameSelect Gas Hob - STAINLESS STEEL"@de	COL title VAL  "KitchenAid® 48'' 6-Burner Commercial-Style Gas Rangetop with Griddle KCGC558JSS"@en	0
+COL title VAL  "Fisher & Paykel 90cm 5 Burner Gas Cooktop"@en	COL title VAL  "FISHER & PAYKEL SMARTDRIVE 8KG FRONT LOADER"@de	0
+COL title VAL  "Genesis II E-310 Black"@de	COL title VAL  "GENESIS II E-330 Gas Grill Smoke LP"@en	0
+COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Warm White"@en	COL title VAL  "FLUORESCENTE T5 35w/830 145cm 3000k"@pl	0
+COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	0
+COL title VAL  "Philips TL-D Secura 18W 840 (MASTER) | 59cm - Cool White"@en	COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	0
+COL title VAL  "Weber 22in Weber Master-Touch Charcoal Grill Black Charcoal 22 in. Grill Black"@en	COL title VAL  "Performer Deluxe Charcoal Grill 22\" Copper"@en	0
+COL title VAL  "Bosch Serie 4 WAN28108GB 8kg 1400 Spin A+++ Washing Machine in White"@de	COL title VAL  "Simpson SWT7055LMWA 7KG Top Load Washing Machine"@en	0
+COL title VAL  "Fisher & Paykel WH8060J3 8kg Front Load Washing Machine"@en	COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine - Factory Second (WH1060P1-FSA)"@en	0
+COL title VAL  "Samsung RS68N8941SL/EU Family Hub American Fridge Freezer"@en	COL title VAL  "Samsung RS8000 RS68N8220S9 American Fridge Freezer with SpaceMax"@en	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Blanco Frio"@en	COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	0
+COL title VAL  "Neff K1514X7GB Built-in Single Door Fridge"@de	COL title VAL  "30" Single Wall Oven in Stainless Steel"@de	0

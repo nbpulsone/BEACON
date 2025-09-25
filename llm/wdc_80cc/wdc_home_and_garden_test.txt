@@ -1,0 +1,269 @@
+COL title VAL  "MASTER TL5 HE 14W/865 1SL"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Cool White"@en	0
+COL title VAL  "Electrolux 8kg Heat Pump Clothes Dryer"@en	COL title VAL  "Samsung 9kg Heat Pump Super Dry Dryer"@id	0
+COL title VAL  "CH-31320-30-BK-GG 30 High Backless Black Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	COL title VAL  "CH-31320-30-SIL-GG 30 High Backless Silver Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	0
+COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Varm Vit"@vi	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Blanco Frio"@en	0
+COL title VAL  "Tub fluorescent Philips Master TL5 HE 35W/840"@en	COL title VAL  "Samsung DV90N8289AW 9kg Heat Pump DV8800 Condenser Tumble Dryer - WHITE"@de	0
+COL title VAL  "Hotpoint BIWMHG71284 7kg 1200 Spin Integrated Washing Machine"@en	COL title VAL  "BLOMBERG LWF174310W 7KG 1400 SPIN WASHING MACHINE A+++"@de	0
+COL title VAL  "Neff 75cm 5 Burner Gas Hob - Stainless Steel | T27DS59N0"@de	COL title VAL  "Neff T29DS69N0 90cm 5 Burner FlameSelect Gas Hob - STAINLESS STEEL"@en	0
+COL title VAL  "Bosch WIW28500GB Built In Washing Machine"@de	COL title VAL  "Neff K1514X7GB Built In Larder Fridge"@de	0
+COL title VAL  "Blomberg LWF174310W 7kg Washing Machine"@de	COL title VAL  "Simpson SWT7055LMWA 7kg Top Load Washer"@en	0
+COL title VAL  "7 Piece Outdoor Furniture Set"@ro	COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	0
+COL title VAL  "5-Burner Gas Cooktop with Griddle"@en	COL title VAL  "F&P 90cm Gas Cooktop (CG905DWNGFCX3)"@nl	0
+COL title VAL  "Simpson SWF7025EQWA Ezi Set 7kg Front Load Washing Machine"@en	COL title VAL  "Blomberg LWF174310W 7kg Washing Machine"@de	0
+COL title VAL  "Simpson SWF7025EQWA Ezi Set 7kg Front Load Washing Machine"@en	COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	0
+COL title VAL  "Neff T29DS69N0 90cm 5 Burner FlameSelect Gas Hob - STAINLESS STEEL"@en	COL title VAL  "36\" 5 Burner Gas Downdraft Cooktop KCGD506GSS"@en	0
+COL title VAL  "Whirlpool Double Oven Gas Range - 6.0 cu. ft. Stainless Steel"@en	COL title VAL  "Whirlpool 6.0 Cu. Ft. Gas Double Oven Range with Center Oval Burner"@en	1
+COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	COL title VAL  "9 Seater Wicker Sofa set - Black"@de	0
+COL title VAL  "Flash Furniture CH-31320-30-OR-GG 30'' High Backless Orange Metal Indoor-Outdoor Barstool with Square Seat"@en	COL title VAL  "CH-31320-30-BQ-GG 30 High Backless Black-Antique Gold Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	0
+COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	COL title VAL  "FISHER & PAYKEL 10KG FRONT LOADER WASHER"@de	0
+COL title VAL  "7PC Outdoor Sofa Set with Storage Cover"@en	COL title VAL  "Gardeon 9 Seat Outdoor Dining Setting with Cover - Black"@en	0
+COL title VAL  "Blomberg LWF174310W 7kg Washing Machine"@de	COL title VAL  "Bosch WIW28500GB Built In Washing Machine"@de	0
+COL title VAL  "Tub fluorescent Philips Master TL5 HE 35W/840"@en	COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	0
+COL title VAL  "Samsung BRB260130WW Integrated 70/30 Frost Free Fridge Freezer"@de	COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer"@de	0
+COL title VAL  "Neff 75cm 5 Burner Gas Hob - Stainless Steel | T27DS59N0"@de	COL title VAL  "5-Burner Gas Cooktop with Griddle"@en	0
+COL title VAL  "SPECIALIZED BUTCHER GRID 2BR TIRE 29X2.3"@so	COL title VAL  "Butcher GRID 2Bliss Ready 29-inch"@en	1
+COL title VAL  "Commercial Grade 30\" High Backless Silver Metal Indoor-Outdoor Barstool with Square Seat"@en	COL title VAL  "CH-31320-30-BQ-GG 30 High Backless Black-Antique Gold Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	0
+COL title VAL  "Neff N70 T29DA69N0 5 Burner Gas Hob"@de	COL title VAL  "30\" KitchenAid 5-Burner Gas Cooktop with Griddle - KCGS950ESS"@en	0
+COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	COL title VAL  "Simpson 7kg EZI Set Top Load Washing Machine MODEL: SWT7055LMWA"@en	0
+COL title VAL  "Hotpoint BI WMHG 71284 UK Integrated Washing Machine - White"@en	COL title VAL  "Bosch Serie 8 WIW28500GB Integrated Washing Machine - White"@de	0
+COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	COL title VAL  "FISHER & PAYKEL 10KG FRONT LOADER WASHER"@de	1
+COL title VAL  "CH-31320-30-BQ-GG 30 High Backless Black-Antique Gold Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	COL title VAL  "CH-31320-30-SIL-GG 30 High Backless Silver Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	0
+COL title VAL  "Fisher & Paykel DE8060P2 8kg Condensing Dryer"@en	COL title VAL  "Fisher &Paykel 9Kg Heat Pump Condensing Dryer LCD Screen"@en	0
+COL title VAL  "2x Sun Lounge Setting Chair Brown Wicker Day Bed Outdoor Furniture Garden Patio"@en	COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	0
+COL title VAL  "LG 6.3 Cu. Ft. Stainless Steel Electric Single Oven Range With True Convection And EasyClean"@en	COL title VAL  "Whirlpool 6.0 Cu. Ft. Gas Double Oven Range with Center Oval Burner"@en	0
+COL title VAL  "Weber 26\" Performer Premium Charcoal Grill"@en	COL title VAL  "Weber 57cm Premium Black Kettle Braai"@de	0
+COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	COL title VAL  "Fisher & Paykel 8kg Condensor Clothes Dryer"@en	0
+COL title VAL  "30\" Single Wall Oven with True Convection and Frozen Bake Technology - Stainless Steel"@en	COL title VAL  "27\" Whirlpool 4.3 cu. ft. Smart Single Wall Oven with True Convection Cooking - WOS72EC7HV"@en	0
+COL title VAL  "Commercial Grade 30\" High Backless Yellow Metal Indoor-Outdoor Barstool with Square Seat"@en	COL title VAL  "30'' HIGH BACKLESS METAL INDOOR-OUTDOOR BARSTOOL WITH SQUARE SEAT"@de	0
+COL title VAL  "Hotpoint BIWMHG71284 7kg 1200 Spin Integrated Washing Machine"@en	COL title VAL  "Hotpoint BI WMHG 71284 UK Integrated Washing Machine - White"@en	1
+COL title VAL  "Blomberg LWF174310W 7kg Washing Machine"@de	COL title VAL  "Hotpoint BIWMHG71284 7kg 1200 Spin Integrated Washing Machine"@en	0
+COL title VAL  "Neff T29DS69N0 90cm 5 Burner FlameSelect Gas Hob - STAINLESS STEEL"@en	COL title VAL  "Neff T29DS69N0 90cm Gas Hob"@en	1
+COL title VAL  "5.0 cu. ft. Smart Single Wall Oven with True Convection Cooking"@en	COL title VAL  "27\" Single Wall Oven with True Convection and Frozen Bake Technology - Fingerprint Resistant Black Stainless Steel"@en	0
+COL title VAL  "Simpson 7kg EZI Set Top Load Washing Machine MODEL: SWT7055LMWA"@en	COL title VAL  "Simpson SWF7025EQWA 7kg Front Load Washer"@en	0
+COL title VAL  "Neff 75cm 5 Burner Gas Hob - Stainless Steel | T27DS59N0"@de	COL title VAL  "Neff N70 T29DA69N0 5 Burner Gas Hob"@de	0
+COL title VAL  "5.0 cu. ft. Smart Single Wall Oven with True Convection Cooking"@en	COL title VAL  "30\" Single Wall Oven with True Convection and Frozen Bake Technology - Stainless Steel"@en	1
+COL title VAL  "Neff K1514X7GB Built In Larder Fridge"@de	COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer"@de	0
+COL title VAL  "30\" High Silver Metal Barstool with Back and Wood Seat"@en	COL title VAL  "Commercial Grade 30\" High Backless Silver Metal Indoor-Outdoor Barstool with Square Seat"@en	0
+COL title VAL  "NEFF T29DA69N0 Gas Hob - Stainless Steel"@en	COL title VAL  "36\" Gas Downdraft Knob Cooktoop. Stainless Steel"@en	0
+COL title VAL  "Blomberg LWF174310W 7kg Washing Machine"@de	COL title VAL  "Bosch Serie 6 WAU28S80GB i-DOS Washing Machine"@de	0
+COL title VAL  "Fisher & Paykel 7kg Vented Dryer"@no	COL title VAL  "Blomberg LWF174310W 7kg Washing Machine"@de	0
+COL title VAL  "30'' HIGH BACKLESS BLACK-ANTIQUE GOLD METAL INDOOR-OUTDOOR BARSTOOL"@de	COL title VAL  "CH-31320-30-BQ-GG 30 High Backless Black-Antique Gold Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	1
+COL title VAL  "Neff K1514X7GB Built In Larder Fridge"@de	COL title VAL  "Samsung BRB260130WW Frost Free Built In Fridge Freezer - A+ Energy Rated"@de	0
+COL title VAL  "PERFORMER® PREMIUM CHARCOAL GRILL - 22 INCH BLACK"@en	COL title VAL  "Weber Performer Premium 22" Charcoal Grill: LIMITED Quantities"@en	1
+COL title VAL  "9 Seater Wicker Sofa set - Black"@de	COL title VAL  "Lova Outdoor Black Canopy Lounge Set"@en	0
+COL title VAL  "7 Piece Outdoor Furniture Set"@ro	COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	0
+COL title VAL  "Weber Performer® Deluxe 22” Charcoal Grill in Black (15501001)"@en	COL title VAL  "27\" Single Wall Oven with True Convection and Frozen Bake Technology - Fingerprint Resistant Black Stainless Steel"@en	0
+COL title VAL  "30\" 6.9 Cu. Ft. Freestanding Gas Double Oven Range with Probake Convection - Stainless Steel"@en	COL title VAL  "LG 6.3 Cu. Ft. Stainless Steel Electric Single Oven Range With True Convection And EasyClean"@en	0
+COL title VAL  "Fisher & Paykel DE8060P2 8kg Condensing Dryer"@en	COL title VAL  "Fisher & Paykel 7kg Vented Dryer"@no	0
+COL title VAL  "Gardeon 9 Seat Outdoor Dining Setting with Cover - Black"@en	COL title VAL  "Flash Furniture CH-31320-30-OR-GG 30'' High Backless Orange Metal Indoor-Outdoor Barstool with Square Seat"@en	0
+COL title VAL  "Gas on Steel Cooktop, 90cm, Flush Fit"@en	COL title VAL  "Neff T29DS69N0 90cm 5 Burner FlameSelect Gas Hob - STAINLESS STEEL"@en	0
+COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	COL title VAL  "Fisher & Paykel 7kg Vented Dryer"@no	0
+COL title VAL  "LG 6.3 Cu. Ft. Stainless Steel Electric Single Oven Range With True Convection And EasyClean"@en	COL title VAL  "WHIRLPOOL Whirlpool® 6.7 Cu. Ft. Electric Double Oven Range with True Convection (YWGE745C0FS)"@en	0
+COL title VAL  "27\" Whirlpool 4.3 cu. ft. Smart Single Wall Oven with True Convection Cooking - WOS72EC7HV"@en	COL title VAL  "27\" Single Wall Oven with True Convection and Frozen Bake Technology - Fingerprint Resistant Black Stainless Steel"@en	1
+COL title VAL  "22.5in Performer (No Gas Start) (Black)"@en	COL title VAL  "22.5in Performer Deluxe (Black)"@de	0
+COL title VAL  "30'' HIGH BACKLESS BLACK-ANTIQUE GOLD METAL INDOOR-OUTDOOR BARSTOOL"@de	COL title VAL  "Commercial Grade 30\" High Backless Silver Metal Indoor-Outdoor Barstool with Square Seat"@en	0
+COL title VAL  "LG Electric Range - 6.3 cu. ft. Stainless Steel"@en	COL title VAL  "30\" 6.9 Cu. Ft. Freestanding Gas Double Oven Range with Probake Convection - Stainless Steel"@en	0
+COL title VAL  "Blomberg LWF174310W 7kg Washing Machine"@de	COL title VAL  "Bosch Serie 8 WIW28500GB Integrated Washing Machine - White"@de	0
+COL title VAL  "Flash Furniture CH-31320-30-YL-GG 30'' High Backless Yellow Metal Indoor-Outdoor Barstool with Square Seat"@en	COL title VAL  "7 Piece Outdoor Furniture Set"@ro	0
+COL title VAL  "Weber Performer Premium 22" Charcoal Grill: LIMITED Quantities"@en	COL title VAL  "30'' HIGH BACKLESS BLACK-ANTIQUE GOLD METAL INDOOR-OUTDOOR BARSTOOL"@de	0
+COL title VAL  "22.5in Performer (No Gas Start) (Black)"@en	COL title VAL  "PERFORMER® PREMIUM CHARCOAL GRILL - 22 INCH BLACK"@en	0
+COL title VAL  "Weber® Performer® 22\" Charcoal Grill"@en	COL title VAL  "22.5in Performer (No Gas Start) (Black)"@en	1
+COL title VAL  "5.0 cu. ft. Smart Single Wall Oven with True Convection Cooking"@en	COL title VAL  "Lounge Setting Patio Furniture Sofa Wicker Rattan Garden Chairs Black"@en	0
+COL title VAL  "Fisher & Paykel 7kg Vented Dryer"@no	COL title VAL  "Simpson SWF7025EQWA 7kg Front Load Washer"@en	0
+COL title VAL  "Bosch Serie 6 WAU28S80GB i-DOS Washing Machine"@de	COL title VAL  "Bosch WIW28500GB Built In Washing Machine"@de	0
+COL title VAL  "Bosch WIW28500GB Built In Washing Machine"@de	COL title VAL  "Lova Outdoor Black Canopy Lounge Set"@en	0
+COL title VAL  "Neff K1514X7GB 88cm Integrated In Column Larder Fridge"@en	COL title VAL  "Samsung BRB260130WW Frost Free Built In Fridge Freezer - A+ Energy Rated"@de	0
+COL title VAL  "Simpson SWF7025EQWA Ezi Set 7kg Front Load Washing Machine"@en	COL title VAL  "Simpson SWF7025EQWA 7kg Front Load Washer"@en	1
+COL title VAL  "Weber® Performer® 22\" Charcoal Grill"@en	COL title VAL  "Weber Performer® Deluxe 22” Charcoal Grill in Black (15501001)"@en	0
+COL title VAL  "Neff 75cm 5 Burner Gas Hob - Stainless Steel | T27DS59N0"@de	COL title VAL  "36\" Gas Downdraft Knob Cooktoop. Stainless Steel"@en	0
+COL title VAL  "Bosch Serie 8 WIW28500GB Integrated Washing Machine - White"@de	COL title VAL  "Bosch Serie 6 WAU28S80GB i-DOS Washing Machine"@de	0
+COL title VAL  "Flash Furniture CH-31320-30-OR-GG 30'' High Backless Orange Metal Indoor-Outdoor Barstool with Square Seat"@en	COL title VAL  "CH-31320-30-BK-GG 30 High Backless Black Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	0
+COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	COL title VAL  "Electrolux 8kg Heat Pump Clothes Dryer"@en	0
+COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer"@de	COL title VAL  "Samsung BRB260130WW Frost Free Built In Fridge Freezer - A+ Energy Rated"@de	0
+COL title VAL  "30'' HIGH BACKLESS BLACK-ANTIQUE GOLD METAL INDOOR-OUTDOOR BARSTOOL"@de	COL title VAL  "Commercial Grade 30\" High Backless Yellow Metal Indoor-Outdoor Barstool with Square Seat"@en	0
+COL title VAL  "NEFF T29DA69N0 Gas Hob - Stainless Steel"@en	COL title VAL  "Neff 75cm 5 Burner Gas Hob - Stainless Steel | T27DS59N0"@de	0
+COL title VAL  "CH-31320-30-BK-GG 30 High Backless Black Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	COL title VAL  "Flash Furniture CH-31320-30-YL-GG 30'' High Backless Yellow Metal Indoor-Outdoor Barstool with Square Seat"@en	0
+COL title VAL  "Fisher & Paykel 7kg Vented Dryer DE7060G1"@de	COL title VAL  "Fisher & Paykel DE8060P2 8kg Condensing Dryer"@en	0
+COL title VAL  "30\" High Silver Metal Barstool with Back and Wood Seat"@en	COL title VAL  "Flash Furniture CH-31320-30-OR-GG 30'' High Backless Orange Metal Indoor-Outdoor Barstool with Square Seat"@en	1
+COL title VAL  "Commercial Grade 30\" High Backless Silver Metal Indoor-Outdoor Barstool with Square Seat"@en	COL title VAL  "CH-31320-30-SIL-GG 30 High Backless Silver Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	1
+COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Varm Vit"@vi	0
+COL title VAL  "Neff T29DS69N0 90cm 5 Burner FlameSelect Gas Hob - STAINLESS STEEL"@en	COL title VAL  "36\" Gas Downdraft Knob Cooktoop. Stainless Steel"@en	0
+COL title VAL  "Tub fluorescent Philips Master TL5 HE 35W/840"@en	COL title VAL  "PH TL-5 35W/830 HE"@pl	0
+COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	COL title VAL  "Lova Outdoor Black Canopy Lounge Set"@en	0
+COL title VAL  "Bosch WIW28500GB Built In Washing Machine"@de	COL title VAL  "Samsung BRB260130WW Frost Free Built In Fridge Freezer - A+ Energy Rated"@de	0
+COL title VAL  "Sun Lounger, Wicker, Brown (Set of 2)"@en	COL title VAL  "9 Seater Wicker Sofa set - Black"@de	0
+COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	COL title VAL  "Fisher &Paykel 9Kg Heat Pump Condensing Dryer LCD Screen"@en	1
+COL title VAL  "Original Kettle Premium Charcoal Grill 22"Black"@en	COL title VAL  "Weber® Performer® 22\" Charcoal Grill"@en	0
+COL title VAL  "30'' HIGH BACKLESS METAL INDOOR-OUTDOOR BARSTOOL WITH SQUARE SEAT"@de	COL title VAL  "Commercial Grade 30\" High Backless Silver Metal Indoor-Outdoor Barstool with Square Seat"@en	0
+COL title VAL  "Simpson SWT7055LMWA 7kg Top Load Washer"@en	COL title VAL  "FISHER & PAYKEL 10KG FRONT LOADER WASHER"@de	0
+COL title VAL  "26.5in One Touch Kettle Premium"@de	COL title VAL  "Original Kettle Premium Charcoal Grill 22"Black"@en	0
+COL title VAL  "WHIRLPOOL Whirlpool® 6.7 Cu. Ft. Electric Double Oven Range with True Convection (YWGE745C0FS)"@en	COL title VAL  "30\" 6.9 Cu. Ft. Freestanding Gas Double Oven Range with Probake Convection - Stainless Steel"@en	0
+COL title VAL  "Philips TL5 HE 35W 830 (MASTER) | 145cm - Warm White"@en	COL title VAL  "Tub fluorescent Philips Master TL5 HE 35W/840"@en	0
+COL title VAL  "2x Sun Lounge Setting Chair Brown Wicker Day Bed Outdoor Furniture Garden Patio"@en	COL title VAL  "Sun Lounger, Wicker, Brown (Set of 2)"@en	1
+COL title VAL  "Philips TL5 HE 35W 830 (MASTER) | 145cm - Warm White"@en	COL title VAL  "MASTER TL5 HE 14W/865 1SL"@en	0
+COL title VAL  "7PC Outdoor Sofa Set with Storage Cover"@en	COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	0
+COL title VAL  "30\" 6.9 Cu. Ft. Freestanding Gas Double Oven Range with Probake Convection - Stainless Steel"@en	COL title VAL  "27\" Single Wall Oven with True Convection and Frozen Bake Technology - Fingerprint Resistant Black Stainless Steel"@en	0
+COL title VAL  "Bosch WIW28500GB Built In Washing Machine"@de	COL title VAL  "Hotpoint BI WMHG 71284 UK Integrated Washing Machine - White"@en	0
+COL title VAL  "Bosch WIW28500GB Built In Washing Machine"@de	COL title VAL  "Bosch Serie 8 WIW28500GB Integrated Washing Machine - White"@de	1
+COL title VAL  "Whirlpool Double Oven Gas Range - 6.0 cu. ft. Stainless Steel"@en	COL title VAL  "LG Electric Range - 6.3 cu. ft. Stainless Steel"@en	0
+COL title VAL  "Simpson SWF7025EQWA Ezi Set 7kg Front Load Washing Machine"@en	COL title VAL  "FISHER & PAYKEL 10KG FRONT LOADER WASHER"@de	0
+COL title VAL  "Commercial Grade 30\" High Backless Yellow Metal Indoor-Outdoor Barstool with Square Seat"@en	COL title VAL  "CH-31320-30-SIL-GG 30 High Backless Silver Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	0
+COL title VAL  "Weber 26\" Performer Premium Charcoal Grill"@en	COL title VAL  "Weber® Performer® 22\" Charcoal Grill"@en	0
+COL title VAL  "Whirlpool 6.0 Cu. Ft. Gas Double Oven Range with Center Oval Burner"@en	COL title VAL  "30\" 6.9 Cu. Ft. Freestanding Gas Double Oven Range with Probake Convection - Stainless Steel"@en	0
+COL title VAL  "5-Burner Gas Cooktop with Griddle"@en	COL title VAL  "Neff N70 T29DA69N0 5 Burner Gas Hob"@de	0
+COL title VAL  "LG 6.3 Cu. Ft. Stainless Steel Electric Single Oven Range With True Convection And EasyClean"@en	COL title VAL  "27\" Whirlpool 4.3 cu. ft. Smart Single Wall Oven with True Convection Cooking - WOS72EC7HV"@en	0
+COL title VAL  "22.5in Performer Deluxe (Black)"@de	COL title VAL  "Weber 26\" Performer Premium Charcoal Grill"@en	0
+COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	COL title VAL  "Bosch WIW28500GB Built In Washing Machine"@de	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Blanco Frio"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Cool White"@en	1
+COL title VAL  "PERFORMER® PREMIUM CHARCOAL GRILL - 22 INCH BLACK"@en	COL title VAL  "Original Kettle Premium Charcoal Grill 22"Black"@en	0
+COL title VAL  "9 Seater Wicker Sofa set - Black"@de	COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	0
+COL title VAL  "F&P 90cm Gas Cooktop (CG905DWNGFCX3)"@nl	COL title VAL  "Neff T29DS69N0 90cm Gas Hob"@en	0
+COL title VAL  "30\" KitchenAid 5-Burner Gas Cooktop with Griddle - KCGS950ESS"@en	COL title VAL  "36\" 5 Burner Gas Downdraft Cooktop KCGD506GSS"@en	0
+COL title VAL  "Fisher & Paykel 7kg Vented Dryer"@no	COL title VAL  "Fisher & Paykel 8kg Condensor Clothes Dryer"@en	0
+COL title VAL  "Neff T29DS69N0 90cm 5 Burner FlameSelect Gas Hob - STAINLESS STEEL"@en	COL title VAL  "5-Burner Gas Cooktop with Griddle"@en	0
+COL title VAL  "Commercial Grade 30\" High Backless Silver Metal Indoor-Outdoor Barstool with Square Seat"@en	COL title VAL  "Gardeon 9 Seat Outdoor Dining Setting with Cover - Black"@en	0
+COL title VAL  "FISHER & PAYKEL 10KG FRONT LOADER WASHER"@de	COL title VAL  "Sun Lounger, Wicker, Brown (Set of 2)"@en	0
+COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	COL title VAL  "Lova Outdoor Black Canopy Lounge Set"@en	0
+COL title VAL  "Whirlpool 30-inch,6.4 cu ft, Electric Freestanding Range with 5 Elements"@en	COL title VAL  "30\" 6.9 Cu. Ft. Freestanding Gas Double Oven Range with Probake Convection - Stainless Steel"@en	0
+COL title VAL  "Lounge Setting Patio Furniture Sofa Wicker Rattan Garden Chairs Black"@en	COL title VAL  "Lova Outdoor Black Canopy Lounge Set"@en	1
+COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	COL title VAL  "Simpson SWF7025EQWA 7kg Front Load Washer"@en	0
+COL title VAL  "Neff N70 T29DA69N0 5 Burner Gas Hob"@de	COL title VAL  "Neff T29DS69N0 90cm 5 Burner FlameSelect Gas Hob - STAINLESS STEEL"@en	0
+COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	COL title VAL  "Samsung DV90N8289AW 9kg Heat Pump DV8800 Condenser Tumble Dryer - WHITE"@de	0
+COL title VAL  "CH-31320-30-BK-GG 30 High Backless Black Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	COL title VAL  "30'' HIGH BACKLESS METAL INDOOR-OUTDOOR BARSTOOL WITH SQUARE SEAT"@de	1
+COL title VAL  "PERFORMER® PREMIUM CHARCOAL GRILL - 22 INCH BLACK"@en	COL title VAL  "Weber® Performer® 22\" Charcoal Grill"@en	0
+COL title VAL  "Flash Furniture CH-31320-30-OR-GG 30'' High Backless Orange Metal Indoor-Outdoor Barstool with Square Seat"@en	COL title VAL  "Commercial Grade 30\" High Backless Silver Metal Indoor-Outdoor Barstool with Square Seat"@en	0
+COL title VAL  "Whirlpool Double Oven Gas Range - 6.0 cu. ft. Stainless Steel"@en	COL title VAL  "WHIRLPOOL Whirlpool® 6.7 Cu. Ft. Electric Double Oven Range with True Convection (YWGE745C0FS)"@en	0
+COL title VAL  "22.5in Performer Deluxe (Black)"@de	COL title VAL  "Original Kettle Premium Charcoal Grill 22"Black"@en	0
+COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Varm Vit"@vi	COL title VAL  "Philips TL5 HE 35W 830 (MASTER) | 145cm - Warm White"@en	0
+COL title VAL  "Simpson SWF7025EQWA Ezi Set 7kg Front Load Washing Machine"@en	COL title VAL  "Simpson SWT7055LMWA 7kg Top Load Washer"@en	0
+COL title VAL  "Samsung DV90N8289AW 9kg Heat Pump DV8800 Condenser Tumble Dryer - WHITE"@de	COL title VAL  "Samsung 9kg Heat Pump Super Dry Dryer"@id	1
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Cool White"@en	COL title VAL  "Philips TL5 HE 35W 830 (MASTER) | 145cm - Warm White"@en	0
+COL title VAL  "Bosch WAU28S80GB 8kg 1400 Spin Washing Machine"@de	COL title VAL  "Hotpoint BIWMHG71284 7kg 1200 Spin Integrated Washing Machine"@en	0
+COL title VAL  "Samsung 9kg Heat Pump Super Dry Dryer"@id	COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	0
+COL title VAL  "Samsung 9kg Heat Pump Super Dry Dryer"@id	COL title VAL  "Fisher & Paykel 7kg Vented Dryer"@no	0
+COL title VAL  "9 Seater Wicker Sofa set - Black"@de	COL title VAL  "Gardeon 9 Seat Outdoor Dining Setting with Cover - Black"@en	1
+COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer - Silver"@de	COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer"@de	1
+COL title VAL  "WHIRLPOOL Whirlpool® 6.7 Cu. Ft. Electric Double Oven Range with True Convection (YWGE745C0FS)"@en	COL title VAL  "Whirlpool 6.0 Cu. Ft. Gas Double Oven Range with Center Oval Burner"@en	0
+COL title VAL  "30\" High Silver Metal Barstool with Back and Wood Seat"@en	COL title VAL  "30'' HIGH BACKLESS METAL INDOOR-OUTDOOR BARSTOOL WITH SQUARE SEAT"@de	0
+COL title VAL  "Neff N70 T29DA69N0 5 Burner Gas Hob"@de	COL title VAL  "36\" 5 Burner Gas Downdraft Cooktop KCGD506GSS"@en	0
+COL title VAL  "36\" Gas Downdraft Knob Cooktoop. Stainless Steel"@en	COL title VAL  "Gas on Steel Cooktop, 90cm, Flush Fit"@en	0
+COL title VAL  "Philips TL5 HE 35W 830 (MASTER) | 145cm - Warm White"@en	COL title VAL  "PH TL-5 35W/830 HE"@pl	1
+COL title VAL  "Whirlpool 30-inch,6.4 cu ft, Electric Freestanding Range with 5 Elements"@en	COL title VAL  "Neff T29DS69N0 90cm 5 Burner FlameSelect Gas Hob - STAINLESS STEEL"@en	0
+COL title VAL  "5.0 cu. ft. Smart Single Wall Oven with True Convection Cooking"@en	COL title VAL  "27\" Whirlpool 4.3 cu. ft. Smart Single Wall Oven with True Convection Cooking - WOS72EC7HV"@en	0
+COL title VAL  "Bedding Sets Twin McAllen Quilt Set"@de	COL title VAL  "Gardeon 9 Seat Outdoor Dining Setting with Cover - Black"@en	0
+COL title VAL  "PERFORMER® PREMIUM CHARCOAL GRILL - 22 INCH BLACK"@en	COL title VAL  "Weber 57cm Premium Black Kettle Braai"@de	0
+COL title VAL  "7 Piece Outdoor Furniture Set"@ro	COL title VAL  "7PC Outdoor Sofa Set with Storage Cover"@en	1
+COL title VAL  "Philips TL5 HE 35W 830 (MASTER) | 145cm - Warm White"@en	COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	0
+COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Varm Vit"@vi	COL title VAL  "PH TL-5 35W/830 HE"@pl	0
+COL title VAL  "WHIRLPOOL Whirlpool® 6.7 Cu. Ft. Electric Double Oven Range with True Convection (YWGE745C0FS)"@en	COL title VAL  "27\" Whirlpool 4.3 cu. ft. Smart Single Wall Oven with True Convection Cooking - WOS72EC7HV"@en	0
+COL title VAL  "Gardeon 9 Seat Outdoor Dining Setting with Cover - Black"@en	COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	0
+COL title VAL  "30\" KitchenAid 5-Burner Gas Cooktop with Griddle - KCGS950ESS"@en	COL title VAL  "5-Burner Gas Cooktop with Griddle"@en	1
+COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	0
+COL title VAL  "Tub fluorescent Philips Master TL5 HE 35W/840"@en	COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Blanco Frio"@en	0
+COL title VAL  "Gas on Steel Cooktop, 90cm, Flush Fit"@en	COL title VAL  "Neff T29DS69N0 90cm Gas Hob"@en	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Cool White"@en	COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	0
+COL title VAL  "Bosch WAU28S80GB 8kg 1400 Spin Washing Machine"@de	COL title VAL  "Bosch Serie 6 WAU28S80GB i-DOS Washing Machine"@de	1
+COL title VAL  "Neff N70 T29DA69N0 5 Burner Gas Hob"@de	COL title VAL  "NEFF T29DA69N0 Gas Hob - Stainless Steel"@en	1
+COL title VAL  "Lounge Setting Patio Furniture Sofa Wicker Rattan Garden Chairs Black"@en	COL title VAL  "9 Seater Wicker Sofa set - Black"@de	0
+COL title VAL  "Neff T29DS69N0 90cm 5 Burner FlameSelect Gas Hob - STAINLESS STEEL"@en	COL title VAL  "Neff T27DS59N0 N70 75cm Five Burner Gas Hob Stainless Steel With Cast Iron Pan Stands"@en	0
+COL title VAL  "Neff K1514X7GB 88cm Integrated In Column Larder Fridge"@en	COL title VAL  "Neff K1514X7GB Built In Larder Fridge"@de	1
+COL title VAL  "Fisher & Paykel 7kg Vented Dryer"@no	COL title VAL  "Fisher &Paykel 9Kg Heat Pump Condensing Dryer LCD Screen"@en	0
+COL title VAL  "Neff T27DS59N0 N70 75cm Five Burner Gas Hob Stainless Steel With Cast Iron Pan Stands"@en	COL title VAL  "NEFF T29DA69N0 Gas Hob - Stainless Steel"@en	0
+COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	COL title VAL  "PH TL-5 35W/830 HE"@pl	0
+COL title VAL  "BLOMBERG LWF174310W 7KG 1400 SPIN WASHING MACHINE A+++"@de	COL title VAL  "Bosch WAU28S80GB 8kg 1400 Spin Washing Machine"@de	0
+COL title VAL  "CH-31320-30-SIL-GG 30 High Backless Silver Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	COL title VAL  "Flash Furniture CH-31320-30-OR-GG 30'' High Backless Orange Metal Indoor-Outdoor Barstool with Square Seat"@en	0
+COL title VAL  "Gas on Steel Cooktop, 90cm, Flush Fit"@en	COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	0
+COL title VAL  "CH-31320-30-BK-GG 30 High Backless Black Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	COL title VAL  "Commercial Grade 30\" High Backless Yellow Metal Indoor-Outdoor Barstool with Square Seat"@en	0
+COL title VAL  "CH-31320-30-BQ-GG 30 High Backless Black-Antique Gold Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	COL title VAL  "CH-31320-30-BK-GG 30 High Backless Black Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	0
+COL title VAL  "Samsung BRB260130WW Integrated 70/30 Frost Free Fridge Freezer"@de	COL title VAL  "Neff K1514X7GB 88cm Integrated In Column Larder Fridge"@en	0
+COL title VAL  "5-Burner Gas Cooktop with Griddle"@en	COL title VAL  "Gas on Steel Cooktop, 90cm, Flush Fit"@en	0
+COL title VAL  "LG 6.3 Cu. Ft. Stainless Steel Electric Single Oven Range With True Convection And EasyClean"@en	COL title VAL  "5.0 cu. ft. Smart Single Wall Oven with True Convection Cooking"@en	0
+COL title VAL  "NEFF T29DA69N0 Gas Hob - Stainless Steel"@en	COL title VAL  "Neff T29DS69N0 90cm 5 Burner FlameSelect Gas Hob - STAINLESS STEEL"@en	0
+COL title VAL  "5.0 cu. ft. Smart Single Wall Oven with True Convection Cooking"@en	COL title VAL  "WHIRLPOOL Whirlpool® 6.7 Cu. Ft. Electric Double Oven Range with True Convection (YWGE745C0FS)"@en	0
+COL title VAL  "5-Burner Gas Cooktop with Griddle"@en	COL title VAL  "36\" 5 Burner Gas Downdraft Cooktop KCGD506GSS"@en	0
+COL title VAL  "30\" 6.9 Cu. Ft. Freestanding Gas Double Oven Range with Probake Convection - Stainless Steel"@en	COL title VAL  "30\" Single Wall Oven with True Convection and Frozen Bake Technology - Stainless Steel"@en	0
+COL title VAL  "Neff K1514X7GB Built In Larder Fridge"@de	COL title VAL  "Neff T29DS69N0 90cm Gas Hob"@en	0
+COL title VAL  "LG 6.3 Cu. Ft. Stainless Steel Electric Single Oven Range With True Convection And EasyClean"@en	COL title VAL  "LG Electric Range - 6.3 cu. ft. Stainless Steel"@en	1
+COL title VAL  "Simpson SWF7025EQWA Ezi Set 7kg Front Load Washing Machine"@en	COL title VAL  "Simpson 7kg EZI Set Top Load Washing Machine MODEL: SWT7055LMWA"@en	0
+COL title VAL  "27\" Single Wall Oven with True Convection and Frozen Bake Technology - Fingerprint Resistant Black Stainless Steel"@en	COL title VAL  "30\" Single Wall Oven with True Convection and Frozen Bake Technology - Stainless Steel"@en	0
+COL title VAL  "26.5in One Touch Kettle Premium"@de	COL title VAL  "22.5in Performer Deluxe (Black)"@de	0
+COL title VAL  "Hotpoint BI WMHG 71284 UK Integrated Washing Machine - White"@en	COL title VAL  "Blomberg LWF174310W 7kg Washing Machine"@de	0
+COL title VAL  "Bedding Sets Twin McAllen Quilt Set"@de	COL title VAL  "McAllen - Multi - Twin Quilt Set"@de	1
+COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	COL title VAL  "Sun Lounger, Wicker, Brown (Set of 2)"@en	0
+COL title VAL  "Whirlpool 6.0 Cu. Ft. Gas Double Oven Range with Center Oval Burner"@en	COL title VAL  "Whirlpool 30-inch,6.4 cu ft, Electric Freestanding Range with 5 Elements"@en	0
+COL title VAL  "MASTER TL5 HE 14W/865 1SL"@en	COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Varm Vit"@vi	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Cool White"@en	COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Varm Vit"@vi	0
+COL title VAL  "Weber 26\" Performer Premium Charcoal Grill"@en	COL title VAL  "26.5in One Touch Kettle Premium"@de	1
+COL title VAL  "Weber Performer® Deluxe 22” Charcoal Grill in Black (15501001)"@en	COL title VAL  "22.5in Performer Deluxe (Black)"@de	1
+COL title VAL  "Samsung BRB260130WW Frost Free Built In Fridge Freezer - A+ Energy Rated"@de	COL title VAL  "Samsung BRB260130WW Integrated 70/30 Frost Free Fridge Freezer"@de	1
+COL title VAL  "Simpson SWT7055LMWA 7kg Top Load Washer"@en	COL title VAL  "Simpson SWF7025EQWA 7kg Front Load Washer"@en	0
+COL title VAL  "Commercial Grade 30\" High Backless Silver Metal Indoor-Outdoor Barstool with Square Seat"@en	COL title VAL  "Commercial Grade 30\" High Backless Yellow Metal Indoor-Outdoor Barstool with Square Seat"@en	0
+COL title VAL  "Gas on Steel Cooktop, 90cm, Flush Fit"@en	COL title VAL  "F&P 90cm Gas Cooktop (CG905DWNGFCX3)"@nl	1
+COL title VAL  "LG 6.3 Cu. Ft. Stainless Steel Electric Single Oven Range With True Convection And EasyClean"@en	COL title VAL  "6.9 cu. ft. Gas Double Oven Range with ProBake Convection® and EasyClean®"@en	0
+COL title VAL  "Weber 26\" Performer Premium Charcoal Grill"@en	COL title VAL  "Weber Performer Premium 22" Charcoal Grill: LIMITED Quantities"@en	0
+COL title VAL  "Whirlpool 30-inch,6.4 cu ft, Electric Freestanding Range with 5 Elements"@en	COL title VAL  "LG Electric Range - 6.3 cu. ft. Stainless Steel"@en	0
+COL title VAL  "Flash Furniture CH-31320-30-YL-GG 30'' High Backless Yellow Metal Indoor-Outdoor Barstool with Square Seat"@en	COL title VAL  "Commercial Grade 30\" High Backless Yellow Metal Indoor-Outdoor Barstool with Square Seat"@en	1
+COL title VAL  "Blomberg LWF174310W 7kg Washing Machine"@de	COL title VAL  "Bosch WAU28S80GB 8kg 1400 Spin Washing Machine"@de	0
+COL title VAL  "Fisher & Paykel 10kg Front Load Washing Machine"@en	COL title VAL  "BLOMBERG LWF174310W 7KG 1400 SPIN WASHING MACHINE A+++"@de	0
+COL title VAL  "36\" 5 Burner Gas Downdraft Cooktop KCGD506GSS"@en	COL title VAL  "Neff 75cm 5 Burner Gas Hob - Stainless Steel | T27DS59N0"@de	0
+COL title VAL  "LG 6.3 Cu. Ft. Stainless Steel Electric Single Oven Range With True Convection And EasyClean"@en	COL title VAL  "30\" Single Wall Oven with True Convection and Frozen Bake Technology - Stainless Steel"@en	0
+COL title VAL  "Weber 57cm Premium Black Kettle Braai"@de	COL title VAL  "26.5in One Touch Kettle Premium"@de	0
+COL title VAL  "7 Piece Outdoor Furniture Set"@ro	COL title VAL  "2x Sun Lounge Setting Chair Brown Wicker Day Bed Outdoor Furniture Garden Patio"@en	0
+COL title VAL  "Flash Furniture CH-31320-30-YL-GG 30'' High Backless Yellow Metal Indoor-Outdoor Barstool with Square Seat"@en	COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer"@de	0
+COL title VAL  "McAllen - Multi - Twin Quilt Set"@de	COL title VAL  "7 Piece Outdoor Furniture Set"@ro	0
+COL title VAL  "Blomberg LWF174310W 7kg Washing Machine"@de	COL title VAL  "BLOMBERG LWF174310W 7KG 1400 SPIN WASHING MACHINE A+++"@de	1
+COL title VAL  "Simpson SWF7025EQWA Ezi Set 7kg Front Load Washing Machine"@en	COL title VAL  "BLOMBERG LWF174310W 7KG 1400 SPIN WASHING MACHINE A+++"@de	0
+COL title VAL  "36\" Gas Downdraft Knob Cooktoop. Stainless Steel"@en	COL title VAL  "36\" 5 Burner Gas Downdraft Cooktop KCGD506GSS"@en	1
+COL title VAL  "Fisher & Paykel DE8060P2 8kg Condensing Dryer"@en	COL title VAL  "Fisher & Paykel 8kg Condensor Clothes Dryer"@en	1
+COL title VAL  "Simpson SWF7025EQWA 7kg Front Load Washer"@en	COL title VAL  "FISHER & PAYKEL 10KG FRONT LOADER WASHER"@de	0
+COL title VAL  "Lova Outdoor Black Canopy Lounge Set"@en	COL title VAL  "7 Piece Outdoor Furniture Set"@ro	0
+COL title VAL  "PERFORMER® PREMIUM CHARCOAL GRILL - 22 INCH BLACK"@en	COL title VAL  "Weber 26\" Performer Premium Charcoal Grill"@en	0
+COL title VAL  "Weber 57cm Premium Black Kettle Braai"@de	COL title VAL  "Original Kettle Premium Charcoal Grill 22"Black"@en	1
+COL title VAL  "Weber 26\" Performer Premium Charcoal Grill"@en	COL title VAL  "Weber Performer® Deluxe 22” Charcoal Grill in Black (15501001)"@en	0
+COL title VAL  "Flash Furniture CH-31320-30-YL-GG 30'' High Backless Yellow Metal Indoor-Outdoor Barstool with Square Seat"@en	COL title VAL  "CH-31320-30-SIL-GG 30 High Backless Silver Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	0
+COL title VAL  "30'' HIGH BACKLESS BLACK-ANTIQUE GOLD METAL INDOOR-OUTDOOR BARSTOOL"@de	COL title VAL  "30'' HIGH BACKLESS METAL INDOOR-OUTDOOR BARSTOOL WITH SQUARE SEAT"@de	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Cool White"@en	COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	0
+COL title VAL  "Hotpoint BIWMHG71284 7kg 1200 Spin Integrated Washing Machine"@en	COL title VAL  "Bosch Serie 8 WIW28500GB Integrated Washing Machine - White"@de	0
+COL title VAL  "Whirlpool Double Oven Gas Range - 6.0 cu. ft. Stainless Steel"@en	COL title VAL  "30\" 6.9 Cu. Ft. Freestanding Gas Double Oven Range with Probake Convection - Stainless Steel"@en	0
+COL title VAL  "Bosch Serie 8 WIW28500GB Integrated Washing Machine - White"@de	COL title VAL  "Bosch WAU28S80GB 8kg 1400 Spin Washing Machine"@de	0
+COL title VAL  "F&P 90cm Gas Cooktop (CG905DWNGFCX3)"@nl	COL title VAL  "36\" 5 Burner Gas Downdraft Cooktop KCGD506GSS"@en	0
+COL title VAL  "FLUORESCENTE T5 14w/830 55cm 3000k"@pl	COL title VAL  "Philips TL5 HE 14W 830 (MASTER) | 55cm - Varm Vit"@vi	1
+COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	COL title VAL  "Neff 75cm 5 Burner Gas Hob - Stainless Steel | T27DS59N0"@de	0
+COL title VAL  "MASTER TL5 HE 14W/865 1SL"@en	COL title VAL  "G5 Fluorescent Lamp T5 14w 6500K /865 DayLight PHILIPS"@en	1
+COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	COL title VAL  "Fisher & Paykel DE8060P2 8kg Condensing Dryer"@en	0
+COL title VAL  "Bosch WAU28S80GB 8kg 1400 Spin Washing Machine"@de	COL title VAL  "30\" Single Wall Oven with True Convection and Frozen Bake Technology - Stainless Steel"@en	0
+COL title VAL  "6.9 cu. ft. Gas Double Oven Range with ProBake Convection® and EasyClean®"@en	COL title VAL  "Whirlpool 6.0 Cu. Ft. Gas Double Oven Range with Center Oval Burner"@en	0
+COL title VAL  "Neff 75cm 5 Burner Gas Hob - Stainless Steel | T27DS59N0"@de	COL title VAL  "Neff T27DS59N0 N70 75cm Five Burner Gas Hob Stainless Steel With Cast Iron Pan Stands"@en	1
+COL title VAL  "Weber Performer Premium 22" Charcoal Grill: LIMITED Quantities"@en	COL title VAL  "Original Kettle Premium Charcoal Grill 22"Black"@en	0
+COL title VAL  "Flash Furniture CH-31320-30-OR-GG 30'' High Backless Orange Metal Indoor-Outdoor Barstool with Square Seat"@en	COL title VAL  "Commercial Grade 30\" High Backless Yellow Metal Indoor-Outdoor Barstool with Square Seat"@en	0
+COL title VAL  "Electrolux 8kg UltimateCare 800 Heat Pump Dryer with WiFi Enable"@en	COL title VAL  "Electrolux 8kg Heat Pump Clothes Dryer"@en	1
+COL title VAL  "Neff T29DS69N0 90cm Gas Hob"@en	COL title VAL  "NEFF T29DA69N0 Gas Hob - Stainless Steel"@en	0
+COL title VAL  "30'' HIGH BACKLESS METAL INDOOR-OUTDOOR BARSTOOL WITH SQUARE SEAT"@de	COL title VAL  "CH-31320-30-BQ-GG 30 High Backless Black-Antique Gold Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	0
+COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	COL title VAL  "Electrolux 8kg UltimateCare 800 Heat Pump Dryer with WiFi Enable"@en	0
+COL title VAL  "Simpson SWT7055LMWA 7kg Top Load Washer"@en	COL title VAL  "Simpson 7kg EZI Set Top Load Washing Machine MODEL: SWT7055LMWA"@en	1
+COL title VAL  "Neff T29DS69N0 90cm Gas Hob"@en	COL title VAL  "Neff 75cm 5 Burner Gas Hob - Stainless Steel | T27DS59N0"@de	0
+COL title VAL  "Fisher & Paykel DE8060P2 8kg Condensing Dryer"@en	COL title VAL  "Samsung DV90N8289AW 9kg Heat Pump DV8800 Condenser Tumble Dryer - WHITE"@de	0
+COL title VAL  "22.5in Performer Deluxe (Black)"@de	COL title VAL  "PERFORMER® PREMIUM CHARCOAL GRILL - 22 INCH BLACK"@en	0
+COL title VAL  "Flash Furniture CH-31320-30-YL-GG 30'' High Backless Yellow Metal Indoor-Outdoor Barstool with Square Seat"@en	COL title VAL  "CH-31320-30-BQ-GG 30 High Backless Black-Antique Gold Metal Indoor-Outdoor Barstool with Square Seat by Flash Furniture"@en	0
+COL title VAL  "2x Sun Lounge Setting Chair Brown Wicker Day Bed Outdoor Furniture Garden Patio"@en	COL title VAL  "Lounge Setting Patio Furniture Sofa Wicker Rattan Garden Chairs Black"@en	0
+COL title VAL  "Philips TL5 HE 14W 840 (MASTER) | 55cm - Blanco Frio"@en	COL title VAL  "MASTER TL5 HE 14W/865 1SL"@en	0
+COL title VAL  "Samsung BRB260130WW Integrated 70/30 Frost Free Fridge Freezer"@de	COL title VAL  "Neff K1514X7GB Built In Larder Fridge"@de	0
+COL title VAL  "Weber 26\" Performer Premium Charcoal Grill"@en	COL title VAL  "Original Kettle Premium Charcoal Grill 22"Black"@en	0
+COL title VAL  "Flash Furniture CH-31320-30-OR-GG 30'' High Backless Orange Metal Indoor-Outdoor Barstool with Square Seat"@en	COL title VAL  "Flash Furniture CH-31320-30-YL-GG 30'' High Backless Yellow Metal Indoor-Outdoor Barstool with Square Seat"@en	0
+COL title VAL  "Samsung DV90N8289AW 9kg Heat Pump DV8800 Condenser Tumble Dryer - WHITE"@de	COL title VAL  "Electrolux 8kg UltimateCare 800 Heat Pump Dryer with WiFi Enable"@en	0
+COL title VAL  "6.9 cu. ft. Gas Double Oven Range with ProBake Convection® and EasyClean®"@en	COL title VAL  "30\" 6.9 Cu. Ft. Freestanding Gas Double Oven Range with Probake Convection - Stainless Steel"@en	1
+COL title VAL  "Samsung BRB260130WW Integrated 70/30 Frost Free Fridge Freezer"@de	COL title VAL  "Samsung RS68N8220S9 American Style Fridge Freezer - Silver"@de	0
+COL title VAL  "PERFORMER® PREMIUM CHARCOAL GRILL - 22 INCH BLACK"@en	COL title VAL  "Weber Performer® Deluxe 22” Charcoal Grill in Black (15501001)"@en	0
+COL title VAL  "Neff K1514X7GB 88cm Integrated In Column Larder Fridge"@en	COL title VAL  "Tub fluorescent Philips Master TL5 HE 35W/840"@en	0
+COL title VAL  "FISHER & PAYKEL 10KG FRONT LOADER WASHER"@de	COL title VAL  "Fisher & Paykel 7kg Vented Dryer"@no	0
+COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	COL title VAL  "Fisher & Paykel 7kg Vented Dryer DE7060G1"@de	0
+COL title VAL  "6.9 cu. ft. Gas Double Oven Range with ProBake Convection® and EasyClean®"@en	COL title VAL  "WHIRLPOOL Whirlpool® 6.7 Cu. Ft. Electric Double Oven Range with True Convection (YWGE745C0FS)"@en	0
+COL title VAL  "Lova Outdoor Black Canopy Lounge Set"@en	COL title VAL  "7PC Outdoor Sofa Set with Storage Cover"@en	0
+COL title VAL  "6.9 cu. ft. Gas Double Oven Range with ProBake Convection® and EasyClean®"@en	COL title VAL  "Whirlpool Double Oven Gas Range - 6.0 cu. ft. Stainless Steel"@en	0
+COL title VAL  "LG 6.3 Cu. Ft. Stainless Steel Electric Single Oven Range With True Convection And EasyClean"@en	COL title VAL  "27\" Single Wall Oven with True Convection and Frozen Bake Technology - Fingerprint Resistant Black Stainless Steel"@en	0
+COL title VAL  "Fisher & Paykel 7kg Vented Dryer"@no	COL title VAL  "Fisher & Paykel 7kg Vented Dryer DE7060G1"@de	1
+COL title VAL  "WHIRLPOOL Whirlpool® 6.7 Cu. Ft. Electric Double Oven Range with True Convection (YWGE745C0FS)"@en	COL title VAL  "Whirlpool 30-inch,6.4 cu ft, Electric Freestanding Range with 5 Elements"@en	1
+COL title VAL  "Fisher & Paykel 7kg Vented Dryer"@no	COL title VAL  "Fisher & Paykel DH9060C1 9kg Heat Pump Condensing Dryer"@en	0
+COL title VAL  "Whirlpool Double Oven Gas Range - 6.0 cu. ft. Stainless Steel"@en	COL title VAL  "LG 6.3 Cu. Ft. Stainless Steel Electric Single Oven Range With True Convection And EasyClean"@en	0
+COL title VAL  "4 Piece Outdoor Wicker Furniture Set With Gray Cushions - Black"@en	COL title VAL  "Gordon Black 4 Piece Outdoor Wicker Set"@de	1
+COL title VAL  "Philips TL5 HE 35W 840 (MASTER) | 145cm - Cool White"@en	COL title VAL  "Tub fluorescent Philips Master TL5 HE 35W/840"@en	1

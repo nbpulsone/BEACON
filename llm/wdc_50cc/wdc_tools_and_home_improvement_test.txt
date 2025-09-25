@@ -1,0 +1,55 @@
+COL title VAL  "Park Tool CT-3.2 ChainTool"@en	COL title VAL  "Park Tool CCW-5 Kurbelschraubenschlüssel"@de	0
+COL title VAL  "Park Tool CCW-5 Kurbelschraubenschlüssel"@de	COL title VAL  "Park Tool TWS-2 Folding Torx Wrenches"@en	0
+COL title VAL  "Park Tool TWS-2 Folding Torx Wrenches"@en	COL title VAL  "Folding Chain Tool with Peening Anvil"@en	0
+COL title VAL  "APC By Schneider Electric Smart-upsExternal Battery Pack Rack"@en	COL title VAL  "APC Smart-UPS XL 48V Battery Pack - battery enclosure - Lead Acid"@en	0
+COL title VAL  "CCW-5C Crank Bolt Bike Wrench"@nl	COL title VAL  "Park Tool CCW-5 Kurbelschraubenschlüssel"@de	1
+COL title VAL  "Original Lamp For BENQ SP920P Lamp 2"@ca	COL title VAL  "ACER - PROJECTOR LAMP 210 W OSRAM FOR ACER S1283E ACCS"@de	0
+COL title VAL  "Original Lamp For BENQ SP920P Lamp 2"@ca	COL title VAL  "BenQ 5J.J2D05.011 Projector Housing with Genuine Original OEM Bulb"@en	1
+COL title VAL  "SUA48XLBPAPC Smart-UPS XL 48V Battery Pack Tower/Rack Convertible"@en	COL title VAL  "APC Smart-UPS XL 48V Battery Pack - battery enclosure - Lead Acid"@en	0
+COL title VAL  "Folding Chain Tool with Peening Anvil"@en	COL title VAL  "Park Tool CT-6.3 Folding Chain Tool"@en	1
+COL title VAL  "ACER - PROJEKTOREN LAMP P1510 / 250 WIN ACCS"@de	COL title VAL  "FENIX ARE-A4 Multifunctional Smart Battery Charger for Popular Rechargeable Batteries"@en	0
+COL title VAL  "CCW-5C Crank Bolt Bike Wrench"@nl	COL title VAL  "T‑3.2 Screw Type Bike Chain Tool"@en	0
+COL title VAL  "ACER - PROJEKTOREN LAMP P1510 / 250 WIN ACCS"@de	COL title VAL  "ACER - PROJECTOR LAMP 210 W OSRAM FOR ACER S1283E ACCS"@de	0
+COL title VAL  "PARKTOOL DERIVE CHAINE CT-3.3"@vi	COL title VAL  "Park Tool CT-3.2 ChainTool"@en	0
+COL title VAL  "Folding Chain Tool with Peening Anvil"@en	COL title VAL  "T‑3.2 Screw Type Bike Chain Tool"@en	0
+COL title VAL  "Park Tool CT-3.2 ChainTool"@en	COL title VAL  "Park Tool TWS-2 Folding Torx Wrenches"@en	0
+COL title VAL  "Park Tool TWS-2 Folding Torx Wrenches"@en	COL title VAL  "Park Tool CT-6.3 Folding Chain Tool"@en	0
+COL title VAL  "ACER - OriginalLamp For ACER H6520BD:P1510:P1515 Projector"@en	COL title VAL  "ACER - REPLACEMENT LAMP FOR ACER H6510BD"@de	0
+COL title VAL  "ACER - REPLACEMENT LAMP FOR ACER H6510BD"@de	COL title VAL  "MC.JFZ11.001 Acer Projector Lamp Replacement"@en	1
+COL title VAL  "SMX120RMBP2UAPC Smart-UPS X 120V External Battery Pack Rack/Tower"@en	COL title VAL  "SUA48XLBPAPC Smart-UPS XL 48V Battery Pack Tower/Rack Convertible"@en	0
+COL title VAL  "Park Tool CT-3.2 ChainTool"@en	COL title VAL  "Park Tool CT-6.3 Folding Chain Tool"@en	0
+COL title VAL  "APC By Schneider Electric Smart-upsExternal Battery Pack Rack"@en	COL title VAL  "SUA48RMXLBP3UAPC Smart-UPS XL 48V RM 3U Battery Pack"@en	0
+COL title VAL  "APC Smart-UPS XL 48V Battery Pack - battery enclosure - Lead Acid"@en	COL title VAL  "SUA48RMXLBP3UAPC Smart-UPS XL 48V RM 3U Battery Pack"@en	1
+COL title VAL  "Park Tool CT-6.3 Folding Chain Tool"@en	COL title VAL  "Park Tool CCW-5 Kurbelschraubenschlüssel"@de	0
+COL title VAL  "SUA48XLBPAPC Smart-UPS XL 48V Battery Pack Tower/Rack Convertible"@en	COL title VAL  "SUA48RMXLBP3UAPC Smart-UPS XL 48V RM 3U Battery Pack"@en	0
+COL title VAL  "PARKTOOL DERIVE CHAINE CT-3.3"@vi	COL title VAL  "PARK TOOL PARK CT-3.3 SHOP CHAIN TL 12SP"@en	1
+COL title VAL  "APC Smart-UPS XL 48V Battery Pack - battery enclosure - Lead Acid"@en	COL title VAL  "SMX120RMBP2UAPC Smart-UPS X 120V External Battery Pack Rack/Tower"@en	0
+COL title VAL  "Park Tool CT-3.2 ChainTool"@en	COL title VAL  "PARK TOOL PARK CT-3.3 SHOP CHAIN TL 12SP"@en	0
+COL title VAL  "Park Tool CT-6.3 Folding Chain Tool"@en	COL title VAL  "PARK TOOL PARK CT-3.3 SHOP CHAIN TL 12SP"@en	0
+COL title VAL  "Original Lamp For BENQ SP920P Lamp 2"@ca	COL title VAL  "Original Acer Lamp S1283E H6517BD H6517S"@en	0
+COL title VAL  "SMX120RMBP2UAPC Smart-UPS X 120V External Battery Pack Rack/Tower"@en	COL title VAL  "SUA48RMXLBP3UAPC Smart-UPS XL 48V RM 3U Battery Pack"@en	0
+COL title VAL  "T‑3.2 Screw Type Bike Chain Tool"@en	COL title VAL  "Park Tool CT-3.2 ChainTool"@en	1
+COL title VAL  "PARK TOOL PARK CT-3.3 SHOP CHAIN TL 12SP"@en	COL title VAL  "Folding Chain Tool with Peening Anvil"@en	0
+COL title VAL  "PARKTOOL DERIVE CHAINE CT-3.3"@vi	COL title VAL  "Park Tool CT-6.3 Folding Chain Tool"@en	0
+COL title VAL  "APC Smart-UPS XL 48V Battery Pack - battery enclosure - Lead Acid"@en	COL title VAL  "APC Smart-UPS XL 48V Battery Pack - Battery enclosure - 48 V - 2 x Lead Acid- 5U"@en	0
+COL title VAL  "Park Tool TWS-2 Folding Torx Wrenches"@en	COL title VAL  "PARK TOOL PARK CT-3.3 SHOP CHAIN TL 12SP"@en	0
+COL title VAL  "APC By Schneider Electric Smart-upsExternal Battery Pack Rack"@en	COL title VAL  "SMX120RMBP2UAPC Smart-UPS X 120V External Battery Pack Rack/Tower"@en	1
+COL title VAL  "Victron Energy Remote Panel for BlueSolar DUO"@en	COL title VAL  "Fenix 21700 5000 mAh Li-ion Protected Battery"@en	0
+COL title VAL  "ACER - OriginalLamp For ACER H6520BD:P1510:P1515 Projector"@en	COL title VAL  "ACER - PROJEKTOREN LAMP P1510 / 250 WIN ACCS"@de	1
+COL title VAL  "APC Smart-UPS XL 48V Battery Pack - Battery enclosure - 48 V - 2 x Lead Acid- 5U"@en	COL title VAL  "SUA48XLBPAPC Smart-UPS XL 48V Battery Pack Tower/Rack Convertible"@en	1
+COL title VAL  "SUA48XLBPAPC Smart-UPS XL 48V Battery Pack Tower/Rack Convertible"@en	COL title VAL  "APC By Schneider Electric Smart-upsExternal Battery Pack Rack"@en	0
+COL title VAL  "Park Tool CT-6.3 Folding Chain Tool"@en	COL title VAL  "Park Tool Park Tool TWS-2 Folding Torx Wrench Set"@en	0
+COL title VAL  "MC.JFZ11.001 Acer Projector Lamp Replacement"@en	COL title VAL  "ACER - PROJECTOR LAMP 210 W OSRAM FOR ACER S1283E ACCS"@de	0
+COL title VAL  "Charge Controller BlueSolar DUO PWM 24V-20A"@en	COL title VAL  "BlueSolar PWM-Light 12/24V-30A"@en	0
+COL title VAL  "Original Lamp For BENQ SP920P Lamp 2"@ca	COL title VAL  "ACER - REPLACEMENT LAMP FOR ACER H6510BD"@de	0
+COL title VAL  "Fenix 21700 5000 mAh Li-ion Protected Battery"@en	COL title VAL  "FENIX ARE-A4 Multifunctional Smart Battery Charger for Popular Rechargeable Batteries"@en	1
+COL title VAL  "Park Tool TWS-2 Folding Torx Wrenches"@en	COL title VAL  "Park Tool Park Tool TWS-2 Folding Torx Wrench Set"@en	1
+COL title VAL  "ACER - PROJECTOR LAMP 210 W OSRAM FOR ACER S1283E ACCS"@de	COL title VAL  "ACER - REPLACEMENT LAMP FOR ACER H6510BD"@de	0
+COL title VAL  "ACER - OriginalLamp For ACER H6520BD:P1510:P1515 Projector"@en	COL title VAL  "Original Acer Lamp S1283E H6517BD H6517S"@en	0
+COL title VAL  "APC Smart-UPS XL 48V Battery Pack - Battery enclosure - 48 V - 2 x Lead Acid- 5U"@en	COL title VAL  "SMX120RMBP2UAPC Smart-UPS X 120V External Battery Pack Rack/Tower"@en	0
+COL title VAL  "Charge Controller BlueSolar DUO PWM 24V-20A"@en	COL title VAL  "Victron Energy Remote Panel for BlueSolar DUO"@en	1
+COL title VAL  "ACER - REPLACEMENT LAMP FOR ACER H6510BD"@de	COL title VAL  "Original Acer Lamp S1283E H6517BD H6517S"@en	0
+COL title VAL  "BlueSolar PWM-Light 12/24V-30A"@en	COL title VAL  "Victron Blue Solar PWM Light 12V / 24V 30 Amp Solar Charge Controller Regulator"@en	1
+COL title VAL  "APC Smart-UPS XL 48V Battery Pack - Battery enclosure - 48 V - 2 x Lead Acid- 5U"@en	COL title VAL  "SUA48RMXLBP3UAPC Smart-UPS XL 48V RM 3U Battery Pack"@en	0
+COL title VAL  "Original Acer Lamp S1283E H6517BD H6517S"@en	COL title VAL  "ACER - PROJECTOR LAMP 210 W OSRAM FOR ACER S1283E ACCS"@de	1
+COL title VAL  "ACER - OriginalLamp For ACER H6520BD:P1510:P1515 Projector"@en	COL title VAL  "ACER - PROJECTOR LAMP 210 W OSRAM FOR ACER S1283E ACCS"@de	0

@@ -1,0 +1,35 @@
+COL title VAL  "Kšiltovka New Era NFL New Orleans Saints 9Fifty"@en	COL title VAL  "New Era NFL New Orleans Saints 9Fifty Cap Schwarz"@en	1
+COL title VAL  "Gorra curva verde ajustable 9FORTY The League de Green Bay Packers NFL de New Era"@en	COL title VAL  "Green Bay Packers Hat New Era 9Forty Adjustable Size Greenbay NFL Cap 10517884"@en	1
+COL title VAL  "Dutch Doobadoo Dutch Mask Art stencil Bubbles A5"@en	COL title VAL  "Dutch Doobadoo - Dutch Mask Art - Bubles"@en	1
+COL title VAL  "New Era New Era Seattle Seahawks NFL 9Forty Cap"@en	COL title VAL  "New Era NFL New Orleans Saints 9Fifty Cap Schwarz"@en	0
+COL title VAL  "New Era Curved Brim 9FORTY The League Seattle Mariners MLB Adjustable Cap marineblau"@en	COL title VAL  "Jacksonville Jaguars New Era 940 The League NFL Adjustable Cap"@en	0
+COL title VAL  "Green Bay Packers Hat New Era 9Forty Adjustable Size Greenbay NFL Cap 10517884"@en	COL title VAL  "New Era New Era Seattle Seahawks NFL 9Forty Cap"@en	0
+COL title VAL  "New Era Curved Brim 9FORTY The League Washington Wizards NBA Navy Blue Adjustable Cap"@en	COL title VAL  "New Era Curved Brim 9FORTY The League Jacksonville Jaguars NFL Black Adjustable Cap"@en	0
+COL title VAL  "Gorra curva verde ajustable 9FORTY The League de Green Bay Packers NFL de New Era"@en	COL title VAL  "Seattle Seahawks New Era 940 The League NFL Adjustable Cap"@en	0
+COL title VAL  "New Era Curved Brim 9FORTY The League Washington Wizards NBA Navy Blue Adjustable Cap"@en	COL title VAL  "Seattle Seahawks New Era 940 The League NFL Adjustable Cap"@en	0
+COL title VAL  "New Era New Era Seattle Seahawks NFL 9Forty Cap"@en	COL title VAL  "Cappello New Era Oakland Raiders HM Knitted Cap"@en	0
+COL title VAL  "New Era Curved Brim 9FORTY The League Washington Wizards NBA Navy Blue Adjustable Cap"@en	COL title VAL  "Jacksonville Jaguars New Era 940 The League NFL Adjustable Cap"@en	0
+COL title VAL  "Green Bay Packers Hat New Era 9Forty Adjustable Size Greenbay NFL Cap 10517884"@en	COL title VAL  "Jacksonville Jaguars New Era 940 The League NFL Adjustable Cap"@en	0
+COL title VAL  "Sapca 9Forty The League Washington Wizards Albastru"@en	COL title VAL  "New Era Curved Brim 9FORTY The League Washington Wizards NBA Navy Blue Adjustable Cap"@en	1
+COL title VAL  "Seattle Seahawks New Era 940 The League NFL Adjustable Cap"@en	COL title VAL  "Seattle Mariners New Era 940 The League Pinch Hitter Baseball Cap"@en	0
+COL title VAL  "New Era Curved Brim 9FORTY The League Jacksonville Jaguars NFL Black Adjustable Cap"@en	COL title VAL  "New Era New Era Seattle Seahawks NFL 9Forty Cap"@en	0
+COL title VAL  "Gorra curva verde ajustable 9FORTY The League de Green Bay Packers NFL de New Era"@en	COL title VAL  "New Era Curved Brim 9FORTY The League Jacksonville Jaguars NFL Black Adjustable Cap"@en	0
+COL title VAL  "New Era New Era Seattle Seahawks NFL 9Forty Cap"@en	COL title VAL  "Hat New Era Oakland Raiders HM Knitted Cap"@en	0
+COL title VAL  "Ray-Ban RB 3025 004 58 Aviator Sunglasses"@en	COL title VAL  "RAY-BAN AVIATOR CLASSIC S-RAY 3025-004/58(58IT)"@en	1
+COL title VAL  "New Era Curved Brim 9FORTY The League Seattle Mariners MLB Adjustable Cap marineblau"@en	COL title VAL  "Seattle Mariners New Era 940 The League Pinch Hitter Baseball Cap"@en	1
+COL title VAL  "100% Speedcraft Soft Tact Black Sunglasses - HiPER Red Multilayer Mirror Lens"@en	COL title VAL  "100% Speedcraft Sunglasses: Soft Tact Black Frame with HiPER Red Multilayer Mirr (Spare Clear Lens)"@en	1
+COL title VAL  "Seattle Seahawks New Era 940 The League NFL Adjustable Cap"@en	COL title VAL  "New Era NFL New Orleans Saints 9Fifty Cap Schwarz"@en	0
+COL title VAL  "Seattle Mariners New Era 940 The League Pinch Hitter Baseball Cap"@en	COL title VAL  "Jacksonville Jaguars New Era 940 The League NFL Adjustable Cap"@en	0
+COL title VAL  "Cappello New Era Oakland Raiders HM Knitted Cap"@en	COL title VAL  "New Era NFL New Orleans Saints 9Fifty Cap Schwarz"@en	0
+COL title VAL  "New Era Curved Brim 9FORTY The League Jacksonville Jaguars NFL Black Adjustable Cap"@en	COL title VAL  "Seattle Seahawks New Era 940 The League NFL Adjustable Cap"@en	0
+COL title VAL  "New Era New Era Seattle Seahawks NFL 9Forty Cap"@en	COL title VAL  "Seattle Seahawks New Era 940 The League NFL Adjustable Cap"@en	1
+COL title VAL  "New Era Curved Brim 9FORTY The League Washington Wizards NBA Navy Blue Adjustable Cap"@en	COL title VAL  "New Era Curved Brim 9FORTY The League Seattle Mariners MLB Adjustable Cap marineblau"@en	0
+COL title VAL  "Kšiltovka New Era NFL New Orleans Saints 9Fifty"@en	COL title VAL  "New Era New Era Seattle Seahawks NFL 9Forty Cap"@en	0
+COL title VAL  "New Era Curved Brim 9FORTY The League Jacksonville Jaguars NFL Black Adjustable Cap"@en	COL title VAL  "Jacksonville Jaguars New Era 940 The League NFL Adjustable Cap"@en	1
+COL title VAL  "Seattle Mariners New Era 940 The League Pinch Hitter Baseball Cap"@en	COL title VAL  "Cappello New Era Oakland Raiders HM Knitted Cap"@en	0
+COL title VAL  "New Era Curved Brim 9FORTY The League Seattle Mariners MLB Adjustable Cap marineblau"@en	COL title VAL  "New Era Curved Brim 9FORTY The League Jacksonville Jaguars NFL Black Adjustable Cap"@en	0
+COL title VAL  "Ray-Ban RB 3025 004 58 Aviator Sunglasses"@en	COL title VAL  "100% Speedcraft Soft Tact Black Sunglasses - HiPER Red Multilayer Mirror Lens"@en	0
+COL title VAL  "Cappello New Era Oakland Raiders HM Knitted Cap"@en	COL title VAL  "Hat New Era Oakland Raiders HM Knitted Cap"@en	1
+COL title VAL  "New Era Curved Brim 9FORTY The League Jacksonville Jaguars NFL Black Adjustable Cap"@en	COL title VAL  "Green Bay Packers Hat New Era 9Forty Adjustable Size Greenbay NFL Cap 10517884"@en	0
+COL title VAL  "New Era NFL New Orleans Saints 9Fifty Cap Schwarz"@en	COL title VAL  "Hat New Era Oakland Raiders HM Knitted Cap"@en	0
+COL title VAL  "Seattle Seahawks New Era 940 The League NFL Adjustable Cap"@en	COL title VAL  "Jacksonville Jaguars New Era 940 The League NFL Adjustable Cap"@en	0

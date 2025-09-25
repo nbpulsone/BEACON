@@ -1,0 +1,27 @@
+COL title VAL  "Pokemon S&S2: Rebel Clash BD"@en	COL title VAL  "Pokemon Sword & Shield Rebel Clash 10-Card Booster Pack"@en	1
+COL title VAL  "POKEMON POKEMON SWSH2 REBEL CLASH 3PK BLISTER - Rayquaza"@ca	COL title VAL  "Pokemon Pokemon TCG: Sword & Shield - Booster Pack"@en	0
+COL title VAL  "Pokémon: Sword & Shield 3 - Darkness Ablaze Booster"@nl	COL title VAL  "Pokemon Pokemon TCG: Sword & Shield - Booster Pack"@en	0
+COL title VAL  "Pokemon Pokemon - Darkness Ablaze Single Booster (S&S3)"@de	COL title VAL  "Pokemon S&S2: Rebel Clash BD"@en	0
+COL title VAL  "Pokemon TCG: Darkness Ablaze - Elite Trainer Box"@de	COL title VAL  "Pokemon Pokemon - Darkness Ablaze Single Booster (S&S3)"@de	0
+COL title VAL  "POKEMON POKEMON SWSH2 REBEL CLASH 3PK BLISTER - Rayquaza"@ca	COL title VAL  "Pokémon TCG: Sword & Shield-Rebel Clash 3 Booster Packs, Coin & Duraludon Promo Card"@en	1
+COL title VAL  "Pkmn Ss01 Sword & Shield Booster"@af	COL title VAL  "Pokemon Sword & Shield Rebel Clash 10-Card Booster Pack"@en	0
+COL title VAL  "Pokemon Pokemon TCG: Sword & Shield - Booster Pack"@en	COL title VAL  "Pkmn Ss01 Sword & Shield Booster"@af	1
+COL title VAL  "Pokemon TCG: Darkness Ablaze - Elite Trainer Box"@de	COL title VAL  "POKEMON POKEMON SWSH2 REBEL CLASH 3PK BLISTER - Rayquaza"@ca	0
+COL title VAL  "Pokemon Sword & Shield Rebel Clash 10-Card Booster Pack"@en	COL title VAL  "Pokemon Pokemon - Darkness Ablaze Single Booster (S&S3)"@de	0
+COL title VAL  "Pokémon: Sword & Shield 3 - Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "Pokémon TCG: Sword & Shield-Rebel Clash 3 Booster Packs, Coin & Duraludon Promo Card"@en	0
+COL title VAL  "Pkmn Ss01 Sword & Shield Booster"@af	COL title VAL  "Pokémon: Sword & Shield 3 - Darkness Ablaze Booster"@nl	0
+COL title VAL  "Pokemon Pokemon - Darkness Ablaze Single Booster (S&S3)"@de	COL title VAL  "Pokemon Pokemon TCG: Sword & Shield - Booster Pack"@en	0
+COL title VAL  "Pokemon Sword & Shield Rebel Clash 10-Card Booster Pack"@en	COL title VAL  "Pokemon Pokemon TCG: Sword & Shield - Booster Pack"@en	0
+COL title VAL  "Pokemon Pokemon TCG: Sword & Shield - Booster Pack"@en	COL title VAL  "Pokemon TCG: Darkness Ablaze - Elite Trainer Box"@de	0
+COL title VAL  "Pkmn Ss01 Sword & Shield Booster"@af	COL title VAL  "Pokémon: Sword & Shield 3 - Darkness Ablaze Elite Trainer Box"@de	0
+COL title VAL  "Pokemon Sword & Shield Rebel Clash 10-Card Booster Pack"@en	COL title VAL  "Pokémon TCG: Sword & Shield-Rebel Clash 3 Booster Packs, Coin & Duraludon Promo Card"@en	0
+COL title VAL  "Pokémon: Sword & Shield 3 - Darkness Ablaze Booster"@nl	COL title VAL  "Pokemon Sword & Shield Rebel Clash 10-Card Booster Pack"@en	0
+COL title VAL  "Pokémon TCG: Sword & Shield-Rebel Clash 3 Booster Packs, Coin & Duraludon Promo Card"@en	COL title VAL  "Pokemon Pokemon TCG: Sword & Shield - Booster Pack"@en	0
+COL title VAL  "Pokémon: Sword & Shield 3 - Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "Pokémon: Sword & Shield 3 - Darkness Ablaze Booster"@nl	0
+COL title VAL  "Pokemon Pokemon - Darkness Ablaze Single Booster (S&S3)"@de	COL title VAL  "Pokémon: Sword & Shield 3 - Darkness Ablaze Booster"@nl	1
+COL title VAL  "Pokemon Pokemon TCG: Sword & Shield - Booster Pack"@en	COL title VAL  "Pokémon: Sword & Shield 3 - Darkness Ablaze Elite Trainer Box"@de	0
+COL title VAL  "Pokémon: Sword & Shield 3 - Darkness Ablaze Elite Trainer Box"@de	COL title VAL  "Pokemon TCG: Darkness Ablaze - Elite Trainer Box"@de	1
+COL title VAL  "Pokémon: Sword & Shield 3 - Darkness Ablaze Booster"@nl	COL title VAL  "Pokémon TCG: Sword & Shield-Rebel Clash 3 Booster Packs, Coin & Duraludon Promo Card"@en	0
+COL title VAL  "Pokemon Sword & Shield Rebel Clash 10-Card Booster Pack"@en	COL title VAL  "POKEMON POKEMON SWSH2 REBEL CLASH 3PK BLISTER - Rayquaza"@ca	0
+COL title VAL  "POKEMON POKEMON SWSH2 REBEL CLASH 3PK BLISTER - Rayquaza"@ca	COL title VAL  "Pokemon S&S2: Rebel Clash BD"@en	0
+COL title VAL  "Pokémon TCG: Sword & Shield-Rebel Clash 3 Booster Packs, Coin & Duraludon Promo Card"@en	COL title VAL  "Pokemon S&S2: Rebel Clash BD"@en	0

@@ -1,0 +1,143 @@
+COL title VAL  "RAM-B-189BU - RAM DOUBLE SUCTION CUP BASE"@de	COL title VAL  "RAM Mount Double Suction Cup Base [RAM-B-189BU]"@en	1
+COL title VAL  "RAM Mount Double Suction Cup Base [RAM-B-189BU]"@en	COL title VAL  "RAM Dual Suction Cup Base"@en	1
+COL title VAL  "RAM 3.3\" DIA. SUCT CUP W 1\" BALL"@en	COL title VAL  "RAM Dual Suction Cup Base"@en	0
+COL title VAL  "RAM Handlebar U-Bolt Mount for Rails from 0.5\" to 1.25\" in Diameter - RAM-B-149ZU"@en	COL title VAL  "RAM-D-235U RAM Double U-Bolt Ball Base for 1\" - 1.25\" Rails w/ D-Size 2.25-Inch Ball"@en	0
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with 1\" Ball"@en	COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with B Size 1\" Ball - RAM-B-224-1U"@en	1
+COL title VAL  "Ram Mount Twist Lock Suction Mount with 1 Ball"@en	COL title VAL  "RAM 3-1/4 INCH DIAMETER SUCTION CUP BASE WITH TWIST LOCK"@en	1
+COL title VAL  "RAM MOUNTS (RAM-B-289U Triple 1'' Ball Base"@en	COL title VAL  "RAM-B-289U - RAM Triple 1\" Ball Base"@en	1
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with B Size 1\" Ball - RAM-B-224-1U"@en	COL title VAL  "RAM 3-1/4 INCH DIAMETER SUCTION CUP BASE WITH TWIST LOCK"@en	1
+COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5\" to 1.25\" in Diameter"@en	COL title VAL  "RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter - RAM-D-235U"@en	0
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with 1\" Ball"@en	COL title VAL  "RAM Mount 3.5\" Twist Lock Suction Cup Base with 1\" Ball"@en	1
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with 1\" Ball"@en	COL title VAL  "RAM 3.3\" DIA. SUCT CUP W 1\" BALL"@en	1
+COL title VAL  "RAM-D-235U RAM Double U-Bolt Ball Base for 1\" - 1.25\" Rails w/ D-Size 2.25-Inch Ball"@en	COL title VAL  "RAM Double U-Bolt Base with 2.25\" D Ball (RAM-D-235U)"@en	1
+COL title VAL  "RAM Mount Torque™ 3/4" - 1" Diameter Handlebar/Rail Base with 1" Ball and X-Grip®"@en	COL title VAL  "RAM-B-408-75-1-UN7U - RAM® Torque™ 3/4\" - 1\" Diameter Handlebar/Rail Base with 1\" Ball, Standard Arm and X-Grip® for Phones"@en	1
+COL title VAL  "RAM Handlebar Mount w U-Bolt (RAM-B-149ZU)"@de	COL title VAL  "Handlebar Mount Kit - Black - RAM 149ZU"@de	1
+COL title VAL  "RAM 3.3\" DIA. SUCT CUP W 1\" BALL"@en	COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with B Size 1\" Ball - RAM-B-224-1U"@en	1
+COL title VAL  "Ram Mount Motorcycle Fork Stem Mount with 1 Ball"@en	COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	0
+COL title VAL  "RAM Torque 28mm-38mm Handlebar & Rail Base 1.5\" Ball"@ca	COL title VAL  "RAM Mount Torque™ 3/4" - 1" Diameter Handlebar/Rail Base with 1" Ball and X-Grip®"@en	0
+COL title VAL  "RAM-B-408-75-1-UN7U RAM Mounts X-Grip® Phone Mount with RAM® Torque™ Medium Rail Base"@en	COL title VAL  "RAM Mount Torque™ 3/4" - 1" Diameter Handlebar/Rail Base with 1" Ball and X-Grip®"@en	1
+COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" ..."@en	COL title VAL  "RAM-B-309-7U - RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	1
+COL title VAL  "RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter - RAM-D-235U"@en	COL title VAL  "RAM 2.25\" Ball with 2 U-Bolts (RAM-D-235U)"@en	1
+COL title VAL  "RAM MOUNTS (RAM-B-289U Triple 1'' Ball Base"@en	COL title VAL  "RAM Motorcycle Combo Base with 1\" Ball (RAM-B-309-7U)"@en	0
+COL title VAL  "RAM-B-189BU - RAM DOUBLE SUCTION CUP BASE"@de	COL title VAL  "RAM Dual Suction Cup Base"@en	1
+COL title VAL  "RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter - RAM-D-235U"@en	COL title VAL  "RAM-D-235U RAM Double U-Bolt Ball Base for 1\" - 1.25\" Rails w/ D-Size 2.25-Inch Ball"@en	1
+COL title VAL  "RAM 3-1/4 INCH DIAMETER SUCTION CUP BASE WITH TWIST LOCK"@en	COL title VAL  "RAM 3.3\" DIA. SUCT CUP W 1\" BALL"@en	1
+COL title VAL  "RAM Torque 28mm-38mm Handlebar & Rail Base 1.5\" Ball"@ca	COL title VAL  "RAM Mount 28 - 38mm Handlebar Base 1.5\" C Ball"@de	1
+COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	COL title VAL  "RAM Motorcycle Brake/Clutch Reservoir & Handlebar Ball Base / B Size / RAM-B-309-7U"@en	1
+COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" ..."@en	COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	1
+COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" ..."@en	COL title VAL  "RAM Motorcycle Brake/Clutch Reservoir & Handlebar Ball Base / B Size / RAM-B-309-7U"@en	1
+COL title VAL  "RAM-B-309-7U - RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1Ball"@en	COL title VAL  "RAM Motorcycle Brake/Clutch Reservoir & Handlebar Ball Base / B Size / RAM-B-309-7U"@en	1
+COL title VAL  "RAM-B-309-7U - RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1Ball"@en	COL title VAL  "RAM-B-224-1U - RAM 3.25Diameter Suction Cup Twist Lock Base with 1Ball"@en	0
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with B Size 1\" Ball - RAM-B-224-1U"@en	COL title VAL  "RAM Mount 3.5\" Twist Lock Suction Cup Base with 1\" Ball"@en	1
+COL title VAL  "RAM Mount 3.5\" Twist Lock Suction Cup Base with 1\" Ball"@en	COL title VAL  "RAM 3-1/4 INCH DIAMETER SUCTION CUP BASE WITH TWIST LOCK"@en	1
+COL title VAL  "RAM Triple 1\" Ball Base"@en	COL title VAL  "RAM Triple 1\" Ball Adapter"@en	1
+COL title VAL  "RAM Motorcycle Fork Stem Base w 1\" Ball (RAM-B-342U)"@en	COL title VAL  "RAM-B-309-7U - RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	0
+COL title VAL  "RAM 3-1/4 INCH DIAMETER SUCTION CUP BASE WITH TWIST LOCK"@en	COL title VAL  "RAM-B-224-1U - RAM 3.25\" Diameter Suction Cup Twist Lock Base with 1\" Ball"@en	1
+COL title VAL  "RAM-B-224-1U - RAM 3.25\" Diameter Suction Cup Twist Lock Base with 1\" Ball"@en	COL title VAL  "RAM Motorcycle Combo Base with 1\" Ball (RAM-B-309-7U)"@en	0
+COL title VAL  "RAM Mount 3.5\" Twist Lock Suction Cup Base with 1\" Ball"@en	COL title VAL  "Ram Mount Twist Lock Suction Mount with 1 Ball"@en	1
+COL title VAL  "RAM Handlebar Mount w U-Bolt (RAM-B-149ZU)"@de	COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5\" to 1.25\" in Diameter"@en	1
+COL title VAL  "RAM Mount 3.5\" Twist Lock Suction Cup Base with 1\" Ball"@en	COL title VAL  "RAM-B-224-1U - RAM 3.25Diameter Suction Cup Twist Lock Base with 1Ball"@en	1
+COL title VAL  "RAM-D-235U RAM Double U-Bolt Ball Base for 1\" - 1.25\" Rails w/ D-Size 2.25-Inch Ball"@en	COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with B Size 1\" Ball - RAM-B-224-1U"@en	0
+COL title VAL  "RAM-B-224-1U - RAM 3.25Diameter Suction Cup Twist Lock Base with 1Ball"@en	COL title VAL  "RAM 3-1/4 INCH DIAMETER SUCTION CUP BASE WITH TWIST LOCK"@en	1
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with 1\" Ball"@en	COL title VAL  "RAM Suction Cup Double Base without ball"@en	0
+COL title VAL  "RAM-B-408-75-1-UN7U - RAM® Torque™ 3/4\" - 1\" Diameter Handlebar/Rail Base with 1\" Ball, Standard Arm and X-Grip® for Phones"@en	COL title VAL  "RAM-B-408-75-1-UN7U RAM Mounts X-Grip® Phone Mount with RAM® Torque™ Medium Rail Base"@en	1
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with 1\" Ball"@en	COL title VAL  "RAM Dual Suction Cup Base"@en	0
+COL title VAL  "RAM Suction Cup Double Base without ball"@en	COL title VAL  "RAM Mount Double Suction Cup Base [RAM-B-189BU]"@en	1
+COL title VAL  "RAM-B-309-7U - RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	COL title VAL  "RAM-B-309-7U - RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1Ball"@en	1
+COL title VAL  "RAM Motorcycle Combo Base with 1\" Ball (RAM-B-309-7U)"@en	COL title VAL  "RAM Motorcycle Brake/Clutch Reservoir & Handlebar Ball Base / B Size / RAM-B-309-7U"@en	1
+COL title VAL  "Ram Mount Motorcycle Fork Stem Mount with 1 Ball"@en	COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" ..."@en	0
+COL title VAL  "RAM-B-224-1U - RAM 3.25Diameter Suction Cup Twist Lock Base with 1Ball"@en	COL title VAL  "RAM-B-224-1U - RAM 3.25\" Diameter Suction Cup Twist Lock Base with 1\" Ball"@en	1
+COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	COL title VAL  "RAM Motorcycle Combo Base with 1\" Ball (RAM-B-309-7U)"@en	1
+COL title VAL  "RAM Suction Cup Double Base without ball"@en	COL title VAL  "RAM Dual Suction Cup Base"@en	1
+COL title VAL  "RAM-B-224-1U - RAM 3.25\" Diameter Suction Cup Twist Lock Base with 1\" Ball"@en	COL title VAL  "RAM Mount 3.5\" Twist Lock Suction Cup Base with 1\" Ball"@en	1
+COL title VAL  "RAM Double U-Bolt Base with 2.25\" D Ball (RAM-D-235U)"@en	COL title VAL  "RAM-B-224-1U - RAM 3.25\" Diameter Suction Cup Twist Lock Base with 1\" Ball"@en	0
+COL title VAL  "RAM-B-408-75-1-UN7U RAM Mounts X-Grip® Phone Mount with RAM® Torque™ Medium Rail Base"@en	COL title VAL  "RAM MOUNTS (RAM-B-289U Triple 1'' Ball Base"@en	0
+COL title VAL  "RAM Triple 1\" Ball Base"@en	COL title VAL  "RAM Mount 28 - 38mm Handlebar Base 1.5\" C Ball"@de	0
+COL title VAL  "RAM 3-1/4 INCH DIAMETER SUCTION CUP BASE WITH TWIST LOCK"@en	COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with 1\" Ball"@en	1
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with B Size 1\" Ball - RAM-B-224-1U"@en	COL title VAL  "Ram Mount Twist Lock Suction Mount with 1 Ball"@en	1
+COL title VAL  "RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter - RAM-D-235U"@en	COL title VAL  "RAM Handlebar U-Bolt Mount for Rails from 0.5\" to 1.25\" in Diameter - RAM-B-149ZU"@en	0
+COL title VAL  "RAM-B-224-1U - RAM 3.25Diameter Suction Cup Twist Lock Base with 1Ball"@en	COL title VAL  "RAM 3.3\" DIA. SUCT CUP W 1\" BALL"@en	1
+COL title VAL  "RAM Double U-Bolt Base with 2.25\" D Ball (RAM-D-235U)"@en	COL title VAL  "RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter - RAM-D-235U"@en	1
+COL title VAL  "RAM Motorcycle Combo Base with 1\" Ball (RAM-B-309-7U)"@en	COL title VAL  "Ram Mount Motorcycle Fork Stem Mount with 1 Ball"@en	0
+COL title VAL  "RAM-B-309-7U - RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1Ball"@en	COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" ..."@en	1
+COL title VAL  "RAM Double U-Bolt Base with 2.25\" D Ball (RAM-D-235U)"@en	COL title VAL  "RAM Suction Cup Double Base without ball"@en	0
+COL title VAL  "RAM Motorcycle Combo Base with 1\" Ball (RAM-B-309-7U)"@en	COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" ..."@en	1
+COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	COL title VAL  "RAM Triple 1\" Ball Base"@en	0
+COL title VAL  "Handlebar Mount Kit - Black - RAM 149ZU"@de	COL title VAL  "RAM Mount Double Suction Cup Base [RAM-B-189BU]"@en	0
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with 1\" Ball"@en	COL title VAL  "Ram Mount Twist Lock Suction Mount with 1 Ball"@en	1
+COL title VAL  "RAM Mount 3.5\" Twist Lock Suction Cup Base with 1\" Ball"@en	COL title VAL  "RAM Mount 28 - 38mm Handlebar Base 1.5\" C Ball"@de	0
+COL title VAL  "RAM Motorcycle Fork Stem Base w 1\" Ball (RAM-B-342U)"@en	COL title VAL  "RAM Motorcycle Brake/Clutch Reservoir & Handlebar Ball Base / B Size / RAM-B-309-7U"@en	0
+COL title VAL  "RAM Mount 3.5\" Twist Lock Suction Cup Base with 1\" Ball"@en	COL title VAL  "RAM 3.3\" DIA. SUCT CUP W 1\" BALL"@en	1
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with B Size 1\" Ball - RAM-B-224-1U"@en	COL title VAL  "RAM-B-224-1U - RAM 3.25\" Diameter Suction Cup Twist Lock Base with 1\" Ball"@en	1
+COL title VAL  "RAM-B-189BU Double Suction Cup Base with Universal AMPs Hole Pattern"@en	COL title VAL  "RAM Dual Suction Cup Base"@en	1
+COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5\" to 1.25\" in Diameter"@en	COL title VAL  "RAM Handlebar U-Bolt Mount for Rails from 0.5\" to 1.25\" in Diameter - RAM-B-149ZU"@en	1
+COL title VAL  "RAM Torque 28mm-38mm Handlebar & Rail Base 1.5\" Ball"@ca	COL title VAL  "RAM Triple 1\" Ball Base"@en	0
+COL title VAL  "RAM Mount Double Suction Cup Base [RAM-B-189BU]"@en	COL title VAL  "RAM-B-189BU Double Suction Cup Base with Universal AMPs Hole Pattern"@en	1
+COL title VAL  "RAM-D-235U RAM Double U-Bolt Ball Base for 1\" - 1.25\" Rails w/ D-Size 2.25-Inch Ball"@en	COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5\" to 1.25\" in Diameter"@en	0
+COL title VAL  "RAM-B-309-7U - RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1Ball"@en	COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	1
+COL title VAL  "RAM Triple 1\" Ball Base"@en	COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" ..."@en	0
+COL title VAL  "RAM Handlebar U-Bolt Mount for Rails from 0.5\" to 1.25\" in Diameter - RAM-B-149ZU"@en	COL title VAL  "Handlebar Mount Kit - Black - RAM 149ZU"@de	1
+COL title VAL  "RAM 2.25\" Ball with 2 U-Bolts (RAM-D-235U)"@en	COL title VAL  "RAM Handlebar Mount w U-Bolt (RAM-B-149ZU)"@de	0
+COL title VAL  "RAM Triple 1\" Ball Base"@en	COL title VAL  "RAM-B-289U - RAM Triple 1\" Ball Base"@en	1
+COL title VAL  "RAM-B-189BU Double Suction Cup Base with Universal AMPs Hole Pattern"@en	COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with B Size 1\" Ball - RAM-B-224-1U"@en	0
+COL title VAL  "RAM Mount 3.5\" Twist Lock Suction Cup Base with 1\" Ball"@en	COL title VAL  "RAM Mount Double Suction Cup Base [RAM-B-189BU]"@en	0
+COL title VAL  "RAM 3-1/4 INCH DIAMETER SUCTION CUP BASE WITH TWIST LOCK"@en	COL title VAL  "RAM Mount Torque™ 3/4" - 1" Diameter Handlebar/Rail Base with 1" Ball and X-Grip®"@en	0
+COL title VAL  "RAM Mount 28 - 38mm Handlebar Base 1.5\" C Ball"@de	COL title VAL  "RAM Mount Torque™ 3/4" - 1" Diameter Handlebar/Rail Base with 1" Ball and X-Grip®"@en	0
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with 1\" Ball"@en	COL title VAL  "RAM Mount Torque™ 3/4" - 1" Diameter Handlebar/Rail Base with 1" Ball and X-Grip®"@en	0
+COL title VAL  "RAM Handlebar Rail Mount 1.125 - 1.5\" C (RAM-408-112-15U)"@en	COL title VAL  "RAM Torque 28mm-38mm Handlebar & Rail Base 1.5\" Ball"@ca	1
+COL title VAL  "RAM Motorcycle Fork Stem Base w 1\" Ball (RAM-B-342U)"@en	COL title VAL  "RAM-B-289U - RAM Triple 1\" Ball Base"@en	0
+COL title VAL  "RAM 3.3\" DIA. SUCT CUP W 1\" BALL"@en	COL title VAL  "RAM-B-224-1U - RAM 3.25\" Diameter Suction Cup Twist Lock Base with 1\" Ball"@en	1
+COL title VAL  "RAM-B-224-1U - RAM 3.25\" Diameter Suction Cup Twist Lock Base with 1\" Ball"@en	COL title VAL  "RAM 2.25\" Ball with 2 U-Bolts (RAM-D-235U)"@en	0
+COL title VAL  "RAM-B-309-7U - RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	COL title VAL  "RAM Motorcycle Brake/Clutch Reservoir & Handlebar Ball Base / B Size / RAM-B-309-7U"@en	1
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with B Size 1\" Ball - RAM-B-224-1U"@en	COL title VAL  "RAM-B-408-75-1-UN7U - RAM® Torque™ 3/4\" - 1\" Diameter Handlebar/Rail Base with 1\" Ball, Standard Arm and X-Grip® for Phones"@en	0
+COL title VAL  "RAM Mount Double Suction Cup Base [RAM-B-189BU]"@en	COL title VAL  "RAM DOUBLE SUCTION CUP BASE"@en	1
+COL title VAL  "RAM Motorcycle Combo Base with 1\" Ball (RAM-B-309-7U)"@en	COL title VAL  "RAM-B-289U - RAM Triple 1\" Ball Base"@en	0
+COL title VAL  "RAM-B-289U - RAM Triple 1\" Ball Base"@en	COL title VAL  "RAM Triple 1\" Ball Adapter"@en	1
+COL title VAL  "Ram Mount Twist Lock Suction Mount with 1 Ball"@en	COL title VAL  "RAM 3.3\" DIA. SUCT CUP W 1\" BALL"@en	1
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with 1\" Ball"@en	COL title VAL  "RAM-B-189BU - RAM DOUBLE SUCTION CUP BASE"@de	0
+COL title VAL  "RAM Handlebar Mount w U-Bolt (RAM-B-149ZU)"@de	COL title VAL  "RAM Mount Double Suction Cup Base [RAM-B-189BU]"@en	0
+COL title VAL  "RAM-B-189BU - RAM DOUBLE SUCTION CUP BASE"@de	COL title VAL  "RAM Suction Cup Double Base without ball"@en	1
+COL title VAL  "RAM Motorcycle Fork Stem Base w 1\" Ball (RAM-B-342U)"@en	COL title VAL  "RAM Motorbike Stem 25mm (1\") Ball (RAM-B-342U)"@de	1
+COL title VAL  "RAM Motorcycle Combo Base with 1\" Ball (RAM-B-309-7U)"@en	COL title VAL  "RAM-B-309-7U - RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1Ball"@en	1
+COL title VAL  "RAM-B-224-1U - RAM 3.25Diameter Suction Cup Twist Lock Base with 1Ball"@en	COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with 1\" Ball"@en	1
+COL title VAL  "Ram Mount Twist Lock Suction Mount with 1 Ball"@en	COL title VAL  "Ram Mount Motorcycle Fork Stem Mount with 1 Ball"@en	0
+COL title VAL  "RAM DOUBLE SUCTION CUP BASE"@en	COL title VAL  "RAM-B-189BU Double Suction Cup Base with Universal AMPs Hole Pattern"@en	1
+COL title VAL  "RAM 2.25\" Ball with 2 U-Bolts (RAM-D-235U)"@en	COL title VAL  "RAM-D-235U RAM Double U-Bolt Ball Base for 1\" - 1.25\" Rails w/ D-Size 2.25-Inch Ball"@en	1
+COL title VAL  "Ram Mount Twist Lock Suction Mount with 1 Ball"@en	COL title VAL  "RAM-B-224-1U - RAM 3.25\" Diameter Suction Cup Twist Lock Base with 1\" Ball"@en	1
+COL title VAL  "RAM MOUNTS (RAM-B-289U Triple 1'' Ball Base"@en	COL title VAL  "RAM Mount Double Suction Cup Base [RAM-B-189BU]"@en	0
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with 1\" Ball"@en	COL title VAL  "RAM Triple 1\" Ball Base"@en	0
+COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5\" to 1.25\" in Diameter"@en	COL title VAL  "Handlebar Mount Kit - Black - RAM 149ZU"@de	1
+COL title VAL  "RAM MOUNTS (RAM-B-289U Triple 1'' Ball Base"@en	COL title VAL  "RAM Triple 1\" Ball Adapter"@en	1
+COL title VAL  "RAM Motorcycle Brake/Clutch Reservoir & Handlebar Ball Base / B Size / RAM-B-309-7U"@en	COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with B Size 1\" Ball - RAM-B-224-1U"@en	0
+COL title VAL  "RAM 3-1/4 INCH DIAMETER SUCTION CUP BASE WITH TWIST LOCK"@en	COL title VAL  "RAM Suction Cup Double Base without ball"@en	0
+COL title VAL  "RAM Motorcycle Fork Stem Base w 1\" Ball (RAM-B-342U)"@en	COL title VAL  "RAM Motorcycle Combo Base with 1\" Ball (RAM-B-309-7U)"@en	0
+COL title VAL  "RAM Triple 1\" Ball Adapter"@en	COL title VAL  "Ram Mount Motorcycle Fork Stem Mount with 1 Ball"@en	0
+COL title VAL  "RAM-B-289U - RAM Triple 1\" Ball Base"@en	COL title VAL  "RAM Mount Double Suction Cup Base [RAM-B-189BU]"@en	0
+COL title VAL  "RAM Motorcycle Fork Stem Base w 1\" Ball (RAM-B-342U)"@en	COL title VAL  "Ram Mount Motorcycle Fork Stem Mount with 1 Ball"@en	1
+COL title VAL  "RAM 2.25\" Ball with 2 U-Bolts (RAM-D-235U)"@en	COL title VAL  "RAM Double U-Bolt Base with 2.25\" D Ball (RAM-D-235U)"@en	1
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with 1\" Ball"@en	COL title VAL  "RAM DOUBLE SUCTION CUP BASE"@en	0
+COL title VAL  "Ram Mount Twist Lock Suction Mount with 1 Ball"@en	COL title VAL  "RAM Suction Cup Double Base without ball"@en	0
+COL title VAL  "RAM Handlebar Mount w U-Bolt (RAM-B-149ZU)"@de	COL title VAL  "RAM Handlebar U-Bolt Mount for Rails from 0.5\" to 1.25\" in Diameter - RAM-B-149ZU"@en	1
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with 1\" Ball"@en	COL title VAL  "RAM-B-224-1U - RAM 3.25\" Diameter Suction Cup Twist Lock Base with 1\" Ball"@en	1
+COL title VAL  "RAM Suction Cup Double Base without ball"@en	COL title VAL  "RAM-B-189BU Double Suction Cup Base with Universal AMPs Hole Pattern"@en	1
+COL title VAL  "RAM MOUNTS (RAM-B-289U Triple 1'' Ball Base"@en	COL title VAL  "RAM Triple 1\" Ball Base"@en	1
+COL title VAL  "RAM Mount Torque™ 3/4" - 1" Diameter Handlebar/Rail Base with 1" Ball and X-Grip®"@en	COL title VAL  "RAM Mount 3.5\" Twist Lock Suction Cup Base with 1\" Ball"@en	0
+COL title VAL  "RAM Dual Suction Cup Base"@en	COL title VAL  "RAM DOUBLE SUCTION CUP BASE"@en	1
+COL title VAL  "RAM Motorbike Stem 25mm (1\") Ball (RAM-B-342U)"@de	COL title VAL  "Ram Mount Motorcycle Fork Stem Mount with 1 Ball"@en	1
+COL title VAL  "RAM 3.3\" Diameter Suction Cup Base with B Size 1\" Ball - RAM-B-224-1U"@en	COL title VAL  "RAM-B-224-1U - RAM 3.25Diameter Suction Cup Twist Lock Base with 1Ball"@en	1
+COL title VAL  "RAM-B-309-7U - RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	COL title VAL  "RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	1
+COL title VAL  "RAM Double U-Bolt Base with 2.25\" D Ball (RAM-D-235U)"@en	COL title VAL  "RAM Motorcycle Brake/Clutch Reservoir & Handlebar Ball Base / B Size / RAM-B-309-7U"@en	0
+COL title VAL  "RAM DOUBLE SUCTION CUP BASE"@en	COL title VAL  "RAM Suction Cup Double Base without ball"@en	1
+COL title VAL  "RAM Handlebar Mount w U-Bolt (RAM-B-149ZU)"@de	COL title VAL  "Ram Mount Twist Lock Suction Mount with 1 Ball"@en	0
+COL title VAL  "RAM-B-149ZU - RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5\" to 1.25\" in Diameter"@en	COL title VAL  "RAM Mount Torque™ 3/4" - 1" Diameter Handlebar/Rail Base with 1" Ball and X-Grip®"@en	0
+COL title VAL  "Ram Mount Twist Lock Suction Mount with 1 Ball"@en	COL title VAL  "RAM-B-224-1U - RAM 3.25Diameter Suction Cup Twist Lock Base with 1Ball"@en	1
+COL title VAL  "RAM Motorbike Stem 25mm (1\") Ball (RAM-B-342U)"@de	COL title VAL  "RAM Triple 1\" Ball Base"@en	0
+COL title VAL  "RAM Mount 28 - 38mm Handlebar Base 1.5\" C Ball"@de	COL title VAL  "RAM Handlebar Rail Mount 1.125 - 1.5\" C (RAM-408-112-15U)"@en	1
+COL title VAL  "RAM Motorcycle Combo Base with 1\" Ball (RAM-B-309-7U)"@en	COL title VAL  "RAM Triple 1\" Ball Base"@en	0
+COL title VAL  "RAM Triple 1\" Ball Base"@en	COL title VAL  "RAM Dual Suction Cup Base"@en	0
+COL title VAL  "RAM Mount 28 - 38mm Handlebar Base 1.5\" C Ball"@de	COL title VAL  "Handlebar Mount Kit - Black - RAM 149ZU"@de	0
+COL title VAL  "RAM-B-189BU - RAM DOUBLE SUCTION CUP BASE"@de	COL title VAL  "RAM-B-189BU Double Suction Cup Base with Universal AMPs Hole Pattern"@en	1
+COL title VAL  "RAM Motorcycle Combo Base with 1\" Ball (RAM-B-309-7U)"@en	COL title VAL  "RAM-B-309-7U - RAM Motorcycle Combination Base for Handlebar or Brake/Clutch Reservoir with 1\" Ball"@en	1
+COL title VAL  "RAM-B-189BU - RAM DOUBLE SUCTION CUP BASE"@de	COL title VAL  "RAM-B-289U - RAM Triple 1\" Ball Base"@en	0
+COL title VAL  "RAM-B-189BU - RAM DOUBLE SUCTION CUP BASE"@de	COL title VAL  "RAM-B-224-1U - RAM 3.25Diameter Suction Cup Twist Lock Base with 1Ball"@en	0
+COL title VAL  "RAM-B-189BU - RAM DOUBLE SUCTION CUP BASE"@de	COL title VAL  "RAM DOUBLE SUCTION CUP BASE"@en	1

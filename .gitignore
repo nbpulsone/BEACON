@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.eggs/
+.build/
+dist/
+build/
+
+# Virtualenvs
+venv/
+.env/
+.env*/
+.venv*/
+myenv/
+
+# Tools & caches
+.ipynb_checkpoints/
+.mypy_cache/
+.pytype/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+

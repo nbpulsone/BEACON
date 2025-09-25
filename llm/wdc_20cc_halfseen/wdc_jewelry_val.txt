@@ -1,0 +1,170 @@
+COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.007 Herrenuhr"@en	COL title VAL  "Swiss Military Hanowa Navy Flagship Quartz Watch, Blue, Day, 42 mm, 10 atm"@en	0
+COL title VAL  "TAG Heuer Formula 1 Men's Watch"@en	COL title VAL  "TAG Heuer Formula 1 200M Formula 1 41mm WAZ1110.FT8023"@ca	1
+COL title VAL  "TAG Heuer Quartz Chronograph Watch CAZ1010.FT8024"@de	COL title VAL  "Tag Heuer - F1 Chronograph Quartz on Rubber Strap"@de	1
+COL title VAL  "SEIKO SPB103J1 Prospex Automatic Steel Green Dial Men's Watch"@en	COL title VAL  "Seiko SNDC31P1 mens quartz watch"@de	0
+COL title VAL  "Tissot Visodate Men's Stainless Steel Mesh Bracelet Watch"@en	COL title VAL  "Tissot Mens T-Sport Seastar 1000 Chronograph Blue Dial Stainless Steel Bracelet Watch T120.417.11.041.00"@en	0
+COL title VAL  "SEIKO SPB103J1 Prospex Automatic Steel Green Dial Men's Watch"@en	COL title VAL  "Seiko Presage Automatic Zen Garden SRPD41 SRPD41J1 SRPD41J Japan Made Men's Watch"@de	0
+COL title VAL  "Omega Seamaster Diver 300 Grey Dial Blue Bezel Bracelet 210.30.42.20.06.001"@de	COL title VAL  "AAA Replica Omega Seamaster Diver 300M Master Co-Axial Watch 210.22.42.20.01.002"@en	0
+COL title VAL  "Seiko Prospex Diver Sumo Green Mens Stainless Steel SPB103J1"@de	COL title VAL  "Mens Citizen Eco-drive Promaster Aqualand Wr200 Alarm Stainless Steel Watch BN2031-85E"@en	0
+COL title VAL  "Mens Citizen Eco-drive Promaster Aqualand Diver Alarm Stainless Steel Watch BN2038-01L"@en	COL title VAL  "Tissot Visodate Men's Stainless Steel Mesh Bracelet Watch"@en	0
+COL title VAL  "SEIKO PRESAGE AUTOMATIC ZEN GARDEN - SRPD41J1"@de	COL title VAL  "SEIKO SPB103J1 Prospex Automatic Steel Green Dial Men's Watch"@en	0
+COL title VAL  "Tag Heuer - F1 Chronograph Quartz on Rubber Strap"@de	COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch CAZ101K.BA0842"@de	0
+COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch CAZ101K.BA0842"@de	COL title VAL  "TAG Heuer Formula 1 Men's Watch"@en	0
+COL title VAL  "Oakley Jawbreaker Matte Black Prizim Road"@en	COL title VAL  "Oakley Jawbreaker Black Prizm OO9290 20 131-0"@en	1
+COL title VAL  "Seiko Prospex PADI Divers Automatic Special Edition SRPA21K1"@en	COL title VAL  "Seiko Prospex Automatic PADI Divers 200M"@en	1
+COL title VAL  "Omega Seamaster Diver 300 Grey Dial Blue Bezel Bracelet 210.30.42.20.06.001"@de	COL title VAL  "Omega Seamaster Diver 300M Co-Axial Master Chronometer on Bracelet"@en	1
+COL title VAL  "Khaki Navy Pioneer Small Second"@en	COL title VAL  "Relógio Swiss Military Hanowa06-4226.30.003.03 Immersion"@en	0
+COL title VAL  "Swiss Military Hanowa 06-4226.30.003.03 Immersion Chrono"@en	COL title VAL  "Swiss Military Hanowa Flagship Horloge"@en	0
+COL title VAL  "Tissot T-Race T115.417.37.051.00"@en	COL title VAL  "TISSOT -Heritage Visodate- T118.410.11.057.00"@en	0
+COL title VAL  "Omega Seamaster 300 Master Co-Axial Stainless Steel & 18K Sedna Gold"@en	COL title VAL  "Omega Seamaster Diver 300M Co-Axial Master Chronometer on Bracelet"@en	0
+COL title VAL  "Seamaster Diver 300M Chronometer in Titanium with Rose Gold Bezel"@en	COL title VAL  "Omega Seamaster 300 Master Co-Axial Stainless Steel & 18K Sedna Gold"@en	0
+COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.003 Herrenuhr"@en	COL title VAL  "Relógio Swiss Military Hanowa06-4226.30.003.03 Immersion"@en	0
+COL title VAL  "Omega Railmaster Denim Co-Axial Master Chronometer NATO Strap"@en	COL title VAL  "OMEGA Seamaster Steel Chronometer 220.12.40.20.03.001"@en	1
+COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.007 Herrenuhr"@en	COL title VAL  "Swiss Military Hanowa 06-4226.30.003.03 Immersion Chrono"@en	0
+COL title VAL  "Omega Seamaster Diver 300 Grey Dial Blue Bezel Bracelet 210.30.42.20.06.001"@de	COL title VAL  "Seamaster Diver 300M Chronometer in Titanium with Rose Gold Bezel"@en	0
+COL title VAL  "TAG Heuer Quartz Chronograph Watch WAZ111A.BA0875"@de	COL title VAL  "TAG Heuer Formula 1 Men's Watch"@en	0
+COL title VAL  "Seiko SNDC31P1 mens quartz watch"@de	COL title VAL  "Seiko Prospex Diver Sumo Green Mens Stainless Steel SPB103J1"@de	0
+COL title VAL  "TAG Heuer Quartz Chronograph Watch WAZ111A.BA0875"@de	COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch CAZ101K.BA0842"@de	0
+COL title VAL  "Seiko Prospex Diver Sumo Green Mens Stainless Steel SPB103J1"@de	COL title VAL  "Seiko Prospex Automatic PADI Divers 200M"@en	0
+COL title VAL  "Daniel Wellington Classic Petite St. Maves DW00100175"@en	COL title VAL  "Daniel Wellington Classic St Mawes Unisex Watch White Dial Rose Gold Case DW00100175"@en	1
+COL title VAL  "TAG Heuer Formula 1 200M Formula 1 41mm WAZ1110.FT8023"@ca	COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch CAZ101K.BA0842"@de	0
+COL title VAL  "Tissot T-Touch Expert Solar Men's Watch T091.420.46.051.01"@en	COL title VAL  "Tissot Visodate Men's Stainless Steel Mesh Bracelet Watch"@en	0
+COL title VAL  "TAG Heuer Aquaracer 300M ALARM 40,5mm WAY111Z.BA0928"@de	COL title VAL  "Aquaracer 300M Quartz Alarm Watch"@ca	1
+COL title VAL  "Swiss Military Hanowa Flagship Horloge"@en	COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.003 Herrenuhr"@en	0
+COL title VAL  "SEIKO PRESAGE AUTOMATIC ZEN GARDEN - SRPD41J1"@de	COL title VAL  "Seiko Presage Automatic Zen Garden SRPD41 SRPD41J1 SRPD41J Japan Made Men's Watch"@de	1
+COL title VAL  "Aquaracer 300M Quartz Alarm Watch"@ca	COL title VAL  "TAG Heuer Quartz Chronograph Watch CAZ1010.FT8024"@de	0
+COL title VAL  "Mens Citizen Eco-drive Promaster Aqualand Wr200 Alarm Stainless Steel Watch BN2031-85E"@en	COL title VAL  "Tissot Visodate Men's Stainless Steel Mesh Bracelet Watch"@en	0
+COL title VAL  "Omega Seamaster 300 Master Co-Axial Stainless Steel & 18K Sedna Gold"@en	COL title VAL  "OMEGA SEAMASTER DIVER 300 210.20.42.20.03.002"@de	1
+COL title VAL  "Seiko Presage Automatic Zen Garden SRPD41 SRPD41J1 SRPD41J Japan Made Men's Watch"@de	COL title VAL  "TAG Heuer Formula 1 Men's Watch"@en	0
+COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.007 Herrenuhr"@en	COL title VAL  "Swiss Military Hanowa Flagship Horloge"@en	1
+COL title VAL  "Swiss Military Hanowa Navy Flagship Quartz Watch, Blue, Day, 42 mm, 10 atm"@en	COL title VAL  "Swiss Military Hanowa Flagship Horloge"@en	0
+COL title VAL  "TAG Heuer Aquaracer 300M ALARM 40,5mm WAY111Z.BA0928"@de	COL title VAL  "TAG Heuer Formula 1 Men's Watch"@en	0
+COL title VAL  "Mens Citizen Eco-drive Promaster Aqualand Diver Alarm Stainless Steel Watch BN2038-01L"@en	COL title VAL  "Citizen Promaster Marine Aqualand Eco-Drive Diver's"@en	1
+COL title VAL  "Copy TAG Heuer Formula 1 Blue Dial 43mm Men's CAZ101K.BA0842"@en	COL title VAL  "TAG Heuer Formula 1 200M Formula 1 41mm WAZ1110.FT8023"@ca	0
+COL title VAL  "Swiss Military Hanowa06-4307.30.007 Undercover Multifunction Uhr"@en	COL title VAL  "Orologio Swiss Military Hanowa06-6278.04.001.07 Navalus"@en	0
+COL title VAL  "OMEGA SEAMASTER DIVER 300 210.20.42.20.03.002"@de	COL title VAL  "Omega Seamaster Diver 300M Co-Axial Master Chronometer Sedna Gold"@en	0
+COL title VAL  "Relógio Swiss Military Hanowa06-4226.30.003.03 Immersion"@en	COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.007 Herrenuhr"@en	0
+COL title VAL  "Swiss Military Hanowa06-4307.30.007 Undercover Multifunction Uhr"@en	COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.007 Herrenuhr"@en	0
+COL title VAL  "TAG Heuer Quartz Chronograph Watch CAZ1010.FT8024"@de	COL title VAL  "TAG Heuer Aquaracer 300M ALARM 40,5mm WAY111Z.BA0928"@de	0
+COL title VAL  "OMEGA SEAMASTER DIVER 300 210.20.42.20.03.002"@de	COL title VAL  "OMEGA Seamaster Steel Chronometer 220.12.40.20.03.001"@en	0
+COL title VAL  "TAG Heuer Aquaracer 300M ALARM 40,5mm WAY111Z.BA0928"@de	COL title VAL  "TAG Heuer Quartz Chronograph Watch WAZ111A.BA0875"@de	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Leather Watch - T1096101603100"@en	COL title VAL  "Mens Citizen Eco-drive Promaster Aqualand Diver Alarm Stainless Steel Watch BN2038-01L"@en	0
+COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch CAZ101K.BA0842"@de	COL title VAL  "TAG Heuer Aquaracer 300M ALARM 40,5mm WAY111Z.BA0928"@de	0
+COL title VAL  "SEIKO PRESAGE AUTOMATIC ZEN GARDEN - SRPD41J1"@de	COL title VAL  "Seiko Prospex PADI Divers Automatic Special Edition SRPA21K1"@en	0
+COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.003 Herrenuhr"@en	COL title VAL  "Swiss Military Hanowa Navy Flagship Quartz Watch, Blue, Day, 42 mm, 10 atm"@en	1
+COL title VAL  "OMEGA Seamaster Steel Chronometer 220.12.40.20.03.001"@en	COL title VAL  "Omega Seamaster Diver 300 Grey Dial Blue Bezel Bracelet 210.30.42.20.06.001"@de	0
+COL title VAL  "Daniel Wellington Classic Petite St. Maves DW00100175"@en	COL title VAL  "Tissot Stainless Steel T-Classic Men's Leather Watch - T1096101603100"@en	0
+COL title VAL  "Tissot Mens T-Sport Seastar 1000 Chronograph Blue Dial Stainless Steel Bracelet Watch T120.417.11.041.00"@en	COL title VAL  "Tissot Mens T-Classic Tradition Strap Watch T063.617.16.057.00"@en	0
+COL title VAL  "Đồng Hồ Citizen EW2524-55N"@vi	COL title VAL  "CITIZEN PROMASTER MARINE 200m BN2031-85E"@vi	0
+COL title VAL  "TAG Heuer Formula 1 200M Formula 1 41mm WAZ1110.FT8023"@ca	COL title VAL  "TAG Heuer Quartz Chronograph Watch CAZ1010.FT8024"@de	0
+COL title VAL  "Mens Citizen Eco-drive Promaster Aqualand Wr200 Alarm Stainless Steel Watch BN2031-85E"@en	COL title VAL  "Mens Citizen Eco-drive Promaster Aqualand Diver Alarm Stainless Steel Watch BN2038-01L"@en	0
+COL title VAL  "Relógio Swiss Military Hanowa06-4226.30.003.03 Immersion"@en	COL title VAL  "Swiss Military Hanowa Navy Flagship Quartz Watch, Blue, Day, 42 mm, 10 atm"@en	0
+COL title VAL  "TISSOT -Heritage Visodate- T118.410.11.057.00"@en	COL title VAL  "Tissot T-Touch Expert Solar Men's Watch T091.420.46.051.01"@en	0
+COL title VAL  "CITIZEN PROMASTER MARINE 200m BN2031-85E"@vi	COL title VAL  "Seiko Prospex Automatic PADI Divers 200M"@en	0
+COL title VAL  "Khaki Navy Pioneer Small Second"@en	COL title VAL  "Swiss Military Hanowa Navy Flagship Quartz Watch, Blue, Day, 42 mm, 10 atm"@en	0
+COL title VAL  "Swiss Military Hanowa Swiss Military Hanowa Undercover Multifunction 06-4307.30.007"@en	COL title VAL  "Swiss Military Hanowa Flagship Horloge"@en	0
+COL title VAL  "SEIKO SPB103J1 Prospex Automatic Steel Green Dial Men's Watch"@en	COL title VAL  "Hamilton Men's H70555533 Khaki Field Automatic Brown Leather Watch"@en	0
+COL title VAL  "Hamilton Pioneer Small Second Auto Watch H78465553"@en	COL title VAL  "Hamilton Men's H70555533 Khaki Field Automatic Brown Leather Watch"@en	0
+COL title VAL  "Tissot Mens T-Sport Seastar 1000 Chronograph Blue Dial Stainless Steel Bracelet Watch T120.417.11.041.00"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Mens Watch"@en	1
+COL title VAL  "TAG Heuer Formula 1 Men's Watch"@en	COL title VAL  "Tag Heuer - F1 Chronograph Quartz on Rubber Strap"@de	0
+COL title VAL  "CITIZEN PROMASTER MARINE 200m BN2031-85E"@vi	COL title VAL  "Mens Citizen Eco-drive Promaster Aqualand Wr200 Alarm Stainless Steel Watch BN2031-85E"@en	1
+COL title VAL  "Hamilton Men's H70555533 Khaki Field Automatic Brown Leather Watch"@en	COL title VAL  "Hamilton Khaki Field Automatic Mens Watch H70555533"@en	1
+COL title VAL  "Seiko SNDC31P1 mens quartz watch"@de	COL title VAL  "Hamilton Khaki Field Automatic Mens Watch H70555533"@en	0
+COL title VAL  "Hamilton Men's H70555533 Khaki Field Automatic Brown Leather Watch"@en	COL title VAL  "Seiko Presage Automatic Zen Garden SRPD41 SRPD41J1 SRPD41J Japan Made Men's Watch"@de	0
+COL title VAL  "TAG Heuer Quartz Chronograph Watch CAZ1010.FT8024"@de	COL title VAL  "TAG Heuer Formula 1 Men's Watch"@en	0
+COL title VAL  "Omega Seamaster 300 Master Co-Axial Stainless Steel & 18K Sedna Gold"@en	COL title VAL  "Omega Railmaster Denim Co-Axial Master Chronometer NATO Strap"@en	0
+COL title VAL  "Relógio Swiss Military Hanowa06-4226.30.003.03 Immersion"@en	COL title VAL  "Orologio Swiss Military Hanowa06-6278.04.001.07 Navalus"@en	0
+COL title VAL  "Swiss Military Hanowa 06-6278.04.001.07 Navalus Damen 36mm 10ATM"@en	COL title VAL  "Orologio Swiss Military Hanowa06-6278.04.001.07 Navalus"@en	1
+COL title VAL  "Hamilton Men's H70555533 Khaki Field Automatic Brown Leather Watch"@en	COL title VAL  "Tissot Stainless Steel T-Classic Men's Leather Watch - T1096101603100"@en	0
+COL title VAL  "Mens Seiko Sports Chronograph Watch SNDC31P1"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Mens Watch"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Leather Watch - T1096101603100"@en	COL title VAL  "SEIKO SPB103J1 Prospex Automatic Steel Green Dial Men's Watch"@en	0
+COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch CAZ101K.BA0842"@de	COL title VAL  "Tag Heuer Formula 1 Alarm Black Men's Watch"@en	0
+COL title VAL  "Tissot T-Classic T109.610.16.031.00 Everytime Large Black Leather 42mm"@en	COL title VAL  "Tissot Stainless Steel T-Classic Men's Leather Watch - T1096101603100"@en	1
+COL title VAL  "Citizen Women's Eco Drive WR50 Stainless Steel Watch"@en	COL title VAL  "Citizen Promaster Marine Aqualand Eco-Drive Diver's"@en	0
+COL title VAL  "Tissot Mens T-Sport Seastar 1000 Chronograph Blue Dial Stainless Steel Bracelet Watch T120.417.11.041.00"@en	COL title VAL  "Tissot Stainless Steel T-Classic Men's Leather Watch - T1096101603100"@en	0
+COL title VAL  "Relógio Swiss Military Hanowa06-4226.30.003.03 Immersion"@en	COL title VAL  "Swiss Military Hanowa 06-4226.30.003.03 Immersion Chrono"@en	1
+COL title VAL  "Replica watch OMEGA Seamaster Titanium Sedna Gold Anti-magnetic Watch 210.60.42.20.99.001"@en	COL title VAL  "Seamaster Diver 300M Chronometer in Titanium with Rose Gold Bezel"@en	1
+COL title VAL  "Tissot T-Touch Expert Solar Watch T0914204605101"@en	COL title VAL  "Tissot T-Touch Expert Solar Men's Watch T091.420.46.051.01"@en	1
+COL title VAL  "SEIKO SPB103J1 Prospex Automatic Steel Green Dial Men's Watch"@en	COL title VAL  "Tissot Visodate Men's Stainless Steel Mesh Bracelet Watch"@en	0
+COL title VAL  "T-Race Black and PVD Rose Gold Plated Chronograph Men’s Watch"@en	COL title VAL  "Daniel Wellington Classic St Mawes Unisex Watch White Dial Rose Gold Case DW00100175"@en	0
+COL title VAL  "Aquaracer 300M Quartz Alarm Watch"@ca	COL title VAL  "Seiko SNDC31P1 mens quartz watch"@de	0
+COL title VAL  "Hamilton Khaki Field Automatic Mens Watch H70555533"@en	COL title VAL  "Tissot Mens T-Classic Tradition Strap Watch T063.617.16.057.00"@en	0
+COL title VAL  "T-Race Black and PVD Rose Gold Plated Chronograph Men’s Watch"@en	COL title VAL  "Seamaster Diver 300M Chronometer in Titanium with Rose Gold Bezel"@en	0
+COL title VAL  "Tissot T-Classic T063.617.16.057.00 Tradition Chrono Black 42mm"@en	COL title VAL  "TISSOT -Heritage Visodate- T118.410.11.057.00"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Leather Watch - T1096101603100"@en	COL title VAL  "Tissot Visodate Men's Stainless Steel Mesh Bracelet Watch"@en	0
+COL title VAL  "TAG Heuer Formula 1 200M Formula 1 41mm WAZ1110.FT8023"@ca	COL title VAL  "Tag Heuer Formula 1 Alarm Black Men's Watch"@en	0
+COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.003 Herrenuhr"@en	COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.007 Herrenuhr"@en	0
+COL title VAL  "Swiss Military Hanowa 06-4226.30.003.03 Immersion Chrono"@en	COL title VAL  "Swiss Military Hanowa Navy Flagship Quartz Watch, Blue, Day, 42 mm, 10 atm"@en	0
+COL title VAL  "Seiko Prospex Automatic PADI Divers 200M"@en	COL title VAL  "SEIKO PRESAGE AUTOMATIC ZEN GARDEN - SRPD41J1"@de	0
+COL title VAL  "Swiss Military Hanowa 06-4226.30.003.03 Immersion Chrono"@en	COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.003 Herrenuhr"@en	0
+COL title VAL  "TAG Heuer Quartz Chronograph Watch CAZ1010.FT8024"@de	COL title VAL  "TAG Heuer Quartz Chronograph Watch WAZ111A.BA0875"@de	0
+COL title VAL  "Swiss Military Hanowa 06-4226.30.003.03 Immersion Chrono"@en	COL title VAL  "Swiss Military Hanowa06-4307.30.007 Undercover Multifunction Uhr"@en	0
+COL title VAL  "Swiss Military Hanowa Swiss Military Hanowa Undercover Multifunction 06-4307.30.007"@en	COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.007 Herrenuhr"@en	0
+COL title VAL  "Tag Heuer Formula 1 Alarm Black Men's Watch"@en	COL title VAL  "Copy TAG Heuer Formula 1 Blue Dial 43mm Men's CAZ101K.BA0842"@en	0
+COL title VAL  "Swiss Military Hanowa Swiss Military Hanowa Undercover Multifunction 06-4307.30.007"@en	COL title VAL  "Swiss Military Hanowa 06-4226.30.003.03 Immersion Chrono"@en	0
+COL title VAL  "TAG Heuer Quartz Chronograph Watch CAZ1010.FT8024"@de	COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch CAZ101K.BA0842"@de	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Leather Watch - T1096101603100"@en	COL title VAL  "Tissot T-Touch Expert Solar Watch T0914204605101"@en	0
+COL title VAL  "Tissot Mens T-Classic Tradition Strap Watch T063.617.16.057.00"@en	COL title VAL  "TISSOT -Heritage Visodate- T118.410.11.057.00"@en	0
+COL title VAL  "Swiss Military Hanowa 06-4226.30.003.03 Immersion Chrono"@en	COL title VAL  "Swiss Military Hanowa 06-6278.04.001.07 Navalus Damen 36mm 10ATM"@en	0
+COL title VAL  "Swiss Military Hanowa06-4307.30.007 Undercover Multifunction Uhr"@en	COL title VAL  "Relógio Swiss Military Hanowa06-4226.30.003.03 Immersion"@en	0
+COL title VAL  "Seiko Prospex Diver Sumo Green Mens Stainless Steel SPB103J1"@de	COL title VAL  "SEIKO SPB103J1 Prospex Automatic Steel Green Dial Men's Watch"@en	1
+COL title VAL  "Seiko Prospex PADI Divers Automatic Special Edition SRPA21K1"@en	COL title VAL  "SEIKO SPB103J1 Prospex Automatic Steel Green Dial Men's Watch"@en	0
+COL title VAL  "T-Race Black and PVD Rose Gold Plated Chronograph Men’s Watch"@en	COL title VAL  "Tissot T-Race T115.417.37.051.00"@en	1
+COL title VAL  "Aquaracer 300M Quartz Alarm Watch"@ca	COL title VAL  "Hamilton Pioneer Small Second Auto Watch H78465553"@en	0
+COL title VAL  "Omega Seamaster Diver 300M Co-Axial Master Chronometer on Bracelet"@en	COL title VAL  "Omega Railmaster Denim Co-Axial Master Chronometer NATO Strap"@en	0
+COL title VAL  "TISSOT -Heritage Visodate- T118.410.11.057.00"@en	COL title VAL  "Tissot Visodate Men's Stainless Steel Mesh Bracelet Watch"@en	1
+COL title VAL  "TAG Heuer Formula 1 Men's Watch"@en	COL title VAL  "Tag Heuer Formula 1 Alarm Black Men's Watch"@en	0
+COL title VAL  "TAG Heuer Quartz Chronograph Watch CAZ1010.FT8024"@de	COL title VAL  "Seiko SNDC31P1 mens quartz watch"@de	0
+COL title VAL  "TAG Heuer Quartz Chronograph Watch CAZ1010.FT8024"@de	COL title VAL  "Mens Seiko Sports Chronograph Watch SNDC31P1"@en	0
+COL title VAL  "Omega Seamaster Diver 300 Grey Dial Blue Bezel Bracelet 210.30.42.20.06.001"@de	COL title VAL  "OMEGA SEAMASTER DIVER 300 210.20.42.20.03.002"@de	0
+COL title VAL  "Copy TAG Heuer Formula 1 Blue Dial 43mm Men's CAZ101K.BA0842"@en	COL title VAL  "TAG Heuer Formula 1 43mm Mens Watch CAZ101K.BA0842"@de	1
+COL title VAL  "Omega Seamaster Diver 300M Co-Axial Master Chronometer on Bracelet"@en	COL title VAL  "Omega Seamaster Diver 300M Co-Axial Master Chronometer Sedna Gold"@en	0
+COL title VAL  "Swiss Military Hanowa Swiss Military Hanowa Undercover Multifunction 06-4307.30.007"@en	COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.003 Herrenuhr"@en	0
+COL title VAL  "TAG Heuer Formula 1 Men's Watch"@en	COL title VAL  "Copy TAG Heuer Formula 1 Blue Dial 43mm Men's CAZ101K.BA0842"@en	0
+COL title VAL  "Hamilton Pioneer Small Second Auto Watch H78465553"@en	COL title VAL  "Hamilton Khaki Field Automatic Mens Watch H70555533"@en	0
+COL title VAL  "Mens Seiko Sports Chronograph Watch SNDC31P1"@en	COL title VAL  "Seiko SNDC31P1 mens quartz watch"@de	1
+COL title VAL  "Omega Seamaster Diver 300M Co-Axial Master Chronometer Sedna Gold"@en	COL title VAL  "Omega Seamaster 300 Master Co-Axial Stainless Steel & 18K Sedna Gold"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Mens Watch"@en	COL title VAL  "TAG Heuer Quartz Chronograph Watch CAZ1010.FT8024"@de	0
+COL title VAL  "Citizen Women's Eco Drive WR50 Stainless Steel Watch"@en	COL title VAL  "Mens Citizen Eco-drive Promaster Aqualand Diver Alarm Stainless Steel Watch BN2038-01L"@en	0
+COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Mens Watch"@en	COL title VAL  "Tissot Stainless Steel T-Classic Men's Leather Watch - T1096101603100"@en	0
+COL title VAL  "Tissot T-Touch Expert Solar Watch T0914204605101"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Mens Watch"@en	0
+COL title VAL  "Swiss Military Hanowa 06-6278.04.001.07 Navalus Damen 36mm 10ATM"@en	COL title VAL  "Swiss Military Hanowa Swiss Military Hanowa Undercover Multifunction 06-4307.30.007"@en	0
+COL title VAL  "Swiss Military Hanowa Swiss Military Hanowa Undercover Multifunction 06-4307.30.007"@en	COL title VAL  "Relógio Swiss Military Hanowa06-4226.30.003.03 Immersion"@en	0
+COL title VAL  "Citizen Women's Eco Drive WR50 Stainless Steel Watch"@en	COL title VAL  "Tissot Visodate Men's Stainless Steel Mesh Bracelet Watch"@en	0
+COL title VAL  "Tissot T-Classic T109.610.16.031.00 Everytime Large Black Leather 42mm"@en	COL title VAL  "Tissot T-Classic T063.617.16.057.00 Tradition Chrono Black 42mm"@en	0
+COL title VAL  "Omega Railmaster Denim Co-Axial Master Chronometer NATO Strap"@en	COL title VAL  "AAA Replica Omega Seamaster Diver 300M Master Co-Axial Watch 210.22.42.20.01.002"@en	0
+COL title VAL  "Tissot T-Classic T063.617.16.057.00 Tradition Chrono Black 42mm"@en	COL title VAL  "Tissot T-Race T115.417.37.051.00"@en	0
+COL title VAL  "Replica watch OMEGA Seamaster Titanium Sedna Gold Anti-magnetic Watch 210.60.42.20.99.001"@en	COL title VAL  "OMEGA SEAMASTER DIVER 300 210.20.42.20.03.002"@de	0
+COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.003 Herrenuhr"@en	COL title VAL  "Swiss Military Hanowa 06-6278.04.001.07 Navalus Damen 36mm 10ATM"@en	0
+COL title VAL  "Tissot Stainless Steel T-Classic Men's Leather Watch - T1096101603100"@en	COL title VAL  "Citizen Women's Eco Drive WR50 Stainless Steel Watch"@en	0
+COL title VAL  "Hamilton Khaki Field Automatic Mens Watch H70555533"@en	COL title VAL  "Khaki Navy Pioneer Small Second"@en	0
+COL title VAL  "Citizen Women's Eco Drive WR50 Stainless Steel Watch"@en	COL title VAL  "Mens Citizen Eco-drive Promaster Aqualand Wr200 Alarm Stainless Steel Watch BN2031-85E"@en	0
+COL title VAL  "AAA Replica Omega Seamaster Diver 300M Master Co-Axial Watch 210.22.42.20.01.002"@en	COL title VAL  "Omega Seamaster 300 Master Co-Axial Stainless Steel & 18K Sedna Gold"@en	0
+COL title VAL  "Tissot T-Touch Expert Solar Watch T0914204605101"@en	COL title VAL  "Tissot Mens T-Classic Tradition Strap Watch T063.617.16.057.00"@en	0
+COL title VAL  "Oakley Jawbreaker Matte Black Prizim Road"@en	COL title VAL  "Aquaracer 300M Quartz Alarm Watch"@ca	0
+COL title VAL  "Citizen Promaster Marine Aqualand Eco-Drive Diver's"@en	COL title VAL  "CITIZEN PROMASTER MARINE 200m BN2031-85E"@vi	0
+COL title VAL  "Seamaster Diver 300M Chronometer in Titanium with Rose Gold Bezel"@en	COL title VAL  "Omega Seamaster Diver 300M Co-Axial Master Chronometer Sedna Gold"@en	0
+COL title VAL  "TAG Heuer Quartz Chronograph Watch CAZ1010.FT8024"@de	COL title VAL  "Tag Heuer Formula 1 Alarm Black Men's Watch"@en	0
+COL title VAL  "T-Race Black and PVD Rose Gold Plated Chronograph Men’s Watch"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Mens Watch"@en	0
+COL title VAL  "Omega Seamaster Diver 300M Co-Axial Master Chronometer Sedna Gold"@en	COL title VAL  "Omega Railmaster Denim Co-Axial Master Chronometer NATO Strap"@en	0
+COL title VAL  "OMEGA Seamaster Steel Chronometer 220.12.40.20.03.001"@en	COL title VAL  "Replica watch OMEGA Seamaster Titanium Sedna Gold Anti-magnetic Watch 210.60.42.20.99.001"@en	0
+COL title VAL  "TAG Heuer Formula 1 Men's Watch"@en	COL title VAL  "Tissot T-Touch Expert Solar Men's Watch T091.420.46.051.01"@en	0
+COL title VAL  "Tissot T-Touch Expert Solar Men's Watch T091.420.46.051.01"@en	COL title VAL  "Tissot Stainless Steel T-Classic Men's Leather Watch - T1096101603100"@en	0
+COL title VAL  "Tag Heuer - F1 Chronograph Quartz on Rubber Strap"@de	COL title VAL  "TAG Heuer Quartz Chronograph Watch WAZ111A.BA0875"@de	0
+COL title VAL  "Mens Seiko Sports Chronograph Watch SNDC31P1"@en	COL title VAL  "Omega Seamaster 300 Master Co-Axial Stainless Steel & 18K Sedna Gold"@en	0
+COL title VAL  "Tissot Mens T-Classic Tradition Strap Watch T063.617.16.057.00"@en	COL title VAL  "Tissot T-Classic T063.617.16.057.00 Tradition Chrono Black 42mm"@en	1
+COL title VAL  "Seiko Prospex Automatic PADI Divers 200M"@en	COL title VAL  "SEIKO SPB103J1 Prospex Automatic Steel Green Dial Men's Watch"@en	0
+COL title VAL  "AAA Replica Omega Seamaster Diver 300M Master Co-Axial Watch 210.22.42.20.01.002"@en	COL title VAL  "OMEGA SEAMASTER DIVER 300 210.20.42.20.03.002"@de	0
+COL title VAL  "Đồng Hồ Citizen EW2524-55N"@vi	COL title VAL  "Citizen Women's Eco Drive WR50 Stainless Steel Watch"@en	1
+COL title VAL  "Tissot Mens T-Classic Tradition Strap Watch T063.617.16.057.00"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Mens Watch"@en	0
+COL title VAL  "Omega Seamaster Diver 300M Co-Axial Master Chronometer Sedna Gold"@en	COL title VAL  "OMEGA Seamaster Steel Chronometer 220.12.40.20.03.001"@en	0
+COL title VAL  "Hamilton Pioneer Small Second Auto Watch H78465553"@en	COL title VAL  "Khaki Navy Pioneer Small Second"@en	1
+COL title VAL  "AAA Replica Omega Seamaster Diver 300M Master Co-Axial Watch 210.22.42.20.01.002"@en	COL title VAL  "Replica watch OMEGA Seamaster Titanium Sedna Gold Anti-magnetic Watch 210.60.42.20.99.001"@en	0
+COL title VAL  "Tissot T-Touch Expert Solar Men's Watch T091.420.46.051.01"@en	COL title VAL  "Tissot T-Sport Seastar 1000 Chronograph Mens Watch"@en	0
+COL title VAL  "Swiss Military Hanowa Navy Flagship Quartz Watch, Blue, Day, 42 mm, 10 atm"@en	COL title VAL  "Swiss Military Hanowa Swiss Military Hanowa Undercover Multifunction 06-4307.30.007"@en	0
+COL title VAL  "Swiss Military Hanowa 06-6278.04.001.07 Navalus Damen 36mm 10ATM"@en	COL title VAL  "Swiss Military Hanowa FLAGSHIP 06-5161.2.04.007 Herrenuhr"@en	0
+COL title VAL  "Omega Seamaster Diver 300M Co-Axial Master Chronometer Sedna Gold"@en	COL title VAL  "AAA Replica Omega Seamaster Diver 300M Master Co-Axial Watch 210.22.42.20.01.002"@en	1
+COL title VAL  "Swiss Military Hanowa06-4307.30.007 Undercover Multifunction Uhr"@en	COL title VAL  "Swiss Military Hanowa Swiss Military Hanowa Undercover Multifunction 06-4307.30.007"@en	1
+COL title VAL  "Mens Citizen Eco-drive Promaster Aqualand Wr200 Alarm Stainless Steel Watch BN2031-85E"@en	COL title VAL  "Citizen Promaster Marine Aqualand Eco-Drive Diver's"@en	0
+COL title VAL  "Seiko Prospex Diver Sumo Green Mens Stainless Steel SPB103J1"@de	COL title VAL  "Mens Citizen Eco-drive Promaster Aqualand Diver Alarm Stainless Steel Watch BN2038-01L"@en	0
+COL title VAL  "Tag Heuer Formula 1 Alarm Black Men's Watch"@en	COL title VAL  "TAG Heuer Quartz Chronograph Watch WAZ111A.BA0875"@de	1

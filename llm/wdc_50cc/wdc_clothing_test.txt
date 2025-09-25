@@ -1,0 +1,67 @@
+COL title VAL  "Ray-Ban Original Aviator Sunglasses (RB3025) Gold Shiny/Pink Metal - Non-Polarized - 58mm"@en	COL title VAL  "Ray-Ban 3025 55 Gradient Aviator Sunglasses"@en	0
+COL title VAL  "Ray-Ban Phantos RB3589 Metal Sunglasses Top Gold on Black"@en	COL title VAL  "Ray Ban Grey Gradient Aviator Sunglasses RB3589 90548G 55 RB3589 90548G 55"@en	1
+COL title VAL  "Rayban Aviator 3025 001/3E 58 14"@en	COL title VAL  "Ray-Ban 3025 Aviator Sunglasses"@en	0
+COL title VAL  "Ray-Ban 3025 55 Gradient Aviator Sunglasses"@en	COL title VAL  "Ray Ban N/a 4184 Sunglasses"@tl	0
+COL title VAL  "Ray-Ban Phantos RB3589 Metal Sunglasses Top Gold on Black"@en	COL title VAL  "Ray Ban N/a 4184 Sunglasses"@tl	0
+COL title VAL  "Ray-Ban Square RB1971-91493F-54"@en	COL title VAL  "Ray Ban Women Sunglass Square Gradient Blue(Silver)"@de	1
+COL title VAL  "New Era 9FORTY Washington Wizards Baseball Cap - NBA The League - Navy Blue"@en	COL title VAL  "Sapca 9Forty The League Washington Wizards Albastru"@en	1
+COL title VAL  "Ray-Ban 3025 Aviator Sunglasses"@en	COL title VAL  "Ray-Ban Square RB1971-91493F-54"@en	0
+COL title VAL  "RAY-BAN AVIATOR CLASSIC S-RAY 3025-004/58(58IT)"@en	COL title VAL  "Rayban Aviator 3025 001/3E 58 14"@en	0
+COL title VAL  "Jacksonville Jaguars New Era 940 The League NFL Adjustable Cap"@en	COL title VAL  "Seattle Seahawks New Era 940 The League NFL Adjustable Cap"@en	0
+COL title VAL  "New Era Curved Brim 9FORTY The League Seattle Mariners MLB Navy Blue Adjustable Cap"@en	COL title VAL  "New Era 9FORTY Washington Wizards Baseball Cap - NBA The League - Navy Blue"@en	0
+COL title VAL  "Sapca 9Forty The League Washington Wizards Albastru"@en	COL title VAL  "Gorra New Era 9Forty The League Seattle Seahawks Unisex"@en	0
+COL title VAL  "Ray-Ban Square RB1971-91493F-54"@en	COL title VAL  "Ray-BanSUNGLASSES 0RB2168 954/3350"@tl	0
+COL title VAL  "Ray-Ban Original Aviator Sunglasses (RB3025) Gold Shiny/Pink Metal - Non-Polarized - 58mm"@en	COL title VAL  "Ray-Ban Phantos RB3589 Metal Sunglasses Top Gold on Black"@en	0
+COL title VAL  "Ray-Ban 3025 Aviator Sunglasses"@en	COL title VAL  "Ray-Ban 3025 55 Gradient Aviator Sunglasses"@en	0
+COL title VAL  "Ray-Ban Aviator Large Metal Or RB3025 001/51 55-14 Small Dégradés"@ca	COL title VAL  "Ray Ban Grey Gradient Aviator Sunglasses RB3589 90548G 55 RB3589 90548G 55"@en	0
+COL title VAL  "Ray-Ban Aviator Large Metal Or RB3025 001/51 55-14 Small Dégradés"@ca	COL title VAL  "Rayban Aviator 3025 001/3E 58 14"@en	0
+COL title VAL  "Seattle Seahawks New Era 940 The League NFL Adjustable Cap"@en	COL title VAL  "New Era Curved Brim 9FORTY The League Jacksonville Jaguars NFL Black Adjustable Cap"@en	0
+COL title VAL  "New Era 9FORTY Washington Wizards Baseball Cap - NBA The League - Navy Blue"@en	COL title VAL  "New Era Curved Brim 9FORTY The League Jacksonville Jaguars NFL Black Adjustable Cap"@en	0
+COL title VAL  "RAY BAN RB2168 901/31"@de	COL title VAL  "Ray Ban N/a 4184 Sunglasses"@tl	0
+COL title VAL  "Ray-Ban 3025 Aviator Sunglasses"@en	COL title VAL  "RAY BAN RB2168 901/31"@de	0
+COL title VAL  "100% Speedcraft Soft Tact Black Sunglasses - HiPER Red Multilayer Mirror Lens"@en	COL title VAL  "100% SPEEDCRAFT - SOFT TACT BLACK - HIPER RED MULTILAYER MIRROR LENS"@en	1
+COL title VAL  "Ray-Ban 3025 Aviator Sunglasses"@en	COL title VAL  "RAY-BAN AVIATOR CLASSIC S-RAY 3025-004/58(58IT)"@en	1
+COL title VAL  "Ray-Ban Sunglass - Round Style Light Havana Tortoise frame with Gradient Brown Lens - RB4184 710/83"@en	COL title VAL  "Ray Ban Women Sunglass Square Gradient Blue(Silver)"@de	0
+COL title VAL  "Ray-Ban Square RB1971-91493F-54"@en	COL title VAL  "RAY BAN RB2168 901/31"@de	0
+COL title VAL  "Gorra New Era 9Forty The League Seattle Seahawks Unisex"@en	COL title VAL  "Seattle Seahawks New Era 940 The League NFL Adjustable Cap"@en	1
+COL title VAL  "Ray-BanSUNGLASSES 0RB2168 954/3350"@tl	COL title VAL  "Ray-Ban 3025 Aviator Sunglasses"@en	0
+COL title VAL  "Ray Ban Grey Gradient Aviator Sunglasses RB3589 90548G 55 RB3589 90548G 55"@en	COL title VAL  "Ray-Ban 3025 Aviator Sunglasses"@en	0
+COL title VAL  "Ray Ban Grey Gradient Aviator Sunglasses RB3589 90548G 55 RB3589 90548G 55"@en	COL title VAL  "Ray Ban N/a 4184 Sunglasses"@tl	0
+COL title VAL  "Ray-Ban Aviator Large Metal Or RB3025 001/51 55-14 Small Dégradés"@ca	COL title VAL  "Ray-Ban 3025 Aviator Sunglasses"@en	0
+COL title VAL  "Ray Ban Grey Gradient Aviator Sunglasses RB3589 90548G 55 RB3589 90548G 55"@en	COL title VAL  "Ray-Ban Original Aviator Sunglasses (RB3025) Gold Shiny/Pink Metal - Non-Polarized - 58mm"@en	0
+COL title VAL  "New EraGreen Bay Packers Cap The League"@en	COL title VAL  "Seattle Seahawks New Era 940 The League NFL Adjustable Cap"@en	0
+COL title VAL  "Green Bay Packers Hat New Era 9Forty Adjustable Size Greenbay NFL Cap 10517884"@en	COL title VAL  "Seattle Seahawks New Era 940 The League NFL Adjustable Cap"@en	0
+COL title VAL  "Ray-Ban Sunglass - Round Style Light Havana Tortoise frame with Gradient Brown Lens - RB4184 710/83"@en	COL title VAL  "Ray Ban N/a 4184 Sunglasses"@tl	1
+COL title VAL  "New Era Curved Brim 9FORTY The League Jacksonville Jaguars NFL Black Adjustable Cap"@en	COL title VAL  "Green Bay Packers Hat New Era 9Forty Adjustable Size Greenbay NFL Cap 10517884"@en	0
+COL title VAL  "Schablone Dutch Doobadoo Dutch Mask Art A5 Bubbles Blasen"@en	COL title VAL  "Dutch Doobadoo - Dutch Mask Art - Bubles"@en	1
+COL title VAL  "New Era 9FORTY Washington Wizards Baseball Cap - NBA The League - Navy Blue"@en	COL title VAL  "Seattle Seahawks New Era 940 The League NFL Adjustable Cap"@en	0
+COL title VAL  "Ray-Ban 3025 Aviator Sunglasses"@en	COL title VAL  "Ray-Ban Original Aviator Sunglasses (RB3025) Gold Shiny/Pink Metal - Non-Polarized - 58mm"@en	0
+COL title VAL  "SEATTLE MARINERS THE LEAGUE 9FORTY ADJUSTABLE"@en	COL title VAL  "New Era Curved Brim 9FORTY The League Seattle Mariners MLB Navy Blue Adjustable Cap"@en	1
+COL title VAL  "SEATTLE MARINERS THE LEAGUE 9FORTY ADJUSTABLE"@en	COL title VAL  "Seattle Seahawks New Era 940 The League NFL Adjustable Cap"@en	0
+COL title VAL  "New Era 9FORTY Washington Wizards Baseball Cap - NBA The League - Navy Blue"@en	COL title VAL  "Gorra New Era 9Forty The League Seattle Seahawks Unisex"@en	0
+COL title VAL  "OAKLEY Radar EV Path Sunglasses"@id	COL title VAL  "Ray Ban N/a 4184 Sunglasses"@tl	0
+COL title VAL  "Ray Ban Grey Gradient Aviator Sunglasses RB3589 90548G 55 RB3589 90548G 55"@en	COL title VAL  "Ray Ban Women Sunglass Square Gradient Blue(Silver)"@de	0
+COL title VAL  "OAKLEY Radar EV Path Sunglasses"@id	COL title VAL  "Ray-Ban 3025 Aviator Sunglasses"@en	0
+COL title VAL  "New Era Curved Brim 9FORTY The League Seattle Mariners MLB Navy Blue Adjustable Cap"@en	COL title VAL  "New Era Curved Brim 9FORTY The League Jacksonville Jaguars NFL Black Adjustable Cap"@en	0
+COL title VAL  "Ray Ban Grey Gradient Aviator Sunglasses RB3589 90548G 55 RB3589 90548G 55"@en	COL title VAL  "RAY-BAN AVIATOR CLASSIC S-RAY 3025-004/58(58IT)"@en	0
+COL title VAL  "RAY BAN RB2168 901/31"@de	COL title VAL  "Ray-BanSUNGLASSES 0RB2168 954/3350"@tl	1
+COL title VAL  "Ray Ban N/a 4184 Sunglasses"@tl	COL title VAL  "Ray Ban Women Sunglass Square Gradient Blue(Silver)"@de	0
+COL title VAL  "Ray Ban N/a 4184 Sunglasses"@tl	COL title VAL  "Ray-Ban 3025 Aviator Sunglasses"@en	0
+COL title VAL  "Ray-Ban 3025 55 Gradient Aviator Sunglasses"@en	COL title VAL  "Ray-Ban Aviator Large Metal Or RB3025 001/51 55-14 Small Dégradés"@ca	1
+COL title VAL  "Ray-Ban Original Aviator Sunglasses (RB3025) Gold Shiny/Pink Metal - Non-Polarized - 58mm"@en	COL title VAL  "Rayban Aviator 3025 001/3E 58 14"@en	1
+COL title VAL  "New EraGreen Bay Packers Cap The League"@en	COL title VAL  "New Era 9FORTY Washington Wizards Baseball Cap - NBA The League - Navy Blue"@en	0
+COL title VAL  "Ray Ban Grey Gradient Aviator Sunglasses RB3589 90548G 55 RB3589 90548G 55"@en	COL title VAL  "Ray-Ban 3025 55 Gradient Aviator Sunglasses"@en	0
+COL title VAL  "Ray-Ban 3025 55 Gradient Aviator Sunglasses"@en	COL title VAL  "Ray-Ban Sunglass - Round Style Light Havana Tortoise frame with Gradient Brown Lens - RB4184 710/83"@en	0
+COL title VAL  "RAY-BAN AVIATOR CLASSIC S-RAY 3025-004/58(58IT)"@en	COL title VAL  "Ray-Ban 3025 55 Gradient Aviator Sunglasses"@en	0
+COL title VAL  "New EraGreen Bay Packers Cap The League"@en	COL title VAL  "Jacksonville Jaguars New Era 940 The League NFL Adjustable Cap"@en	0
+COL title VAL  "Sapca 9Forty The League Washington Wizards Albastru"@en	COL title VAL  "SEATTLE MARINERS THE LEAGUE 9FORTY ADJUSTABLE"@en	0
+COL title VAL  "Green Bay Packers Hat New Era 9Forty Adjustable Size Greenbay NFL Cap 10517884"@en	COL title VAL  "New Era Curved Brim 9FORTY The League Seattle Mariners MLB Navy Blue Adjustable Cap"@en	0
+COL title VAL  "Ray-Ban 3025 55 Gradient Aviator Sunglasses"@en	COL title VAL  "Ray Ban Women Sunglass Square Gradient Blue(Silver)"@de	0
+COL title VAL  "Seattle Seahawks New Era 940 The League NFL Adjustable Cap"@en	COL title VAL  "New Era Curved Brim 9FORTY The League Seattle Mariners MLB Navy Blue Adjustable Cap"@en	0
+COL title VAL  "Ray-BanSUNGLASSES 0RB2168 954/3350"@tl	COL title VAL  "Ray Ban Grey Gradient Aviator Sunglasses RB3589 90548G 55 RB3589 90548G 55"@en	0
+COL title VAL  "OAKLEY Radar EV Path Zonnebril"@en	COL title VAL  "OAKLEY Radar EV Path Sunglasses"@id	1
+COL title VAL  "New EraGreen Bay Packers Cap The League"@en	COL title VAL  "Green Bay Packers Hat New Era 9Forty Adjustable Size Greenbay NFL Cap 10517884"@en	1
+COL title VAL  "Jacksonville Jaguars New Era 940 The League NFL Adjustable Cap"@en	COL title VAL  "New Era Curved Brim 9FORTY The League Jacksonville Jaguars NFL Black Adjustable Cap"@en	1
+COL title VAL  "Ray-Ban Aviator Large Metal Or RB3025 001/51 55-14 Small Dégradés"@ca	COL title VAL  "Ray-Ban Original Aviator Sunglasses (RB3025) Gold Shiny/Pink Metal - Non-Polarized - 58mm"@en	0
+COL title VAL  "Gorra New Era 9Forty The League Seattle Seahawks Unisex"@en	COL title VAL  "SEATTLE MARINERS THE LEAGUE 9FORTY ADJUSTABLE"@en	0
+COL title VAL  "RAY BAN RB2168 901/31"@de	COL title VAL  "Ray Ban Grey Gradient Aviator Sunglasses RB3589 90548G 55 RB3589 90548G 55"@en	0

@@ -1,0 +1,27 @@
+COL title VAL  "Gorra New Era NY Yankees MLB 9Fifty Cap"@en	COL title VAL  "New Era New York Yankees Clean A Frame Trucker Baseball Cap Grey"@en	0
+COL title VAL  "Caciula New Era Oakland Raiders HM Knitted Cap"@en	COL title VAL  "Gorra New Era NY Yankees MLB 9Fifty Cap"@en	0
+COL title VAL  "New Era New York Yankees Clean A Frame Trucker Baseball Cap Grey"@en	COL title VAL  "Czapka z daszkiem New Era 39THIRTY MLB New York Yankees - 10298279"@pl	0
+COL title VAL  "New Era Clean Trucker Chicago Bulls Cap Baseball sapka"@en	COL title VAL  "New Era Clean Trucker 2 NY Yankees Cap Baseball sapka"@en	0
+COL title VAL  "New Era Clean Trucker Chicago Bulls Cap Baseball sapka"@en	COL title VAL  "Sapca New Era NFL New Orleans Saints 9Fifty Cap"@en	0
+COL title VAL  "Gorra New Era NY Yankees MLB 9Fifty Cap"@en	COL title VAL  "Kšiltovka New Era New York Yankees MLB 9Fifty"@en	1
+COL title VAL  "Caciula New Era Oakland Raiders HM Knitted Cap"@en	COL title VAL  "Gorra New Era Clean Trucker Chicago Bulls Cap"@en	0
+COL title VAL  "Gorra New Era NY Yankees MLB 9Fifty Cap"@en	COL title VAL  "New Era Clean Trucker 2 NY Yankees Cap Baseball sapka"@en	0
+COL title VAL  "New Era New York Yankees Clean A Frame Trucker Baseball Cap Grey"@en	COL title VAL  "New Era Cap 39thirty basic NY grey/wei S/M"@en	0
+COL title VAL  "Caciula New Era Oakland Raiders HM Knitted Cap"@en	COL title VAL  "Kappen New Era Oakland Raiders HM Knitted Cap"@en	1
+COL title VAL  "Caciula New Era Oakland Raiders HM Knitted Cap"@en	COL title VAL  "Sapca New Era NFL New Orleans Saints 9Fifty Cap"@en	0
+COL title VAL  "Gorra New Era Clean Trucker Chicago Bulls Cap"@en	COL title VAL  "Gorra New Era NY Yankees MLB 9Fifty Cap"@en	0
+COL title VAL  "Kšiltovka New Era NFL New Orleans Saints 9Fifty"@en	COL title VAL  "Kšiltovka New Era New York Yankees MLB 9Fifty"@en	0
+COL title VAL  "New Era Clean Trucker 2 NY Yankees Cap Baseball sapka"@en	COL title VAL  "Gorra New Era Clean Trucker Chicago Bulls Cap"@en	0
+COL title VAL  "Sapca New Era NFL New Orleans Saints 9Fifty Cap"@en	COL title VAL  "Gorra New Era NY Yankees MLB 9Fifty Cap"@en	0
+COL title VAL  "Sapca New Era NFL New Orleans Saints 9Fifty Cap"@en	COL title VAL  "Kšiltovka New Era NFL New Orleans Saints 9Fifty"@en	1
+COL title VAL  "Kšiltovka New Era New York Yankees MLB 9Fifty"@en	COL title VAL  "New Era Clean Trucker 2 NY Yankees Cap Baseball sapka"@en	0
+COL title VAL  "New Era Cap 39thirty basic NY grey/wei S/M"@en	COL title VAL  "New Era Clean Trucker 2 NY Yankees Cap Baseball sapka"@en	0
+COL title VAL  "New Era Clean Trucker 2 NY Yankees Cap Baseball sapka"@en	COL title VAL  "New Era New York Yankees Clean A Frame Trucker Baseball Cap Grey"@en	1
+COL title VAL  "New Era New York Yankees Clean A Frame Trucker Baseball Cap Grey"@en	COL title VAL  "Kšiltovka New Era NFL New Orleans Saints 9Fifty"@en	0
+COL title VAL  "New Era Cap 39thirty basic NY grey/wei S/M"@en	COL title VAL  "Gorra New Era NY Yankees MLB 9Fifty Cap"@en	0
+COL title VAL  "Kšiltovka New Era New York Yankees MLB 9Fifty"@en	COL title VAL  "New Era New York Yankees Clean A Frame Trucker Baseball Cap Grey"@en	0
+COL title VAL  "Czapka z daszkiem New Era 39THIRTY MLB New York Yankees - 10298279"@pl	COL title VAL  "Kšiltovka New Era New York Yankees MLB 9Fifty"@en	0
+COL title VAL  "Gorra New Era Clean Trucker Chicago Bulls Cap"@en	COL title VAL  "New Era Clean Trucker Chicago Bulls Cap Baseball sapka"@en	1
+COL title VAL  "Czapka z daszkiem New Era 39THIRTY MLB New York Yankees - 10298279"@pl	COL title VAL  "New Era Cap 39thirty basic NY grey/wei S/M"@en	1
+COL title VAL  "New Era New York Yankees Clean A Frame Trucker Baseball Cap Grey"@en	COL title VAL  "New Era Clean Trucker Chicago Bulls Cap Baseball sapka"@en	0
+COL title VAL  "Sapca New Era NFL New Orleans Saints 9Fifty Cap"@en	COL title VAL  "New Era Clean Trucker 2 NY Yankees Cap Baseball sapka"@en	0

@@ -1,0 +1,133 @@
+COL title VAL  "AF-S 24–85mm F/3.5–4.5G ED VR"@de	COL title VAL  "AF-S 24–85mm f/3.5–4.5G ED"@de	1
+COL title VAL  "Z6 System Digitalkamera Kit 24-70 mm 1:4 S"@de	COL title VAL  "Sony FE 24mm f/1.4 GM"@en	0
+COL title VAL  "Manfrotto MK190X Aluminum 3 Section Kit 3w Head"@en	COL title VAL  "Manfrotto MK290LTA3 Video Tripod with Fluid Head"@en	0
+COL title VAL  "Canon EF-M 18-150mm f/3.5-6.3 IS STM Schwarz EU10"@de	COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	0
+COL title VAL  "AF-S 24–85mm f/3.5–4.5G ED"@de	COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	0
+COL title VAL  "Manfrotto MK290LTA3 Video Tripod with Fluid Head"@en	COL title VAL  "290 LIGHT ALU BEFREE LIVE FLUID VIDEO HE"@vi	1
+COL title VAL  "Manfrotto MK190X Aluminum 3 Section Kit 3w Head"@en	COL title VAL  "055 ALU 3 SECTION + XPRO BALL HEAD 200PL"@vi	0
+COL title VAL  "0000010490| Samyang 24mm F1.4 Nikon AE Full Frame Lens"@tl	COL title VAL  "Full Frame E-Mount FE 70-200mm F4 G OSS Lens"@de	0
+COL title VAL  "Full Frame E-Mount FE 70-200mm F4 G OSS Lens"@de	COL title VAL  "Sony 70-200mm f4 G OSS FE Lens (SEL70200G)"@en	1
+COL title VAL  "Sigma 50mm f/1.4 DG HSM Art Lens"@de	COL title VAL  "Sigma 35mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 340955"@de	0
+COL title VAL  "Canon EF-S 18-55mm f3.5-5.6 IS Lens"@en	COL title VAL  "Canon EF-S 10-18 f/4.5-5.6 IS STM"@en	0
+COL title VAL  "En-El12 Li-Ion Battery"@en	COL title VAL  "Nikon EN-EL9a Li-Ion Battery for D3000 and D5000 DSLR cameras"@en	0
+COL title VAL  "0000010490| Samyang 24mm F1.4 Nikon AE Full Frame Lens"@tl	COL title VAL  "Nikon Z6 + 24-70mm f/4 S KIT Mirrorless"@de	0
+COL title VAL  "Canon EF-S 18-135/3.5-5.6 IS USM"@en	COL title VAL  "Canon EF-M 18-150mm f3.5-6.3 IS STM Black Lens"@en	0
+COL title VAL  "Canon EF-S 55-250 f4-5.6 IS STM"@en	COL title VAL  "CANONRF 24-105mm F4.0-7.1 IS STM"@da	0
+COL title VAL  "Sony SEL FE24mm F1.4 GM"@en	COL title VAL  "Sony 70-200mm f4 G OSS FE Lens (SEL70200G)"@en	0
+COL title VAL  "Sigma 50mm f/1.4 DG HSM Art Lens"@de	COL title VAL  "Sigma 105mm F1.4 DG HSM Art Lens [Canon]"@de	0
+COL title VAL  "Canon EF-S 55-250 f4-5.6 IS STM"@en	COL title VAL  "Canon EF-S 55-250 mm f/4-5.6 IS STM"@en	1
+COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens for Nikon DSLR Cameras"@no	COL title VAL  "RF 24-105mm F4-7.1 IS STM Standard Zoom Lens for RF Mount Cameras 4111C002"@en	0
+COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	COL title VAL  "Canon EF-M 18-150mm f3.5-6.3 IS STM Black Lens"@en	0
+COL title VAL  "Sigma 50mm f1.4 DG HSM ART Lens (Canon EF Fit)"@en	COL title VAL  "Sigma 105mm F1.4 DG HSM Canon [ART]"@tl	0
+COL title VAL  "Canon EF-S 55-250 f4-5.6 IS STM"@en	COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	0
+COL title VAL  "Sigma 35mm F1.4 DG Art HSM EOS Mount Lens"@de	COL title VAL  "Sigma 105mm F1.4 DG HSM Art Lens [Canon]"@de	0
+COL title VAL  "Sony FE 20mm f/1.8 G"@en	COL title VAL  "Sony SEL FE24mm F1.4 GM"@en	0
+COL title VAL  "Sigma 35mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 340955"@de	COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens for Nikon DSLR Cameras"@no	1
+COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	0
+COL title VAL  "Sigma 50mm F1.4 DG HSM Nikon [ART]"@tl	COL title VAL  "Sigma 50mm F1.4 Art DG HSM Nikon Mount Lens"@de	1
+COL title VAL  "Manfrotto 500 Fluid Video Head Flat Base With 190x"@en	COL title VAL  "Manfrotto MK190X3-3W1 Aluminium Tripod with 804 Mk II head"@en	0
+COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	COL title VAL  "Manfrotto MK190X3-3W1 Aluminium Tripod with 804 Mk II head"@en	0
+COL title VAL  "Nikon Multi-Power Battery Pack MB-N10 for Nikon Z 6 and Z 7"@en	COL title VAL  "Nikon EN-EL9a Li-Ion Battery for D3000 and D5000 DSLR cameras"@en	0
+COL title VAL  "Nikon Genuine EN-EL9A Li-Ion Digital Camera Battery"@de	COL title VAL  "Nikon EN-EL9a Li-Ion Battery for D3000 and D5000 DSLR cameras"@en	1
+COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens for Canon EF"@en	COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens for Nikon DSLR Cameras"@no	0
+COL title VAL  "Sigma 50mm f/1.4 DG HSM Art Lens"@de	COL title VAL  "Sigma 50mm F1.4 DG HSM Nikon [ART]"@tl	0
+COL title VAL  "Manfrotto MK190X Aluminum 3 Section Kit 3w Head"@en	COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	0
+COL title VAL  "Sony FE 24mm f/1.4 GM"@en	COL title VAL  "Sigma 50mm f/1.4 DG HSM Art Lens"@de	0
+COL title VAL  "Canon EF-S 55-250 f4-5.6 IS STM"@en	COL title VAL  "Canon EF-S 18-135/3.5-5.6 IS USM"@en	0
+COL title VAL  "Nikon EN-EL9a Li-Ion Battery for D3000 and D5000 DSLR cameras"@en	COL title VAL  "EN-EL23 Rechargeable Li-ion Battery"@en	0
+COL title VAL  "Canon EF-M 18-150mm f/3.5-6.3 IS STM Schwarz EU10"@de	COL title VAL  "Z6 System Digitalkamera Kit 24-70 mm 1:4 S"@de	0
+COL title VAL  "Sony FE 20mm f/1.8 G"@en	COL title VAL  "Sony SEL-20F18G FE 20 mm F1.8 G"@en	1
+COL title VAL  "Manfrotto 500 Fluid Video Head Flat Base With 190x"@en	COL title VAL  "Manfrotto MK190X Aluminum 3 Section Kit 3w Head"@en	0
+COL title VAL  "Canon EF-S 18-55mm f3.5-5.6 IS Lens"@en	COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	1
+COL title VAL  "Canon EF-M 18-150mm f/3.5-6.3 IS STM Schwarz EU10"@de	COL title VAL  "Nikon Battery Pack MB-N10"@sv	0
+COL title VAL  "Sigma 35mm F1.4 DG Art HSM EOS Mount Lens"@de	COL title VAL  "Full Frame E-Mount FE 70-200mm F4 G OSS Lens"@de	0
+COL title VAL  "Sigma 35mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 340955"@de	COL title VAL  "Sigma 50mm F1.4 Art DG HSM Nikon Mount Lens"@de	0
+COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	COL title VAL  "Manfrotto MK290LTA3 Video Tripod with Fluid Head"@en	0
+COL title VAL  "Sigma 50mm F1.4 DG HSM Nikon [ART]"@tl	COL title VAL  "Sigma 35mm F1.4 DG Art HSM EOS Mount Lens"@de	0
+COL title VAL  "Canon EF-M 18-150mm f/3.5-6.3 IS STM Schwarz EU10"@de	COL title VAL  "Canon EF-S 18-55mm f3.5-5.6 IS Lens"@en	0
+COL title VAL  "BATERIA NIKON EN-EL12 ORIGINAL"@de	COL title VAL  "Nikon Genuine EN-EL9A Li-Ion Digital Camera Battery"@de	0
+COL title VAL  "Canon EF-S 55-250 mm f/4-5.6 IS STM"@en	COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	0
+COL title VAL  "Canon EF-S 18-55mm f3.5-5.6 IS Lens"@en	COL title VAL  "Canon EF-S 10-18mm f/4.5-5.6 IS STM Lens"@en	0
+COL title VAL  "Manfrotto MK290LTA3 Video Tripod with Fluid Head"@en	COL title VAL  "Manfrotto 500 Fluid Video Head Flat Base With 190x"@en	0
+COL title VAL  "Manfrotto MK190X3-3W1 Aluminium Tripod with 804 Mk II head"@en	COL title VAL  "Manfrotto MK290LTA3 Video Tripod with Fluid Head"@en	0
+COL title VAL  "Canon EF-S 55-250 mm f/4-5.6 IS STM"@en	COL title VAL  "Z6 System Digitalkamera Kit 24-70 mm 1:4 S"@de	0
+COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	COL title VAL  "290 LIGHT ALU BEFREE LIVE FLUID VIDEO HE"@vi	0
+COL title VAL  "Manfrotto MK190X Aluminum 3 Section Kit 3w Head"@en	COL title VAL  "Manfrotto MK190X3-3W1 Aluminium Tripod with 804 Mk II head"@en	1
+COL title VAL  "Samyang 24mm F1.4 ED AS IF UMC for Nikon AE"@tl	COL title VAL  "Nikon Z6 + 24-70mm f/4 S KIT Mirrorless"@de	0
+COL title VAL  "0000010490| Samyang 24mm F1.4 Nikon AE Full Frame Lens"@tl	COL title VAL  "Samyang 24mm F1.4 ED AS IF UMC for Nikon AE"@tl	1
+COL title VAL  "Sigma 50mm F1.4 Art DG HSM Nikon Mount Lens"@de	COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens for Nikon DSLR Cameras"@no	0
+COL title VAL  "RF 24-105mm F4-7.1 IS STM Standard Zoom Lens for RF Mount Cameras 4111C002"@en	COL title VAL  "CANONRF 24-105mm F4.0-7.1 IS STM"@da	1
+COL title VAL  "EN-EL23 Rechargeable Li-ion Battery"@en	COL title VAL  "Nikon Genuine EN-EL9A Li-Ion Digital Camera Battery"@de	0
+COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens for Nikon DSLR Cameras"@no	COL title VAL  "Sigma 50mm f1.4 DG HSM ART Lens (Canon EF Fit)"@en	0
+COL title VAL  "Sigma 50mm F1.4 Art DG HSM Nikon Mount Lens"@de	COL title VAL  "Sigma 105mm F1.4 DG HSM Canon [ART]"@tl	0
+COL title VAL  "Sigma 105mm F1.4 DG HSM Art Lens [Canon]"@de	COL title VAL  "Sigma 105mm F1.4 DG HSM Canon [ART]"@tl	1
+COL title VAL  "Canon EF-S 10-18 f/4.5-5.6 IS STM"@en	COL title VAL  "Canon EF-M 18-150mm f/3.5-6.3 IS STM Schwarz EU10"@de	0
+COL title VAL  "Canon EF-S 10-18 f/4.5-5.6 IS STM"@en	COL title VAL  "Nikon Z6 + 24-70mm f/4 S KIT Mirrorless"@de	0
+COL title VAL  "Sigma 35mm F1.4 DG Art HSM EOS Mount Lens"@de	COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens for Nikon DSLR Cameras"@no	0
+COL title VAL  "EN-EL23 Rechargeable Li-ion Battery"@en	COL title VAL  "Nikon EN-EL23 Rechargeable Battery, 3.8v 1850mah"@en	1
+COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens for Canon EF"@en	COL title VAL  "Sigma 105mm F1.4 DG HSM Canon [ART]"@tl	0
+COL title VAL  "Canon EF-S 18-135/3.5-5.6 IS USM"@en	COL title VAL  "Canon EF-S 18-55mm f3.5-5.6 IS Lens"@en	0
+COL title VAL  "Samyang 24mm F1.4 ED AS IF UMC for Nikon AE"@tl	COL title VAL  "AF-S 24–85mm f/3.5–4.5G ED"@de	0
+COL title VAL  "Sigma 105mm F1.4 DG HSM Art Lens [Canon]"@de	COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens for Canon EF"@en	0
+COL title VAL  "055 ALU 3 SECTION + XPRO BALL HEAD 200PL"@vi	COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	1
+COL title VAL  "Sigma 50mm f/1.4 DG HSM Art Lens"@de	COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens for Canon EF"@en	0
+COL title VAL  "Autel Robotics EVO II Pro Gimbal Camera 1\" 6K Camera for EVO 2 Drones, In Stock"@en	COL title VAL  "Autel Robotics EVO 2 Pro 6K Gimbal Camera (600002067)"@ca	1
+COL title VAL  "Canon EF-M 18-150mm f3.5-6.3 IS STM Black Lens"@en	COL title VAL  "Canon EF-S 18-55mm f3.5-5.6 IS Lens"@en	0
+COL title VAL  "BATERIA NIKON EN-EL12 ORIGINAL"@de	COL title VAL  "Nikon EN-EL23 Rechargeable Battery, 3.8v 1850mah"@en	0
+COL title VAL  "Canon EF-S 10-18mm f/4.5-5.6 IS STM Lens"@en	COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	0
+COL title VAL  "Manfrotto 500 Fluid Video Head Flat Base With 190x"@en	COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	1
+COL title VAL  "EN-EL23 Rechargeable Li-ion Battery"@en	COL title VAL  "En-El12 Li-Ion Battery"@en	0
+COL title VAL  "Manfrotto tripod kit MVK500190XV Alu Video Kit"@sl	COL title VAL  "Manfrotto MK190X Aluminum 3 Section Kit 3w Head"@en	0
+COL title VAL  "Sony SEL-20F18G FE 20 mm F1.8 G"@en	COL title VAL  "Sony SEL FE24mm F1.4 GM"@en	0
+COL title VAL  "Manfrotto MK055XPRO3-BHQ2 Tripod Kit w/ Ball Head"@en	COL title VAL  "Manfrotto MK290LTA3 Video Tripod with Fluid Head"@en	0
+COL title VAL  "Sigma 50mm f/1.4 DG HSM Art Lens"@de	COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens for Nikon DSLR Cameras"@no	0
+COL title VAL  "Canon EF-S 18-135/3.5-5.6 IS USM"@en	COL title VAL  "Canon EF-S 10-18 f/4.5-5.6 IS STM"@en	0
+COL title VAL  "En-El12 Li-Ion Battery"@en	COL title VAL  "Nikon EN-EL23 Rechargeable Battery, 3.8v 1850mah"@en	0
+COL title VAL  "Canon EF-S 18-135 mm/3,5-5,6 IS Nano USM"@tl	COL title VAL  "Canon EF-S 18-135/3.5-5.6 IS USM"@en	1
+COL title VAL  "Sigma 50mm F1.4 Art DG HSM Nikon Mount Lens"@de	COL title VAL  "0000010490| Samyang 24mm F1.4 Nikon AE Full Frame Lens"@tl	0
+COL title VAL  "Nikon Battery Pack MB-N10"@sv	COL title VAL  "Nikon Multi-Power Battery Pack MB-N10 for Nikon Z 6 and Z 7"@en	1
+COL title VAL  "En-El12 Li-Ion Battery"@en	COL title VAL  "BATERIA NIKON EN-EL12 ORIGINAL"@de	1
+COL title VAL  "Nikon EN-EL23 Rechargeable Battery, 3.8v 1850mah"@en	COL title VAL  "Sigma 35mm F1.4 DG Art HSM EOS Mount Lens"@de	0
+COL title VAL  "Sigma 50mm f1.4 DG HSM ART Lens (Canon EF Fit)"@en	COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens for Canon EF"@en	0
+COL title VAL  "Sigma 50mm f1.4 DG HSM ART Lens (Canon EF Fit)"@en	COL title VAL  "Sigma 50mm f/1.4 DG HSM Art Lens"@de	1
+COL title VAL  "TREPPIEDE MANFROTTO BEFREE ADVANCED GT IN CARBONIO ART.MKBFRTC4GT-BH"@en	COL title VAL  "BEFREE GT CARBON FIBRE TRAVEL TWIST BH"@en	1
+COL title VAL  "Sigma 50mm F1.4 Art DG HSM Nikon Mount Lens"@de	COL title VAL  "Sigma 105mm F1.4 DG HSM Art Lens [Canon]"@de	0
+COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens for Canon EF"@en	COL title VAL  "Sigma 35mm F1.4 DG Art HSM EOS Mount Lens"@de	1
+COL title VAL  "Sigma 50mm F1.4 DG HSM Nikon [ART]"@tl	COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens for Canon EF"@en	0
+COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	COL title VAL  "Canon EF-S 10-18 f/4.5-5.6 IS STM"@en	0
+COL title VAL  "Sigma 105mm F1.4 DG HSM Art Lens [Canon]"@de	COL title VAL  "0000010490| Samyang 24mm F1.4 Nikon AE Full Frame Lens"@tl	0
+COL title VAL  "Sigma 105mm F1.4 DG HSM Art Lens [Canon]"@de	COL title VAL  "Sigma 50mm f1.4 DG HSM ART Lens (Canon EF Fit)"@en	0
+COL title VAL  "Canon EF-S 18-135 mm/3,5-5,6 IS Nano USM"@tl	COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	0
+COL title VAL  "Canon EF-S 55-250 f4-5.6 IS STM"@en	COL title VAL  "RF 24-105mm F4-7.1 IS STM Standard Zoom Lens for RF Mount Cameras 4111C002"@en	0
+COL title VAL  "Canon EF-M 18-150mm f/3.5-6.3 IS STM Schwarz EU10"@de	COL title VAL  "Canon EF-S 18-135/3.5-5.6 IS USM"@en	0
+COL title VAL  "Sigma 105mm F1.4 DG HSM Art Lens [Canon]"@de	COL title VAL  "Sigma 50mm F1.4 DG HSM Nikon [ART]"@tl	0
+COL title VAL  "Sigma 35mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 340955"@de	COL title VAL  "Sigma 35mm F1.4 DG Art HSM EOS Mount Lens"@de	0
+COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens for Nikon DSLR Cameras"@no	COL title VAL  "Sigma 105mm F1.4 DG HSM Art Lens [Canon]"@de	0
+COL title VAL  "Sony 70-200mm f4 G OSS FE Lens (SEL70200G)"@en	COL title VAL  "Sony FE 24mm f/1.4 GM"@en	0
+COL title VAL  "Canon EF-M 18-150mm f3.5-6.3 IS STM Black Lens"@en	COL title VAL  "Canon EF-S 10-18 f/4.5-5.6 IS STM"@en	0
+COL title VAL  "Sony FE 20mm f/1.8 G"@en	COL title VAL  "Sony FE 24mm f/1.4 GM"@en	0
+COL title VAL  "Canon EF-M 18-150mm f/3.5-6.3 IS STM Schwarz EU10"@de	COL title VAL  "Canon EF-M 18-150mm f3.5-6.3 IS STM Black Lens"@en	1
+COL title VAL  "Sigma 35mm F1.4 DG Art HSM EOS Mount Lens"@de	COL title VAL  "Sigma 50mm F1.4 Art DG HSM Nikon Mount Lens"@de	0
+COL title VAL  "Canon EF-S 55-250 f4-5.6 IS STM"@en	COL title VAL  "Canon EF-S 10-18 f/4.5-5.6 IS STM"@en	0
+COL title VAL  "Sony FE 20mm f/1.8 G"@en	COL title VAL  "Sigma 50mm f/1.4 DG HSM Art Lens"@de	0
+COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens for Nikon DSLR Cameras"@no	COL title VAL  "Samyang 24mm F1.4 ED AS IF UMC for Nikon AE"@tl	0
+COL title VAL  "Sony SEL-20F18G FE 20 mm F1.8 G"@en	COL title VAL  "Sony 70-200mm f4 G OSS FE Lens (SEL70200G)"@en	0
+COL title VAL  "Canon EF-S 18-135 mm/3,5-5,6 IS Nano USM"@tl	COL title VAL  "Canon EF-M 18-150mm f3.5-6.3 IS STM Black Lens"@en	0
+COL title VAL  "Sony SEL FE24mm F1.4 GM"@en	COL title VAL  "Sony FE 24mm f/1.4 GM"@en	1
+COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	COL title VAL  "Canon EF-S 18-135/3.5-5.6 IS USM"@en	0
+COL title VAL  "Canon EF-S 10-18mm f/4.5-5.6 IS STM Lens"@en	COL title VAL  "Canon EF-S 10-18 f/4.5-5.6 IS STM"@en	1
+COL title VAL  "Ilford FP4 Plus 125 120"@en	COL title VAL  "Ilford Ilford FP4+ 125 120 B&W Film - Single Roll"@en	1
+COL title VAL  "En-El12 Li-Ion Battery"@en	COL title VAL  "Nikon Genuine EN-EL9A Li-Ion Digital Camera Battery"@de	0
+COL title VAL  "Canon EF-S 10-18mm f/4.5-5.6 IS STM Lens"@en	COL title VAL  "Canon EF-S 55-250 mm f/4-5.6 IS STM"@en	0
+COL title VAL  "Z6 System Digitalkamera Kit 24-70 mm 1:4 S"@de	COL title VAL  "Nikon Z6 + 24-70mm f/4 S KIT Mirrorless"@de	1
+COL title VAL  "Sony 70-200mm f4 G OSS FE Lens (SEL70200G)"@en	COL title VAL  "RF 24-105mm F4-7.1 IS STM Standard Zoom Lens for RF Mount Cameras 4111C002"@en	0
+COL title VAL  "Sony 70-200mm f4 G OSS FE Lens (SEL70200G)"@en	COL title VAL  "Sony FE 20mm f/1.8 G"@en	0
+COL title VAL  "Sigma 50mm F1.4 DG HSM Nikon [ART]"@tl	COL title VAL  "Sigma 105mm F1.4 DG HSM Canon [ART]"@tl	0
+COL title VAL  "Full Frame E-Mount FE 70-200mm F4 G OSS Lens"@de	COL title VAL  "RF 24-105mm F4-7.1 IS STM Standard Zoom Lens for RF Mount Cameras 4111C002"@en	0
+COL title VAL  "Canon EF-S 55-250 mm f/4-5.6 IS STM"@en	COL title VAL  "Canon EF-S 10-18 f/4.5-5.6 IS STM"@en	0
+COL title VAL  "Sigma 35mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 340955"@de	COL title VAL  "Nikon Z6 + 24-70mm f/4 S KIT Mirrorless"@de	0
+COL title VAL  "Sigma 50mm F1.4 Art DG HSM Nikon Mount Lens"@de	COL title VAL  "Sigma 50mm f1.4 DG HSM ART Lens (Canon EF Fit)"@en	0
+COL title VAL  "Sigma 50mm F1.4 Art DG HSM Nikon Mount Lens"@de	COL title VAL  "Sigma 50mm f/1.4 DG HSM Art Lens"@de	0
+COL title VAL  "Nikon Multi-Power Battery Pack MB-N10 for Nikon Z 6 and Z 7"@en	COL title VAL  "Nikon EN-EL23 Rechargeable Battery, 3.8v 1850mah"@en	0
+COL title VAL  "Full Frame E-Mount FE 70-200mm F4 G OSS Lens"@de	COL title VAL  "Sony FE 20mm f/1.8 G"@en	0
+COL title VAL  "AF-S 24–85mm F/3.5–4.5G ED VR"@de	COL title VAL  "Sony SEL-20F18G FE 20 mm F1.8 G"@en	0

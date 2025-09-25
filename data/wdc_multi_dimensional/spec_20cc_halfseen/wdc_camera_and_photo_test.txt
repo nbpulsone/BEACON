@@ -1,0 +1,131 @@
+COL title VAL  "135mm f/2.0L USM Telephoto Lens for Canon SLR Cameras 2520A004"@en	COL title VAL  "Canon EF 135mm f/2L USM"@en	1
+COL title VAL  "Canon EF 24-105mm f/3.5-5.6 IS STM"@en	COL title VAL  "Sony FE Series 24-240mm lens F3.5-6.3 OSS Lens"@fr	0
+COL title VAL  "Sony FE 85mm f/1.8 Lens"@en	COL title VAL  "Sony FE 50mm f/1.8 Lens"@en	0
+COL title VAL  "Canon EF 200mm f2L IS USM Telephoto Lens"@en	COL title VAL  "Canon EF 70200mm f28L USM Telephoto Lens"@en	0
+COL title VAL  "D5600 18-140mm VR Lens Kit (Refurbished)"@de	COL title VAL  "Nikon D5600 DSLR Camera with 18-140mm Lens"@en	1
+COL title VAL  "Nikon Nikon D3500 Black DX-format D-SLR w/ AF-P DX NIKKOR 18-55MM F/3.5- 5.6G VR"@de	COL title VAL  "Nikon D3500 DSLR Camera with 18-55mm Lens"@en	1
+COL title VAL  "Canon EF 24-105mm f/3.5-5.6 IS STM"@en	COL title VAL  "Sony FE 85mm f/1.8 Lens"@en	0
+COL title VAL  "Canon EF 200mm f2.8 L USM MKII Lens"@fr	COL title VAL  "Canon EF 70200mm f28L USM Telephoto Lens"@en	0
+COL title VAL  "Canon EF 70-200mm f/4L IS USM Lens"@fr	COL title VAL  "Canon EF 400mm f/2.8L IS III USM"@en	0
+COL title VAL  "Canon EF 24-105mm f/3.5-5.6 IS STM"@en	COL title VAL  "Canon RF 24-240mm f/4-6.3 IS USM - £70 CASHBACK!"@en	0
+COL title VAL  "Canon EF 70200mm f28L USM Telephoto Lens"@en	COL title VAL  "Canon EF 70-200mm f2.8L USM Lens"@fr	1
+COL title VAL  "Canon Photo Paper Pro Platinum -100 x 150 mm - 300 g/m2 - 20 sheet(s)"@en	COL title VAL  "Canon PT-101 4"X6" Photo Paper Pro Platinum (20 sheets)"@en	1
+COL title VAL  "Sony FE 50mm f/1.8 Lens"@en	COL title VAL  "Canon EF-S 18-55mm f/3.5-5.6 IS II SLR Lens White Box"@en	0
+COL title VAL  "Canon EF 24-105 IS STM"@en	COL title VAL  "Canon RF24-105mm F4-7.1 IS STM"@en	0
+COL title VAL  "Nikon D5600 DSLR Camera with 18-140mm Lens"@en	COL title VAL  "Nikon D7500 DSLR Camera with 18-140mm Lens"@en	0
+COL title VAL  "EF 200mm f/2L IS USM"@da	COL title VAL  "Canon EF 400mm f/2.8L IS III USM"@en	0
+COL title VAL  "Sony 600mm F4 G-Master OSS Full Frame E-Mount Lens"@en	COL title VAL  "Sony FE 50mm f/1.8 Lens"@en	0
+COL title VAL  "D5600 18-140mm VR Lens Kit (Refurbished)"@de	COL title VAL  "D7500 18-140mm VR Lens Kit"@de	0
+COL title VAL  "Nikon D3500 DSLR Camera with 18-55mm Lens"@en	COL title VAL  "Nikon D7500 DSLR Camera with 18-140mm Lens"@en	0
+COL title VAL  "Canon RF 24-240mm f/4-6.3 IS USM - £70 CASHBACK!"@en	COL title VAL  "Nikon Z 6 with 24-70mm f/4 S Lens"@en	0
+COL title VAL  "Canon PGI72PM Photo Magenta Ink Tank"@en	COL title VAL  "Canon PGI 72 Ink Cartridge Photo Magenta"@en	1
+COL title VAL  "Canon EF 200mm f2L IS USM Telephoto Lens"@en	COL title VAL  "Canon EF 70-200mm f/4L IS USM Lens"@fr	0
+COL title VAL  "Nikon D3500 DSLR Camera with 18-55mm Lens"@en	COL title VAL  "D7500 18-140mm VR Lens Kit"@de	0
+COL title VAL  "Nikon D3500 DSLR Camera with 18-55mm Lens"@en	COL title VAL  "0000003490| Benro KH25N Video Tripod & K5 Head"@sl	0
+COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	COL title VAL  "Sony SEL85F18 85mm F/1.8-22 Medium-Telephoto Fixed Prime Camera Lens, Black"@en	0
+COL title VAL  "Canon EF 70-200mm f2.8L USM Lens"@fr	COL title VAL  "Canon EF 200mm f2L IS USM Telephoto Lens"@en	0
+COL title VAL  "Canon EF 135mm f/2L USM"@en	COL title VAL  "Sony FE 85mm f/1.8 Lens"@en	0
+COL title VAL  "Canon EF 400mm F2.8L IS III USM"@it	COL title VAL  "BG-E11 Battery Grip for Canon EOS 5D Mark III Digital SLR Camera"@en	0
+COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	COL title VAL  "Canon RF 24-240mm f4-6.3 IS USM Zoom"@en	0
+COL title VAL  "Canon EF 400mm f/2.8L IS III USM"@en	COL title VAL  "Canon EF 400mm F2.8L IS III USM"@it	1
+COL title VAL  "HIKVISION CAMERA WALL MOUNT BRACKET FOR BULLET IP CAMERA DS-1260ZJ"@en	COL title VAL  "Hikvision Junction Box Deep Base - DS-1260ZJ"@en	1
+COL title VAL  "Canon RF24-105mm F4-7.1 IS STM"@en	COL title VAL  "Canon EF 400mm F2.8L IS III USM"@it	0
+COL title VAL  "Sony Sony FE 50mm f/1.8 Lens"@en	COL title VAL  "Sony SEL35F18F NEX FF lens 35mm F1.8"@da	0
+COL title VAL  "Nikon D7500 DSLR Camera with 18-140mm Lens"@en	COL title VAL  "D7500 18-140mm VR Lens Kit"@de	1
+COL title VAL  "Nikon D750 Digital SLR with 24-120mm VR Lens"@de	COL title VAL  "Nikon Z 6 with 24-70mm f/4 S Lens"@en	0
+COL title VAL  "Sony SEL85F18 85mm F/1.8-22 Medium-Telephoto Fixed Prime Camera Lens, Black"@en	COL title VAL  "Sony FE 50mm f/1.8 Lens"@en	0
+COL title VAL  "Sony SEL35F18F NEX FF lens 35mm F1.8"@da	COL title VAL  "Sony FE 85mm f/1.8 Lens"@en	0
+COL title VAL  "Canon EF 200mm f2L IS USM Telephoto Lens"@en	COL title VAL  "Canon EF 200mm f2.8 L USM MKII Lens"@fr	0
+COL title VAL  "Canon EF 400mm F2.8L IS III USM"@it	COL title VAL  "Canon EF 200mm f2L IS USM Telephoto Lens"@en	0
+COL title VAL  "Canon EF 200mm f2L IS USM Telephoto Lens"@en	COL title VAL  "Canon EF 400mm f/2.8L IS III USM"@en	0
+COL title VAL  "Canon EF 200mm f2L IS USM Telephoto Lens"@en	COL title VAL  "Canon EF 70-200 / 4.0 L IS USM"@it	0
+COL title VAL  "Canon EF 400mm F2.8L IS III USM"@it	COL title VAL  "Canon EF 70-200mm f2.8L USM Lens"@fr	0
+COL title VAL  "Canon RF 24-240mm f/4-6.3 IS USM - £70 CASHBACK!"@en	COL title VAL  "Nikon Z6 + 24-70mm f/4 S KIT Mirrorless"@de	0
+COL title VAL  "Canon BG-E11 Battery Grip For EOS 5D MKIII"@en	COL title VAL  "BG-E11 Battery Grip for Canon EOS 5D Mark III Digital SLR Camera"@en	1
+COL title VAL  "Canon Photo Paper Pro Platinum -100 x 150 mm - 300 g/m2 - 20 sheet(s)"@en	COL title VAL  "Canon PGI72PM Photo Magenta Ink Tank"@en	0
+COL title VAL  "Canon RF 24-240mm f4-6.3 IS USM Zoom"@en	COL title VAL  "CANONRF 24-105mm F4.0-7.1 IS STM"@da	0
+COL title VAL  "135mm f/2.0L USM Telephoto Lens for Canon SLR Cameras 2520A004"@en	COL title VAL  "BG-E11 Battery Grip for Canon EOS 5D Mark III Digital SLR Camera"@en	0
+COL title VAL  "Sony FE 24-240mm f/3.5-6.3 OSS"@en	COL title VAL  "Canon EF 24-105mm f/3.5-5.6 IS STM"@en	0
+COL title VAL  "EF 200mm f/2L IS USM"@da	COL title VAL  "Canon EF 70-200mm f/4L IS USM Lens"@fr	0
+COL title VAL  "Sony FE 50mm f/1.8 Lens"@en	COL title VAL  "Canon EF 24-105mm f/3.5-5.6 IS STM"@en	0
+COL title VAL  "EF 200mm f/2.8L II USM, CANON AUTHORIZED USA DEALER WARRANTY INCLUDED"@en	COL title VAL  "Canon EF 400mm f/2.8L IS III USM"@en	0
+COL title VAL  "Canon EF 70200mm f28L USM Telephoto Lens"@en	COL title VAL  "Canon EF 400mm F2.8L IS III USM"@it	0
+COL title VAL  "Nikon Z 6 with 24-70mm f/4 S Lens"@en	COL title VAL  "Nikon D5600 DSLR Camera with 18-140mm Lens"@en	0
+COL title VAL  "Sony FE 85mm f/1.8 Lens"@en	COL title VAL  "SONY Sony Full-Frame E-Mount 35mm F/1.8 Lens"@en	0
+COL title VAL  "Nikon D750 + 24-120mm f/4G ED VR"@de	COL title VAL  "Nikon Z6 + 24-70mm f/4 S KIT Mirrorless"@de	0
+COL title VAL  "Canon EF 200mm f2.8 L USM MKII Lens"@fr	COL title VAL  "135mm f/2.0L USM Telephoto Lens for Canon SLR Cameras 2520A004"@en	0
+COL title VAL  "Canon EF 200mm f2.8 L USM MKII Lens"@fr	COL title VAL  "EF 200mm f/2.8L II USM, CANON AUTHORIZED USA DEALER WARRANTY INCLUDED"@en	1
+COL title VAL  "D7500 18-140mm VR Lens Kit"@de	COL title VAL  "Nikon D750 Digital SLR with 24-120mm VR Lens"@de	0
+COL title VAL  "Sony SEL85F18 85mm F/1.8-22 Medium-Telephoto Fixed Prime Camera Lens, Black"@en	COL title VAL  "Sony FE 85mm f/1.8 Lens"@en	1
+COL title VAL  "Canon EF 70-200mm f/4L IS USM Lens"@fr	COL title VAL  "Canon EF 70-200mm f2.8L USM Lens"@fr	0
+COL title VAL  "Full Frame FE 600mm F4 GM OSS"@de	COL title VAL  "SONY Sony Full-Frame E-Mount 35mm F/1.8 Lens"@en	0
+COL title VAL  "Nikon D5600 DSLR Camera with 18-140mm Lens"@en	COL title VAL  "Nikon D750 Digital SLR with 24-120mm VR Lens"@de	0
+COL title VAL  "Sony FE Series 24-240mm lens F3.5-6.3 OSS Lens"@fr	COL title VAL  "Sony FE 50mm f/1.8 Lens"@en	0
+COL title VAL  "Canon EF 70-200mm f2.8L USM Lens"@fr	COL title VAL  "EF 200mm f/2.8L II USM, CANON AUTHORIZED USA DEALER WARRANTY INCLUDED"@en	0
+COL title VAL  "Nikon D750 Digital SLR with 24-120mm VR Lens"@de	COL title VAL  "Nikon D7500 DSLR Camera with 18-140mm Lens"@en	0
+COL title VAL  "Canon RF24-105mm F4-7.1 IS STM"@en	COL title VAL  "Canon EF 24-105mm f/3.5-5.6 IS STM"@en	0
+COL title VAL  "Canon EF 70200mm f28L USM Telephoto Lens"@en	COL title VAL  "135mm f/2.0L USM Telephoto Lens for Canon SLR Cameras 2520A004"@en	0
+COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	COL title VAL  "Nikon Nikon D3500 Black DX-format D-SLR w/ AF-P DX NIKKOR 18-55MM F/3.5- 5.6G VR"@de	0
+COL title VAL  "D5600 18-140mm VR Lens Kit (Refurbished)"@de	COL title VAL  "Nikon D3500 DSLR Camera with 18-55mm Lens"@en	0
+COL title VAL  "Sony SEL35F18F NEX FF lens 35mm F1.8"@da	COL title VAL  "Canon EF 200mm f2.8 L USM MKII Lens"@fr	0
+COL title VAL  "Canon EF 24-105 IS STM"@en	COL title VAL  "Canon EF 24-105mm f/3.5-5.6 IS STM"@en	1
+COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	COL title VAL  "Canon EF 24-105mm f/3.5-5.6 IS STM"@en	0
+COL title VAL  "Canon EF 70-200mm f2.8L USM Lens"@fr	COL title VAL  "Canon EF 200mm f2.8 L USM MKII Lens"@fr	0
+COL title VAL  "Sony 600mm F4 G-Master OSS Full Frame E-Mount Lens"@en	COL title VAL  "Sony FE Series 24-240mm lens F3.5-6.3 OSS Lens"@fr	0
+COL title VAL  "Canon EF 70-200mm f/4L IS USM Lens"@fr	COL title VAL  "Canon EF 200mm f2.8 L USM MKII Lens"@fr	0
+COL title VAL  "Sony 600mm F4 G-Master OSS Full Frame E-Mount Lens"@en	COL title VAL  "Canon BG-E11 Battery Grip For EOS 5D MKIII"@en	0
+COL title VAL  "Canon RF 24-240mm f/4-6.3 IS USM - £70 CASHBACK!"@en	COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	0
+COL title VAL  "Canon EF 70-200mm f/4L IS USM Lens"@fr	COL title VAL  "Nikon Z 6 with 24-70mm f/4 S Lens"@en	0
+COL title VAL  "Sony FE 24-240mm f/3.5-6.3 OSS"@en	COL title VAL  "Canon RF 24-240mm f/4-6.3 IS USM - £70 CASHBACK!"@en	0
+COL title VAL  "SONY Sony Full-Frame E-Mount 35mm F/1.8 Lens"@en	COL title VAL  "Canon EF 135mm f/2L USM"@en	0
+COL title VAL  "Sony Sony FE 50mm f/1.8 Lens"@en	COL title VAL  "Sony FE 50mm f/1.8 Lens"@en	1
+COL title VAL  "Nikon D750 + 24-120mm f/4G ED VR"@de	COL title VAL  "Canon RF 24-240mm f/4-6.3 IS USM - £70 CASHBACK!"@en	0
+COL title VAL  "Canon EF 200mm f2.8 L USM MKII Lens"@fr	COL title VAL  "Canon BG-E11 Battery Grip For EOS 5D MKIII"@en	0
+COL title VAL  "Canon EF-S 18-55mm f/3.5-5.6 IS II SLR Lens White Box"@en	COL title VAL  "Canon EF 24-105mm f/3.5-5.6 IS STM"@en	0
+COL title VAL  "Canon RF 24-240mm f4-6.3 IS USM Zoom"@en	COL title VAL  "Sony FE 24-240mm f/3.5-6.3 OSS"@en	0
+COL title VAL  "Sony FE 50mm f/1.8 Lens"@en	COL title VAL  "SONY Sony Full-Frame E-Mount 35mm F/1.8 Lens"@en	0
+COL title VAL  "Canon EF 70-200mm f/4L IS USM Lens"@fr	COL title VAL  "Canon EF 70200mm f28L USM Telephoto Lens"@en	0
+COL title VAL  "Canon EF 70-200mm f2.8L USM Lens"@fr	COL title VAL  "Canon EF 400mm f/2.8L IS III USM"@en	0
+COL title VAL  "Sony FE 24-240mm f/3.5-6.3 OSS"@en	COL title VAL  "Sony FE 85mm f/1.8 Lens"@en	0
+COL title VAL  "Canon EF 400mm f/2.8L IS III USM"@en	COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	0
+COL title VAL  "Canon EF 24-105mm f/3.5-5.6 IS STM"@en	COL title VAL  "CANONRF 24-105mm F4.0-7.1 IS STM"@da	0
+COL title VAL  "Nikon D5600 DSLR Camera with 18-140mm Lens"@en	COL title VAL  "D7500 18-140mm VR Lens Kit"@de	0
+COL title VAL  "Canon RF 24-240mm f4-6.3 IS USM Zoom"@en	COL title VAL  "Canon EF 24-105mm f/3.5-5.6 IS STM"@en	0
+COL title VAL  "Sony FE 85mm f/1.8 Lens"@en	COL title VAL  "Sony Sony FE 50mm f/1.8 Lens"@en	0
+COL title VAL  "Full Frame FE 600mm F4 GM OSS"@de	COL title VAL  "Sony 600mm F4 G-Master OSS Full Frame E-Mount Lens"@en	1
+COL title VAL  "EF 200mm f/2L IS USM"@da	COL title VAL  "Canon EF 200mm f2L IS USM Telephoto Lens"@en	1
+COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	COL title VAL  "Canon EF-S 18-55mm f/3.5-5.6 IS II SLR Lens White Box"@en	1
+COL title VAL  "Nikon D750 Digital SLR with 24-120mm VR Lens"@de	COL title VAL  "Nikon D750 + 24-120mm f/4G ED VR"@de	1
+COL title VAL  "Nikon D750 + 24-120mm f/4G ED VR"@de	COL title VAL  "Nikon Z 6 with 24-70mm f/4 S Lens"@en	0
+COL title VAL  "135mm f/2.0L USM Telephoto Lens for Canon SLR Cameras 2520A004"@en	COL title VAL  "Canon BG-E11 Battery Grip For EOS 5D MKIII"@en	0
+COL title VAL  "Canon EF 200mm f2.8 L USM MKII Lens"@fr	COL title VAL  "Canon EF 400mm F2.8L IS III USM"@it	0
+COL title VAL  "Canon RF 24-240mm f4-6.3 IS USM Zoom"@en	COL title VAL  "Canon RF24-105mm F4-7.1 IS STM"@en	0
+COL title VAL  "Sony FE 50mm f/1.8 Lens"@en	COL title VAL  "Canon EF 400mm F2.8L IS III USM"@it	0
+COL title VAL  "Nikon D5600 DSLR Camera with 18-140mm Lens"@en	COL title VAL  "Nikon D3500 DSLR Camera with 18-55mm Lens"@en	0
+COL title VAL  "Canon RF24-105mm F4-7.1 IS STM"@en	COL title VAL  "CANONRF 24-105mm F4.0-7.1 IS STM"@da	1
+COL title VAL  "Sony FE 85mm f/1.8 Lens"@en	COL title VAL  "Canon EF-S 18-55mm f/3.5-5.6 IS II SLR Lens White Box"@en	0
+COL title VAL  "Canon RF24-105mm F4-7.1 IS STM"@en	COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	0
+COL title VAL  "SONY Sony Full-Frame E-Mount 35mm F/1.8 Lens"@en	COL title VAL  "Sony 600mm F4 G-Master OSS Full Frame E-Mount Lens"@en	0
+COL title VAL  "Sony Sony FE 50mm f/1.8 Lens"@en	COL title VAL  "Sony FE Series 24-240mm lens F3.5-6.3 OSS Lens"@fr	0
+COL title VAL  "SONY Sony Full-Frame E-Mount 35mm F/1.8 Lens"@en	COL title VAL  "Sony SEL85F18 85mm F/1.8-22 Medium-Telephoto Fixed Prime Camera Lens, Black"@en	0
+COL title VAL  "Canon EF-S 18 55mm f/3.5 5.6 IS"@en	COL title VAL  "Sony FE 85mm f/1.8 Lens"@en	0
+COL title VAL  "Sony Sony FE 50mm f/1.8 Lens"@en	COL title VAL  "Canon EF 70-200mm f/4L IS USM Lens"@fr	0
+COL title VAL  "Canon EF 70-200 / 4.0 L IS USM"@it	COL title VAL  "Canon EF 400mm F2.8L IS III USM"@it	0
+COL title VAL  "Nikon D7500 DSLR Camera with 18-140mm Lens"@en	COL title VAL  "Nikon Z 6 with 24-70mm f/4 S Lens"@en	0
+COL title VAL  "Canon EF 400mm F2.8L IS III USM"@it	COL title VAL  "EF 200mm f/2L IS USM"@da	0
+COL title VAL  "Canon RF 24-240mm f4-6.3 IS USM Zoom"@en	COL title VAL  "Canon RF 24-240mm f/4-6.3 IS USM - £70 CASHBACK!"@en	1
+COL title VAL  "Nikon Z 6 with 24-70mm f/4 S Lens"@en	COL title VAL  "Nikon Z6 + 24-70mm f/4 S KIT Mirrorless"@de	1
+COL title VAL  "Full Frame FE 600mm F4 GM OSS"@de	COL title VAL  "Sony FE 24-240mm f/3.5-6.3 OSS"@en	0
+COL title VAL  "Canon EF 70-200 / 4.0 L IS USM"@it	COL title VAL  "Canon EF 70-200mm f/4L IS USM Lens"@fr	1
+COL title VAL  "Sony FE 24-240mm f/3.5-6.3 OSS"@en	COL title VAL  "Sony FE Series 24-240mm lens F3.5-6.3 OSS Lens"@fr	1
+COL title VAL  "Canon PGI72PM Photo Magenta Ink Tank"@en	COL title VAL  "Canon PT-101 4"X6" Photo Paper Pro Platinum (20 sheets)"@en	0
+COL title VAL  "D5600 18-140mm VR Lens Kit (Refurbished)"@de	COL title VAL  "Nikon D7500 DSLR Camera with 18-140mm Lens"@en	0
+COL title VAL  "D5600 18-140mm VR Lens Kit (Refurbished)"@de	COL title VAL  "Nikon D750 Digital SLR with 24-120mm VR Lens"@de	0
+COL title VAL  "Nikon D750 Digital SLR with 24-120mm VR Lens"@de	COL title VAL  "Nikon Z6 + 24-70mm f/4 S KIT Mirrorless"@de	0
+COL title VAL  "Sony SEL35F18F NEX FF lens 35mm F1.8"@da	COL title VAL  "SONY Sony Full-Frame E-Mount 35mm F/1.8 Lens"@en	1
+COL title VAL  "Benro KH25N Video Tripod Kit 61\""@sl	COL title VAL  "0000003490| Benro KH25N Video Tripod & K5 Head"@sl	1
+COL title VAL  "Canon PGI72PM Photo Magenta Ink Tank"@en	COL title VAL  "Canon EF 24-105 IS STM"@en	0
+COL title VAL  "Canon EF 135mm f/2L USM"@en	COL title VAL  "Canon EF 400mm f/2.8L IS III USM"@en	0
+COL title VAL  "SONY Sony Full-Frame E-Mount 35mm F/1.8 Lens"@en	COL title VAL  "Sony Sony FE 50mm f/1.8 Lens"@en	0
+COL title VAL  "Canon EF 135mm f/2L USM"@en	COL title VAL  "EF 200mm f/2L IS USM"@da	0
+COL title VAL  "Nikon D750 Digital SLR with 24-120mm VR Lens"@de	COL title VAL  "Nikon D3500 DSLR Camera with 18-55mm Lens"@en	0

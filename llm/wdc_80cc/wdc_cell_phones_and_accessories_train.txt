@@ -1,0 +1,64 @@
+COL title VAL  "DJI Mavic Air Car Charger"@en	COL title VAL  "DJI Accessory CP.PT.000562 Mavic Part 6 Car Charger Retail"@en	0
+COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	COL title VAL  "Genuine SanDiskiXpand Flash Drive 64GB - iPhone lightning connector"@en	1
+COL title VAL  "Mavic 2 Part11 Car Charger"@en	COL title VAL  "DJI Mavic 2 Car Charger"@en	1
+COL title VAL  "iXpand, 64GB, USB 3.0 USB-nøgle USB Type-A / Lightning 3.2 Gen 1 (3.1 Gen 1) Sort, Sølv"@no	COL title VAL  "SanDisk iXpand Flash Drive 64GB USB for iPhone Lightning Connector"@en	1
+COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	COL title VAL  "Genuine SanDiskiXpand Flash Drive 64GB - iPhone lightning connector"@en	1
+COL title VAL  "SanDisk iXpand Flash Drive 64GB USB for iPhone Lightning Connector"@en	COL title VAL  "64GB SanDisk iXpand V2 USB Flash Drive for iPhone and iPad lightning"@en	1
+COL title VAL  "SanDisk iXpand Flash Drive 64GB USB for iPhone Lightning Connector"@en	COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	1
+COL title VAL  "MAVIC AIR PART 4 Car Charger"@en	COL title VAL  "DJI Mavic PRO - Car Charger"@en	0
+COL title VAL  "DJI Accessory CP.PT.000562 Mavic Part 6 Car Charger Retail"@en	COL title VAL  "DJI Mavic 2 Car Charger"@en	0
+COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	COL title VAL  "64GB SanDisk iXpand V2 USB Flash Drive for iPhone and iPad lightning"@en	1
+COL title VAL  "Samsung UH46F5 46\" D-LED DID LFD monitor"@tl	COL title VAL  "Samsung 46" Public Display UH46F5"@tl	1
+COL title VAL  "SanDisk iXpand Flash Drive 64GB USB for iPhone Lightning Connector"@en	COL title VAL  "SanDisk, iXpand, flash drive, 64GB"@sv	1
+COL title VAL  "DJI Mavic PRO - Car Charger"@en	COL title VAL  "DJI Mavic Air Car Charger"@en	0
+COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	1
+COL title VAL  "MAVIC AIR PART 4 Car Charger"@en	COL title VAL  "DJI Mavic Air Car Charger"@en	1
+COL title VAL  "SanDisk, iXpand, flash drive, 64GB"@sv	COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	1
+COL title VAL  "DJI Mavic 2 Car Charger"@en	COL title VAL  "DJI Mavic Air Car Charger"@en	0
+COL title VAL  "DJI Mavic 2 Car Battery Charger"@en	COL title VAL  "Mavic 2 Part11 Car Charger"@en	1
+COL title VAL  "64GB SanDisk iXpand V2 USB Flash Drive for iPhone and iPad lightning"@en	COL title VAL  "Genuine SanDiskiXpand Flash Drive 64GB - iPhone lightning connector"@en	1
+COL title VAL  "DJI Mavic 2 Car Battery Charger"@en	COL title VAL  "DJI Mavic PRO - Car Charger"@en	0
+COL title VAL  "SanDisk, iXpand, flash drive, 64GB"@sv	COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	1
+COL title VAL  "DJI Mavic Pro Car Charger, Black (CP.PT.000562)"@en	COL title VAL  "DJI Mavic Air Car Charger"@en	0
+COL title VAL  "DJI Mavic 2 Car Charger"@en	COL title VAL  "DJI Mavic PRO - Car Charger"@en	0
+COL title VAL  "DJI Mavic Air Car Charger"@en	COL title VAL  "DJI Drone Accessory CP.PT.00000120.01 Mavic Air Part 4 Car Charger Retail"@en	1
+COL title VAL  "Samsung 46" Public Display UH46F5"@tl	COL title VAL  "Samsung LH46UHFCLBB - 116,8 cm (46\") - LED - 1920 x 1080 Pixel - 700 cd/m² - Full HD - 8 ms"@ca	1
+COL title VAL  "DJI Mavic 2 Car Battery Charger"@en	COL title VAL  "DJI Mavic 2 Car Charger"@en	1
+COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	COL title VAL  "iXpand, 64GB, USB 3.0 USB-nøgle USB Type-A / Lightning 3.2 Gen 1 (3.1 Gen 1) Sort, Sølv"@no	1
+COL title VAL  "DJI Mavic Pro automobilinis įkroviklis / Car Charger"@lt	COL title VAL  "DJI Mavic 2 Car Charger"@en	0
+COL title VAL  "DJI Mavic Air Car Charger"@en	COL title VAL  "Mavic 2 Part11 Car Charger"@en	0
+COL title VAL  "DJI Accessory CP.PT.000562 Mavic Part 6 Car Charger Retail"@en	COL title VAL  "DJI Drone Accessory CP.PT.00000120.01 Mavic Air Part 4 Car Charger Retail"@en	0
+COL title VAL  "DJI Mavic Pro Car Charger, Black (CP.PT.000562)"@en	COL title VAL  "DJI Mavic PRO - Car Charger"@en	1
+COL title VAL  "Genuine SanDiskiXpand Flash Drive 64GB - iPhone lightning connector"@en	COL title VAL  "SanDisk iXpand Flash Drive 64GB USB for iPhone Lightning Connector"@en	1
+COL title VAL  "DJI Accessory CP.PT.000562 Mavic Part 6 Car Charger Retail"@en	COL title VAL  "DJI Mavic Pro automobilinis įkroviklis / Car Charger"@lt	1
+COL title VAL  "MAVIC AIR PART 4 Car Charger"@en	COL title VAL  "DJI Mavic 2 Car Charger"@en	0
+COL title VAL  "DJI Mavic Pro Car Charger, Black (CP.PT.000562)"@en	COL title VAL  "DJI Accessory CP.PT.000562 Mavic Part 6 Car Charger Retail"@en	1
+COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	COL title VAL  "SanDisk, iXpand, flash drive, 64GB"@sv	1
+COL title VAL  "Mavic 2 Part11 Car Charger"@en	COL title VAL  "MAVIC AIR PART 4 Car Charger"@en	0
+COL title VAL  "DJI Mavic 2 Car Charger"@en	COL title VAL  "DJI Mavic Pro Car Charger, Black (CP.PT.000562)"@en	0
+COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	1
+COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	COL title VAL  "iXpand, 64GB, USB 3.0 USB-nøgle USB Type-A / Lightning 3.2 Gen 1 (3.1 Gen 1) Sort, Sølv"@no	1
+COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	COL title VAL  "Genuine SanDiskiXpand Flash Drive 64GB - iPhone lightning connector"@en	1
+COL title VAL  "Samsung UH46F5 46\" LED Full HD Nero display professionale"@en	COL title VAL  "Samsung LH46UHFCLBB - 116,8 cm (46\") - LED - 1920 x 1080 Pixel - 700 cd/m² - Full HD - 8 ms"@ca	1
+COL title VAL  "DJI Mavic Air Car Charger"@en	COL title VAL  "DJI Mavic 2 Car Battery Charger"@en	0
+COL title VAL  "DJI Mavic Pro Car Charger, Black (CP.PT.000562)"@en	COL title VAL  "DJI Drone Accessory CP.PT.00000120.01 Mavic Air Part 4 Car Charger Retail"@en	0
+COL title VAL  "iXpand, 64GB, USB 3.0 USB-nøgle USB Type-A / Lightning 3.2 Gen 1 (3.1 Gen 1) Sort, Sølv"@no	COL title VAL  "SanDisk, iXpand, flash drive, 64GB"@sv	1
+COL title VAL  "64GB SanDisk iXpand V2 USB Flash Drive for iPhone and iPad lightning"@en	COL title VAL  "SanDisk, iXpand, flash drive, 64GB"@sv	1
+COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	COL title VAL  "SanDisk iXpand Flash Drive 64GB USB for iPhone Lightning Connector"@en	1
+COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	1
+COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	COL title VAL  "iXpand, 64GB, USB 3.0 USB-nøgle USB Type-A / Lightning 3.2 Gen 1 (3.1 Gen 1) Sort, Sølv"@no	1
+COL title VAL  "64GB SanDisk iXpand V2 USB Flash Drive for iPhone and iPad lightning"@en	COL title VAL  "Sandisk Ixpand 64GB USB3.0 Flash Drive for Iphone, Ipad"@en	1
+COL title VAL  "Mavic 2 Part11 Car Charger"@en	COL title VAL  "DJI Mavic PRO - Car Charger"@en	0
+COL title VAL  "iXpand, 64GB, USB 3.0 USB-nøgle USB Type-A / Lightning 3.2 Gen 1 (3.1 Gen 1) Sort, Sølv"@no	COL title VAL  "64GB SanDisk iXpand V2 USB Flash Drive for iPhone and iPad lightning"@en	1
+COL title VAL  "MAVIC AIR PART 4 Car Charger"@en	COL title VAL  "DJI Drone Accessory CP.PT.00000120.01 Mavic Air Part 4 Car Charger Retail"@en	1
+COL title VAL  "Samsung UH46F5 46\" LED Full HD Nero display professionale"@en	COL title VAL  "Samsung 46" Public Display UH46F5"@tl	1
+COL title VAL  "Genuine SanDiskiXpand Flash Drive 64GB - iPhone lightning connector"@en	COL title VAL  "iXpand, 64GB, USB 3.0 USB-nøgle USB Type-A / Lightning 3.2 Gen 1 (3.1 Gen 1) Sort, Sølv"@no	1
+COL title VAL  "Samsung UH46F5 46\" LED Full HD Nero display professionale"@en	COL title VAL  "Samsung UH46F5 46\" D-LED DID LFD monitor"@tl	1
+COL title VAL  "DJI Mavic Pro automobilinis įkroviklis / Car Charger"@lt	COL title VAL  "DJI Mavic Air Car Charger"@en	0
+COL title VAL  "DJI Accessory CP.PT.000562 Mavic Part 6 Car Charger Retail"@en	COL title VAL  "DJI Mavic PRO - Car Charger"@en	1
+COL title VAL  "DJI Mavic PRO - Car Charger"@en	COL title VAL  "DJI Mavic Pro automobilinis įkroviklis / Car Charger"@lt	1
+COL title VAL  "SanDisk iXpand Flash Drive 64GB USB for iPhone Lightning Connector"@en	COL title VAL  "Sandisk Ixpand Usb 3.0 Ios Drive 64Gb"@en	1
+COL title VAL  "Genuine SanDiskiXpand Flash Drive 64GB - iPhone lightning connector"@en	COL title VAL  "SanDisk, iXpand, flash drive, 64GB"@sv	1
+COL title VAL  "64GB SanDisk iXpand V2 USB Flash Drive for iPhone and iPad lightning"@en	COL title VAL  "Sandisk SanDisk iXpand 64GB Flash Drive, Grey, iOS, USB 3.0"@en	1
+COL title VAL  "DJI Mavic Pro automobilinis įkroviklis / Car Charger"@lt	COL title VAL  "DJI Mavic Pro Car Charger, Black (CP.PT.000562)"@en	1
+COL title VAL  "Samsung LH46UHFCLBB - 116,8 cm (46\") - LED - 1920 x 1080 Pixel - 700 cd/m² - Full HD - 8 ms"@ca	COL title VAL  "Samsung UH46F5 46\" D-LED DID LFD monitor"@tl	1

@@ -1,0 +1,21 @@
+COL title VAL  "Samsung QN65Q70TAFXZA 65 Class (64.5 Diag.) 4K Ultra HD HDR Smart QLED TV"@de	COL title VAL  "65\" LG OLED65GXPUA 4K HDR10 SMART AI OLED TV WITH THINQ"@de	0
+COL title VAL  "Philips 32PFS5803 - Full HD Smart tv"@en	COL title VAL  "Philips 50PUS7504/12, SMART TV LED Android, Ultra HD 4K, Ambilight, 126 cm"@en	0
+COL title VAL  "49\" LG 49UK6300 4K HDR Smart LED UHD TV"@de	COL title VAL  "TV LED LG 32\" HD READY DVB-T2/C/S2"@en	0
+COL title VAL  "SAMSUNG 65-inch Class QLED Q70T Series - 4K UHDDual LED Quantum HDR Smart TV with Alexa Built-in (QN65Q70TAFXZA, 2020 Model)"@en	COL title VAL  "Samsung QN65Q70TAFXZA 65\" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	1
+COL title VAL  "LG 65UN73006LA 4K UHD TV 65\" (165cm) DVB-T2/C/S2"@en	COL title VAL  "55" Class TU7000 Crystal UHD 4K Smart TV (2020)"@en	0
+COL title VAL  "Samsung QN65Q70TA 65'' HDR UHD Smart QLED TV (2020)"@vi	COL title VAL  "SAMSUNG 65-inch Class QLED Q70T Series - 4K UHDDual LED Quantum HDR Smart TV with Alexa Built-in (QN65Q70TAFXZA, 2020 Model)"@en	1
+COL title VAL  "Sony 32\" HD Ready Smart LED TV - Black | KDL32WE613BU"@en	COL title VAL  "Philips 32PFS5803 - Full HD Smart tv"@en	0
+COL title VAL  "Samsung QN65Q70T 65\" QLED 4K Smart TV"@vi	COL title VAL  "65\" Q70T Series QLED 4K UHD Smart TV QN65Q70TAFXZA (2020 Model)"@de	1
+COL title VAL  "49\" LG 49UK6300 4K HDR Smart LED UHD TV"@de	COL title VAL  "55 IN FLAT LED 4K TV"@en	0
+COL title VAL  "65\" LG OLED65GXPUA 4K HDR10 SMART AI OLED TV WITH THINQ"@de	COL title VAL  "LG OLED65GXPUA Alexa Built-in GX Series 65\" 4K Ultra HD Smart OLED TV"@de	1
+COL title VAL  "Samsung Q70T 65\" 4K QLED TV"@tl	COL title VAL  "Samsung 50\" 4K UHD HDR QLED Smart TV (QN50Q60TAFXZC)"@id	0
+COL title VAL  "Philips CorePro LED PLC 4.5W 840 2P G24d-1 (2pin- vervangt 13W)"@en	COL title VAL  "Philips 32PFS5803 - Full HD Smart tv"@en	0
+COL title VAL  "SONY BRAVIA KDL32WE613BU 32\" HDR LED TV"@de	COL title VAL  "Sony KD-75ZH8 ZH8, Full Array LED, 8K, HDR"@en	0
+COL title VAL  "Samsung QN65Q70TAFXZA 65\" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	COL title VAL  "65" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	1
+COL title VAL  "50\" Q60T Series QLED 4K UHD Smart TV QN50Q60TAFXZA (2020 Model)"@de	COL title VAL  "LG OLED65GXPUA Alexa Built-in GX Series 65\" 4K Ultra HD Smart OLED TV"@de	0
+COL title VAL  "LG GXPUA 65" HDR 4K UHD Smart OLED TV (2020)"@de	COL title VAL  "Samsung QN65Q70T 65\" QLED 4K Smart TV"@vi	0
+COL title VAL  "43\" 2020 Q60T 4K Smart QLED TV"@en	COL title VAL  "65\" Q70T Series QLED 4K UHD Smart TV QN65Q70TAFXZA (2020 Model)"@de	0
+COL title VAL  "LG GXPUA 65" HDR 4K UHD Smart OLED TV (2020)"@de	COL title VAL  "43\" 2020 Q60T 4K Smart QLED TV"@en	0
+COL title VAL  "Philips 32PFS5803 - Full HD Smart tv"@en	COL title VAL  "Philips 32PFS5803 Full HD 32″"@en	1
+COL title VAL  "49\" LG 49UK6300 4K HDR Smart LED UHD TV"@de	COL title VAL  "Xiaomi Mi TV 4S Smart TV 55 Zoll 4K Ultra HD LED WiFi Schwarz"@de	0
+COL title VAL  "65\" Q70T Series QLED 4K UHD Smart TV QN65Q70TAFXZA (2020 Model)"@de	COL title VAL  "65" Class Q70T QLED 4K UHD HDR Smart TV (2020)"@en	1

@@ -1,0 +1,240 @@
+COL title VAL  "0000005990| Sony E 30mm F3.5 Macro Lens"@en	COL title VAL  "SONY FE 24-240mm F3.5-6.3 OSS Lens - SEL24240"@de	0
+COL title VAL  "0000012990| Fujifilm XF 56mm F1.2 R Lens"@sl	COL title VAL  "0000005990| Sony E 30mm F3.5 Macro Lens"@en	0
+COL title VAL  "Instax Mini Film Monochrome (10 Exposures)"@en	COL title VAL  "Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)"@de	0
+COL title VAL  "Manfrotto MT055XPRO3 Aluminum Tripod with 502HD Fluid Head Hybrid Video Kit"@en	COL title VAL  "Manfrotto MHXPRO-2W Video Fluid Head"@en	0
+COL title VAL  "Canon EF-S 18-135 / 3.5-5.6IS USM Nano BULK"@tl	COL title VAL  "Canon EF-S 18-135mm f/3.5-5.6 IS USM Zoom Lens"@en	1
+COL title VAL  "SONY Sony Lens FE 20mm F1.8 G Full-frame Large-aperture Ultra-Wide-Angle G Lens"@fr	COL title VAL  "Sony FE 20mm f/1.8 G Lens"@en	1
+COL title VAL  "Fuji Instax Mini Monochrome BLACK AND WHITE Instant Film - 10 Shot Pack"@de	COL title VAL  "Fujifilm Instax Square Film Black Frame 10 Shots"@en	0
+COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens"@de	COL title VAL  "Sony FE 20mm f/1.8 G Lens"@en	0
+COL title VAL  "EF 100mm f/2.8L Macro IS USM"@en	COL title VAL  "Sigma 50mm f1.4 DG HSM Art Canon Fit Lens"@en	0
+COL title VAL  "Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)"@de	COL title VAL  "[Fujifilm]100 Sheet Fujifilm Instax Square Plain White Instant Polaroid Film for SQ 10 Camera | SP3 Printer"@en	0
+COL title VAL  "Fujifilm XF 8-16mm 1:2.8 R LM WR"@sw	COL title VAL  "Fujifilm XF 56mm 1:1,2 R"@sw	0
+COL title VAL  "Hikvision DS-1273ZJ-140 Wall Mount Bracket"@en	COL title VAL  "Hikvision DS-1273ZJ-140 Bracket"@en	1
+COL title VAL  "Canon EF-S 55-250 mm f/4-5.6 IS STM"@en	COL title VAL  "Canon EF-S 18-135mm f/3.5-5.6 IS USM Zoom Lens"@en	0
+COL title VAL  "Sigma 50mm F1.4 DG HSM Art Lens [Nikon]"@de	COL title VAL  "Sigma 35mm F1.4 DG HSM Nikon [ART]"@tl	0
+COL title VAL  "Manfrotto Lightweight fluid video head with flat base"@en	COL title VAL  "Manfrotto MHXPRO-2W Video Fluid Head"@en	0
+COL title VAL  "Fujifilm Instax Mini Film Rainbow"@de	COL title VAL  "Fujifilm Instax Square Instant Film - 10 Photos"@en	0
+COL title VAL  "Sigma 105mm F1.4 DG HSM Canon [ART]"@tl	COL title VAL  "Sigma 50mm f1.4 DG HSM Art Canon Fit Lens"@en	0
+COL title VAL  "Canon EF-S 18-135mm f/3.5-5.6 IS USM Zoom Lens"@en	COL title VAL  "0000071495| Nikon Nikkor AF-S 24-85mm f/3.5-4.5G ED VR Lens"@da	0
+COL title VAL  "Sony FE 70-200mm f/4.0 G OSS Lens"@en	COL title VAL  "Sony SEL-70200G F4 OSS"@pl	1
+COL title VAL  "SIGMA 105mm f/1.4 DG HSM Art Lens for Canon EF"@en	COL title VAL  "Canon EF-S 18-135mm f/3.5-5.6 IS USM Zoom Lens"@en	0
+COL title VAL  "Canon Canon EF-S 10-18mm f/4.5-5.6 IS STM"@en	COL title VAL  "EF-S 10-18mm F/4.5-5.6 IS STM Ultra-Wide Angle Zoom Lens"@de	1
+COL title VAL  "Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)"@de	COL title VAL  "Fujifilm Instax Mini Film Rainbow"@de	0
+COL title VAL  "Sony FE 20mm f/1.8 G Lens"@en	COL title VAL  "Sony 30mm F3.5 Macro E-Mount Lens"@en	0
+COL title VAL  "AF-S 24–85mm f/3.5–4.5G ED"@de	COL title VAL  "Sony 24-240mm f/3.5-6.3 Zoom Lens"@en	0
+COL title VAL  "Fujifilm Instax Square Instant Film - 10 Photos"@en	COL title VAL  "Fuji Instax Mini Monochrome BLACK AND WHITE Instant Film - 10 Shot Pack"@de	0
+COL title VAL  "Manfrotto Lightweight fluid video head with flat base"@en	COL title VAL  "Manfrotto MKBFRTA4BK-BH Befree Advanced Aluminium Twist Lock Tripod with Ball Head"@en	0
+COL title VAL  "Manfrotto MVH502A Fluid Head and MVT502AM Tripod with Carrying Bag"@en	COL title VAL  "Manfrotto MHXPRO-2W XPRO Fluid Kopf"@en	0
+COL title VAL  "Canon EF-S 55-250 mm f/4-5.6 IS STM"@en	COL title VAL  "Canon EF-S 55-250mm F4-5.6 IS STM Lens"@en	1
+COL title VAL  "SIGMA 105mm f/1.4 DG HSM Art Lens for Canon EF"@en	COL title VAL  "Sigma 105mm F1.4 DG HSM Canon [ART]"@tl	1
+COL title VAL  "Manfrotto MVH502A Fluid Head and MVT502AM Tripod with Carrying Bag"@en	COL title VAL  "Manfrotto MHXPRO-2W Video Fluid Head"@en	0
+COL title VAL  "Fujifilm XF 80mm f/2.8 R LM OIS WR Macro"@en	COL title VAL  "Fujifilm XF 56mm F1.2 R APD"@ro	0
+COL title VAL  "Fujifilm Instax Square Film Black Frame 10 Shots"@en	COL title VAL  "Fuji Instax Mini RAINBOW COLOURS Instant Film for Fujifilm Instax Mini Cameras - 10 Shot Pack"@en	0
+COL title VAL  "Sigma 50mm f1.4 DG HSM Art Canon Fit Lens"@en	COL title VAL  "Samyang 24mm F1.4 ED AS IF UMC Lens in Nikon Fit"@tl	0
+COL title VAL  "Canon EF-S 18-135mm f/3.5-5.6 IS USM Zoom Lens"@en	COL title VAL  "Sony 24-240mm f/3.5-6.3 Zoom Lens"@en	0
+COL title VAL  "Fuji Instax Mini Monochrome BLACK AND WHITE Instant Film - 10 Shot Pack"@de	COL title VAL  "Nikon AF-S NIKKOR 50MM F1.8G"@de	0
+COL title VAL  "Fujifilm FUJINON XF 23/2 R WR"@sw	COL title VAL  "Fujifilm XF 56mm F1.2 R APD"@ro	0
+COL title VAL  "Fujifilm XF 23mm f1.4 R Lens"@da	COL title VAL  "Full Frame E-Mount 24mm F1.4 G-Master Lens"@de	0
+COL title VAL  "Manfrotto MT055XPRO3 Aluminum Tripod with 502HD Fluid Head Hybrid Video Kit"@en	COL title VAL  "Manfrotto MKBFRTA4BK-BH Befree Advanced Alu Reisestativ Kit Twist schwarz"@en	0
+COL title VAL  "Sigma 50mm F1.4 DG HSM Art Lens [Nikon]"@de	COL title VAL  "Sigma 105mm F1.4 DG HSM Canon [ART]"@tl	0
+COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens"@de	COL title VAL  "Sigma 50mm F1.4 DG HSM Art Lens [Nikon]"@de	0
+COL title VAL  "Sigma 35mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 340955"@de	COL title VAL  "Sigma 50mm f/1.4 DG HSM Art"@de	0
+COL title VAL  "Sigma 35mm F1.4 DG HSM Nikon [ART]"@tl	COL title VAL  "Sigma 35mm f1.4 EX DG HSM A for Canon EOS"@en	0
+COL title VAL  "Canon EF-S 18-200mm f3.5-5.6 IS Lens"@en	COL title VAL  "SONY FE 24-240mm F3.5-6.3 OSS Lens - SEL24240"@de	0
+COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens"@de	COL title VAL  "Sigma 35mm f1.4 EX DG HSM A for Canon EOS"@en	1
+COL title VAL  "Manfrotto MVH502A Fluid Head and MVT502AM Tripod with Carrying Bag"@en	COL title VAL  "Manfrotto MVH502AH Head Pro Video 502AH"@it	0
+COL title VAL  "FE 50MM F/1.8 STANDARD PRIME LENS FOR E-MOUNT CAMERAS"@en	COL title VAL  "Sigma 50mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 311955"@de	0
+COL title VAL  "Sigma 35mm f1.4 EX DG HSM A for Canon EOS"@en	COL title VAL  "Fujifilm XF 80mm f2.8 LM OIS WR Macro Lens"@pt	0
+COL title VAL  "Canon EF 100mm f2.8 L Macro IS USM Lens"@it	COL title VAL  "Canon EF 100mm F2.8L Macro IS USM + BONUS"@it	0
+COL title VAL  "Fuji Instax Mini RAINBOW COLOURS Instant Film for Fujifilm Instax Mini Cameras - 10 Shot Pack"@en	COL title VAL  "Fuji Instax Mini Monochrome BLACK AND WHITE Instant Film - 10 Shot Pack"@de	0
+COL title VAL  "FE 50MM F/1.8 STANDARD PRIME LENS FOR E-MOUNT CAMERAS"@en	COL title VAL  "HIKVISION 2MP 25X NETWORK IR SPEED DOME CAMERA DS-2DE5225IW-AE"@so	0
+COL title VAL  "Canon Canon EF-S 10-18mm f/4.5-5.6 IS STM"@en	COL title VAL  "SIGMA 105mm f/1.4 DG HSM Art Lens for Canon EF"@en	0
+COL title VAL  "Manfrotto MKBFRTA4BK-BH Befree Advanced Alu Reisestativ Kit Twist schwarz"@en	COL title VAL  "Manfrotto MKBFRTA4BK-BH Befree Advanced Aluminium Twist Lock Tripod with Ball Head"@en	1
+COL title VAL  "Fujifilm XF 56mm 1:1,2 R"@sw	COL title VAL  "Fujifilm 8-16mm f2.8 XF R LM WR Lens"@de	0
+COL title VAL  "[Fujifilm]100 Sheet Fujifilm Instax Square Plain White Instant Polaroid Film for SQ 10 Camera | SP3 Printer"@en	COL title VAL  "Fuji Instax Mini RAINBOW COLOURS Instant Film for Fujifilm Instax Mini Cameras - 10 Shot Pack"@en	0
+COL title VAL  "Sony 30mm F3.5 Macro E-Mount Lens"@en	COL title VAL  "Full Frame E-Mount 24mm F1.4 G-Master Lens"@de	0
+COL title VAL  "Sony FE 20mm f/1.8 G Lens"@en	COL title VAL  "FE 50MM F/1.8 STANDARD PRIME LENS FOR E-MOUNT CAMERAS"@en	0
+COL title VAL  "Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)"@de	COL title VAL  "Fujifilm Instax Square Instant Film - 10 Photos"@en	0
+COL title VAL  "Manfrotto Stativkopf Fluid Video Neiger MVH500AH"@de	COL title VAL  "Manfrotto Lightweight fluid video head with flat base"@en	1
+COL title VAL  "Canon EF 100mm F2.8L Macro IS USM + BONUS"@it	COL title VAL  "Canon EF-S 18-135mm f/3.5-5.6 IS USM Zoom Lens"@en	0
+COL title VAL  "Sony FE 70-200mm f/4.0 G OSS Lens"@en	COL title VAL  "Sony SEL FE24mm F1.4 GM"@en	0
+COL title VAL  "Manfrotto Stativ Video Set MVH500A + MVT502AM + Tasche"@en	COL title VAL  "Manfrotto MVH502A Fluid Head and MVT502AM Tripod with Carrying Bag"@en	1
+COL title VAL  "Fujifilm Fujinon XF 23/1,4"@sw	COL title VAL  "Fujifilm Fujinon XF-56mm f1.2 APD Lens"@fr	0
+COL title VAL  "Fujifilm Instax Square Instant Film - 20 Photos"@en	COL title VAL  "Fujifilm Instax Square Film Black Frame 10 Shots"@en	0
+COL title VAL  "Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)"@de	COL title VAL  "Fujifilm Instax Square Film Black Frame 10 Shots"@en	1
+COL title VAL  "Fujifilm XF 56mm 1:1,2 R"@sw	COL title VAL  "0000012990| Fujifilm XF 56mm F1.2 R Lens"@sl	1
+COL title VAL  "Sigma 35mm F1.4 DG HSM Nikon [ART]"@tl	COL title VAL  "SIGMA 105mm f/1.4 DG HSM Art Lens for Canon EF"@en	0
+COL title VAL  "Canon EF-M 18-150mm f/3.5-6.3 IS STM Lens - Ex Kit (Black)"@en	COL title VAL  "Canon EF-S 18-135 / 3.5-5.6IS USM Nano BULK"@tl	0
+COL title VAL  "Fujifilm Instax Square Film - 20 Sheets"@en	COL title VAL  "SONY Sony Lens FE 20mm F1.8 G Full-frame Large-aperture Ultra-Wide-Angle G Lens"@fr	0
+COL title VAL  "Fujifilm XF 80mm f/2.8 R LM OIS WR Macro"@en	COL title VAL  "Fujifilm 8-16mm f2.8 XF R LM WR Lens"@de	0
+COL title VAL  "Fujifilm FUJINON XF 23/2 R WR"@sw	COL title VAL  "Fujifilm XF 80mm f/2.8 R LM OIS WR Macro"@en	0
+COL title VAL  "Fujifilm XF 56mm F1.2 R APD"@ro	COL title VAL  "0000012990| Fujifilm XF 56mm F1.2 R Lens"@sl	0
+COL title VAL  "Fujifilm XF 56mm 1:1,2 R"@sw	COL title VAL  "Fujifilm XF 23mm f1.4 R Lens"@da	0
+COL title VAL  "SIGMA 105mm f/1.4 DG HSM Art Lens for Canon EF"@en	COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens"@de	0
+COL title VAL  "Canon Canon EF-S 10-18mm f/4.5-5.6 IS STM"@en	COL title VAL  "Canon EF-M 18-150mm f/3.5-6.3 IS STM Lens - Ex Kit (Black)"@en	0
+COL title VAL  "Fujifilm XF 80mm f/2.8 R LM OIS WR Macro"@en	COL title VAL  "Fujifilm XF 80mm f2.8 LM OIS WR Macro Lens"@pt	1
+COL title VAL  "Sigma 50mm f/1.4 DG HSM Art"@de	COL title VAL  "Sigma 50mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 311955"@de	0
+COL title VAL  "Canon EF 100mm f2.8 L Macro IS USM Lens"@it	COL title VAL  "Canon EF-S 18-135mm f/3.5-5.6 IS USM Zoom Lens"@en	0
+COL title VAL  "Sigma 50mm F1.4 DG HSM Art Lens [Nikon]"@de	COL title VAL  "Sigma 50mm f/1.4 DG HSM Art"@de	0
+COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens"@de	COL title VAL  "Sigma 50mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 311955"@de	0
+COL title VAL  "Sigma 50mm f1.4 DG HSM Art Canon Fit Lens"@en	COL title VAL  "Sigma 50mm f/1.4 DG HSM Art"@de	1
+COL title VAL  "Manfrotto Lightweight fluid video head with flat base"@en	COL title VAL  "Manfrotto MVH502AH Head Pro Video 502AH"@it	0
+COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens"@de	COL title VAL  "Sigma 35mm F1.4 DG HSM Nikon [ART]"@tl	0
+COL title VAL  "Manfrotto MVH502AH Head Pro Video 502AH"@it	COL title VAL  "Manfrotto MT055XPRO3 Aluminum Tripod with 502HD Fluid Head Hybrid Video Kit"@en	1
+COL title VAL  "Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)"@de	COL title VAL  "Fuji Instax Mini RAINBOW COLOURS Instant Film for Fujifilm Instax Mini Cameras - 10 Shot Pack"@en	0
+COL title VAL  "Canon Canon EF-S 10-18mm f/4.5-5.6 IS STM"@en	COL title VAL  "Canon EF-S 55-250 mm f/4-5.6 IS STM"@en	0
+COL title VAL  "SIGMA 105mm f/1.4 DG HSM Art Lens for Canon EF"@en	COL title VAL  "Canon EF-M 18-150mm, Black"@en	0
+COL title VAL  "Sony FE 70-200mm f/4.0 G OSS Lens"@en	COL title VAL  "Sony FE 20mm f/1.8 G Lens"@en	0
+COL title VAL  "Canon EF-S 18-200mm f3.5-5.6 IS Lens"@en	COL title VAL  "Canon EF-S 18-135 / 3.5-5.6IS USM Nano BULK"@tl	0
+COL title VAL  "Sony 24-240mm f/3.5-6.3 Zoom Lens"@en	COL title VAL  "Sony FE 20mm f/1.8 G Lens"@en	0
+COL title VAL  "Fujifilm 8-16mm f2.8 XF R LM WR Lens"@de	COL title VAL  "Fujifilm XF 8-16mm 1:2.8 R LM WR"@sw	1
+COL title VAL  "Fujifilm Instax Mini Film Rainbow"@de	COL title VAL  "Fujifilm Instax Square Instant Film - 20 Photos"@en	0
+COL title VAL  "Sigma 35mm f1.4 EX DG HSM A for Canon EOS"@en	COL title VAL  "Instax Mini Film Monochrome (10 Exposures)"@en	0
+COL title VAL  "SIGMA 105mm f/1.4 DG HSM Art Lens for Canon EF"@en	COL title VAL  "Canon EF 100mm f2.8 L Macro IS USM Lens"@it	0
+COL title VAL  "Sigma 50mm F1.4 DG HSM Art Lens [Nikon]"@de	COL title VAL  "Sigma 50mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 311955"@de	1
+COL title VAL  "Sigma 35mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 340955"@de	COL title VAL  "Sigma 50mm F1.4 DG HSM Art Lens [Nikon]"@de	0
+COL title VAL  "Fujifilm Instax Square Film Black Frame 10 Shots"@en	COL title VAL  "Fujifilm Instax Square Film - 20 Sheets"@en	0
+COL title VAL  "Fujifilm XF 56mm F1.2 R APD"@ro	COL title VAL  "Fujifilm Fujinon XF-56mm f1.2 APD Lens"@fr	1
+COL title VAL  "Canon EF-S 55-250mm F4-5.6 IS STM Lens"@en	COL title VAL  "Canon Canon EF-S 10-18mm f/4.5-5.6 IS STM"@en	0
+COL title VAL  "Sigma 35mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 340955"@de	COL title VAL  "Sigma 35mm F1.4 DG HSM Nikon [ART]"@tl	1
+COL title VAL  "Canon EF-S 55-250mm F4-5.6 IS STM Lens"@en	COL title VAL  "Canon EF-S 18-200mm f3.5-5.6 IS Lens"@en	0
+COL title VAL  "Fujifilm XF 23mm f1.4 R Lens"@da	COL title VAL  "Fujifilm FUJINON XF 23/2 R WR"@sw	0
+COL title VAL  "Sigma 50mm f/1.4 DG HSM Art"@de	COL title VAL  "Sigma 105mm F1.4 DG HSM Canon [ART]"@tl	0
+COL title VAL  "EF 100mm f/2.8L Macro IS USM"@en	COL title VAL  "SIGMA 105mm f/1.4 DG HSM Art Lens for Canon EF"@en	0
+COL title VAL  "EF-S 10-18mm F/4.5-5.6 IS STM Ultra-Wide Angle Zoom Lens"@de	COL title VAL  "Canon EF-S 18-200mm f3.5-5.6 IS Lens"@en	0
+COL title VAL  "Manfrotto MKBFRTA4BK-BH Befree Advanced Aluminium Twist Lock Tripod with Ball Head"@en	COL title VAL  "Manfrotto MT055XPRO3 Aluminum Tripod with 502HD Fluid Head Hybrid Video Kit"@en	0
+COL title VAL  "Manfrotto Stativ Video Set MVH500A + MVT502AM + Tasche"@en	COL title VAL  "Manfrotto Stativkopf Fluid Video Neiger MVH500AH"@de	0
+COL title VAL  "Sigma 50mm f1.4 DG HSM Art Canon Fit Lens"@en	COL title VAL  "Sigma 50mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 311955"@de	0
+COL title VAL  "Canon EF-S 18-135 / 3.5-5.6IS USM Nano BULK"@tl	COL title VAL  "Canon EF-S 55-250mm F4-5.6 IS STM Lens"@en	0
+COL title VAL  "Canon EF-S 18-200mm f3.5-5.6 IS Lens"@en	COL title VAL  "Canon EF-S 18-135mm f/3.5-5.6 IS USM Zoom Lens"@en	0
+COL title VAL  "Manfrotto Lightweight fluid video head with flat base"@en	COL title VAL  "Manfrotto MVH502A Fluid Head and MVT502AM Tripod with Carrying Bag"@en	0
+COL title VAL  "Fujifilm XF 56mm F1.2 R APD"@ro	COL title VAL  "Fujifilm XF 23mm f1.4 R Lens"@da	0
+COL title VAL  "Fujifilm FUJINON XF 23/2 R WR"@sw	COL title VAL  "Fujifilm 8-16mm f2.8 XF R LM WR Lens"@de	0
+COL title VAL  "Sony FE 70-200mm f/4.0 G OSS Lens"@en	COL title VAL  "SONY Sony Lens FE 20mm F1.8 G Full-frame Large-aperture Ultra-Wide-Angle G Lens"@fr	0
+COL title VAL  "Manfrotto MKBFRTA4BK-BH Befree Advanced Alu Reisestativ Kit Twist schwarz"@en	COL title VAL  "Canon Canon EF-S 10-18mm f/4.5-5.6 IS STM"@en	0
+COL title VAL  "Canon EF-M 18-150mm f/3.5-6.3 IS STM Lens - Ex Kit (Black)"@en	COL title VAL  "Canon EF-S 18-135mm f/3.5-5.6 IS USM Zoom Lens"@en	0
+COL title VAL  "Manfrotto Lightweight fluid video head with flat base"@en	COL title VAL  "Manfrotto MT055XPRO3 Aluminum Tripod with 502HD Fluid Head Hybrid Video Kit"@en	0
+COL title VAL  "Fujifilm Instax Square Instant Film - 10 Photos"@en	COL title VAL  "Fujifilm Instax Square Film Black Frame 10 Shots"@en	0
+COL title VAL  "EF-S 10-18mm F/4.5-5.6 IS STM Ultra-Wide Angle Zoom Lens"@de	COL title VAL  "Canon EF-S 18-135mm f/3.5-5.6 IS USM Zoom Lens"@en	0
+COL title VAL  "Full Frame E-Mount 24mm F1.4 G-Master Lens"@de	COL title VAL  "SONY Sony Lens FE 20mm F1.8 G Full-frame Large-aperture Ultra-Wide-Angle G Lens"@fr	0
+COL title VAL  "Canon EF-S 18-200mm f3.5-5.6 IS Lens"@en	COL title VAL  "Sony 30mm F3.5 Macro E-Mount Lens"@en	0
+COL title VAL  "Samyang 24mm F1.4 ED AS IF UMC Lens in Nikon Fit"@tl	COL title VAL  "Sigma 50mm F1.4 DG HSM Art Lens [Nikon]"@de	0
+COL title VAL  "Fujifilm Instax Square Instant Film - 20 Photos"@en	COL title VAL  "Fujifilm Instax Square Film - 20 Sheets"@en	0
+COL title VAL  "Fujifilm Instax Square Film - 20 Sheets"@en	COL title VAL  "Fujifilm Instax Square Instant Film - 10 Photos"@en	1
+COL title VAL  "SONY FE 24-240mm F3.5-6.3 OSS Lens - SEL24240"@de	COL title VAL  "Sony FE 20mm f/1.8 G Lens"@en	0
+COL title VAL  "Nikon AF-S NIKKOR 50MM F1.8G"@de	COL title VAL  "Sigma 50mm F1.4 DG HSM Art Lens [Nikon]"@de	0
+COL title VAL  "Sigma 50mm f1.4 DG HSM Art Canon Fit Lens"@en	COL title VAL  "Sigma 35mm F1.4 DG HSM Nikon [ART]"@tl	0
+COL title VAL  "Fujifilm Instax Square Film Black Frame 10 Shots"@en	COL title VAL  "Fujifilm Instax Mini Film Rainbow"@de	0
+COL title VAL  "SIGMA 105mm f/1.4 DG HSM Art Lens for Canon EF"@en	COL title VAL  "Sigma 35mm f1.4 EX DG HSM A for Canon EOS"@en	0
+COL title VAL  "Sigma 50mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 311955"@de	COL title VAL  "SIGMA 105mm f/1.4 DG HSM Art Lens for Canon EF"@en	0
+COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens"@de	COL title VAL  "Sigma 50mm f/1.4 DG HSM Art"@de	0
+COL title VAL  "Sigma 35mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 340955"@de	COL title VAL  "SIGMA 105mm f/1.4 DG HSM Art Lens for Canon EF"@en	0
+COL title VAL  "Canon Canon EF-S 10-18mm f/4.5-5.6 IS STM"@en	COL title VAL  "Canon EF-S 18-200mm f3.5-5.6 IS Lens"@en	0
+COL title VAL  "Fujifilm XF 8-16mm 1:2.8 R LM WR"@sw	COL title VAL  "Fujifilm XF 80mm f2.8 LM OIS WR Macro Lens"@pt	0
+COL title VAL  "Instax Mini Film Monochrome (10 Exposures)"@en	COL title VAL  "Fuji Instax Mini RAINBOW COLOURS Instant Film for Fujifilm Instax Mini Cameras - 10 Shot Pack"@en	0
+COL title VAL  "Fujifilm XF 23mm f1.4 R Lens"@da	COL title VAL  "Fujifilm XF 8-16mm 1:2.8 R LM WR"@sw	0
+COL title VAL  "0000012990| Fujifilm XF 56mm F1.2 R Lens"@sl	COL title VAL  "Fujifilm Fujinon XF-56mm f1.2 APD Lens"@fr	0
+COL title VAL  "AF-S 24–85mm f/3.5–4.5G ED"@de	COL title VAL  "0000071495| Nikon Nikkor AF-S 24-85mm f/3.5-4.5G ED VR Lens"@da	1
+COL title VAL  "Sigma 35mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 340955"@de	COL title VAL  "Sigma 50mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 311955"@de	0
+COL title VAL  "Manfrotto MHXPRO-2W Video Fluid Head"@en	COL title VAL  "Manfrotto MVH502AH Head Pro Video 502AH"@it	0
+COL title VAL  "Fujifilm Instax Square Instant Film - 20 Photos"@en	COL title VAL  "Fuji Instax Mini RAINBOW COLOURS Instant Film for Fujifilm Instax Mini Cameras - 10 Shot Pack"@en	0
+COL title VAL  "Fuji Instax Mini Monochrome BLACK AND WHITE Instant Film - 10 Shot Pack"@de	COL title VAL  "Fujifilm Instax Mini Film Rainbow"@de	0
+COL title VAL  "Sony FE 20mm f/1.8 G Lens"@en	COL title VAL  "Canon EF-S 55-250mm F4-5.6 IS STM Lens"@en	0
+COL title VAL  "Manfrotto MT055XPRO3 Aluminum Tripod with 502HD Fluid Head Hybrid Video Kit"@en	COL title VAL  "Manfrotto MVH502A Fluid Head and MVT502AM Tripod with Carrying Bag"@en	0
+COL title VAL  "Sony FE 50mm f1.8 Lens"@en	COL title VAL  "SONY FE 24-240mm F3.5-6.3 OSS Lens - SEL24240"@de	0
+COL title VAL  "Canon EF-S 18-135mm f/3.5-5.6 IS USM Zoom Lens"@en	COL title VAL  "Canon EF-S 55-250mm F4-5.6 IS STM Lens"@en	0
+COL title VAL  "Fujifilm XF 23mm f1.4 R Lens"@da	COL title VAL  "Fujifilm Fujinon XF 23/1,4"@sw	1
+COL title VAL  "Fujifilm XF 23mm f1.4 R Lens"@da	COL title VAL  "Fujifilm 8-16mm f2.8 XF R LM WR Lens"@de	0
+COL title VAL  "Full Frame E-Mount 24mm F1.4 G-Master Lens"@de	COL title VAL  "Samyang 24mm F1.4 ED AS IF UMC Lens in Nikon Fit"@tl	0
+COL title VAL  "AF-S 24–85mm f/3.5–4.5G ED"@de	COL title VAL  "Canon EF-S 18-135mm f/3.5-5.6 IS USM Zoom Lens"@en	0
+COL title VAL  "Sigma 35mm F1.4 DG HSM Nikon [ART]"@tl	COL title VAL  "Samyang AE 24mm F1.4 Nikon Black | 2 Years Warranty"@en	0
+COL title VAL  "SIGMA 105mm f/1.4 DG HSM Art Lens for Canon EF"@en	COL title VAL  "Sigma 50mm f1.4 DG HSM Art Canon Fit Lens"@en	0
+COL title VAL  "Ilford Ilford FP4+ 125 120 B&W Film - Single Roll"@en	COL title VAL  "Canon EF-S 18-200mm f3.5-5.6 IS Lens"@en	1
+COL title VAL  "SONY FE 24-240mm F3.5-6.3 OSS Lens - SEL24240"@de	COL title VAL  "Sony FE 70-200mm f/4.0 G OSS Lens"@en	0
+COL title VAL  "Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)"@de	COL title VAL  "Fuji Instax Mini Monochrome BLACK AND WHITE Instant Film - 10 Shot Pack"@de	0
+COL title VAL  "AF-S 24–85mm f/3.5–4.5G ED"@de	COL title VAL  "Nikon AF-S NIKKOR 50MM F1.8G"@de	0
+COL title VAL  "Manfrotto MHXPRO-2W Video Fluid Head"@en	COL title VAL  "Manfrotto Stativ Video Set MVH500A + MVT502AM + Tasche"@en	0
+COL title VAL  "Sony SEL FE24mm F1.4 GM"@en	COL title VAL  "Sony FE 50mm f1.8 Lens"@en	0
+COL title VAL  "Fujifilm Fujinon XF-56mm f1.2 APD Lens"@fr	COL title VAL  "Fujifilm XF 23mm f1.4 R Lens"@da	0
+COL title VAL  "Canon EF-M 18-150mm f/3.5-6.3 IS STM Lens - Ex Kit (Black)"@en	COL title VAL  "Canon EF-M 18-150mm, Black"@en	1
+COL title VAL  "[Fujifilm]100 Sheet Fujifilm Instax Square Plain White Instant Polaroid Film for SQ 10 Camera | SP3 Printer"@en	COL title VAL  "Fujifilm Instax Square Instant Film - 10 Photos"@en	0
+COL title VAL  "Fujifilm FUJINON XF 23/2 R WR"@sw	COL title VAL  "Fuji 27mm f2.8 XF Black Lens"@sv	1
+COL title VAL  "Sigma 35mm F1.4 DG HSM Nikon [ART]"@tl	COL title VAL  "Sigma 105mm F1.4 DG HSM Canon [ART]"@tl	0
+COL title VAL  "EF-S 10-18mm F/4.5-5.6 IS STM Ultra-Wide Angle Zoom Lens"@de	COL title VAL  "Canon EF-S 55-250 mm f/4-5.6 IS STM"@en	0
+COL title VAL  "Fujifilm Fujinon XF 23/1,4"@sw	COL title VAL  "Fujifilm FUJINON XF 23/2 R WR"@sw	0
+COL title VAL  "Sigma 35mm f/1.4 DG HSM Art Lens"@de	COL title VAL  "Sigma 35mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 340955"@de	0
+COL title VAL  "Sony FE 50mm f1.8 Lens"@en	COL title VAL  "Sony 24-240mm f/3.5-6.3 Zoom Lens"@en	0
+COL title VAL  "[Fujifilm]100 Sheet Fujifilm Instax Square Plain White Instant Polaroid Film for SQ 10 Camera | SP3 Printer"@en	COL title VAL  "Fujifilm Instax Square Instant Film - 20 Photos"@en	1
+COL title VAL  "Manfrotto MVH502AH Head Pro Video 502AH"@it	COL title VAL  "Manfrotto Stativ Video Set MVH500A + MVT502AM + Tasche"@en	0
+COL title VAL  "Sony FE 50mm f1.8 Lens"@en	COL title VAL  "Sigma 50mm f1.4 DG HSM Art Canon Fit Lens"@en	0
+COL title VAL  "Sony FE 50mm f1.8 Lens"@en	COL title VAL  "Sony FE 20mm f/1.8 G Lens"@en	0
+COL title VAL  "Sony FE 50mm f1.8 Lens"@en	COL title VAL  "SONY Sony Lens FE 20mm F1.8 G Full-frame Large-aperture Ultra-Wide-Angle G Lens"@fr	0
+COL title VAL  "Fujifilm Instax Square Instant Film - 10 Photos"@en	COL title VAL  "Fuji Instax Mini RAINBOW COLOURS Instant Film for Fujifilm Instax Mini Cameras - 10 Shot Pack"@en	0
+COL title VAL  "Fujifilm 8-16mm f2.8 XF R LM WR Lens"@de	COL title VAL  "Fujifilm XF 80mm f2.8 LM OIS WR Macro Lens"@pt	0
+COL title VAL  "Fujifilm Instax Mini Film Rainbow"@de	COL title VAL  "Fuji Instax Mini RAINBOW COLOURS Instant Film for Fujifilm Instax Mini Cameras - 10 Shot Pack"@en	1
+COL title VAL  "Fuji Instax Mini Monochrome BLACK AND WHITE Instant Film - 10 Shot Pack"@de	COL title VAL  "Fujifilm Instax Square Instant Film - 20 Photos"@en	0
+COL title VAL  "Sigma 105mm F1.4 DG HSM Canon [ART]"@tl	COL title VAL  "Sigma 35mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 340955"@de	0
+COL title VAL  "Fuji 27mm f2.8 XF Black Lens"@sv	COL title VAL  "Fujifilm XF 80mm f2.8 LM OIS WR Macro Lens"@pt	0
+COL title VAL  "Manfrotto MVH502A Fluid Head and MVT502AM Tripod with Carrying Bag"@en	COL title VAL  "Manfrotto MKBFRTA4BK-BH Befree Advanced Aluminium Twist Lock Tripod with Ball Head"@en	0
+COL title VAL  "Fujifilm XF 8-16mm 1:2.8 R LM WR"@sw	COL title VAL  "Fujifilm XF 80mm f/2.8 R LM OIS WR Macro"@en	0
+COL title VAL  "Fuji Instax Mini Monochrome BLACK AND WHITE Instant Film - 10 Shot Pack"@de	COL title VAL  "Instax Mini Film Monochrome (10 Exposures)"@en	1
+COL title VAL  "FE 50MM F/1.8 STANDARD PRIME LENS FOR E-MOUNT CAMERAS"@en	COL title VAL  "Sony FE 50mm f1.8 Lens"@en	1
+COL title VAL  "EF 100mm f/2.8L Macro IS USM"@en	COL title VAL  "Canon EF 100mm f2.8 L Macro IS USM Lens"@it	1
+COL title VAL  "Sony FE 50mm f1.8 Lens"@en	COL title VAL  "Nikon AF-S NIKKOR 50MM F1.8G"@de	0
+COL title VAL  "Manfrotto MHXPRO-2W XPRO Fluid Kopf"@en	COL title VAL  "Tello Part 9 Battery Hub"@en	0
+COL title VAL  "Full Frame E-Mount 24mm F1.4 G-Master Lens"@de	COL title VAL  "Sony SEL FE24mm F1.4 GM"@en	1
+COL title VAL  "Canon EF-S 55-250mm F4-5.6 IS STM Lens"@en	COL title VAL  "Canon EF-M 18-150mm f/3.5-6.3 IS STM Lens - Ex Kit (Black)"@en	0
+COL title VAL  "Manfrotto MHXPRO-2W XPRO Fluid Kopf"@en	COL title VAL  "Manfrotto MHXPRO-2W Video Fluid Head"@en	1
+COL title VAL  "Fujifilm XF 23mm f1.4 R Lens"@da	COL title VAL  "0000012990| Fujifilm XF 56mm F1.2 R Lens"@sl	0
+COL title VAL  "Instax Mini Film Monochrome (10 Exposures)"@en	COL title VAL  "Fujifilm Instax Square Instant Film - 10 Photos"@en	0
+COL title VAL  "Canon EF-M 18-150mm f/3.5-6.3 IS STM Lens - Ex Kit (Black)"@en	COL title VAL  "Canon EF-S 55-250 mm f/4-5.6 IS STM"@en	0
+COL title VAL  "Nikon AF-S NIKKOR 50MM F1.8G"@de	COL title VAL  "0000071495| Nikon Nikkor AF-S 24-85mm f/3.5-4.5G ED VR Lens"@da	0
+COL title VAL  "Fujifilm Instax Square Instant Film - 10 Photos"@en	COL title VAL  "Fujifilm XF 56mm 1:1,2 R"@sw	0
+COL title VAL  "Hikvision DS-1273ZJ-140 Bracket"@en	COL title VAL  "Fujifilm XF 56mm 1:1,2 R"@sw	0
+COL title VAL  "Sigma 50mm F1.4 DG HSM Art Lens [Nikon]"@de	COL title VAL  "Sigma 50mm f1.4 DG HSM Art Canon Fit Lens"@en	0
+COL title VAL  "Sony 30mm F3.5 Macro E-Mount Lens"@en	COL title VAL  "0000005990| Sony E 30mm F3.5 Macro Lens"@en	1
+COL title VAL  "0000071495| Nikon Nikkor AF-S 24-85mm f/3.5-4.5G ED VR Lens"@da	COL title VAL  "EF-S 10-18mm F/4.5-5.6 IS STM Ultra-Wide Angle Zoom Lens"@de	0
+COL title VAL  "Full Frame E-Mount 24mm F1.4 G-Master Lens"@de	COL title VAL  "Ryze Tello Battery Charging Hub G1CH"@en	0
+COL title VAL  "Fujifilm XF 56mm F1.2 R APD"@ro	COL title VAL  "Fujifilm XF 8-16mm 1:2.8 R LM WR"@sw	0
+COL title VAL  "Fujifilm Instax Mini Film Rainbow"@de	COL title VAL  "Fujifilm Instax Square Film - 20 Sheets"@en	0
+COL title VAL  "Fujifilm XF 8-16mm 1:2.8 R LM WR"@sw	COL title VAL  "0000012990| Fujifilm XF 56mm F1.2 R Lens"@sl	0
+COL title VAL  "Canon EF-S 18-200mm f3.5-5.6 IS Lens"@en	COL title VAL  "Canon EF-S 55-250 mm f/4-5.6 IS STM"@en	0
+COL title VAL  "Fujifilm FUJINON XF 23/2 R WR"@sw	COL title VAL  "0000012990| Fujifilm XF 56mm F1.2 R Lens"@sl	0
+COL title VAL  "Manfrotto MHXPRO-2W XPRO Fluid Kopf"@en	COL title VAL  "Manfrotto Stativkopf Fluid Video Neiger MVH500AH"@de	0
+COL title VAL  "Sony SEL FE24mm F1.4 GM"@en	COL title VAL  "Sony 24-240mm f/3.5-6.3 Zoom Lens"@en	0
+COL title VAL  "Canon EF-M 18-150mm, Black"@en	COL title VAL  "Canon EF-S 18-135 / 3.5-5.6IS USM Nano BULK"@tl	0
+COL title VAL  "Sony FE 50mm f1.8 Lens"@en	COL title VAL  "Sigma 50mm F1.4 DG HSM Art Lens [Nikon]"@de	0
+COL title VAL  "Samyang AE 24mm F1.4 Nikon Black | 2 Years Warranty"@en	COL title VAL  "Sigma 50mm F1.4 DG HSM Art Lens [Nikon]"@de	0
+COL title VAL  "Fujifilm Fujinon XF 23/1,4"@sw	COL title VAL  "Fujifilm XF 8-16mm 1:2.8 R LM WR"@sw	0
+COL title VAL  "Samyang 24mm F1.4 ED AS IF UMC Lens in Nikon Fit"@tl	COL title VAL  "Samyang AE 24mm F1.4 Nikon Black | 2 Years Warranty"@en	1
+COL title VAL  "Fujifilm FUJINON XF 23/2 R WR"@sw	COL title VAL  "Fujifilm Fujinon XF-56mm f1.2 APD Lens"@fr	0
+COL title VAL  "Sigma 35mm F1.4 DG HSM Nikon [ART]"@tl	COL title VAL  "Sigma 50mm f/1.4 DG HSM Art"@de	0
+COL title VAL  "Canon EF-S 18-135mm f/3.5-5.6 IS USM Zoom Lens"@en	COL title VAL  "EF 100mm f/2.8L Macro IS USM"@en	0
+COL title VAL  "Manfrotto Stativkopf Fluid Video Neiger MVH500AH"@de	COL title VAL  "Manfrotto MHXPRO-2W Video Fluid Head"@en	0
+COL title VAL  "Fujifilm XF 56mm F1.2 R APD"@ro	COL title VAL  "Fujifilm XF 56mm 1:1,2 R"@sw	0
+COL title VAL  "Canon EF-S 18-200mm f3.5-5.6 IS Lens"@en	COL title VAL  "Canon EF-M 18-150mm f/3.5-6.3 IS STM Lens - Ex Kit (Black)"@en	0
+COL title VAL  "Fujifilm Fujinon XF 23/1,4"@sw	COL title VAL  "Fujifilm XF 56mm 1:1,2 R"@sw	0
+COL title VAL  "2MP 25X Network IR PTZ Camera"@en	COL title VAL  "HIKVISION 2MP 25X NETWORK IR SPEED DOME CAMERA DS-2DE5225IW-AE"@so	1
+COL title VAL  "Fujifilm FUJINON XF 23/2 R WR"@sw	COL title VAL  "Fujifilm XF 56mm 1:1,2 R"@sw	0
+COL title VAL  "Canon EF 100mm F2.8L Macro IS USM + BONUS"@it	COL title VAL  "EF 100mm f/2.8L Macro IS USM"@en	0
+COL title VAL  "Sigma 35mm F1.4 DG HSM Nikon [ART]"@tl	COL title VAL  "Sigma 50mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 311955"@de	0
+COL title VAL  "FE 50MM F/1.8 STANDARD PRIME LENS FOR E-MOUNT CAMERAS"@en	COL title VAL  "Sony 30mm F3.5 Macro E-Mount Lens"@en	0
+COL title VAL  "Full Frame E-Mount 24mm F1.4 G-Master Lens"@de	COL title VAL  "Sony 24-240mm f/3.5-6.3 Zoom Lens"@en	0
+COL title VAL  "Fujifilm 8-16mm f2.8 XF R LM WR Lens"@de	COL title VAL  "Fuji 27mm f2.8 XF Black Lens"@sv	0
+COL title VAL  "Ryze Tello Battery Charging Hub G1CH"@en	COL title VAL  "Tello Part 9 Battery Hub"@en	1
+COL title VAL  "SONY FE 24-240mm F3.5-6.3 OSS Lens - SEL24240"@de	COL title VAL  "Sony 30mm F3.5 Macro E-Mount Lens"@en	0
+COL title VAL  "Canon EF-S 18-200mm f3.5-5.6 IS Lens"@en	COL title VAL  "Canon EF-M 18-150mm, Black"@en	0
+COL title VAL  "Fujifilm Instax Square Instant Film - 20 Photos"@en	COL title VAL  "Fujifilm Instax Square Instant Film - 10 Photos"@en	0
+COL title VAL  "Instax Mini Film Monochrome (10 Exposures)"@en	COL title VAL  "Fujifilm Instax Mini Film Rainbow"@de	0
+COL title VAL  "Manfrotto Stativ Video Set MVH500A + MVT502AM + Tasche"@en	COL title VAL  "Manfrotto Lightweight fluid video head with flat base"@en	0
+COL title VAL  "Sony 24-240mm f/3.5-6.3 Zoom Lens"@en	COL title VAL  "SONY FE 24-240mm F3.5-6.3 OSS Lens - SEL24240"@de	1
+COL title VAL  "Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)"@de	COL title VAL  "Fujifilm Instax Square Instant Film - 20 Photos"@en	0
+COL title VAL  "Canon EF 100mm f2.8 L Macro IS USM Lens"@it	COL title VAL  "Fujifilm XF 80mm f2.8 LM OIS WR Macro Lens"@pt	0
+COL title VAL  "Canon EF-M 18-150mm, Black"@en	COL title VAL  "Canon EF 100mm f2.8 L Macro IS USM Lens"@it	0
+COL title VAL  "Canon EF-S 18-135mm f/3.5-5.6 IS USM Zoom Lens"@en	COL title VAL  "Canon Canon EF-S 10-18mm f/4.5-5.6 IS STM"@en	0
+COL title VAL  "Sony FE 70-200mm f/4.0 G OSS Lens"@en	COL title VAL  "Sony FE 50mm f1.8 Lens"@en	0
+COL title VAL  "Fujifilm FUJINON XF 23/2 R WR"@sw	COL title VAL  "Fujifilm XF 8-16mm 1:2.8 R LM WR"@sw	0
+COL title VAL  "Nikon AF-S NIKKOR 50MM F1.8G"@de	COL title VAL  "Canon EF 100mm F2.8L Macro IS USM + BONUS"@it	1
+COL title VAL  "Canon EF-M 18-150mm, Black"@en	COL title VAL  "Canon EF 100mm F2.8L Macro IS USM + BONUS"@it	0
+COL title VAL  "Fuji 27mm f2.8 XF Black Lens"@sv	COL title VAL  "Fujifilm XF 23mm f1.4 R Lens"@da	0
+COL title VAL  "Sony 24-240mm f/3.5-6.3 Zoom Lens"@en	COL title VAL  "0000071495| Nikon Nikkor AF-S 24-85mm f/3.5-4.5G ED VR Lens"@da	0

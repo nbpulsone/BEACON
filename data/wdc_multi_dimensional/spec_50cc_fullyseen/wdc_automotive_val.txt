@@ -1,0 +1,32 @@
+COL title VAL  "RAM Triple 25mm Ball Connector (RAM-B-289U)"@en	COL title VAL  "RAM Double U-Bolt Base with 2.25\" Ball"@en	0
+COL title VAL  "RAM® Torque™ 1 1/8\" - 1 1/2\" Diameter Handlebar/Rail Base with C Size 1.5\" Ball - RAM-408-112-15U"@en	COL title VAL  "RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5\" to 1.25\" in Diameter"@en	0
+COL title VAL  "RAM-B-342U RAM Mounts Motorcycle Fork Stem Base with 1\" Ball"@en	COL title VAL  "RAM Mounts B-309-7U Combination Base for 0.5in to 1.25in Handlebars or Brake & Clutch Control Clamps"@en	0
+COL title VAL  "RAM B-224-1 Suction Base and Ball"@en	COL title VAL  "RAM Mount Triple 1\" Ball Base Adapter\""@en	0
+COL title VAL  "RAM-B-342U RAM Mounts Motorcycle Fork Stem Base with 1\" Ball"@en	COL title VAL  "RAM B-224-1 Suction Base and Ball"@en	0
+COL title VAL  "RAM-D-235U - RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter"@en	COL title VAL  "RAM® Torque™ 1 1/8\" - 1 1/2\" Diameter Handlebar/Rail Base with C Size 1.5\" Ball - RAM-408-112-15U"@en	0
+COL title VAL  "RAM Double U-Bolt Base with 2.25\" Ball"@en	COL title VAL  "RAM B-224-1 Suction Base and Ball"@en	0
+COL title VAL  "RAM® Torque™ 1 1/8\" - 1 1/2\" Diameter Handlebar/Rail Base with C Size 1.5\" Ball - RAM-408-112-15U"@en	COL title VAL  "RAM® X-Grip® Phone Mount with RAM® Torque™ Medium Rail Base"@en	0
+COL title VAL  "RAM Mounts B-309-7U Combination Base for 0.5in to 1.25in Handlebars or Brake & Clutch Control Clamps"@en	COL title VAL  "RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5\" to 1.25\" in Diameter"@en	0
+COL title VAL  "RAM-D-235U - RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter"@en	COL title VAL  "RAM Mounts B-309-7U Combination Base for 0.5in to 1.25in Handlebars or Brake & Clutch Control Clamps"@en	0
+COL title VAL  "RAM Triple 25mm Ball Connector (RAM-B-289U)"@en	COL title VAL  "RAM Mount Triple 1\" Ball Base Adapter\""@en	1
+COL title VAL  "RAM Mount Base UBolt Mount - Requires RAM Cradle [RAM-B-149ZU]"@en	COL title VAL  "RAM B-224-1 Suction Base and Ball"@en	0
+COL title VAL  "TWIST LOCK HEAVY DUTY SUCTION CUP WITH DIAMOND PLATE ACCESSORY (BASE)"@en	COL title VAL  "RAM B-224-1 Suction Base and Ball"@en	1
+COL title VAL  "RAM-B-342U RAM Mounts Motorcycle Fork Stem Base with 1\" Ball"@en	COL title VAL  "RAM Motorcycle Fork Stem Base with 1\" Ball"@en	1
+COL title VAL  "RAM B-224-1 Suction Base and Ball"@en	COL title VAL  "RAM-B-408-75-1-UN7U"@de	0
+COL title VAL  "1\" Ball Clutch/Brake & Bar Mount"@en	COL title VAL  "RAM Mounts B-309-7U Combination Base for 0.5in to 1.25in Handlebars or Brake & Clutch Control Clamps"@en	1
+COL title VAL  "RAM B-224-1 Suction Base and Ball"@en	COL title VAL  "1\" Ball Clutch/Brake & Bar Mount"@en	0
+COL title VAL  "RAM B-224-1 Suction Base and Ball"@en	COL title VAL  "RAM Twist-Lock Dual Suction Cup Base / RAM-B-189BU"@en	0
+COL title VAL  "RAM Double U-Bolt Base with 2.25\" Ball"@en	COL title VAL  "RAM-D-235U - RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter"@en	1
+COL title VAL  "1\" Ball Clutch/Brake & Bar Mount"@en	COL title VAL  "RAM-B-342U RAM Mounts Motorcycle Fork Stem Base with 1\" Ball"@en	0
+COL title VAL  "RAM Mount Base UBolt Mount - Requires RAM Cradle [RAM-B-149ZU]"@en	COL title VAL  "RAM Double U-Bolt Base with 2.25\" Ball"@en	0
+COL title VAL  "RAM-D-235U - RAM Double U-Bolt Base with D Size 2.25\" Ball for Rails from 0.75\" to 1.25\" in Diameter"@en	COL title VAL  "RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5\" to 1.25\" in Diameter"@en	0
+COL title VAL  "RAM Mount Base UBolt Mount - Requires RAM Cradle [RAM-B-149ZU]"@en	COL title VAL  "RAM Mount Triple 1\" Ball Base Adapter\""@en	0
+COL title VAL  "RAM Mount Dual Suction Cup Base with with Universal AMPs Hole Pattern"@en	COL title VAL  "TWIST LOCK HEAVY DUTY SUCTION CUP WITH DIAMOND PLATE ACCESSORY (BASE)"@en	0
+COL title VAL  "TWIST LOCK HEAVY DUTY SUCTION CUP WITH DIAMOND PLATE ACCESSORY (BASE)"@en	COL title VAL  "RAM Twist-Lock Dual Suction Cup Base / RAM-B-189BU"@en	0
+COL title VAL  "RAM® Torque™ Large Rail Base"@fr	COL title VAL  "RAM® X-Grip® Phone Mount with RAM® Torque™ Medium Rail Base"@en	0
+COL title VAL  "RAM Mount Base UBolt Mount - Requires RAM Cradle [RAM-B-149ZU]"@en	COL title VAL  "RAM Handlebar Rail Mount with Zinc Coated U-Bolt Base for Rails from 0.5\" to 1.25\" in Diameter"@en	1
+COL title VAL  "RAM B-224-1 Suction Base and Ball"@en	COL title VAL  "RAM Triple 25mm Ball Connector (RAM-B-289U)"@en	0
+COL title VAL  "RAM® Torque™ 1 1/8\" - 1 1/2\" Diameter Handlebar/Rail Base with C Size 1.5\" Ball - RAM-408-112-15U"@en	COL title VAL  "RAM® Torque™ Large Rail Base"@fr	1
+COL title VAL  "RAM Mount Dual Suction Cup Base with with Universal AMPs Hole Pattern"@en	COL title VAL  "RAM Twist-Lock Dual Suction Cup Base / RAM-B-189BU"@en	1
+COL title VAL  "RAM-B-408-75-1-UN7U"@de	COL title VAL  "RAM® X-Grip® Phone Mount with RAM® Torque™ Medium Rail Base"@en	1
+COL title VAL  "1\" Ball Clutch/Brake & Bar Mount"@en	COL title VAL  "RAM Mount Triple 1\" Ball Base Adapter\""@en	0

@@ -1,0 +1,364 @@
+COL title VAL  "E260, E360, E460 3.5K Return Program Toner Cartridge"@en	COL title VAL  "OKI B401/Mb441/451 Bk High C Toner 2.5K"@en	0
+COL title VAL  "CANON PFI-107 ink cartridge cyan"@en	COL title VAL  "Genuine Cyan OKI 44844507 Toner Cartridge - (44844507 Laser Printer Cartridge)"@en	0
+COL title VAL  "Traveler's Notebook Refill - Grid"@no	COL title VAL  "Traveler´s Notebook Refill 002 (Grid Notebook) for Regular Size"@en	1
+COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 24mmx7m Black on White Ref 53713 S0720930"@en	COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 9mmx7m Black on White Ref 40913 S0720680"@en	0
+COL title VAL  "Brother HL-L6300DW / A4 / Laser / 1200 x 1200 dpi / černobílá / USB / WiFi / LAN / NFC"@en	COL title VAL  "Brother printer HL-L5200DW (HLL5200DWG1)"@en	0
+COL title VAL  "Canon PGI-72 PBK/GY/PM/PC/CO Multipack - ink tank - 5 Inks"@en	COL title VAL  "Cartus cerneala Epson T75544, yellow, 4000 pagini, pentru WF-8590DWF, WF-8090DW, WF-8510DWF, WF-8010DW"@en	0
+COL title VAL  "Brother Business Laser Printer Wireless Networking and Duplex Printer"@en	COL title VAL  "Brother HL-L8360CDW Wireless Colour Laser + LCD"@en	0
+COL title VAL  "106R01634 Toner black pentru Phaser 6000, 6010, WorkCentre 6015"@en	COL title VAL  "Xerox Toner Gul 25k - Phaser 7760"@en	0
+COL title VAL  "Original Tinte Epson T8651, ca. 10.000 S., schwarz"@de	COL title VAL  "Original EPSON S050189 Toner Cyan"@en	0
+COL title VAL  "Cartucho Tóner Canon 707C Cian"@en	COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	0
+COL title VAL  "EPSON B-300/310N (Yellow)"@en	COL title VAL  "Epson atrament WF8000 series yellow XL - 39ml C13T755440"@en	0
+COL title VAL  "Genuine Epson C13T865140 Black Extra High Capacity Ink Cartridge (C13T865140)"@en	COL title VAL  "Epson C13T755140 T7551 Black Ink 100ml"@en	0
+COL title VAL  "Epson STYLUS PHOTO R3000 BLACK INK"@en	COL title VAL  "Genuine Epson C13T865140 Black Extra High Capacity Ink Cartridge (C13T865140)"@en	0
+COL title VAL  "Traveler's Notebook Refill - Grid"@no	COL title VAL  "Traveler's Notebook Refill - Kraft Paper Blank"@no	0
+COL title VAL  "Xerox Toner Gul 25k - Phaser 7760"@en	COL title VAL  "OKI C831/C841 Toner Cian"@en	0
+COL title VAL  "Brother HL-L6300DW Laser Printer - Monochrome - Duplex"@en	COL title VAL  "Brother Business Laser Printer Wireless Networking and Duplex Printer"@en	0
+COL title VAL  "Original Tinte Epson T8651, ca. 10.000 S., schwarz"@de	COL title VAL  "Originln toner EPSON C13S050189 (Azurov)"@de	0
+COL title VAL  "Canon PGI-72 PBK/GY/PM/PC/CO Multipack - ink tank - 5 Inks"@en	COL title VAL  "Canon PGI-29GY Grey Ink Cartridge"@en	0
+COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 24mmx7m Black on White Ref 53713 S0720930"@en	COL title VAL  "Dymo S0720830 D1 Tape 19mm Black on White 45803"@en	0
+COL title VAL  "Traveler´s Notebook Refill 014 (Kraft Paper) for Regular Size"@no	COL title VAL  "Traveler's Notebook Refill - Kraft Paper Blank"@no	1
+COL title VAL  "D1-TAPE 9MM X 7M BLACK ON WHITE IN"@en	COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 9mmx7m Black on White Ref 40913 S0720680"@en	1
+COL title VAL  "Epson - magenta - original - ink cartridge"@it	COL title VAL  "Genuine Epson C13T865140 Black Extra High Capacity Ink Cartridge (C13T865140)"@en	0
+COL title VAL  "Genuine Epson C13T865140 Black Extra High Capacity Ink Cartridge (C13T865140)"@en	COL title VAL  "Epson UltraChrome K3 T1571 Ink Cartridge - Photo Black"@en	0
+COL title VAL  "Epson Pap Photo Premium Glacé A3 (20f./255g)"@pt	COL title VAL  "Epson Premium Glossy Photo Paper A4 2x15 Bl. 255g"@en	0
+COL title VAL  "Original EPSON S050189 Toner Cyan"@en	COL title VAL  "Epson T7891 tinta negro original"@it	0
+COL title VAL  "Epson Premium Glossy Photo Paper A4 2x15 Bl. 255g"@en	COL title VAL  "Epson Papir Photo Prem Glossy A2 25 Ark 225g"@en	0
+COL title VAL  "EPSON cartridge T7551 black XL (WF-8xxx)"@ca	COL title VAL  "Epson Multipack T0487 - Print cartridge - 1 x black, yellow, cyan, magenta, light magenta, light cyan"@en	0
+COL title VAL  "Epson oryginalny ink C13T693500, matte black, 350ml, Epson SureColor SC-T3000, SC-T5000, SC-T7000"@en	COL title VAL  "Epson mainterance unit C13T619000 (T6190)"@fr	0
+COL title VAL  "Canon CLI251XL High Yield Black Inkjet Cartridge Remanufactured"@en	COL title VAL  "Samsung MLT-D103L Toner Cartridge Black, High Yield"@en	0
+COL title VAL  "Brother HL-L8360CDW (A4) Wireless Colour Laser Printer"@en	COL title VAL  "Brother MFC-L2710DW Monochrome All-In-One Laser Printer"@en	0
+COL title VAL  "Epson STYLUS PHOTO R3000 BLACK INK"@en	COL title VAL  "Epson T6031 high yield photo black inkjet cartridge for use with Epson Stylus Pro 7800/9800 printers. EP603100"@en	0
+COL title VAL  "Brother MFC-L2710DW Monochrome All-In-One Laser Printer"@en	COL title VAL  "Brother Business Laser Printer Wireless Networking and Duplex Printer"@en	0
+COL title VAL  "Brother HL-L8360CDW (A4) Wireless Colour Laser Printer"@en	COL title VAL  "Brother HL-L6300DW / A4 / Laser / 1200 x 1200 dpi / černobílá / USB / WiFi / LAN / NFC"@en	0
+COL title VAL  "Brother HL-L6200DW Wireless High Speed Mono Laser 2-sided printing 250 sheet Network 46PPM"@en	COL title VAL  "Brother HL-L8360CDW Wireless Colour Laser + LCD"@en	0
+COL title VAL  "Xerox 106R01162 High Capacity Yellow Toner Cartridge"@en	COL title VAL  "OKI B401/Mb441/451 Bk High C Toner 2.5K"@en	0
+COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 12mmx7m Black on Red Ref 45017 S0720570"@en	COL title VAL  "Dymo S0720830 D1 Tape 19mm Black on White 45803"@en	0
+COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 24mmx7m Black on White Ref 53713 S0720930"@en	COL title VAL  "GENUINE Dymo 12mm x 7m Black on Red Label Tape Roll SD45017"@en	0
+COL title VAL  "Dymo S0720830 D1 Tape 19mm Black on White 45803"@en	COL title VAL  "Genuine Dymo D1 Standard Label 24mm x 7m - Black on Yellow"@en	0
+COL title VAL  "Epson Premium Glossy Photo Paper - 30 Sheets"@en	COL title VAL  "Epson A3 Premium Glossy Photo Paper 255gsm (Pack of 20)"@en	0
+COL title VAL  "13x18cm Premium Glossy Photo Paper 255 g (30) - Gold"@en	COL title VAL  "Epson Premium Glossy Photo Paper A4 2x15 Bl. 255g"@en	0
+COL title VAL  "Original EPSON S050189 Toner Cyan"@en	COL title VAL  "Originln toner EPSON C13S050189 (Azurov)"@de	1
+COL title VAL  "Epson A3 Premium Glossy Photo Paper 255gsm (Pack of 20)"@en	COL title VAL  "Epson Pap Photo Premium Glacé A3 (20f./255g)"@pt	1
+COL title VAL  "Genuine Epson C13T636800 Matte Black High Capacity Ink Cartridge (T6368MBKHOEM)"@en	COL title VAL  "Canon CLI251XL High Yield Black Inkjet Cartridge Remanufactured"@en	0
+COL title VAL  "Epson - magenta - original - ink cartridge"@it	COL title VAL  "Epson Tower of Pisa Tanica Magenta"@en	0
+COL title VAL  "Zebra 800015-301 Black Monochrome Ribbon - K - 1,500 prints"@en	COL title VAL  "Zebra (Eltron) Black (kdo) Ribbon C Series & I Series - 1500 Images"@de	1
+COL title VAL  "EPSON cartridge T7551 black XL (WF-8xxx)"@ca	COL title VAL  "Cartus cerneala Epson T75544, yellow, 4000 pagini, pentru WF-8590DWF, WF-8090DW, WF-8510DWF, WF-8010DW"@en	0
+COL title VAL  "13x18cm Premium Glossy Photo Paper 255 g (30) - Gold"@en	COL title VAL  "Xerox Toner Gul 25k - Phaser 7760"@en	0
+COL title VAL  "TONER BROTHER TN-135 YELLOW ORIGINAL"@en	COL title VAL  "Originln toner EPSON C13S050189 (Azurov)"@de	0
+COL title VAL  "Epson Tower of Pisa Tanica Magenta"@en	COL title VAL  "Original EPSON S050189 Toner Cyan"@en	0
+COL title VAL  "E260, E360, E460 3.5K Return Program Toner Cartridge"@en	COL title VAL  "E260A11E CompatibleLexmark Black Toner (3500 pages)"@en	1
+COL title VAL  "E260A11E CompatibleLexmark Black Toner (3500 pages)"@en	COL title VAL  "Samsung MLT-D103L, High Yield Black Toner/Drum for ML-2950ND / 2955ND / 2955DW, SCX-4728FD / 4729FD / 4729FW (2,500 pages)"@en	0
+COL title VAL  "GENUINE Dymo 19mm x 7m Black on White Label Tape Roll SD45803"@en	COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 24mmx7m Black on White Ref 53713 S0720930"@en	0
+COL title VAL  "Toner OKI B401 44992402 black"@sv	COL title VAL  "E260A11E CompatibleLexmark Black Toner (3500 pages)"@en	0
+COL title VAL  "Epson UltraChrome K3 T1571 Ink Cartridge - Photo Black"@en	COL title VAL  "Canon PG-545 Black Ink Cartridge"@en	0
+COL title VAL  "Epson C13T755140 T7551 Black Ink 100ml"@en	COL title VAL  "Epson T603700 Light Black Ink 220ml UltraChrome for SP 7800, 7880 & 9800, 9880"@en	0
+COL title VAL  "Cartus cerneala Epson T75544, yellow, 4000 pagini, pentru WF-8590DWF, WF-8090DW, WF-8510DWF, WF-8010DW"@en	COL title VAL  "EPSON B-300/310N (Yellow)"@en	0
+COL title VAL  "Epson Cartouche black L 1200 Pages WF 4015DN/4025/4525DNF (C13T70314010)"@en	COL title VAL  "EPSON Cartouche encre \"Tour Eiffel\" T7023 magenta XL 2 400 pages"@fr	0
+COL title VAL  "Traveler´s Notebook Refill 014 (Kraft Paper) for Regular Size"@no	COL title VAL  "Canon Tinte PFI-101 cyan 130ml f. iPF5x00/6x00S"@en	0
+COL title VAL  "Traveler´s Notebook Refill 002 (Grid Notebook) for Regular Size"@en	COL title VAL  "012 Traveler's Notebook Regular- Refill - Sketch Notebook"@sv	0
+COL title VAL  "T6923,(110 )Epson SureColor SC-T3000/T5000/T7000"@en	COL title VAL  "Epson oryginalny ink C13T693500, matte black, 350ml, Epson SureColor SC-T3000, SC-T5000, SC-T7000"@en	0
+COL title VAL  "Cartouche EPSON WF-5XXX SERIES XXL BLACK"@fr	COL title VAL  "Epson T7891 tinta negro original"@it	1
+COL title VAL  "Epson Premium Glossy Photo Paper A4 2x15 Bl. 255g"@en	COL title VAL  "Epson Premium Glossy Photo Paper - 30 Sheets"@en	0
+COL title VAL  "CANON PFI-107 ink cartridge cyan"@en	COL title VAL  "Canon CNM6448B001-6448B001 CLI-251XL ChromaLife100 High-Yield Ink"@en	0
+COL title VAL  "OKI C831/C841 Toner Cian"@en	COL title VAL  "Genuine Cyan OKI 44844507 Toner Cartridge - (44844507 Laser Printer Cartridge)"@en	1
+COL title VAL  "Genuine Epson C13T70234010 Magenta High Capacity Ink Cartridge (T7023MHOEM)"@en	COL title VAL  "Epson - magenta - original - ink cartridge"@it	0
+COL title VAL  "Brother HL-L8360CDW Wireless Colour Laser + LCD"@en	COL title VAL  "Epson Blekk Matt Svart Ultrachrome HDR - PRO 7900"@sv	0
+COL title VAL  "ZEBRA 800011-101 BLACK RIBBON (1000 PRINTS)"@de	COL title VAL  "Zebra Black Resin Monochrome Ribbon - 1000 Images"@de	0
+COL title VAL  "Genuine Epson C13T79034010 Magenta High Capacity Ink Cartridge (T7903MHOEM)"@en	COL title VAL  "Epson mainterance unit C13T619000 (T6190)"@fr	0
+COL title VAL  "Cartus cerneala Epson T75544, yellow, 4000 pagini, pentru WF-8590DWF, WF-8090DW, WF-8510DWF, WF-8010DW"@en	COL title VAL  "Brother printer HL-L5200DW (HLL5200DWG1)"@en	0
+COL title VAL  "Brother TN200 toner laser x HL720-730-760"@en	COL title VAL  "TONER BROTHER TN-135 YELLOW ORIGINAL"@en	0
+COL title VAL  "Brother HL-L6300DW / A4 / Laser / 1200 x 1200 dpi / černobílá / USB / WiFi / LAN / NFC"@en	COL title VAL  "Brother Multif. Laser Mfc-L2710Dw B/N A4 30 Ppm Fronte/Retro Adf 50Ff Usb/Ethernet/Wireless Stampante Scanner Copiatrice Fax"@en	0
+COL title VAL  "CANON 707 (LBP-5000) Cyan"@cy	COL title VAL  "Original EPSON S050189 Toner Cyan"@en	0
+COL title VAL  "Zebra 800015-301 Black Monochrome Ribbon - K - 1,500 prints"@en	COL title VAL  "\"Evolis Black Monochrome Ribbon - K - 2,000 prints\""@en	0
+COL title VAL  "OKI C831/C841 Toner Cian"@en	COL title VAL  "Toner OKI B401 44992402 black"@sv	0
+COL title VAL  "EPSON B-300/310N (Yellow)"@en	COL title VAL  "T6923,(110 )Epson SureColor SC-T3000/T5000/T7000"@en	0
+COL title VAL  "Dymo S0720830 D1 Tape 19mm Black on White 45803"@en	COL title VAL  "D1-TAPE 9MM X 7M BLACK ON WHITE IN"@en	0
+COL title VAL  "Brother HL-L6200DW Business Laser Printer with Wireless Networking, Duplex Printing - HL-L6200DW"@en	COL title VAL  "Brother printer HL-L5200DW (HLL5200DWG1)"@en	0
+COL title VAL  "012 Traveler's Notebook Regular- Refill - Sketch Notebook"@sv	COL title VAL  "Traveler's Lined Notebook Refill - Regular Size"@en	0
+COL title VAL  "Epson A4 Premium Semi-Gloss Photo Paper (Pack of 20) C13S041332"@en	COL title VAL  "Epson Pap Photo Premium Glacé A3 (20f./255g)"@pt	0
+COL title VAL  "Epson Tusz T7031 BLACK L do serii WorkForce WP4000/4500 (1.2k)"@pl	COL title VAL  "Epson Cartouche black L 1200 Pages WF 4015DN/4025/4525DNF (C13T70314010)"@en	1
+COL title VAL  "EPSON B-300/310N (Yellow)"@en	COL title VAL  "Epson T6164 Patron Yellow 3,5K (Eredeti)"@en	1
+COL title VAL  "Epson Blekk Matt Svart Ultrachrome HDR - PRO 7900"@sv	COL title VAL  "Epson UltraChrome K3 T1571 Ink Cartridge - Photo Black"@en	0
+COL title VAL  "Samsung MLT-D103L, High Yield Black Toner/Drum for ML-2950ND / 2955ND / 2955DW, SCX-4728FD / 4729FD / 4729FW (2,500 pages)"@en	COL title VAL  "OKI B401/Mb441/451 Bk High C Toner 2.5K"@en	0
+COL title VAL  "Originln toner Samsung CLT-K406S (ern)"@de	COL title VAL  "Samsung MLT-D103L Toner Cartridge Black, High Yield"@en	0
+COL title VAL  "TONER BROTHER TN-135 YELLOW ORIGINAL"@en	COL title VAL  "2 x Original Brother Toner TN-200 Fax 8000P 8060P 8200P 8250P Neutrale Schachtel"@de	0
+COL title VAL  "Brother HL-L8360CDW (A4) Wireless Colour Laser Printer"@en	COL title VAL  "HP Color LaserJet Professional CP5225dn Duplex Colour Laser Printer - A3"@en	0
+COL title VAL  "Epson T048140BA cyan, magenta, yellow, light cyan, light magenta and black Inkjet Multi Pack for use with R200/R300/RX500/RX600. (Seahorse)EP48140BA"@en	COL title VAL  "Epson STYLUS PHOTO R3000 BLACK INK"@en	0
+COL title VAL  "T6923,(110 )Epson SureColor SC-T3000/T5000/T7000"@en	COL title VAL  "T6923 magenta Ink Cartridge 110ml"@en	1
+COL title VAL  "Epson Tusz T7031 BLACK L do serii WorkForce WP4000/4500 (1.2k)"@pl	COL title VAL  "Epson Multipack T0487 - Print cartridge - 1 x black, yellow, cyan, magenta, light magenta, light cyan"@en	0
+COL title VAL  "CANON 707 (LBP-5000) Cyan"@cy	COL title VAL  "Canon Tinte PFI-101 cyan 130ml f. iPF5x00/6x00S"@en	0
+COL title VAL  "Canon Black Inkjet Cartridge (PG-545)"@en	COL title VAL  "Canon PGI-29GY Grey Ink Cartridge"@en	0
+COL title VAL  "CANON 707 (LBP-5000) Cyan"@cy	COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	0
+COL title VAL  "Genuine Epson C13T636800 Matte Black High Capacity Ink Cartridge (T6368MBKHOEM)"@en	COL title VAL  "Genuine Epson C13T865140 Black Extra High Capacity Ink Cartridge (C13T865140)"@en	0
+COL title VAL  "Refill #012: Sketch Paper Notebook"@sv	COL title VAL  "012 Traveler's Notebook Regular- Refill - Sketch Notebook"@sv	1
+COL title VAL  "Epson atrament SPro 7880/9880/7800/9800 photo black 220ml"@en	COL title VAL  "Epson T6031 high yield photo black inkjet cartridge for use with Epson Stylus Pro 7800/9800 printers. EP603100"@en	1
+COL title VAL  "Epson Blekk Matt Svart Ultrachrome HDR - PRO 7900"@sv	COL title VAL  "Epson T6935 Ultrachrome XD Matte svart 350ml"@sv	0
+COL title VAL  "B300 B500DN PRO4900 MAINTENANCE KIT"@de	COL title VAL  "Epson mainterance unit C13T619000 (T6190)"@fr	1
+COL title VAL  "Canon CLI251XL High Yield Black Inkjet Cartridge Remanufactured"@en	COL title VAL  "Canon CNM6448B001-6448B001 CLI-251XL ChromaLife100 High-Yield Ink"@en	1
+COL title VAL  "Brother HL-L6200DW Wireless High Speed Mono Laser 2-sided printing 250 sheet Network 46PPM"@en	COL title VAL  "Brother HL-L6200DW Business Laser Printer with Wireless Networking, Duplex Printing - HL-L6200DW"@en	1
+COL title VAL  "Epson Multipack T0487 - Print cartridge - 1 x black, yellow, cyan, magenta, light magenta, light cyan"@en	COL title VAL  "Epson - magenta - original - ink cartridge"@it	0
+COL title VAL  "Genuine Epson C13T79034010 Magenta High Capacity Ink Cartridge (T7903MHOEM)"@en	COL title VAL  "Epson Tower of Pisa Tanica Magenta"@en	1
+COL title VAL  "Epson atrament WF8000 series yellow XL - 39ml C13T755440"@en	COL title VAL  "Genuine Epson C13T865140 Black Extra High Capacity Ink Cartridge (C13T865140)"@en	0
+COL title VAL  "Traveler's Refills: MD Paper - 001 / lined"@no	COL title VAL  "Traveler's Notebook Refill - Kraft Paper Blank"@no	0
+COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 24mmx7m Black on White Ref 53713 S0720930"@en	COL title VAL  "Genuine Dymo D1 Standard Label 24mm x 7m - Black on Yellow"@en	0
+COL title VAL  "CANON PFI-107 ink cartridge cyan"@en	COL title VAL  "CANON 707 (LBP-5000) Cyan"@cy	0
+COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	COL title VAL  "Canon Tinte PFI-101 cyan 130ml f. iPF5x00/6x00S"@en	1
+COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 12mmx7m Black on Red Ref 45017 S0720570"@en	COL title VAL  "DYMO Black on Yellow Label Printer Tape, 24 mm Width, 7 m Length"@en	0
+COL title VAL  "Epson Blekk Matt Svart Ultrachrome HDR - PRO 7900"@sv	COL title VAL  "Genuine Epson C13T636800 Matte Black High Capacity Ink Cartridge (T6368MBKHOEM)"@en	1
+COL title VAL  "CANON PFI-107 ink cartridge cyan"@en	COL title VAL  "Canon PG-545 Black Ink Cartridge"@en	0
+COL title VAL  "Monochrome Ribbon Zebra ZXP Series 1 Load-N-Go - K - 1000 prints"@en	COL title VAL  "Zebra 800015-101 Black (K) Resin Monochrome Ribbon - 1000 Prints"@de	0
+COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 24mmx7m Black on White Ref 53713 S0720930"@en	COL title VAL  "DYMO Black on Yellow Label Printer Tape, 24 mm Width, 7 m Length"@en	0
+COL title VAL  "T6923 magenta Ink Cartridge 110ml"@en	COL title VAL  "Genuine Epson C13T70234010 Magenta High Capacity Ink Cartridge (T7023MHOEM)"@en	0
+COL title VAL  "Brother HL-L8360CDW (A4) Wireless Colour Laser Printer"@en	COL title VAL  "Brother Business Laser Printer Wireless Networking and Duplex Printer"@en	0
+COL title VAL  "Traveler's Notebook Refill - Kraft Paper Blank"@no	COL title VAL  "Traveler's Lined Notebook Refill - Regular Size"@en	0
+COL title VAL  "GENUINE Dymo 19mm x 7m Black on White Label Tape Roll SD45803"@en	COL title VAL  "Epson C13T755140 T7551 Black Ink 100ml"@en	0
+COL title VAL  "Canon PGI-29GY Grey Ink Cartridge"@en	COL title VAL  "CANON PFI-107 ink cartridge cyan"@en	0
+COL title VAL  "OKI C831/C841 Toner Cian"@en	COL title VAL  "Cartucho Canon PFI-107 C Cian"@en	0
+COL title VAL  "\"Evolis Black Monochrome Ribbon - K - 2,000 prints\""@en	COL title VAL  "106R01634 Toner black pentru Phaser 6000, 6010, WorkCentre 6015"@en	0
+COL title VAL  "Refill #012: Sketch Paper Notebook"@sv	COL title VAL  "Epson Premium Glossy Photo Paper- 25 Sheets"@en	0
+COL title VAL  "Epson Fox Multipack 4 colori"@en	COL title VAL  "Epson atrament SPro 7880/9880/7800/9800 photo black 220ml"@en	0
+COL title VAL  "Epson - magenta - original - ink cartridge"@it	COL title VAL  "Original Tinte Epson T8651, ca. 10.000 S., schwarz"@de	0
+COL title VAL  "Epson A3 Premium Glossy Photo Paper 255gsm (Pack of 20)"@en	COL title VAL  "Epson A4 Premium Semi-Gloss Photo Paper (Pack of 20) C13S041332"@en	0
+COL title VAL  "Brother HL-L6200DW Wireless High Speed Mono Laser 2-sided printing 250 sheet Network 46PPM"@en	COL title VAL  "Compatible Samsung© CLT-K406S [Black] Toner Cartridge"@en	0
+COL title VAL  "Toner Brother - Giallo - originale - cartuccia toner tn135y"@en	COL title VAL  "Brother TN200 toner laser x HL720-730-760"@en	0
+COL title VAL  "Epson UltraChrome K3 T1571 Ink Cartridge - Photo Black"@en	COL title VAL  "Epson T603700 Light Black Ink 220ml UltraChrome for SP 7800, 7880 & 9800, 9880"@en	0
+COL title VAL  "TONER BROTHER TN-135 YELLOW ORIGINAL"@en	COL title VAL  "Xerox 106R01162 High Capacity Yellow Toner Cartridge"@en	0
+COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 24mmx7m Black on White Ref 53713 S0720930"@en	COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 12mmx7m Black on Red Ref 45017 S0720570"@en	0
+COL title VAL  "Genuine Epson C13T636800 Matte Black High Capacity Ink Cartridge (T6368MBKHOEM)"@en	COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 24mmx7m Black on White Ref 53713 S0720930"@en	0
+COL title VAL  "Epson A4 Premium Semi-Gloss Photo Paper (Pack of 20) C13S041332"@en	COL title VAL  "Epson Cartouche black L 1200 Pages WF 4015DN/4025/4525DNF (C13T70314010)"@en	0
+COL title VAL  "Card Ribbon Zebra - 800033, Color: black"@en	COL title VAL  "Zebra Black Resin Monochrome Ribbon - 1000 Images"@de	0
+COL title VAL  "106R01634 Toner black pentru Phaser 6000, 6010, WorkCentre 6015"@en	COL title VAL  "Zebra 800015-301 Black Monochrome Ribbon - K - 1,500 prints"@en	0
+COL title VAL  "Canon PG-545 Black Ink Cartridge"@en	COL title VAL  "Canon CLI251XL High Yield Black Inkjet Cartridge Remanufactured"@en	0
+COL title VAL  "Brother HL-L6200DW Business Laser Printer with Wireless Networking, Duplex Printing - HL-L6200DW"@en	COL title VAL  "Brother HL-L8360CDW Wireless Colour Laser + LCD"@en	0
+COL title VAL  "Genuine Epson C13T79034010 Magenta High Capacity Ink Cartridge (T7903MHOEM)"@en	COL title VAL  "T6923 magenta Ink Cartridge 110ml"@en	0
+COL title VAL  "Genuine Dymo D1 Standard Label 24mm x 7m - Black on Yellow"@en	COL title VAL  "DYMO Black on Yellow Label Printer Tape, 24 mm Width, 7 m Length"@en	1
+COL title VAL  "Cartouche EPSON WF-5XXX SERIES XXL BLACK"@fr	COL title VAL  "Epson Cartouche black L 1200 Pages WF 4015DN/4025/4525DNF (C13T70314010)"@en	0
+COL title VAL  "CANON 707 (LBP-5000) Cyan"@cy	COL title VAL  "Cartucho Tóner Canon 707C Cian"@en	1
+COL title VAL  "D1-TAPE 9MM X 7M BLACK ON WHITE IN"@en	COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 24mmx7m Black on White Ref 53713 S0720930"@en	0
+COL title VAL  "Evolis Primacy Zenius Ribbon Black RCT023NAA"@en	COL title VAL  "\"Evolis Black Monochrome Ribbon - K - 2,000 prints\""@en	1
+COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 24mmx7m Black on White Ref 53713 S0720930"@en	COL title VAL  "Tape 24mmx7m black white Type D1"@en	1
+COL title VAL  "Epson Premium Glossy Photo Paper- 25 Sheets"@en	COL title VAL  "Epson Premium Glossy Photo Paper - glossy photo paper - 15 sheet(s)"@en	0
+COL title VAL  "Traveler's Lined Notebook Refill - Regular Size"@en	COL title VAL  "Traveler´s Notebook Refill 014 (Kraft Paper) for Regular Size"@no	0
+COL title VAL  "Brother HL-L6200DW Wireless High Speed Mono Laser 2-sided printing 250 sheet Network 46PPM"@en	COL title VAL  "Brother HL-L6300DW Laser Printer - Monochrome - Duplex"@en	0
+COL title VAL  "Genuine Cyan OKI 44844507 Toner Cartridge - (44844507 Laser Printer Cartridge)"@en	COL title VAL  "Toner OKI B401 44992402 black"@sv	0
+COL title VAL  "Traveler's Lined Notebook Refill - Regular Size"@en	COL title VAL  "Traveler´s Notebook Refill 002 (Grid Notebook) for Regular Size"@en	0
+COL title VAL  "Epson atrament SPro 7880/9880/7800/9800 photo black 220ml"@en	COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	0
+COL title VAL  "Zebra 800015-101 Black (K) Resin Monochrome Ribbon - 1000 Prints"@de	COL title VAL  "Evolis Primacy Zenius Ribbon Black RCT023NAA"@en	0
+COL title VAL  "E260A11E CompatibleLexmark Black Toner (3500 pages)"@en	COL title VAL  "Xerox Toner Phaser 6000 black 2k 106R01634"@en	0
+COL title VAL  "Brother HL-L6300DW / A4 / Laser / 1200 x 1200 dpi / černobílá / USB / WiFi / LAN / NFC"@en	COL title VAL  "Brother HL-L6300DW Laser Printer - Monochrome - Duplex"@en	1
+COL title VAL  "Epson Papir Photo Prem Glossy A2 25 Ark 225g"@en	COL title VAL  "Epson Premium Glossy Photo Paper- 25 Sheets"@en	1
+COL title VAL  "Epson A4 Premium Semi-Gloss Photo Paper (Pack of 20) C13S041332"@en	COL title VAL  "Epson Premium Glossy Photo Paper- 25 Sheets"@en	0
+COL title VAL  "\"Evolis Black Monochrome Ribbon - K - 2,000 prints\""@en	COL title VAL  "Zebra 800015-101 Black (K) Resin Monochrome Ribbon - 1000 Prints"@de	0
+COL title VAL  "Epson Pap Photo Premium Glacé A3 (20f./255g)"@pt	COL title VAL  "Epson Premium Glossy Photo Paper- 25 Sheets"@en	0
+COL title VAL  "Epson T6935 Ultrachrome XD Matte svart 350ml"@sv	COL title VAL  "T6923 magenta Ink Cartridge 110ml"@en	0
+COL title VAL  "Epson - magenta - original - ink cartridge"@it	COL title VAL  "Epson Discproducer PP-100 Ink PJIC4(M) MAGENTA"@en	1
+COL title VAL  "Epson Premium Glossy Photo Paper - 30 Sheets"@en	COL title VAL  "Epson Premium Glossy Photo Paper- 25 Sheets"@en	0
+COL title VAL  "Fotopapier Epson A4 Prem s.gloss/pk20v"@en	COL title VAL  "Epson Premium Glossy Photo Paper - glossy photo paper - 15 sheet(s)"@en	0
+COL title VAL  "Brother Business Laser Printer Wireless Networking and Duplex Printer"@en	COL title VAL  "Brother printer HL-L5200DW (HLL5200DWG1)"@en	1
+COL title VAL  "Epson STYLUS PHOTO R3000 BLACK INK"@en	COL title VAL  "EPSON B-300/310N (Yellow)"@en	0
+COL title VAL  "Cartus cerneala Epson T75544, yellow, 4000 pagini, pentru WF-8590DWF, WF-8090DW, WF-8510DWF, WF-8010DW"@en	COL title VAL  "Epson atrament WF8000 series yellow XL - 39ml C13T755440"@en	1
+COL title VAL  "Epson - magenta - original - ink cartridge"@it	COL title VAL  "Epson Cartridge Inkjet Bundle (T1285)"@no	0
+COL title VAL  "Brother HL-L6200DW Business Laser Printer with Wireless Networking, Duplex Printing - HL-L6200DW"@en	COL title VAL  "Brother MFC-L2710DW Monochrome All-In-One Laser Printer"@en	0
+COL title VAL  "GENUINE Dymo 12mm x 7m Black on Red Label Tape Roll SD45017"@en	COL title VAL  "Genuine Dymo D1 Standard Label 24mm x 7m - Black on Yellow"@en	0
+COL title VAL  "Brother TN200 toner laser x HL720-730-760"@en	COL title VAL  "Brother HL-L8360CDW Wireless Colour Laser + LCD"@en	0
+COL title VAL  "Traveler's Refills: MD Paper - 001 / lined"@no	COL title VAL  "Traveler's Notebook Refill - Grid"@no	0
+COL title VAL  "EPSON B-300/310N (Yellow)"@en	COL title VAL  "CANON PFI-107 ink cartridge cyan"@en	0
+COL title VAL  "Canon PGI-29GY Grey Ink Cartridge"@en	COL title VAL  "Canon PG-545 Black Ink Cartridge"@en	0
+COL title VAL  "Brother printer HL-L5200DW (HLL5200DWG1)"@en	COL title VAL  "Brother HL-L6300DW Laser Printer - Monochrome - Duplex"@en	0
+COL title VAL  "Epson Premium Glossy Photo Paper A4 2x15 Bl. 255g"@en	COL title VAL  "Epson A4 Premium Semi-Gloss Photo Paper (Pack of 20) C13S041332"@en	0
+COL title VAL  "Toner OKI B401 44992402 black"@sv	COL title VAL  "Originln toner Samsung CLT-K406S (ern)"@de	0
+COL title VAL  "Traveler's Notebook Refill - Grid"@no	COL title VAL  "Traveler's Lined Notebook Refill - Regular Size"@en	0
+COL title VAL  "Canon CLI251XL High Yield Black Inkjet Cartridge Remanufactured"@en	COL title VAL  "Samsung MLT-D103L, High Yield Black Toner/Drum for ML-2950ND / 2955ND / 2955DW, SCX-4728FD / 4729FD / 4729FW (2,500 pages)"@en	0
+COL title VAL  "GENUINE Dymo 19mm x 7m Black on White Label Tape Roll SD45803"@en	COL title VAL  "DYMO Black on Yellow Label Printer Tape, 24 mm Width, 7 m Length"@en	0
+COL title VAL  "Zebra Black Resin Monochrome Ribbon - 1000 Images"@de	COL title VAL  "Zebra 800015-101 Black (K) Resin Monochrome Ribbon - 1000 Prints"@de	1
+COL title VAL  "Canon 4871B001 PGI29 Grey Ink 36ml"@en	COL title VAL  "Canon PGI-29GY Grey Ink Cartridge"@en	1
+COL title VAL  "Zebra 800033-801 Black Monochrome Ribbon for ZXP Series 3 Printers - 1000 Prints"@en	COL title VAL  "ZEBRA 800011-101 BLACK RIBBON (1000 PRINTS)"@de	0
+COL title VAL  "Epson STYLUS PHOTO R3000 BLACK INK"@en	COL title VAL  "Epson UltraChrome K3 T1571 Ink Cartridge - Photo Black"@en	1
+COL title VAL  "Epson UltraChrome K3 T1571 Ink Cartridge - Photo Black"@en	COL title VAL  "Epson T603700 7800/7880/9800/9880 Light Black Ink 220ml"@en	0
+COL title VAL  "Epson oryginalny ink C13T693500, matte black, 350ml, Epson SureColor SC-T3000, SC-T5000, SC-T7000"@en	COL title VAL  "Epson T6935 Ultrachrome XD Matte svart 350ml"@sv	1
+COL title VAL  "GENUINE Dymo 12mm x 7m Black on Red Label Tape Roll SD45017"@en	COL title VAL  "D1-TAPE 9MM X 7M BLACK ON WHITE IN"@en	0
+COL title VAL  "Epson UltraChrome K3 T1571 Ink Cartridge - Photo Black"@en	COL title VAL  "EPSON cartridge T7551 black XL (WF-8xxx)"@ca	0
+COL title VAL  "Epson C13T755140 T7551 Black Ink 100ml"@en	COL title VAL  "Genuine Epson C13T636800 Matte Black High Capacity Ink Cartridge (T6368MBKHOEM)"@en	0
+COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	COL title VAL  "CANON PFI-107 ink cartridge cyan"@en	0
+COL title VAL  "Zebra 800015-301 Black Monochrome Ribbon - K - 1,500 prints"@en	COL title VAL  "ZEBRA 800011-101 BLACK RIBBON (1000 PRINTS)"@de	0
+COL title VAL  "GENUINE Dymo 12mm x 7m Black on Red Label Tape Roll SD45017"@en	COL title VAL  "GENUINE Dymo 19mm x 7m Black on White Label Tape Roll SD45803"@en	0
+COL title VAL  "Zebra 800015-301 Black Monochrome Ribbon - K - 1,500 prints"@en	COL title VAL  "Monochrome Ribbon Zebra ZXP Series 1 Load-N-Go - K - 1000 prints"@en	0
+COL title VAL  "Brother TN200 toner laser x HL720-730-760"@en	COL title VAL  "Brother HL-L6300DW / A4 / Laser / 1200 x 1200 dpi / černobílá / USB / WiFi / LAN / NFC"@en	0
+COL title VAL  "Zebra 800015-101 Black (K) Resin Monochrome Ribbon - 1000 Prints"@de	COL title VAL  "ZEBRA 800011-101 BLACK RIBBON (1000 PRINTS)"@de	0
+COL title VAL  "Epson STYLUS PHOTO R3000 BLACK INK"@en	COL title VAL  "Epson Tusz T7031 BLACK L do serii WorkForce WP4000/4500 (1.2k)"@pl	0
+COL title VAL  "Originln toner EPSON C13S050189 (Azurov)"@de	COL title VAL  "Epson T7891 tinta negro original"@it	0
+COL title VAL  "Traveler's Notebook Refill - Kraft Paper Blank"@no	COL title VAL  "Refill #012: Sketch Paper Notebook"@sv	0
+COL title VAL  "Xerox 106R01162 High Capacity Yellow Toner Cartridge"@en	COL title VAL  "Samsung MLT-D103L Toner Cartridge Black, High Yield"@en	0
+COL title VAL  "Epson Premium Glossy Photo Paper - 30 Sheets"@en	COL title VAL  "Epson A4 Premium Semi-Gloss Photo Paper (Pack of 20) C13S041332"@en	0
+COL title VAL  "Zebra Black Resin Monochrome Ribbon - 1000 Images"@de	COL title VAL  "DYMO Black on Yellow Label Printer Tape, 24 mm Width, 7 m Length"@en	0
+COL title VAL  "T6923,(110 )Epson SureColor SC-T3000/T5000/T7000"@en	COL title VAL  "Originln toner EPSON C13S050189 (Azurov)"@de	0
+COL title VAL  "Brother HL-L6300DW Laser Printer - Monochrome - Duplex"@en	COL title VAL  "Brother HL-L6200DW Business Laser Printer with Wireless Networking, Duplex Printing - HL-L6200DW"@en	0
+COL title VAL  "Zebra 800015-301 Black Monochrome Ribbon - K - 1,500 prints"@en	COL title VAL  "Zebra 800015-101 Black (K) Resin Monochrome Ribbon - 1000 Prints"@de	0
+COL title VAL  "Brother MFC-L2710DW Monochrome All-In-One Laser Printer"@en	COL title VAL  "Brother HL-L6300DW Laser Printer - Monochrome - Duplex"@en	0
+COL title VAL  "Samsung MLT-D103L Toner Cartridge Black, High Yield"@en	COL title VAL  "Compatible Samsung© CLT-K406S [Black] Toner Cartridge"@en	0
+COL title VAL  "Genuine Epson C13T70234010 Magenta High Capacity Ink Cartridge (T7023MHOEM)"@en	COL title VAL  "Genuine Epson C13T636800 Matte Black High Capacity Ink Cartridge (T6368MBKHOEM)"@en	0
+COL title VAL  "Canon CNM6448B001-6448B001 CLI-251XL ChromaLife100 High-Yield Ink"@en	COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	0
+COL title VAL  "OKI C831/C841 Toner Cian"@en	COL title VAL  "Originln toner Samsung CLT-K406S (ern)"@de	0
+COL title VAL  "Fotopapier Epson A4 Prem s.gloss/pk20v"@en	COL title VAL  "Original Tinte Epson T8651, ca. 10.000 S., schwarz"@de	0
+COL title VAL  "Xerox Toner Phaser 6000 black 2k 106R01634"@en	COL title VAL  "Samsung MLT-D103L, High Yield Black Toner/Drum for ML-2950ND / 2955ND / 2955DW, SCX-4728FD / 4729FD / 4729FW (2,500 pages)"@en	0
+COL title VAL  "Epson atrament SPro 7880/9880/7800/9800 photo black 220ml"@en	COL title VAL  "Epson T603700 Light Black Ink 220ml UltraChrome for SP 7800, 7880 & 9800, 9880"@en	0
+COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	COL title VAL  "Canon 4871B001 PGI29 Grey Ink 36ml"@en	0
+COL title VAL  "Epson T603700 7800/7880/9800/9880 Light Black Ink 220ml"@en	COL title VAL  "Epson T603700 Light Black Ink 220ml UltraChrome for SP 7800, 7880 & 9800, 9880"@en	1
+COL title VAL  "2 x Original Brother Toner TN-200 Fax 8000P 8060P 8200P 8250P Neutrale Schachtel"@de	COL title VAL  "Cartucho Canon PFI-107 C Cian"@en	0
+COL title VAL  "Epson STYLUS PHOTO R3000 BLACK INK"@en	COL title VAL  "Genuine Epson C13T636800 Matte Black High Capacity Ink Cartridge (T6368MBKHOEM)"@en	0
+COL title VAL  "ZEBRA 800011-101 BLACK RIBBON (1000 PRINTS)"@de	COL title VAL  "Monochrome Ribbon Zebra ZXP Series 1 Load-N-Go - K - 1000 prints"@en	1
+COL title VAL  "Epson Premium Glossy Photo Paper - glossy photo paper - 15 sheet(s)"@en	COL title VAL  "Epson Premium Glossy Photo Paper - 30 Sheets"@en	0
+COL title VAL  "Genuine Epson C13T79034010 Magenta High Capacity Ink Cartridge (T7903MHOEM)"@en	COL title VAL  "Genuine Epson C13T865140 Black Extra High Capacity Ink Cartridge (C13T865140)"@en	0
+COL title VAL  "Canon Tinte PFI-101 cyan 130ml f. iPF5x00/6x00S"@en	COL title VAL  "CANON PFI-107 ink cartridge cyan"@en	0
+COL title VAL  "HP Color LaserJet Professional CP5225dn Duplex Colour Laser Printer - A3"@en	COL title VAL  "Brother Business Laser Printer Wireless Networking and Duplex Printer"@en	0
+COL title VAL  "Epson T2982 Patron Cyan 3,2ml (Eredeti)"@tr	COL title VAL  "Epson T6164 Patron Yellow 3,5K (Eredeti)"@en	0
+COL title VAL  "Canon CLI251XL High Yield Black Inkjet Cartridge Remanufactured"@en	COL title VAL  "Genuine Epson C13T865140 Black Extra High Capacity Ink Cartridge (C13T865140)"@en	0
+COL title VAL  "Fotopapier Epson A4 Prem s.gloss/pk20v"@en	COL title VAL  "Epson A4 Premium Semi-Gloss Photo Paper (Pack of 20) C13S041332"@en	1
+COL title VAL  "Canon Tinte PFI-101 cyan 130ml f. iPF5x00/6x00S"@en	COL title VAL  "Cartucho Canon PFI-107 C Cian"@en	0
+COL title VAL  "Brother HL-L8360CDW Wireless Colour Laser + LCD"@en	COL title VAL  "Brother HL-L8360CDW (A4) Wireless Colour Laser Printer"@en	1
+COL title VAL  "Epson T048140BA cyan, magenta, yellow, light cyan, light magenta and black Inkjet Multi Pack for use with R200/R300/RX500/RX600. (Seahorse)EP48140BA"@en	COL title VAL  "Epson Multipack T0487 - Print cartridge - 1 x black, yellow, cyan, magenta, light magenta, light cyan"@en	1
+COL title VAL  "Genuine Epson C13T79034010 Magenta High Capacity Ink Cartridge (T7903MHOEM)"@en	COL title VAL  "Genuine Epson C13T636800 Matte Black High Capacity Ink Cartridge (T6368MBKHOEM)"@en	0
+COL title VAL  "Epson Premium Glossy Photo Paper A4 2x15 Bl. 255g"@en	COL title VAL  "Epson Premium Glossy Photo Paper- 25 Sheets"@en	0
+COL title VAL  "Traveler's Lined Notebook Refill - Regular Size"@en	COL title VAL  "Refill #012: Sketch Paper Notebook"@sv	0
+COL title VAL  "CANON PFI-107 ink cartridge cyan"@en	COL title VAL  "Cartucho Canon PFI-107 C Cian"@en	1
+COL title VAL  "13x18cm Premium Glossy Photo Paper 255 g (30) - Gold"@en	COL title VAL  "Epson Premium Glossy Photo Paper- 25 Sheets"@en	0
+COL title VAL  "Cartucho Canon PFI-107 C Cian"@en	COL title VAL  "Cartucho Tóner Canon 707C Cian"@en	0
+COL title VAL  "Epson mainterance unit C13T619000 (T6190)"@fr	COL title VAL  "Epson T6164 Patron Yellow 3,5K (Eredeti)"@en	0
+COL title VAL  "Epson mainterance unit C13T619000 (T6190)"@fr	COL title VAL  "Epson T6935 Ultrachrome XD Matte svart 350ml"@sv	0
+COL title VAL  "Epson Cartouche black L 1200 Pages WF 4015DN/4025/4525DNF (C13T70314010)"@en	COL title VAL  "EPSON cartridge T7551 black XL (WF-8xxx)"@ca	0
+COL title VAL  "ZEBRA 800011-101 BLACK RIBBON (1000 PRINTS)"@de	COL title VAL  "Card Ribbon Zebra - 800033, Color: black"@en	0
+COL title VAL  "Genuine Epson C13T70234010 Magenta High Capacity Ink Cartridge (T7023MHOEM)"@en	COL title VAL  "Genuine Epson C13T865140 Black Extra High Capacity Ink Cartridge (C13T865140)"@en	0
+COL title VAL  "Evolis Primacy Zenius Ribbon Black RCT023NAA"@en	COL title VAL  "Zebra (Eltron) Black (kdo) Ribbon C Series & I Series - 1500 Images"@de	0
+COL title VAL  "Traveler's Notebook Refill - Kraft Paper Blank"@no	COL title VAL  "012 Traveler's Notebook Regular- Refill - Sketch Notebook"@sv	0
+COL title VAL  "Epson Premium Glossy Photo Paper A4 2x15 Bl. 255g"@en	COL title VAL  "Epson Premium Glossy Photo Paper - glossy photo paper - 15 sheet(s)"@en	1
+COL title VAL  "Brother TN200 toner laser x HL720-730-760"@en	COL title VAL  "2 x Original Brother Toner TN-200 Fax 8000P 8060P 8200P 8250P Neutrale Schachtel"@de	1
+COL title VAL  "Xerox Toner Phaser 6000 black 2k 106R01634"@en	COL title VAL  "Compatible Samsung© CLT-K406S [Black] Toner Cartridge"@en	0
+COL title VAL  "ZEBRA 800011-101 BLACK RIBBON (1000 PRINTS)"@de	COL title VAL  "Xerox 106R01162 High Capacity Yellow Toner Cartridge"@en	0
+COL title VAL  "Xerox Toner Phaser 6000 black 2k 106R01634"@en	COL title VAL  "Toner OKI B401 44992402 black"@sv	0
+COL title VAL  "Brother MFC-L2710DW Monochrome All-In-One Laser Printer"@en	COL title VAL  "Brother Multif. Laser Mfc-L2710Dw B/N A4 30 Ppm Fronte/Retro Adf 50Ff Usb/Ethernet/Wireless Stampante Scanner Copiatrice Fax"@en	1
+COL title VAL  "Epson T603700 7800/7880/9800/9880 Light Black Ink 220ml"@en	COL title VAL  "Epson STYLUS PHOTO R3000 BLACK INK"@en	0
+COL title VAL  "Traveler's Lined Notebook Refill - Regular Size"@en	COL title VAL  "Traveler's Refills: MD Paper - 001 / lined"@no	1
+COL title VAL  "Originln toner Samsung CLT-K406S (ern)"@de	COL title VAL  "Originln toner EPSON C13S050189 (Azurov)"@de	0
+COL title VAL  "Zebra 800033-801 Black Monochrome Ribbon for ZXP Series 3 Printers - 1000 Prints"@en	COL title VAL  "Zebra 800015-301 Black Monochrome Ribbon - K - 1,500 prints"@en	0
+COL title VAL  "Canon Black Inkjet Cartridge (PG-545)"@en	COL title VAL  "Canon CLI251XL High Yield Black Inkjet Cartridge Remanufactured"@en	0
+COL title VAL  "T6923 magenta Ink Cartridge 110ml"@en	COL title VAL  "Canon PG-545 Black Ink Cartridge"@en	0
+COL title VAL  "GENUINE Dymo 12mm x 7m Black on Red Label Tape Roll SD45017"@en	COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 12mmx7m Black on Red Ref 45017 S0720570"@en	1
+COL title VAL  "Epson Multipack T0487 - Print cartridge - 1 x black, yellow, cyan, magenta, light magenta, light cyan"@en	COL title VAL  "Xerox 106R01162 High Capacity Yellow Toner Cartridge"@en	0
+COL title VAL  "Toner OKI B401 44992402 black"@sv	COL title VAL  "Compatible Samsung© CLT-K406S [Black] Toner Cartridge"@en	0
+COL title VAL  "E260A11E CompatibleLexmark Black Toner (3500 pages)"@en	COL title VAL  "Epson Blekk Matt Svart Ultrachrome HDR - PRO 7900"@sv	0
+COL title VAL  "Canon PGI-72 PBK/GY/PM/PC/CO Multipack - ink tank - 5 Inks"@en	COL title VAL  "ORIGINAL Canon Multipack colore PGI-72multi1 6403B007 5 cartucce PGI-72: PBK +GY +PM +PC +CO"@ro	1
+COL title VAL  "D1-TAPE 9MM X 7M BLACK ON WHITE IN"@en	COL title VAL  "GENUINE Dymo 19mm x 7m Black on White Label Tape Roll SD45803"@en	0
+COL title VAL  "Epson atrament SPro 7880/9880/7800/9800 photo black 220ml"@en	COL title VAL  "Epson Blekk Matt Svart Ultrachrome HDR - PRO 7900"@sv	0
+COL title VAL  "Epson UltraChrome K3 T1571 Ink Cartridge - Photo Black"@en	COL title VAL  "Epson - magenta - original - ink cartridge"@it	0
+COL title VAL  "Original EPSON S050189 Toner Cyan"@en	COL title VAL  "Genuine Cyan OKI 44844507 Toner Cartridge - (44844507 Laser Printer Cartridge)"@en	0
+COL title VAL  "Cartucho Tóner Canon 707C Cian"@en	COL title VAL  "B300 B500DN PRO4900 MAINTENANCE KIT"@de	0
+COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 12mmx7m Black on Red Ref 45017 S0720570"@en	COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 9mmx7m Black on White Ref 40913 S0720680"@en	0
+COL title VAL  "Xerox 106R01162 High Capacity Yellow Toner Cartridge"@en	COL title VAL  "Xerox Toner Gul 25k - Phaser 7760"@en	1
+COL title VAL  "13x18cm Premium Glossy Photo Paper 255 g (30) - Gold"@en	COL title VAL  "Epson Premium Glossy Photo Paper - 30 Sheets"@en	1
+COL title VAL  "Brother Multif. Laser Mfc-L2710Dw B/N A4 30 Ppm Fronte/Retro Adf 50Ff Usb/Ethernet/Wireless Stampante Scanner Copiatrice Fax"@en	COL title VAL  "Brother HL-L8360CDW (A4) Wireless Colour Laser Printer"@en	0
+COL title VAL  "OKI B401/Mb441/451 Bk High C Toner 2.5K"@en	COL title VAL  "Toner OKI B401 44992402 black"@sv	1
+COL title VAL  "Canon CNM6448B001-6448B001 CLI-251XL ChromaLife100 High-Yield Ink"@en	COL title VAL  "Canon 4871B001 PGI29 Grey Ink 36ml"@en	0
+COL title VAL  "GENUINE Dymo 12mm x 7m Black on Red Label Tape Roll SD45017"@en	COL title VAL  "2 x Original Brother Toner TN-200 Fax 8000P 8060P 8200P 8250P Neutrale Schachtel"@de	0
+COL title VAL  "D1-TAPE 9MM X 7M BLACK ON WHITE IN"@en	COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 12mmx7m Black on Red Ref 45017 S0720570"@en	0
+COL title VAL  "Toner OKI B401 44992402 black"@sv	COL title VAL  "106R01634 Toner black pentru Phaser 6000, 6010, WorkCentre 6015"@en	0
+COL title VAL  "Epson Blekk Matt Svart Ultrachrome HDR - PRO 7900"@sv	COL title VAL  "Epson Discproducer PP-100 Ink PJIC4(M) MAGENTA"@en	0
+COL title VAL  "Compatible Samsung© CLT-K406S [Black] Toner Cartridge"@en	COL title VAL  "E260, E360, E460 3.5K Return Program Toner Cartridge"@en	0
+COL title VAL  "Canon Black Inkjet Cartridge (PG-545)"@en	COL title VAL  "Epson Cartridge Inkjet Bundle (T1285)"@no	0
+COL title VAL  "Epson - magenta - original - ink cartridge"@it	COL title VAL  "Original EPSON S050189 Toner Cyan"@en	0
+COL title VAL  "Zebra (Eltron) Black (kdo) Ribbon C Series & I Series - 1500 Images"@de	COL title VAL  "Zebra Black Resin Monochrome Ribbon - 1000 Images"@de	0
+COL title VAL  "Xerox Toner Gul 25k - Phaser 7760"@en	COL title VAL  "Xerox Toner Phaser 6000 black 2k 106R01634"@en	0
+COL title VAL  "Epson T6031 high yield photo black inkjet cartridge for use with Epson Stylus Pro 7800/9800 printers. EP603100"@en	COL title VAL  "Canon CLI251XL High Yield Black Inkjet Cartridge Remanufactured"@en	0
+COL title VAL  "Xerox Toner Phaser 6000 black 2k 106R01634"@en	COL title VAL  "Xerox 106R01162 High Capacity Yellow Toner Cartridge"@en	0
+COL title VAL  "Epson atrament WF8000 series yellow XL - 39ml C13T755440"@en	COL title VAL  "Epson T6164 Patron Yellow 3,5K (Eredeti)"@en	0
+COL title VAL  "Zebra 800033-801 Black Monochrome Ribbon for ZXP Series 3 Printers - 1000 Prints"@en	COL title VAL  "Zebra 800015-101 Black (K) Resin Monochrome Ribbon - 1000 Prints"@de	0
+COL title VAL  "Epson T7891 tinta negro original"@it	COL title VAL  "Epson - magenta - original - ink cartridge"@it	0
+COL title VAL  "Epson C13T755140 T7551 Black Ink 100ml"@en	COL title VAL  "Epson Tusz T7031 BLACK L do serii WorkForce WP4000/4500 (1.2k)"@pl	0
+COL title VAL  "Original Tinte Epson T8651, ca. 10.000 S., schwarz"@de	COL title VAL  "Epson T7891 tinta negro original"@it	0
+COL title VAL  "E260, E360, E460 3.5K Return Program Toner Cartridge"@en	COL title VAL  "Xerox 106R01162 High Capacity Yellow Toner Cartridge"@en	0
+COL title VAL  "Compatible Samsung© CLT-K406S [Black] Toner Cartridge"@en	COL title VAL  "E260A11E CompatibleLexmark Black Toner (3500 pages)"@en	0
+COL title VAL  "Epson - magenta - original - ink cartridge"@it	COL title VAL  "EPSON Cartouche encre \"Tour Eiffel\" T7023 magenta XL 2 400 pages"@fr	0
+COL title VAL  "Brother HL-L6200DW Business Laser Printer with Wireless Networking, Duplex Printing - HL-L6200DW"@en	COL title VAL  "Brother Business Laser Printer Wireless Networking and Duplex Printer"@en	0
+COL title VAL  "Genuine Epson C13T79034010 Magenta High Capacity Ink Cartridge (T7903MHOEM)"@en	COL title VAL  "Epson - magenta - original - ink cartridge"@it	0
+COL title VAL  "Canon 4871B001 PGI29 Grey Ink 36ml"@en	COL title VAL  "CANON PFI-107 ink cartridge cyan"@en	0
+COL title VAL  "Brother HL-L6300DW Laser Printer - Monochrome - Duplex"@en	COL title VAL  "Brother HL-L8360CDW (A4) Wireless Colour Laser Printer"@en	0
+COL title VAL  "Brother HL-L6200DW Business Laser Printer with Wireless Networking, Duplex Printing - HL-L6200DW"@en	COL title VAL  "Brother HL-L8360CDW (A4) Wireless Colour Laser Printer"@en	0
+COL title VAL  "Epson - magenta - original - ink cartridge"@it	COL title VAL  "T6923 magenta Ink Cartridge 110ml"@en	0
+COL title VAL  "012 Traveler's Notebook Regular- Refill - Sketch Notebook"@sv	COL title VAL  "Traveler's Notebook Refill - Grid"@no	0
+COL title VAL  "DYMO Black on Yellow Label Printer Tape, 24 mm Width, 7 m Length"@en	COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 9mmx7m Black on White Ref 40913 S0720680"@en	0
+COL title VAL  "Traveler´s Notebook Refill 014 (Kraft Paper) for Regular Size"@no	COL title VAL  "Refill #012: Sketch Paper Notebook"@sv	0
+COL title VAL  "Genuine Dymo D1 Standard Label 24mm x 7m - Black on Yellow"@en	COL title VAL  "D1-TAPE 9MM X 7M BLACK ON WHITE IN"@en	0
+COL title VAL  "Brother HL-L6300DW Laser Printer - Monochrome - Duplex"@en	COL title VAL  "HP Color LaserJet Professional CP5225dn Duplex Colour Laser Printer - A3"@en	0
+COL title VAL  "Epson Tower of Pisa Tanica Magenta"@en	COL title VAL  "Zebra 800015-101 Black (K) Resin Monochrome Ribbon - 1000 Prints"@de	0
+COL title VAL  "Monochrome Ribbon Zebra ZXP Series 1 Load-N-Go - K - 1000 prints"@en	COL title VAL  "Zebra 800033-801 Black Monochrome Ribbon for ZXP Series 3 Printers - 1000 Prints"@en	0
+COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	COL title VAL  "Canon PGI-72 PBK/GY/PM/PC/CO Multipack - ink tank - 5 Inks"@en	0
+COL title VAL  "Epson UltraChrome K3 T1571 Ink Cartridge - Photo Black"@en	COL title VAL  "Genuine Epson C13T636800 Matte Black High Capacity Ink Cartridge (T6368MBKHOEM)"@en	0
+COL title VAL  "Xerox Toner Gul 25k - Phaser 7760"@en	COL title VAL  "Originln toner EPSON C13S050189 (Azurov)"@de	0
+COL title VAL  "Zebra 800015-101 Black (K) Resin Monochrome Ribbon - 1000 Prints"@de	COL title VAL  "Zebra (Eltron) Black (kdo) Ribbon C Series & I Series - 1500 Images"@de	0
+COL title VAL  "Epson Premium Glossy Photo Paper - 30 Sheets"@en	COL title VAL  "Epson Pap Photo Premium Glacé A3 (20f./255g)"@pt	0
+COL title VAL  "Epson T7891 tinta negro original"@it	COL title VAL  "TINTA EPSON CLARIA 29 CIAN XP235 XP332 XP335 XP432 XP435"@so	0
+COL title VAL  "EPSON B-300/310N (Yellow)"@en	COL title VAL  "Epson Tusz T7031 BLACK L do serii WorkForce WP4000/4500 (1.2k)"@pl	0
+COL title VAL  "Card Ribbon Zebra - 800033, Color: black"@en	COL title VAL  "Zebra 800015-301 Black Monochrome Ribbon - K - 1,500 prints"@en	0
+COL title VAL  "D1-TAPE 9MM X 7M BLACK ON WHITE IN"@en	COL title VAL  "Tape 24mmx7m black white Type D1"@en	0
+COL title VAL  "Dymo S0720830 D1 Tape 19mm Black on White 45803"@en	COL title VAL  "Traveler´s Notebook Refill 014 (Kraft Paper) for Regular Size"@no	0
+COL title VAL  "Epson Premium Glossy Photo Paper - glossy photo paper - 15 sheet(s)"@en	COL title VAL  "Epson A3 Premium Glossy Photo Paper 255gsm (Pack of 20)"@en	0
+COL title VAL  "Canon PGI-72 PBK/GY/PM/PC/CO Multipack - ink tank - 5 Inks"@en	COL title VAL  "Zebra Black Resin Monochrome Ribbon - 1000 Images"@de	0
+COL title VAL  "Canon CNM6448B001-6448B001 CLI-251XL ChromaLife100 High-Yield Ink"@en	COL title VAL  "Genuine Epson C13T865140 Black Extra High Capacity Ink Cartridge (C13T865140)"@en	0
+COL title VAL  "Originln toner Samsung CLT-K406S (ern)"@de	COL title VAL  "Compatible Samsung© CLT-K406S [Black] Toner Cartridge"@en	1
+COL title VAL  "Cartouche EPSON WF-5XXX SERIES XXL BLACK"@fr	COL title VAL  "Epson atrament WF8000 series yellow XL - 39ml C13T755440"@en	0
+COL title VAL  "TINTA EPSON CLARIA 29 CIAN XP235 XP332 XP335 XP432 XP435"@so	COL title VAL  "Epson T2982 Patron Cyan 3,2ml (Eredeti)"@tr	1
+COL title VAL  "TINTA EPSON CLARIA 29 CIAN XP235 XP332 XP335 XP432 XP435"@so	COL title VAL  "OKI C831/C841 Toner Cian"@en	0
+COL title VAL  "Epson STYLUS PHOTO R3000 BLACK INK"@en	COL title VAL  "Epson C13T755140 T7551 Black Ink 100ml"@en	0
+COL title VAL  "Epson C13T755140 T7551 Black Ink 100ml"@en	COL title VAL  "Epson T603700 7800/7880/9800/9880 Light Black Ink 220ml"@en	0
+COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	COL title VAL  "Canon PGI-29GY Grey Ink Cartridge"@en	0
+COL title VAL  "2 x Original Brother Toner TN-200 Fax 8000P 8060P 8200P 8250P Neutrale Schachtel"@de	COL title VAL  "Toner Brother - Giallo - originale - cartuccia toner tn135y"@en	0
+COL title VAL  "EPSON cartridge T7551 black XL (WF-8xxx)"@ca	COL title VAL  "Epson C13T755140 T7551 Black Ink 100ml"@en	1
+COL title VAL  "106R01634 Toner black pentru Phaser 6000, 6010, WorkCentre 6015"@en	COL title VAL  "Xerox Toner Phaser 6000 black 2k 106R01634"@en	1
+COL title VAL  "HP Color LaserJet Pro CP5225dn - A3"@en	COL title VAL  "HP Color LaserJet Professional CP5225dn Duplex Colour Laser Printer - A3"@en	1
+COL title VAL  "Genuine Dymo D1 Standard Label 24mm x 7m - Black on Yellow"@en	COL title VAL  "GENUINE Dymo 19mm x 7m Black on White Label Tape Roll SD45803"@en	0
+COL title VAL  "Epson A3 Premium Glossy Photo Paper 255gsm (Pack of 20)"@en	COL title VAL  "Epson Premium Glossy Photo Paper- 25 Sheets"@en	0
+COL title VAL  "Epson T603700 Light Black Ink 220ml UltraChrome for SP 7800, 7880 & 9800, 9880"@en	COL title VAL  "Epson T6031 high yield photo black inkjet cartridge for use with Epson Stylus Pro 7800/9800 printers. EP603100"@en	0
+COL title VAL  "GENUINE Dymo 19mm x 7m Black on White Label Tape Roll SD45803"@en	COL title VAL  "Genuine Epson C13T865140 Black Extra High Capacity Ink Cartridge (C13T865140)"@en	0
+COL title VAL  "Epson Papir Photo Prem Glossy A2 25 Ark 225g"@en	COL title VAL  "Fotopapier Epson A4 Prem s.gloss/pk20v"@en	0
+COL title VAL  "Cartucho Tóner Canon 707C Cian"@en	COL title VAL  "OKI C831/C841 Toner Cian"@en	0
+COL title VAL  "106R01634 Toner black pentru Phaser 6000, 6010, WorkCentre 6015"@en	COL title VAL  "E260A11E CompatibleLexmark Black Toner (3500 pages)"@en	0
+COL title VAL  "Cartucho Tóner Canon 707C Cian"@en	COL title VAL  "Original Tinte Epson T8651, ca. 10.000 S., schwarz"@de	0
+COL title VAL  "EPSON cartridge T7551 black XL (WF-8xxx)"@ca	COL title VAL  "Cartouche EPSON WF-5XXX SERIES XXL BLACK"@fr	0
+COL title VAL  "Genuine Epson C13T70234010 Magenta High Capacity Ink Cartridge (T7023MHOEM)"@en	COL title VAL  "Genuine Epson C13T79034010 Magenta High Capacity Ink Cartridge (T7903MHOEM)"@en	0
+COL title VAL  "Genuine Epson C13T865140 Black Extra High Capacity Ink Cartridge (C13T865140)"@en	COL title VAL  "Original Tinte Epson T8651, ca. 10.000 S., schwarz"@de	1
+COL title VAL  "OKI B401/Mb441/451 Bk High C Toner 2.5K"@en	COL title VAL  "OKI C831/C841 Toner Cian"@en	0
+COL title VAL  "Evolis Primacy Zenius Ribbon Black RCT023NAA"@en	COL title VAL  "Card Ribbon Zebra - 800033, Color: black"@en	0
+COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 9mmx7m Black on White Ref 40913 S0720680"@en	COL title VAL  "Dymo S0720830 D1 Tape 19mm Black on White 45803"@en	0
+COL title VAL  "Epson Fox Multipack 4 colori"@en	COL title VAL  "Epson Cartridge Inkjet Bundle (T1285)"@no	1
+COL title VAL  "Canon 4871B001 PGI29 Grey Ink 36ml"@en	COL title VAL  "Canon PG-545 Black Ink Cartridge"@en	0
+COL title VAL  "Samsung MLT-D103L Toner Cartridge Black, High Yield"@en	COL title VAL  "Samsung MLT-D103L, High Yield Black Toner/Drum for ML-2950ND / 2955ND / 2955DW, SCX-4728FD / 4729FD / 4729FW (2,500 pages)"@en	1
+COL title VAL  "Epson A3 Premium Glossy Photo Paper 255gsm (Pack of 20)"@en	COL title VAL  "13x18cm Premium Glossy Photo Paper 255 g (30) - Gold"@en	0
+COL title VAL  "Zebra 800033-801 Black Monochrome Ribbon for ZXP Series 3 Printers - 1000 Prints"@en	COL title VAL  "Card Ribbon Zebra - 800033, Color: black"@en	1
+COL title VAL  "Genuine Dymo D1 Standard Label 24mm x 7m - Black on Yellow"@en	COL title VAL  "Dymo D1 Tape for Electronic Labelmakers 9mmx7m Black on White Ref 40913 S0720680"@en	0
+COL title VAL  "Canon PG-545 Black Ink Cartridge"@en	COL title VAL  "Canon Black Inkjet Cartridge (PG-545)"@en	1
+COL title VAL  "TONER BROTHER TN-135 YELLOW ORIGINAL"@en	COL title VAL  "Toner Brother - Giallo - originale - cartuccia toner tn135y"@en	1
+COL title VAL  "ORIGINAL Canon Multipack colore PGI-72multi1 6403B007 5 cartucce PGI-72: PBK +GY +PM +PC +CO"@ro	COL title VAL  "T6923,(110 )Epson SureColor SC-T3000/T5000/T7000"@en	0
+COL title VAL  "Genuine Epson C13T636800 Matte Black High Capacity Ink Cartridge (T6368MBKHOEM)"@en	COL title VAL  "Epson oryginalny ink C13T693500, matte black, 350ml, Epson SureColor SC-T3000, SC-T5000, SC-T7000"@en	0
+COL title VAL  "Epson T603700 7800/7880/9800/9880 Light Black Ink 220ml"@en	COL title VAL  "Epson atrament SPro 7880/9880/7800/9800 photo black 220ml"@en	0
+COL title VAL  "Dymo S0720830 D1 Tape 19mm Black on White 45803"@en	COL title VAL  "GENUINE Dymo 19mm x 7m Black on White Label Tape Roll SD45803"@en	1
+COL title VAL  "Epson UltraChrome K3 T1571 Ink Cartridge - Photo Black"@en	COL title VAL  "Epson C13T755140 T7551 Black Ink 100ml"@en	0
+COL title VAL  "Epson atrament WF8000 series yellow XL - 39ml C13T755440"@en	COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	0
+COL title VAL  "Cartucho Canon PFI-107 C Cian"@en	COL title VAL  "ORIGINAL Canon Multipack colore PGI-72multi1 6403B007 5 cartucce PGI-72: PBK +GY +PM +PC +CO"@ro	0
+COL title VAL  "Original EPSON S050189 Toner Cyan"@en	COL title VAL  "OKI C831/C841 Toner Cian"@en	0
+COL title VAL  "Traveler´s Notebook Refill 014 (Kraft Paper) for Regular Size"@no	COL title VAL  "012 Traveler's Notebook Regular- Refill - Sketch Notebook"@sv	0
+COL title VAL  "Refill #012: Sketch Paper Notebook"@sv	COL title VAL  "Traveler's Notebook Refill - Grid"@no	0
+COL title VAL  "Genuine Epson C13T70234010 Magenta High Capacity Ink Cartridge (T7023MHOEM)"@en	COL title VAL  "Epson Discproducer PP-100 Ink PJIC4(M) MAGENTA"@en	0
+COL title VAL  "Epson STYLUS PHOTO R3000 BLACK INK"@en	COL title VAL  "Epson atrament SPro 7880/9880/7800/9800 photo black 220ml"@en	0
+COL title VAL  "ORIGINAL Canon Multipack colore PGI-72multi1 6403B007 5 cartucce PGI-72: PBK +GY +PM +PC +CO"@ro	COL title VAL  "Canon PGI-29GY Grey Ink Cartridge"@en	0
+COL title VAL  "Brother HL-L6200DW Business Laser Printer with Wireless Networking, Duplex Printing - HL-L6200DW"@en	COL title VAL  "Brother HL-L6300DW / A4 / Laser / 1200 x 1200 dpi / černobílá / USB / WiFi / LAN / NFC"@en	0
+COL title VAL  "Epson Multipack T0487 - Print cartridge - 1 x black, yellow, cyan, magenta, light magenta, light cyan"@en	COL title VAL  "Epson Fox Multipack 4 colori"@en	0
+COL title VAL  "Canon IPF5000 CYAN INK 130ml"@tl	COL title VAL  "T6923 magenta Ink Cartridge 110ml"@en	0
+COL title VAL  "Epson atrament WF8000 series yellow XL - 39ml C13T755440"@en	COL title VAL  "EPSON cartridge T7551 black XL (WF-8xxx)"@ca	0
+COL title VAL  "Epson Papir Photo Prem Glossy A2 25 Ark 225g"@en	COL title VAL  "Epson Premium Glossy Photo Paper - 30 Sheets"@en	0
+COL title VAL  "Genuine Epson C13T70234010 Magenta High Capacity Ink Cartridge (T7023MHOEM)"@en	COL title VAL  "EPSON Cartouche encre \"Tour Eiffel\" T7023 magenta XL 2 400 pages"@fr	1
+COL title VAL  "Traveler´s Notebook Refill 014 (Kraft Paper) for Regular Size"@no	COL title VAL  "Traveler´s Notebook Refill 002 (Grid Notebook) for Regular Size"@en	0
+COL title VAL  "Brother HL-L6300DW Laser Printer - Monochrome - Duplex"@en	COL title VAL  "Brother HL-L8360CDW Wireless Colour Laser + LCD"@en	0
+COL title VAL  "Original EPSON S050189 Toner Cyan"@en	COL title VAL  "2 x Original Brother Toner TN-200 Fax 8000P 8060P 8200P 8250P Neutrale Schachtel"@de	0
+COL title VAL  "Xerox 106R01162 High Capacity Yellow Toner Cartridge"@en	COL title VAL  "Genuine Epson C13T79034010 Magenta High Capacity Ink Cartridge (T7903MHOEM)"@en	0
+COL title VAL  "Epson Papir Photo Prem Glossy A2 25 Ark 225g"@en	COL title VAL  "Epson A3 Premium Glossy Photo Paper 255gsm (Pack of 20)"@en	0
+COL title VAL  "Zebra Black Resin Monochrome Ribbon - 1000 Images"@de	COL title VAL  "Zebra 800033-801 Black Monochrome Ribbon for ZXP Series 3 Printers - 1000 Prints"@en	0

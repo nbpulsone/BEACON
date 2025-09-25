@@ -1,0 +1,55 @@
+COL title VAL  "Philips CorePro LED PLC 4.5W 840 2P G24d-1 (2pin- vervangt 13W)"@en	COL title VAL  "Philips 32PFS5803 - Full HD Smart tv"@en	0
+COL title VAL  "Sony 32\" HD Ready Smart LED TV - Black | KDL32WE613BU"@en	COL title VAL  "Philips 32PFS5803 - Full HD Smart tv"@en	0
+COL title VAL  "Smart TV Xiaomi Mi TV 4S 55\" 4K Ultra HD LED WiFi Zwart"@de	COL title VAL  "49\" LG 49UK6300 4K HDR Smart LED UHD TV"@de	0
+COL title VAL  "TV LED 75'' Sony KD-75ZH8 8K UHD HDR Smart TV"@en	COL title VAL  "SONY BRAVIA KDL32WE613BU 32\" HDR LED TV"@de	0
+COL title VAL  "Philips 32PFS5803 - Full HD Smart tv"@en	COL title VAL  "Philips 32PFS5803 Full HD 32″"@en	1
+COL title VAL  "LG 65UN73006LA 65\" Smart 4K Ultra HD HDR LED TV with Google Assistant & Amazon Alexa"@en	COL title VAL  "TV LED 75'' Sony KD-75ZH8 8K UHD HDR Smart TV"@en	0
+COL title VAL  "55 IN FLAT LED 4K TV"@en	COL title VAL  "LED TV 55" PHILIPS 55PUS7304/12"@de	0
+COL title VAL  "55 IN FLAT LED 4K TV"@en	COL title VAL  "55" Class TU7000 Crystal UHD 4K Smart TV (2020)"@en	1
+COL title VAL  "55 IN FLAT LED 4K TV"@en	COL title VAL  "Philips 50\" Flachbild TV 50PUS7504 7500 Series - 50\" LED TV LED 4K"@de	0
+COL title VAL  "TV LED LG 32\" HD READY DVB-T2/C/S2"@en	COL title VAL  "SONY BRAVIA KDL32WE613BU 32\" HDR LED TV"@de	0
+COL title VAL  "LG 65UN73006LA 65\" Smart 4K Ultra HD HDR LED TV with Google Assistant & Amazon Alexa"@en	COL title VAL  "LG 65UN73006LA 4K UHD TV 65\" (165cm) DVB-T2/C/S2"@en	1
+COL title VAL  "LG 49UK6300PLB 49\"LED UltraHD 4K"@de	COL title VAL  "55 IN FLAT LED 4K TV"@en	0
+COL title VAL  "Philips 55PUS7304/12 55" (140 cm) 4K Slim LED TV"@vi	COL title VAL  "LED TV 55" PHILIPS 55PUS7304/12"@de	1
+COL title VAL  "Philips 50\" Flachbild TV 50PUS7504 7500 Series - 50\" LED TV LED 4K"@de	COL title VAL  "Philips 55PUS7304/12 55" (140 cm) 4K Slim LED TV"@vi	0
+COL title VAL  "Philips 55PUS7304/12 55" (140 cm) 4K Slim LED TV"@vi	COL title VAL  "55 IN FLAT LED 4K TV"@en	0
+COL title VAL  "Smart TV Xiaomi Mi TV 4S 55\" 4K Ultra HD LED WiFi Zwart"@de	COL title VAL  "Xiaomi Mi TV 4S Smart TV 55 Zoll 4K Ultra HD LED WiFi Schwarz"@de	1
+COL title VAL  "49\" LG 49UK6300 4K HDR Smart LED UHD TV"@de	COL title VAL  "55 IN FLAT LED 4K TV"@en	0
+COL title VAL  "Philips 32PFS5803 - Full HD Smart tv"@en	COL title VAL  "Philips 50PUS7504/12, SMART TV LED Android, Ultra HD 4K, Ambilight, 126 cm"@en	0
+COL title VAL  "49\" LG 49UK6300 4K HDR Smart LED UHD TV"@de	COL title VAL  "LG 65UN73006LA 4K UHD TV 65\" (165cm) DVB-T2/C/S2"@en	0
+COL title VAL  "LG 65UN73006LA 65\" Smart 4K Ultra HD HDR LED TV with Google Assistant & Amazon Alexa"@en	COL title VAL  "LG 49UK6300PLB 49\"LED UltraHD 4K"@de	0
+COL title VAL  "TV LED 75'' Sony KD-75ZH8 8K UHD HDR Smart TV"@en	COL title VAL  "Sony 32\" HD Ready Smart LED TV - Black | KDL32WE613BU"@en	0
+COL title VAL  "49\" LG 49UK6300 4K HDR Smart LED UHD TV"@de	COL title VAL  "SONY BRAVIA KDL32WE613BU 32\" HDR LED TV"@de	0
+COL title VAL  "TV LED 75'' Sony KD-75ZH8 8K UHD HDR Smart TV"@en	COL title VAL  "Philips 32PFS5803 - Full HD Smart tv"@en	0
+COL title VAL  "TV LED 75'' Sony KD-75ZH8 8K UHD HDR Smart TV"@en	COL title VAL  "Sony KD-75ZH8 ZH8, Full Array LED, 8K, HDR"@en	1
+COL title VAL  "49\" LG 49UK6300 4K HDR Smart LED UHD TV"@de	COL title VAL  "Xiaomi Mi TV 4S Smart TV 55 Zoll 4K Ultra HD LED WiFi Schwarz"@de	0
+COL title VAL  "SONY BRAVIA KDL32WE613BU 32\" HDR LED TV"@de	COL title VAL  "Sony 32\" HD Ready Smart LED TV - Black | KDL32WE613BU"@en	1
+COL title VAL  "Philips 55PUS7304/12 55" (140 cm) 4K Slim LED TV"@vi	COL title VAL  "Smart TV Xiaomi Mi TV 4S 55\" 4K Ultra HD LED WiFi Zwart"@de	0
+COL title VAL  "LG 32LM550BPLB 32" HD LED TV With Virtual Surround Sound"@en	COL title VAL  "LG 65UN73006LA 65\" Smart 4K Ultra HD HDR LED TV with Google Assistant & Amazon Alexa"@en	0
+COL title VAL  "Philips 50PUS7504/12, SMART TV LED Android, Ultra HD 4K, Ambilight, 126 cm"@en	COL title VAL  "Xiaomi Mi TV 4S Smart TV 55 Zoll 4K Ultra HD LED WiFi Schwarz"@de	0
+COL title VAL  "Smart TV Xiaomi Mi TV 4S 55\" 4K Ultra HD LED WiFi Zwart"@de	COL title VAL  "Sony 32\" HD Ready Smart LED TV - Black | KDL32WE613BU"@en	0
+COL title VAL  "TV LED LG 32\" HD READY DVB-T2/C/S2"@en	COL title VAL  "LG 32LM550BPLB 32" HD LED TV With Virtual Surround Sound"@en	1
+COL title VAL  "LG 32LM550BPLB 32" HD LED TV With Virtual Surround Sound"@en	COL title VAL  "SONY BRAVIA KDL32WE613BU 32\" HDR LED TV"@de	0
+COL title VAL  "55" Class TU7000 Crystal UHD 4K Smart TV (2020)"@en	COL title VAL  "49\" LG 49UK6300 4K HDR Smart LED UHD TV"@de	0
+COL title VAL  "SONY BRAVIA KDL32WE613BU 32\" HDR LED TV"@de	COL title VAL  "Sony KD-75ZH8 ZH8, Full Array LED, 8K, HDR"@en	0
+COL title VAL  "Philips CorePro LED PLC 4.5W 840 2P G24d-1 (2pin- vervangt 13W)"@en	COL title VAL  "Philips 55PUS7304/12 55" (140 cm) 4K Slim LED TV"@vi	0
+COL title VAL  "Philips 55PUS7304/12 55" (140 cm) 4K Slim LED TV"@vi	COL title VAL  "Philips 50PUS7504/12, SMART TV LED Android, Ultra HD 4K, Ambilight, 126 cm"@en	0
+COL title VAL  "Philips 50\" Flachbild TV 50PUS7504 7500 Series - 50\" LED TV LED 4K"@de	COL title VAL  "49\" LG 49UK6300 4K HDR Smart LED UHD TV"@de	0
+COL title VAL  "LG 65UN73006LA 4K UHD TV 65\" (165cm) DVB-T2/C/S2"@en	COL title VAL  "TV LED LG 32\" HD READY DVB-T2/C/S2"@en	0
+COL title VAL  "Smart TV Xiaomi Mi TV 4S 55\" 4K Ultra HD LED WiFi Zwart"@de	COL title VAL  "55 IN FLAT LED 4K TV"@en	0
+COL title VAL  "LG 65UN73006LA 4K UHD TV 65\" (165cm) DVB-T2/C/S2"@en	COL title VAL  "55" Class TU7000 Crystal UHD 4K Smart TV (2020)"@en	0
+COL title VAL  "55 IN FLAT LED 4K TV"@en	COL title VAL  "Xiaomi Mi TV 4S Smart TV 55 Zoll 4K Ultra HD LED WiFi Schwarz"@de	0
+COL title VAL  "LG 65UN73006LA 4K UHD TV 65\" (165cm) DVB-T2/C/S2"@en	COL title VAL  "Philips 50\" Flachbild TV 50PUS7504 7500 Series - 50\" LED TV LED 4K"@de	0
+COL title VAL  "LG 49UK6300PLB 49\"LED UltraHD 4K"@de	COL title VAL  "49\" LG 49UK6300 4K HDR Smart LED UHD TV"@de	1
+COL title VAL  "LG 65UN73006LA 65\" Smart 4K Ultra HD HDR LED TV with Google Assistant & Amazon Alexa"@en	COL title VAL  "Smart TV Xiaomi Mi TV 4S 55\" 4K Ultra HD LED WiFi Zwart"@de	0
+COL title VAL  "TV LED 75'' Sony KD-75ZH8 8K UHD HDR Smart TV"@en	COL title VAL  "49\" LG 49UK6300 4K HDR Smart LED UHD TV"@de	0
+COL title VAL  "Philips 50\" Flachbild TV 50PUS7504 7500 Series - 50\" LED TV LED 4K"@de	COL title VAL  "Philips 50PUS7504/12, SMART TV LED Android, Ultra HD 4K, Ambilight, 126 cm"@en	1
+COL title VAL  "Philips CorePro LED PLC 4.5W 840 2P G24d-1 (2pin- vervangt 13W)"@en	COL title VAL  "Philips CorePro PL-C LED 4.5W 840 | kold hvid - 2-pinde - erstatter 10W & 13W"@en	1
+COL title VAL  "Sony 32\" HD Ready Smart LED TV - Black | KDL32WE613BU"@en	COL title VAL  "TV LED LG 32\" HD READY DVB-T2/C/S2"@en	0
+COL title VAL  "Sony KD-75ZH8 ZH8, Full Array LED, 8K, HDR"@en	COL title VAL  "49\" LG 49UK6300 4K HDR Smart LED UHD TV"@de	0
+COL title VAL  "LG 32LM550BPLB 32" HD LED TV With Virtual Surround Sound"@en	COL title VAL  "Sony 32\" HD Ready Smart LED TV - Black | KDL32WE613BU"@en	0
+COL title VAL  "LG 32LM550BPLB 32" HD LED TV With Virtual Surround Sound"@en	COL title VAL  "TV LED 75'' Sony KD-75ZH8 8K UHD HDR Smart TV"@en	0
+COL title VAL  "49\" LG 49UK6300 4K HDR Smart LED UHD TV"@de	COL title VAL  "TV LED LG 32\" HD READY DVB-T2/C/S2"@en	0
+COL title VAL  "Philips 50PUS7504/12, SMART TV LED Android, Ultra HD 4K, Ambilight, 126 cm"@en	COL title VAL  "LG 32LM550BPLB 32" HD LED TV With Virtual Surround Sound"@en	0
+COL title VAL  "LG 65UN73006LA 65\" Smart 4K Ultra HD HDR LED TV with Google Assistant & Amazon Alexa"@en	COL title VAL  "49\" LG 49UK6300 4K HDR Smart LED UHD TV"@de	0
+COL title VAL  "Philips 50PUS7504/12, SMART TV LED Android, Ultra HD 4K, Ambilight, 126 cm"@en	COL title VAL  "Smart TV Xiaomi Mi TV 4S 55\" 4K Ultra HD LED WiFi Zwart"@de	0

@@ -1,0 +1,28 @@
+COL title VAL  "Blaze Professional Grill Cart for 34-Inch 3-Burner Gas Grill"@en	COL title VAL  "Blaze 3 Burner Pro Cart Only"@de	1
+COL title VAL  "Blaze Professional 27-Inch 2 Burner Built-In Gas Grill With Rear Infrared Burner & Lights"@en	COL title VAL  "Blaze 40 Inch 5-Burner Built-In Grill With Rear Infrared Burner, LTE - Liquid Propane BLZ-5LTE2-LP"@de	0
+COL title VAL  "Blaze Professional Grill Cart for 34-Inch 3-Burner Gas Grill"@en	COL title VAL  "Blaze 32-Inch 4-Burner LTE Built-In Natural Gas Grill With Rear Infrared Burner & Grill Lights"@en	0
+COL title VAL  "Blaze 32-Inch 4-Burner LTE Built-In Natural Gas Grill With Rear Infrared Burner & Grill Lights"@en	COL title VAL  "Blaze 35\" Stainless Steel Grill Cart for 5 Burner Traditional/LTE Gas Grills BLZ-5-CART"@en	0
+COL title VAL  "Blaze Professional Grill Cart for 34-Inch 3-Burner Gas Grill"@en	COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	0
+COL title VAL  "Blaze Professional Grill Cart for 34-Inch 3-Burner Gas Grill"@en	COL title VAL  "Blaze 40 Inch 5-Burner LTE Gas Grill with Rear Burner, Built-in Lighting System"@de	0
+COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	COL title VAL  "Blaze 32-Inch 4-Burner LTE Built-In Natural Gas Grill With Rear Infrared Burner & Grill Lights"@en	0
+COL title VAL  "Blaze Professional Grill Cart for 34-Inch 3-Burner Gas Grill"@en	COL title VAL  "Blaze Professional 27-Inch 2 Burner Built-In Gas Grill With Rear Infrared Burner & Lights"@en	0
+COL title VAL  "Blaze 40 Inch 5-Burner LTE Gas Grill with Rear Burner, Built-in Lighting System"@de	COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	0
+COL title VAL  "Blaze 32-Inch 4-Burner LTE Built-In Natural Gas Grill With Rear Infrared Burner & Grill Lights"@en	COL title VAL  "Blaze 40 Inch 5-Burner Built-In Grill With Rear Infrared Burner, LTE - Liquid Propane BLZ-5LTE2-LP"@de	0
+COL title VAL  "Blaze 40 Inch 5-Burner LTE Gas Grill with Rear Burner, Built-in Lighting System"@de	COL title VAL  "Blaze 40 Inch 5-Burner Built-In Grill With Rear Infrared Burner, LTE - Liquid Propane BLZ-5LTE2-LP"@de	1
+COL title VAL  "Bosch KGN34NWEAG 186h Frost Free Fridge Freezer White A++ Rated"@de	COL title VAL  "Bosch Tall Frost Free Fridge Freezer KGN34NWEAG"@de	1
+COL title VAL  "40\" Blaze 5 Burner Grill Cart"@de	COL title VAL  "Blaze 40 Inch 5-Burner LTE Gas Grill with Rear Burner, Built-in Lighting System"@de	0
+COL title VAL  "Blaze Professional 27-Inch 2 Burner Built-In Gas Grill With Rear Infrared Burner & Lights"@en	COL title VAL  "4 Burner Blaze LTE Grill with Lights (32\") - NG"@en	0
+COL title VAL  "Blaze 35\" Stainless Steel Grill Cart for 5 Burner Traditional/LTE Gas Grills BLZ-5-CART"@en	COL title VAL  "Blaze 40 Inch 5-Burner LTE Gas Grill with Rear Burner, Built-in Lighting System"@de	0
+COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	COL title VAL  "Blaze Professional 27-Inch 2 Burner Built-In Gas Grill With Rear Infrared Burner & Lights"@en	1
+COL title VAL  "40\" Blaze 5 Burner Grill Cart"@de	COL title VAL  "Blaze Professional 27-Inch 2 Burner Built-In Gas Grill With Rear Infrared Burner & Lights"@en	0
+COL title VAL  "Blaze 35\" Stainless Steel Grill Cart for 5 Burner Traditional/LTE Gas Grills BLZ-5-CART"@en	COL title VAL  "Blaze 2 Burner Professional Built-In Propane Gas Grill"@en	0
+COL title VAL  "Blaze 3 Burner Pro Cart Only"@de	COL title VAL  "40\" Blaze 5 Burner Grill Cart"@de	0
+COL title VAL  "40\" Blaze 5 Burner Grill Cart"@de	COL title VAL  "Blaze Professional Grill Cart for 34-Inch 3-Burner Gas Grill"@en	0
+COL title VAL  "Blaze 32-Inch 4-Burner LTE Built-In Natural Gas Grill With Rear Infrared Burner & Grill Lights"@en	COL title VAL  "4 Burner Blaze LTE Grill with Lights (32\") - NG"@en	1
+COL title VAL  "Blaze 40 Inch 5-Burner LTE Gas Grill with Rear Burner, Built-in Lighting System"@de	COL title VAL  "Blaze Professional 27-Inch 2 Burner Built-In Gas Grill With Rear Infrared Burner & Lights"@en	0
+COL title VAL  "40\" Blaze 5 Burner Grill Cart"@de	COL title VAL  "4 Burner Blaze LTE Grill with Lights (32\") - NG"@en	0
+COL title VAL  "Blaze 32-Inch 4-Burner LTE Built-In Natural Gas Grill With Rear Infrared Burner & Grill Lights"@en	COL title VAL  "Blaze Professional 27-Inch 2 Burner Built-In Gas Grill With Rear Infrared Burner & Lights"@en	0
+COL title VAL  "Blaze Professional Grill Cart for 34-Inch 3-Burner Gas Grill"@en	COL title VAL  "Blaze 35\" Stainless Steel Grill Cart for 5 Burner Traditional/LTE Gas Grills BLZ-5-CART"@en	0
+COL title VAL  "4 Burner Blaze LTE Grill with Lights (32\") - NG"@en	COL title VAL  "Blaze 40 Inch 5-Burner LTE Gas Grill with Rear Burner, Built-in Lighting System"@de	0
+COL title VAL  "40\" Blaze 5 Burner Grill Cart"@de	COL title VAL  "Blaze 35\" Stainless Steel Grill Cart for 5 Burner Traditional/LTE Gas Grills BLZ-5-CART"@en	1
+COL title VAL  "Blaze 32-Inch 4-Burner LTE Built-In Natural Gas Grill With Rear Infrared Burner & Grill Lights"@en	COL title VAL  "Blaze 40 Inch 5-Burner LTE Gas Grill with Rear Burner, Built-in Lighting System"@de	0

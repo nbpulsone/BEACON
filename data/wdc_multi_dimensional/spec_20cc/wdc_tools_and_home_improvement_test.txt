@@ -1,0 +1,25 @@
+COL title VAL  "Park Tool PARK TOOL CHAIN BREAKER Tool"@en	COL title VAL  "Park Tool CT-3.3"@en	0
+COL title VAL  "CCW-5C Crank Bolt Bike Wrench"@nl	COL title VAL  "T‑3.2 Screw Type Bike Chain Tool"@en	0
+COL title VAL  "Park Tool CCW-5 Kurbelschraubenschlüssel"@de	COL title VAL  "Park Tool - Chain Tool CT-3.2"@en	0
+COL title VAL  "Park Tool CT-3.3"@en	COL title VAL  "Park Tool CCW-5 Kurbelschraubenschlüssel"@de	0
+COL title VAL  "Park Tool PARK TOOL CHAIN BREAKER Tool"@en	COL title VAL  "DeWALT DCD785C2 - 20V MAX* Lithium Ion Compact Hammerdrill"@en	0
+COL title VAL  "Fenix 21700 5000 mAh Li-ion Protected Battery"@en	COL title VAL  "DeWALT DCD785C2 - 20V MAX* Lithium Ion Compact Hammerdrill"@en	0
+COL title VAL  "Park Tool Park Tool, TWS-2, Clés Torx repliables, T7, T9, T10, T15, T20, T25, T27, T30 et T40"@en	COL title VAL  "Park Tool CT-3.3"@en	0
+COL title VAL  "T‑3.2 Screw Type Bike Chain Tool"@en	COL title VAL  "Park Tool - Chain Tool CT-3.2"@en	1
+COL title VAL  "Park Tool CCW-5 Kurbelschraubenschlüssel"@de	COL title VAL  "Park Tool PARK TOOL CHAIN BREAKER Tool"@en	0
+COL title VAL  "Park Tool TWS-2 Folding Torx Wrenches"@en	COL title VAL  "Park Tool CT-3.3"@en	0
+COL title VAL  "Park Tool TWS-2 Folding Torx Wrenches"@en	COL title VAL  "Park Tool - Chain Tool CT-3.2"@en	0
+COL title VAL  "Park Tool - Chain Tool CT-3.2"@en	COL title VAL  "Park Tool Park Tool, TWS-2, Clés Torx repliables, T7, T9, T10, T15, T20, T25, T27, T30 et T40"@en	0
+COL title VAL  "Park Tool TWS-2 Folding Torx Wrenches"@en	COL title VAL  "Park Tool Park Tool, TWS-2, Clés Torx repliables, T7, T9, T10, T15, T20, T25, T27, T30 et T40"@en	1
+COL title VAL  "Park Tool - Chain Tool CT-3.2"@en	COL title VAL  "Park Tool PARK TOOL CHAIN BREAKER Tool"@en	0
+COL title VAL  "DeWalt 20V MAX* Compact Hammerdrill Kit (1.5 Ah)"@nl	COL title VAL  "DeWALT DCD785C2 - 20V MAX* Lithium Ion Compact Hammerdrill"@en	1
+COL title VAL  "Park Tool - Chain Tool CT-3.2"@en	COL title VAL  "Park Tool CT-6.3 Folding Chain Tool/Peening Anvil - Tool"@en	0
+COL title VAL  "Park Tool CT-3.3"@en	COL title VAL  "Park Tool - Chain Tool CT-3.2"@en	0
+COL title VAL  "Park Tool CT-6.3 Folding Chain Tool/Peening Anvil - Tool"@en	COL title VAL  "Park Tool PARK TOOL CHAIN BREAKER Tool"@en	1
+COL title VAL  "Park Tool CT-3.3"@en	COL title VAL  "Park Tool CT-6.3 Folding Chain Tool/Peening Anvil - Tool"@en	0
+COL title VAL  "PARKTOOL DERIVE CHAINE CT-3.3"@vi	COL title VAL  "Park Tool - Chain Tool CT-3.2"@en	0
+COL title VAL  "Park Tool CCW-5 Kurbelschraubenschlüssel"@de	COL title VAL  "CCW-5C Crank Bolt Bike Wrench"@nl	1
+COL title VAL  "FENIX ARE-A4 Multifunctional Smart Battery Charger for Popular Rechargeable Batteries"@en	COL title VAL  "Fenix 21700 5000 mAh Li-ion Protected Battery"@en	1
+COL title VAL  "Park Tool CT-6.3 Folding Chain Tool/Peening Anvil - Tool"@en	COL title VAL  "PARKTOOL DERIVE CHAINE CT-3.3"@vi	0
+COL title VAL  "Park Tool CT-6.3 Folding Chain Tool/Peening Anvil - Tool"@en	COL title VAL  "Park Tool TWS-2 Folding Torx Wrenches"@en	0
+COL title VAL  "Park Tool CT-3.3"@en	COL title VAL  "PARKTOOL DERIVE CHAINE CT-3.3"@vi	1
