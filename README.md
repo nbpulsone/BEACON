@@ -3,7 +3,8 @@ Code repository for the paper _Budget-Aware Entity Matching Across Domains_.
 
 Entity Matching (EM) is the task of determining whether two data records refer to the same real-world object. Recent approaches employing Pretrained Language Models (PLMs) and Large Language Models (LLMs) often require large amounts of labeled data, and do not consider important distinctions between EM in different domains (e.g. product categories). We present BEACON, a distribution-aware framework for low-resource EM across domains, leveraging a dynamic training loop and a novel resampling mechanism.
 
-This work builds on the [DITTO](https://github.com/megagonlabs/ditto/tree/master) pipeline for fine-tuning a PLM for EM. 
+This work builds on the [DITTO](https://github.com/megagonlabs/ditto/tree/master) pipeline for fine-tuning a PLM for EM.
+ 
 <img width="1779" height="1080" alt="beacon_pipeline" src="https://github.com/user-attachments/assets/1b7be7e2-3c7d-4df3-b13a-3c198b67b4f7" />
 
 ## Requirements
