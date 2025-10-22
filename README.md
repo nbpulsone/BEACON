@@ -20,7 +20,7 @@ To train and evaluate a model for EM across domains, use the following command:
 `./train_eval_em_across_domains <model> <dataset>`
 
 For example: 
-`./train_eval_em_across_domains spec wdc_category_50cc_half_seen`
+`./train_eval_em_across_domains.sh spec wdc_category_50cc_half_seen`
 
 The available models to run are: 
 1. spec (domain-specific model)
