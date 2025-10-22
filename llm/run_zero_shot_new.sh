@@ -14,22 +14,8 @@ module load cuda/12.8.0/4fdo42o
 module load python/3.9.18/5ydd7yq
 source /home/nbpulsone/ditto/llm/llmenv/bin/activate
 
-#debug
-python - <<'PY'
-import torch, os
-print("Torch:", torch.__version__, "| CUDA:", torch.version.cuda,
-      "| GPU?", torch.cuda.is_available(),
-      "| Name:", torch.cuda.get_device_name(0) if torch.cuda.is_available() else None)
-try:
-    import bitsandbytes as bnb
-    from bitsandbytes.cuda_setup import main as bnbm
-    print("bitsandbytes check:\n", bnbm.main_check())
-except Exception as e:
-    print("bitsandbytes import error:", e)
-PY
-
 models_to_run=(
-    #"meta-llama/Meta-Llama-3.1-8B-Instruct"
+    "meta-llama/Meta-Llama-3.1-8B-Instruct"
     "NECOUDBFM/Jellyfish-8B"
 )
 
