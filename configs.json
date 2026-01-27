@@ -218,5 +218,141 @@
     "trainset": "updated_data/wdc_toys_and_games_train.txt",
     "validset": "updated_data/wdc_toys_and_games_val.txt",
     "testset": "updated_data/wdc_toys_and_games_test.txt"
+  },
+  {
+    "name": "wdc4_category_medium",
+    "task_type": "classification",
+    "vocab": [ "0", "1" ],
+    "domains": ["wdc_cameras_medium", "wdc_computers_medium", "wdc_watches_medium", "wdc_shoes_medium"],
+    "data_path": "data/wdc4_medium",
+    "updated_data_path": "updated_data",
+    "train_embed_path": "updated_data/train_embed/",
+    "val_embed_path": "updated_data/val_embed/",
+    "test_embed_path": "updated_data/test_embed/",
+    "result_file": "wdc4_results.txt"
+  },
+  {
+    "name": "wdc_cameras_medium",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "updated_data/wdc_cameras_medium_train.txt",
+    "validset": "updated_data/wdc_cameras_medium_val.txt",
+    "testset": "updated_data/wdc_cameras_medium_test.txt"
+  },
+  {
+    "name": "wdc_computers_medium",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "updated_data/wdc_computers_medium_train.txt",
+    "validset": "updated_data/wdc_computers_medium_val.txt",
+    "testset": "updated_data/wdc_computers_medium_test.txt"
+  },
+  {
+    "name": "wdc_shoes_medium",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+     "trainset": "updated_data/wdc_shoes_medium_train.txt",
+    "validset": "updated_data/wdc_shoes_medium_val.txt",
+    "testset": "updated_data/wdc_shoes_medium_test.txt"
+  },
+  {
+    "name": "wdc_watches_medium",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "updated_data/wdc_watches_medium_train.txt",
+    "validset": "updated_data/wdc_watches_medium_val.txt",
+    "testset": "updated_data/wdc_watches_medium_test.txt"
+  },
+  {
+    "name": "abtbuy_brand",
+    "task_type": "classification",
+    "vocab": [ "0", "1" ],
+    "domains": ["apple", "canon", "garmin", "linksys", "nikon", "panasonic", "samsung", "sanus", "sony", "toshiba"],
+    "data_path": "data/abtbuy_brand/",
+    "updated_data_path": "updated_data",
+    "train_embed_path": "updated_data/train_embed/",
+    "val_embed_path": "updated_data/val_embed/",
+    "test_embed_path": "updated_data/test_embed/",
+    "result_file": "results.txt"
+  },
+  {
+    "name": "apple",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "updated_data/apple_train.txt",
+    "validset": "updated_data/apple_val.txt",
+    "testset": "updated_data/apple_test.txt"
+  },
+  {
+    "name": "canon",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "updated_data/canon_train.txt",
+    "validset": "updated_data/canon_val.txt",
+    "testset": "updated_data/canon_test.txt"
+  },
+  {
+    "name": "garmin",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "updated_data/garmin_train.txt",
+    "validset": "updated_data/garmin_val.txt",
+    "testset": "updated_data/garmin_test.txt"
+  },
+  {
+    "name": "linksys",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "updated_data/linksys_train.txt",
+    "validset": "updated_data/linksys_val.txt",
+    "testset": "updated_data/linksys_test.txt"
+  },
+  {
+    "name": "nikon",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "updated_data/nikon_train.txt",
+    "validset": "updated_data/nikon_val.txt",
+    "testset": "updated_data/nikon_test.txt"
+  },
+  {
+    "name": "panasonic",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "updated_data/panasonic_train.txt",
+    "validset": "updated_data/panasonic_val.txt",
+    "testset": "updated_data/panasonic_test.txt"
+  },
+  {
+    "name": "samsung",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "updated_data/samsung_train.txt",
+    "validset": "updated_data/samsung_val.txt",
+    "testset": "updated_data/samsung_test.txt"
+  },
+  {
+    "name": "sanus",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "updated_data/sanus_train.txt",
+    "validset": "updated_data/sanus_val.txt",
+    "testset": "updated_data/sanus_test.txt"
+  },
+  {
+    "name": "sony",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "updated_data/sony_train.txt",
+    "validset": "updated_data/sony_val.txt",
+    "testset": "updated_data/sony_test.txt"
+  },
+  {
+    "name": "toshiba",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "updated_data/toshiba_train.txt",
+    "validset": "updated_data/toshiba_val.txt",
+    "testset": "updated_data/toshiba_test.txt"
   }
 ]
