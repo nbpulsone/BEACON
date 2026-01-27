@@ -1,0 +1,20 @@
+We run all experiments with the "roberta-base" PLM and "summarize" optimization from DITTO.
+
+Here are the hyperparameter configurations for each of our evaluated datasets:
+
+~~~ WDC Multidimensional Entity Matching Benchmark (all corner-cases, % seen) ~~~
+learning rate = 3e-5
+epochs = 5
+max_len = 64
+
+~~~ WDC Product Data Corpus (wdc4_medium) ~~~
+learning rate = 3e-5
+epochs = 5
+max_len = 64
+
+~~~ ABT-BUY Brand ~~~
+learning rate = 2e-5
+epochs = 10
+max_len = 256
+
+All other hyperparameters are the same as those contained in "train_eval_ensemble_em_across_domains.sh"
