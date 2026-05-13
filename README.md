@@ -32,3 +32,21 @@ The available models to run are:
 Other models ensembles can be generated using hypens (e.g. spec-gen-nn)
 
 See [configs.json](configs.json) for the available datasets and domain configurations to run.
+
+# Distribution Alignment Experiments
+To run label-aware variants of TVDF, use one of the following as a model name: `tv_lai` (ID), `tv_lao` (OOD), `tv_laio` (ID + OOD)
+
+For example:
+`./train_eval_em_across_domains.sh tv_lai wdc_category_50cc_half_seen`
+
+# Using Alternative Domain Representations
+To run TVDF with alternative domain representations, use one of the following as a model name: `tv_med` (TVMed), `tv_cs2` (TVDF_VAR), `tv_pca` (TVCoverage)
+
+For example:
+`./train_eval_em_across_domains.sh tv_med wdc_category_50cc_half_seen`
+
+# Running the Domain-Agnostic Pipeline
+To run domain agnostic experiments, simple run the following command:
+`./run_domain_agnostic.sh`
+
+You can comment or uncomment dataset and methods within that file to customize your experiments.
