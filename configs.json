@@ -354,5 +354,69 @@
     "trainset": "updated_data/toshiba_train.txt",
     "validset": "updated_data/toshiba_val.txt",
     "testset": "updated_data/toshiba_test.txt"
+  },
+  {
+    "name": "wdc_all_small",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "data/wdc/all/train.txt.small",
+    "validset": "data/wdc/all/valid.txt.small",
+    "testset": "data/wdc/all/test.txt"
+  },
+  {
+    "name": "Structured/Amazon-Google",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "data/er_magellan/Structured/Amazon-Google/train.txt",
+    "validset": "data/er_magellan/Structured/Amazon-Google/valid.txt",
+    "testset": "data/er_magellan/Structured/Amazon-Google/test.txt"
+  },
+  {
+    "name": "Structured/Beer",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "data/er_magellan/Structured/Beer/train.txt",
+    "validset": "data/er_magellan/Structured/Beer/valid.txt",
+    "testset": "data/er_magellan/Structured/Beer/test.txt"
+  },
+  {
+    "name": "Structured/DBLP-ACM",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "data/er_magellan/Structured/DBLP-ACM/train.txt",
+    "validset": "data/er_magellan/Structured/DBLP-ACM/valid.txt",
+    "testset": "data/er_magellan/Structured/DBLP-ACM/test.txt"
+  },
+  {
+    "name": "Structured/DBLP-GoogleScholar",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "data/er_magellan/Structured/DBLP-GoogleScholar/train.txt",
+    "validset": "data/er_magellan/Structured/DBLP-GoogleScholar/valid.txt",
+    "testset": "data/er_magellan/Structured/DBLP-GoogleScholar/test.txt"
+  },
+  {
+    "name": "Structured/Fodors-Zagats",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "data/er_magellan/Structured/Fodors-Zagats/train.txt",
+    "validset": "data/er_magellan/Structured/Fodors-Zagats/valid.txt",
+    "testset": "data/er_magellan/Structured/Fodors-Zagats/test.txt"
+  },
+  {
+    "name": "Structured/iTunes-Amazon",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "data/er_magellan/Structured/iTunes-Amazon/train.txt",
+    "validset": "data/er_magellan/Structured/iTunes-Amazon/valid.txt",
+    "testset": "data/er_magellan/Structured/iTunes-Amazon/test.txt"
+  },
+  {
+    "name": "Structured/Walmart-Amazon",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "data/er_magellan/Structured/Walmart-Amazon/train.txt",
+    "validset": "data/er_magellan/Structured/Walmart-Amazon/valid.txt",
+    "testset": "data/er_magellan/Structured/Walmart-Amazon/test.txt"
   }
 ]

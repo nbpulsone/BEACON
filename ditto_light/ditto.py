@@ -5,7 +5,7 @@ import torch.nn.functional as F
 import torch.optim as optim
 import numpy as np
 import sklearn.metrics as metrics
-from .process_budget import get_nn_samples, get_distribution_aware_samples, get_k_center_greedy_samples
+from .process_budget import get_nn_samples, get_distribution_aware_samples, get_k_center_greedy_samples, get_label_aware_samples
 from .dataset import DittoDataset, EmbedDittoDataset
 from .generate_embeddings import get_singletons
 from torch.utils import data
@@ -21,7 +21,7 @@ lm_mp = {'roberta': 'roberta-base',
 class DittoModel(nn.Module):
     """A baseline model for EM."""
 
-    def __init__(self, device='cuda', lm='roberta', alpha_aug=0.8, use_pairwise_encoder=True, use_singleton_encoder=False, shared_model=None):
+    def __init__(self, device='cuda', lm='roberta', alpha_aug=0.8, use_pairwise_encoder=True, use_singleton_encoder=False, shared_model=None, finetuning=True):
         super().__init__()
         print(f"SINGLETON: {use_singleton_encoder}, PAIRWISE: {use_pairwise_encoder}")
         # init the PLM(s): pairwise and maybe singleton
@@ -50,6 +50,14 @@ class DittoModel(nn.Module):
         if use_pairwise_encoder:
             hidden_size = self.bert_pairwise.config.hidden_size
             self.fc = torch.nn.Linear(hidden_size, 2)
+
+            # NEW: freeze/thaw pairwise encoder according to `finetuning`
+            for p in self.bert_pairwise.parameters():
+                p.requires_grad = finetuning
+                if not finetuning:
+                    print(f"\nNOT FINETUNING: FROZE PLM LAYERS\n")
+            for p in self.fc.parameters():
+                p.requires_grad = True  # ensure head is trainable even when PLM
 
 
     def forward(self, x1, x2=None):
@@ -120,7 +128,7 @@ class DittoModel(nn.Module):
             cls_embeddings = outputs.last_hidden_state[:, 0, :]  # (batch_size, 768)
         return cls_embeddings
     
-    # potential optimization: freeze after 2 epochs of raw training
+    #TODO: test to see if this will help at all if freeze AFTER 2 epochs of raw training
     def toggle_singleton_encoder(self, unfreeze=True):
         for param in self.bert_singleton.parameters():
             param.requires_grad = unfreeze
@@ -350,14 +358,28 @@ def regenerate_train_dataset(model, domain_data, domains, tokenizer, hp):
         # nearest neighbors resample
         new_train_data = get_nn_samples(domain_data, domains, hp.budget, train_embed_data, EMBED_DIM=768, single_domain=hp.task)
     elif (hp.method).startswith('kcg'):
-        new_train_data = get_k_center_greedy_samples(domain_data, domains, hp.budget, train_embed_data, single_domain=hp.task)
+        use_ot = (hp.method).endswith("_ot")
+        metric = (hp.method).split('_')[-1]
+        label_aware = metric.startswith("la")
+        if label_aware:
+            in_domain_labels = 'i' in metric
+            out_domain_labels = 'o' in metric
+            new_train_data = get_label_aware_samples(domain_data, domains, hp.budget, train_embed_data, method=hp.method, single_domain=hp.task, in_domain_labels=in_domain_labels, out_domain_labels=out_domain_labels)
+        else:
+            new_train_data = get_k_center_greedy_samples(domain_data, domains, hp.budget, train_embed_data, single_domain=hp.task, use_ot=use_ot)
     elif (hp.method).startswith('tv') or (hp.method).startswith('tt') or (hp.method).startswith('tm'):
         # parse metric, distribution-aware resample
         method_parts = (hp.method).split("_")
         metric = method_parts[-1]
         if len(method_parts) == 1 or metric == "tv" or metric == "tt" or metric == "tm":
             metric = "cs"
-        new_train_data = get_distribution_aware_samples(domain_data, domains, hp.budget, train_embed_data, target_embed_data, single_domain=hp.task, metric=metric)
+        if metric.startswith('la'):
+            in_domain_labels = 'i' in metric
+            out_domain_labels = 'o' in metric
+            print(f"\n\nLABEL AWARE REGENERATION: train_embed_data length is {len(train_embed_data)}, target is {len(target_embed_data)}\n\n")
+            new_train_data = get_label_aware_samples(domain_data, domains, hp.budget, train_embed_data, target_embed_data, method=hp.method, single_domain=hp.task, in_domain_labels=in_domain_labels, out_domain_labels=out_domain_labels)
+        else:
+            new_train_data = get_distribution_aware_samples(domain_data, domains, hp.budget, train_embed_data, target_embed_data, single_domain=hp.task, metric=metric)
     else:
         new_train_data = domain_data
     
@@ -412,12 +434,14 @@ def train(trainset, validset, testset, run_tag, hp, domain_data, tokenizer=None,
 
     # initialize model and optimizer
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
+
     model = DittoModel(device=device,
                        lm=hp.lm,
                        alpha_aug=hp.alpha_aug,
                        use_pairwise_encoder=not hp.late_fusion_only,
                        use_singleton_encoder=(hp.dynamic_sampling or hp.late_fusion_only),
-                       shared_model=shared_model)
+                       shared_model=shared_model,
+                       finetuning=hp.finetuning)
     model = model.cuda()
     optimizer = AdamW(model.parameters(), lr=hp.lr)
 
@@ -429,12 +453,40 @@ def train(trainset, validset, testset, run_tag, hp, domain_data, tokenizer=None,
                                                 num_warmup_steps=0,
                                                 num_training_steps=num_steps)
 
+    # save checkpoint and return if not finetuning
+    """
+    if not hp.finetuning:
+        print(f"\nNOT FINETUNING PLM FOR {hp.task}\n")
+
+        # create the directory if not exist
+        directory = os.path.join(hp.logdir, hp.task)
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+        save_method_name = hp.method if ensemble_method is None else ensemble_method
+        ckpt_path = os.path.join(hp.logdir, hp.task, f'{save_method_name}_model.pt')
+        print(f"CP PATH: {ckpt_path}")
+
+        # save model and achitecture type
+        ckpt = {'model': model.state_dict(),
+                'optimizer': optimizer.state_dict(),
+                'scheduler': scheduler.state_dict(),
+                'epoch': 0,
+                'arch': 'pairwise-encoder',
+                'budget': 0,
+                'val_f1': 0
+        }
+        torch.save(ckpt, ckpt_path)
+        print(f"\n...MODEL SAVED!!!!!\n")
+        return 0.0, 0.0
+    """
+
     # logging with tensorboardX
     writer = SummaryWriter(log_dir=hp.logdir)
 
     # start with current best val f1 being the best seen so far in the ensemble
     best_dev_f1 = init_dev_f1
     best_test_f1 = init_test_f1
+    
     for epoch in range(1, hp.n_epochs+1):
         # train
         model.train()
@@ -488,14 +540,25 @@ def train(trainset, validset, testset, run_tag, hp, domain_data, tokenizer=None,
                         print("\nSMALLER BUDGET MODEL WAS BETTER!!!\n")
                 else:
                     # save model anc architecture type
-                    ckpt = {'model': model.state_dict(),
-                            'optimizer': optimizer.state_dict(),
-                            'scheduler': scheduler.state_dict(),
-                            'epoch': epoch,
-                            'arch': arch,
-                            'budget': hp.budget,
-                            'val_f1': best_dev_f1
-                    }
+                    if hp.global_budget:
+                        ckpt = {'model': model.state_dict(),
+                                'optimizer': optimizer.state_dict(),
+                                'scheduler': scheduler.state_dict(),
+                                'epoch': epoch,
+                                'arch': arch,
+                                'budget': hp.budget,
+                                'global_budget': hp.global_budget,
+                                'val_f1': best_dev_f1
+                        }
+                    else:
+                        ckpt = {'model': model.state_dict(),
+                                'optimizer': optimizer.state_dict(),
+                                'scheduler': scheduler.state_dict(),
+                                'epoch': epoch,
+                                'arch': arch,
+                                'budget': hp.budget,
+                                'val_f1': best_dev_f1
+                        }
                     torch.save(ckpt, ckpt_path)
                     print(f"\nMODEL SAVED!!!!!\n")
 

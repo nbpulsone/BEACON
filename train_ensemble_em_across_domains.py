@@ -30,6 +30,7 @@ if __name__=="__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--task", type=str, default="wdc_category")
     parser.add_argument("--budget", type=int, default=1000)
+    parser.add_argument("--global_budget", dest="global_budget", action="store_true")
     parser.add_argument("--method", type=str, default="nn-tv-aug")
     parser.add_argument("--run_id", type=int, default=0)
     parser.add_argument("--job_id", type=int, default=None)
@@ -89,10 +90,9 @@ if __name__=="__main__":
     tokenizer = get_tokenizer(hp.lm)
 
     # do this just to get domain names
-    # potential optimization: pre-generate embeddings around here
     _, domains = process_budget(general_task, None, budget, tokenizer, output_dir=data_dir)
     
-    # use dynamics sampling only if its initially set or using 'NN,' 'TV,' or 'KCG' methods
+    # use dynamics sampling only if its initially set or using 'NN,' 'TV,' or 'TT' methods
     use_dynamic_sampling = hp.dynamic_sampling
 
     # save default method for model save/ naming purposes
@@ -141,7 +141,6 @@ if __name__=="__main__":
             # summarize the sequences up to the max sequence length
             print(f"Summarizing the data...")
             if hp.summarize:
-                # TODO: test summarization as a way to boost raw performance
                 summarizer = Summarizer(config, lm=hp.lm, tokenizer=tokenizer)
                 trainset = summarizer.transform_file(config['trainset'], max_len=hp.max_len, overwrite=True)
                 validset = summarizer.transform_file(config['validset'], max_len=hp.max_len)
